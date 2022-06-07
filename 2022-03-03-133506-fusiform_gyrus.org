@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20220303T133505.883525
+:END:
+#+title: fusiform gyrus
+ A ventral area in the occipital lobe.
+ Contains the FFA (facial fusiform area)
+
+ [[id:20220303T134657.008940][::brain structure]]

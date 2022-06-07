@@ -1,0 +1,4623 @@
+* Exported  
+:PROPERTIES:
+:ID:       20210627T195313.611186
+:END:
+*** 10:30 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1592120301251
+   :END:
+***** Front
+    what is the emacs key combination for moving a subtree up/down?
+***** Back
+    g-k/j
+*** 10:31 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1592120301887
+   :END:
+***** Front
+   what is the emacs key combination to indent/outdent a subtree? 
+***** Back
+    g-h/l
+*** 10:34 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1592120302264
+   :END:
+***** Front
+   what is the emacs command to push a subtree to anki? 
+***** Back
+    <f7>
+    
+*** 10:48 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286558676
+   :END:
+***** Front
+    what is the emacs key combination for aligning tags?
+***** Back
+    SPC u (prefix), C-c C-c
+*** 10:50 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286561107
+   :END:
+***** Front
+    what is the emacs key combination for adding/changing tags?
+***** Back
+    C-c C-c
+*** 18:40 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286563560
+   :END:
+***** Front
+    What frequency range is ego-disintegration correlated with?
+***** Back
+    Alpha rhythm (9-11Hz)
+*** 18:42 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286566035
+   :END:
+***** Front
+    which cells were shown by Carhart Harris to be most affected by Psilocybin?
+***** Back
+    Deep pyramidal cells  (level 5)
+*** 18:45 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286568498
+   :END:
+***** Front
+    what receptors are found in greatest concentration in the deep pyramidal
+    cells?
+***** Back
+    Serotonin 2A receptors
+*** 18:47 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286570974
+   :END:
+***** Front
+  Connectivity between different brain areas is said to exist based on what
+  measure?
+***** Back
+    correlation between oscillations of readings from the two areas over time.
+*** 21:48 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286573473
+   :END:
+***** Front
+  What 3 kinds of links should be added to ecery zettel?
+***** Back
+    1. more general
+    2. more specific
+    3. related/parallel
+*** 21:47 :drill:
+   :PROPERTIES:
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_DECK: TheDeck
+   :ANKI_NOTE_ID: 1593286575914
+   :END:
+***** Front
+    what is the key for wordnut search in emcas?
+***** Back
+    f-12
+*** 11:26 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005747171
+:END:
+***** Text
+ERPs are due to {{c1::post}} synaptic potentials - they show the {{c2::inputs}}, /not/ the {{c3::outputs}}, to a neuron
+*** 11:28 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005914826
+:END:
+***** Text
+ERPs mostly come from {{c1::pyramidal::cell family}} cells
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*mostly come from pyramidal cells]]
+*** 11:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005915109
+:END:
+***** Text
+    pyramidal cells are mostly aligned {{c1::perpendicular}} to the surface of the cortex, note that the cortex is really folded, so they're *not* perpendicular to the {{c3::scalp}}
+
+***** Extra
+*** 11:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005651972
+:END:
+***** Front
+What's the sequence of events for voltage being created by neuronal activity?
+
+
+***** Back
+  1. excitatory NT released into the synaptic gap at the top of dendrite
+  2. inflow of positive ions into the dendrites - creating a negative charge around the dendrites
+  3. for reasons of electrical equilibrium - this causes net positive charge around the cell body.
+  4. this causes a dipole near the cell - in the direction (- to +) from the scalp down towards the white matter.
+
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*how a voltage is created around cells:]]
+
+*** 11:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005652329
+:END:
+***** Front
+    what is apical?
+***** Back
+    "top" as in the top part of the neuron
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*how a voltage is created around cells:]]
+*** 13:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005915424
+:END:
+***** Text
+    A {{c1::Difference wave}} is the common name for {{c2::the waveform of the subtraction between the repsonses to two conditions (which is often what we want to look at)}}
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*so we can measure what happens between the stimulus and the response.]]
+*** 13:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005915733
+:END:
+***** Text
+    The main advantage of EEG over behavioral studies and even fMRI is due to {{c1::its real-time response latency/high temporal resolution}} - it allows us to look at what happens in the brain {{c3::between the stimulus and the response}}.
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*so we can measure what happens between the stimulus and the response.]]
+*** 13:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005916014
+:END:
+***** Text
+   To asess {{c2::the time of the onset of a specific function}} we can use a difference wave of the {{c1::condion - no_condition responses}}
+
+***** Extra
+    - source: [[id:373c8110-fde8-44f7-9c5f-b9f87cdf8e07]]
+*** 13:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005916421
+:END:
+***** Text
+    For a difference wave of two conditions, we can say that {{c1::the time when the difference waveform crosses 0}} is the time when {{c2::the brain started differentiating between the two conditions}}.
+***** Extra
+    - source: [[id:409344c2-c470-4e3f-949f-ddd8911a761e]]
+*** 13:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005916702
+:END:
+***** Text
+   {{c1::dimming:intensity}} the stimuli -> {{c2::delay:timing}} all the following chain of responses in the brain
+
+***** Extra
+    - source: [[id:298e77e2-eebe-4852-9996-086adba70e1e]]
+*** 13:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005916986
+:END:
+***** Text
+ {{c1::LRP}} = {{c2::lateral readiness potential}}
+
+***** Extra
+    - source: [[id:be375c46-e0b0-4403-8e34-115b82998e86]]
+*** 13:44 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005917296
+:END:
+***** Text
+    in {{c3::N2PC}} experiments - there's a greater {{c1::negativity}} in the hemisphere that's {{c2::contralteral to}} the location of the target
+***** Extra
+    - source: [[id:65b07760-62e1-45e5-b854-e2203c5cb0ac]]
+*** 19:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005917579
+:END:
+***** Text
+    In Fourier analysis, we can represent any waveform as {{c1::an (infinite) sum of sinusoids}}
+***** Extra
+    - source: [[id:e0b09bd2-a959-45d7-b55b-9260dc38866d]]
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005655203
+:END:
+***** Front
+	 how does signal averaging (EEG) helps us to see the response relevant to our stimulus?
+
+
+***** Back
+	 only activity that is consistent between all epics will show up in the resulting average - while activity that's unrelated to the stimulus we want to test will be averaged  out.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005655486
+:END:
+***** Front
+	 what are the two ways to put an ERP signal in a time reference system?
+
+
+***** Back
+	 stimulus-locked average (time_0 is stimulus onset) and response-locked average
+at is are the use  cases of using stimulus-locked vs response-locked averages in ERP?  .
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005655763
+:END:
+***** Front
+	 what is a "grand average" (EEG) and what is it useful for?
+
+
+***** Back
+	 it's an average of all the ERP responses of all subjects in an experiment. It's used to get a general idea of the direction/type of respons across the entire population
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005656046
+:END:
+***** Front
+	 what is the N170 response usually associated with?
+
+
+***** Back
+	 visual reponse to a stimulut that we have an expertise in recognizing - such as faces.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005656332
+:END:
+***** Front
+	 give a reason how to make sure that a stronger  reponse to one stimulus over the other is not due to the first stimulus being somehow physically stronger than the second
+
+
+***** Back
+	 find a way to test the same two stimuli in reverse conditions - such as the dog and cat experts in the N170 experiment.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005656676
+:END:
+***** Front
+	 what is the definition of noise (EEG)?
+
+
+***** Back
+	 noise - uncontrolled variation in the signal at the time of interest
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005656984
+:END:
+***** Front
+	 how many trials do we need to get an acceptable signal to noise ration?
+
+
+***** Back
+	 it depends on how noisy the data is - but usually O(10) subjects
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005657394
+:END:
+***** Front
+	 how is the noise level  reduced as a function of the number of subjects?
+
+
+***** Back
+	 it drops linearly with the square root of the number of experiments - so a reduction of 1/2 in noise requires an increase of x4 in the nuimber of trials.
+- also : newNoise = origNoise* 1/(sqrt(trials multiplier)
+- also: STNR grows only like the sqrt of the number of trials, so we need to x4 the trials to get data that's x2 as clean.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005657671
+:END:
+***** Front
+	 what is "oddball stimuli" (EEG)
+
+
+***** Back
+	 showing two types of stimuli, where one (the oddball) is much rarer than the other
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005657983
+:END:
+***** Front
+	 what are some sources of noise in EEG?
+
+
+***** Back
+
+******* other brain activity unrelated to the stimulus e.g. alpha band oscillations while on a task.
+******* biological artifacts - eye movement, skin, muscles of the neck and head.
+*******  induced electrical activity from the equipment - electrical current->magnetic field->electric field (voltage changes)
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005658264
+:END:
+***** Front
+	 give an advantage and a disadvantage of geodesic electrode arrangement (EEG)
+
+
+***** Back
+
+- advantage: guarantees equal distance between each electrode
+- disadvantage: numbering is idiosyncratic, i.e. unique per article, and a
+  reference to the international system must be given.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005658579
+:END:
+***** Front
+	 what is the difference between a peak in an ERP and a "component"?
+
+
+***** Back
+	 a peak is recorded by an electrode and as such  may be (is usually) the product of activity of many areas in the brain. a component is the usual term for the resonse/brain activity in one such region, that is correlated with a specific funcion. so generally #components >> #peaks
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005658860
+:END:
+***** Front
+	 what is an ERP component?
+
+
+***** Back
+	 an ERP *component* is the sum of activity of a cluster of functionally related neurons, measured as the extra-cellular voltage created by their activity.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005659142
+:END:
+***** Front
+	  how are ERPs generated?
+
+
+***** Back
+	 electrical current along neurons -> electrical field outside the neuron's body -> accumulation of these from many neurons in the same functional cluster -> electric dipole that may be measured outside the scalp (perpendicular to the active cortical surface (=neuronal tissue))
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005659547
+:END:
+***** Front
+	 what is the very first peak in ERP of visual stimuli? how is it called and what does it stem from?
+
+
+***** Back
+	 C1 - it comes from the initial response of the visual cortex. its direction is dependent on the location of the stimulus in relation to the middle of the visual field:
+- above gives a negative response
+- below gives a positive response
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005659826
+:END:
+***** Front
+	 what's unique about the source of auditory ERPs?
+
+
+***** Back
+	 they come from the brainstem, rather than from cortical neurons.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005660111
+:END:
+***** Front
+	 what does MMN stand for (EEG) - and what does it mean?
+
+
+***** Back
+	 MisMatch Negativity response - a stronger negative response to the oddball stimulus than to the prevailing one
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005660390
+:END:
+***** Front
+	 what is the assumed source of the N2PC component?
+
+
+***** Back
+	 in visual stimuli, it comes from engaging in covert attention - an internal process of changing the focus of our attention: using our peripheral vision, and choosing mentally what to focus on.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005660672
+:END:
+***** Front
+	 why are ERP recording (nearly) only possible from pyramidal cells and not from other groups of cells?
+
+
+***** Back
+	 pyramidal cells are parallel, so the dipoles they create are summed up rather than cancel each other out.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005660982
+:END:
+***** Front
+	 the direction of the dipole (positive/negative) is not an indication of the excitatory/inhibitory underlying action - why not?
+
+
+***** Back
+	 because the ERP measures the *equivalent current dipole* - the vector sum of many actions, some excitatory some inhibitory
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005661298
+:END:
+***** Front
+	 why does MEG give better spacial resolution than EEG?
+
+
+***** Back
+	 since it measures the magnetic field, which is unaffected by the skull bones etc. , unlike voltage which is widely distributed across the scalp.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005661640
+:END:
+***** Front
+	 describe the general ideas behind distributed source localization for EEG.
+
+
+***** Back
+	 several ideas:
+          1. consider the equivalent current dipole to be a weighted average of dipoles from different areas.
+          2. use (structural) MRI to tessellate the brain into small surfaces with distinct orientation
+          3. define a matrix of weights, and infer the source magnitudes by multiplying by the (psuedo-) inverse matrix of the weigh matrix.
+          4. assume minimum norm or LORETA (the solution with maximum smoothness of activation magnitudes between neighboring patches) to get the psuedo inverse.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005662112
+:END:
+***** Front
+	 what's the major problem with source localization techniques for EEG?
+
+
+***** Back
+	 there are many assumptions (e.g. min norm/LORETA) that are required to get  a solution, and there is no way to estimate how far from the physical realty of things they may distance us.
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005662482
+:END:
+***** Front
+	 what's the general method for isolating components out of an ERP response?
+
+
+***** Back
+	 creating two conditions such that the only difference between them would be the underlying mechanism we want to study. then take the two measurements and subtract one from the other.
+
+***** Extra
+***** for example: to test the reponse to faces kuefner et al. showed subjects images of faces, and scrambled images of faces - the difference between them is just the response to face vs. not-face - removing all of the shared responses to (most) anything else (the environment, the color of the image etc.)
+*** Question :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1602005662795
+:END:
+***** Front
+	 what's the meaning of the representation of a signal in the frequency domain?
+
+
+******* Back
+	 the X axis is frequency, the Y axis is amplitude. each point in the representation signifies a sine wave of frequency f and amplitude a that is needed for the Fourier decomposition of the original signal.
+
+*** 14:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692804575
+:END:
+**** Front
+   How many fourier-representations are there for a given waveform?
+**** Back
+   Just one! there's a unique solution.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*there's a unique solution!]]
+*** 14:44 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692804915
+:END:
+**** Front
+What's the relation between the existence of a sinusoid with a given frequency and the existence of an oscillation with that frequency in the original signal?
+**** Back
+Non at all - there's no correlation, the face that a given frequency in the Fourier transform doesn't imply an oscillation ion the original signal.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*key observations #1: a given sinusoid in the deconstruction *does not* mean that anything in the original signal/source is actually oscillating at that frequency]]
+*** 14:47 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692805138
+:END:
+**** Text
+ A low pass filter:
+ - lets {{c1::low}} frequency through
+ - cleans out noise stemming from {{c1::surrounding electrical fields etc.}}
+ - usually set to filter out at {{c1::~30Hz::Hz}}
+
+**** Extra
+    - source: [[id:757f6556-f00d-4c4d-964d-48204c5c4d5f]]
+*** 14:51 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692805351
+:END:
+**** Text
+    "Band pass" filters are {{c1::a combination of low pass and high pass filters::which frequencies do they allow?}}
+**** Extra
+    - source: [[id:be78a4bb-0015-496b-be2f-dcd3f9c7c98e]]
+*** 14:53 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692805571
+:END:
+**** Text
+notch filters are used for used for {{c1::blocking out specific frequencies}}.
+
+**** Extra
+    - source: [[id:56637d5f-a263-4665-a3c7-9fac236910d1]]
+*** 14:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692805821
+:END:
+**** Front
+what's the "half-amplitude cutoff"?
+**** Back
+it's the frequency at which attenuation hits 50% = "half-amplitude cutoff" filters are often referred to according to this property.
+
+**** Extra
+    - source: [[id:19e3b3ee-a333-4523-9aad-dda87aeb8abb]]
+*** 14:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692806047
+:END:
+**** Text
+safe values for high pass filters: {{c1::<= 0.1 Hz}}
+safe values for low pass filters: {{c2::=> 20 Hz}}
+unsafe values for high pass filters: {{c4::> 0.5 Hz}}
+unsafe values for low pass filters: {{c5::< 10 Hz}}
+
+**** Extra
+    - source: [[id:1fbe4395-8f04-4e44-9f57-f31165eabe05]]
+*** 15:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692806292
+:END:
+**** Front
+    what's an advantage and a disadvantage of using filters?
+**** Back
+   advantage: by removing frequencies introduced by outside factors we get a cleaner signal
+   disadvantage: we lose resolution in the original (time-domain) representation of the signal, since we're potentioall discarding some actual information.
+**** Extra
+    - source: [[id:2cdc3c21-32a0-4524-b9a1-567efc9a31d4]]
+*** 15:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692806632
+:END:
+**** Text
+    when looking at stimulus-locked averages, responses that do in fact exist may get averaged out when {{c1::they're not in the same phase in relation to the stimulus in all subjects}} to uncover them we can use {{c2::time-frequency analysis}}
+**** Extra
+    - source: [[id:b53cee51-ec1d-4657-b547-8874bac7d080]]
+*** 15:14 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692806882
+:END:
+**** Front
+    what's the main difference in approach between fourier analysis (frequency-domain) and time frequency analysis?
+**** Back
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*when looking at stimulus-locked averages, responses that do in fact exist may get averaged out when theyre not in the same phase in relation to the stimulus in all subjects]]
+*** 15:15 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692807136
+:END:
+**** Front
+    What's the main difference in approach between fourier analysis in the frequency domain and time-frequency analysis?
+**** Back
+    in time-frequency analysis we use wavelets (~500ms) instead of infinite sine waves
+**** Extra
+    - source: [[id:c20d62b8-78c9-41e6-8445-613a49b1c320]]
+*** 15:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692808478
+:END:
+**** Front
+    What's an advantage and a disadvantage of time-frequency analysis?
+**** Back
+    advantages:
+    - since each wavelet is short (~500ms), we get temporal resolution which is completely missing from a fourier analysis
+    - since we move to the frequency domain before averaging, we don't lose responses that occur at slightly different times in different subjects and are averaged out as "noise"
+
+    disadvantage:
+    - we lose temporal resolution, since we're looking at the signal in 500ms chunks.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*in time-frequency analysis we use wavelets (~500ms) instead of infinite sine waves]]
+*** 15:21 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692808730
+:END:
+**** Text
+    in time-frequency 2D graphs, the color represents {{c1::the amplitude of that wavelet at that time point}}.
+**** Extra
+    - source: [[id:062dfec8-ca10-4ead-b8c2-28d66855de67]]
+*** 15:36 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692808975
+:END:
+**** Front
+    how can you tell from a time-frequency analysis if there are actual fluctuations at a given time?
+**** Back
+    a rule of thumb is that narrow bands of power (= small range of frequencies sustained over a long period of time) mean actual oscillations in the the signal.
+**** Extra
+    - source: [[id:dacf972f-7740-4739-9750-d977f26d875e]]
+*** 15:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692809196
+:END:
+**** Text
+    Typical epochs extracted as ERP signals last from {{c1::~200ms}} before stimulus to {{c2::~800ms}}  after it.
+**** Extra
+    - source: [[id:4a84ffac-7def-4140-ae1d-32aef5860ca7]]
+*** 15:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692809447
+:END:
+**** Front
+    what's baseline correction for an ERP epoch?
+**** Back
+    you take the 200ms pre-stimulus data, average it out, and detract that frm the entire epoch, such that the pre-stimulus data is ~0 uV
+**** Extra
+    - source: [[id:c88eba04-a224-4b94-996f-670cfdb1eda9]]
+*** 15:55 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692809729
+:END:
+**** Front
+    what's non-differential ovelap?
+**** Back
+if the two conditions we're comparing are presented in random order, then on average the overlap will be the same for both (since it depends on the stimulus that was presented immediately before) -> the baseline correction will be the same for both conditions -> any difference between the two cannot be explained by the correction, only by an actual difference.
+**** Extra
+    - source: [[id:ffe05427-3af6-4086-9ed1-43744c64b6e2]]
+*** 15:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692810010
+:END:
+**** Front
+    how can we avoid overlap between responses in ERP experiments?
+**** Back
+    as a rule of thumb, if the timing of the stimuli is fixed, and the condition order is well randomized - it's usually ok.
+**** Extra
+    - source: [[id:503080fb-1712-4b8b-ba0a-d05edfdc7697]]
+*** 16:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692810509
+:END:
+**** Front
+    why is overalp a problem?
+**** Back
+    overlap is a problem because it makes the pre-stimulus part of the ERP epoch non-constant, thus messing up the baseline correction - making the entire signal appear lower/higher than other signals that have the same neuronal activity, but flatter pre-stimulus signal.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*as a rule of thumb, if the timing of the stimuli is fixed, and the condition order is well randomized - it's usually ok.]]
+*** 16:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692810727
+:END:
+**** Text
+    the number of participants in an ERP experiment should be {{c1::~15-20::amount}} for within group comparison
+**** Extra
+    - source: [[id:8f28a305-8c2a-4a25-af67-7f975365d902]]
+*** 16:14 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692810946
+:END:
+**** Text
+    sample rate for digitizing EEG signal should be at least {{c1::twice}} the highest frequency present in the data
+**** Extra
+    - source: [[id:362fcfc8-fad3-45c2-b858-7e0a19034be5]]
+*** 16:15 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692811167
+:END:
+**** Text
+    sample rate should be {{c1::250Hz-1000Hz::(=samples/second)}} for cognitive and affective EEG studies
+**** Extra
+    - source: [[id:7fa00a66-743f-4eb9-ac5b-45d88e1029af]]
+*** 16:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692811384
+:END:
+**** Text
+   sample rate should be {{c1::~10K Hz::Hz}} for sensory studies
+**** Extra
+    - source: [[id:84f1ab2d-e0af-41d8-9350-45d901ce5a35]]
+*** 14:18 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693110948
+:END:
+**** Text
+    it takes about {{c1::40}} ms for information to arrive at the cortex for processing
+**** Extra
+*** 14:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692812164
+:END:
+**** Text
+    in EEG, lateral eye movements create lateral effects: more {{c1::negative}} voltage {{c2::contralateral}} to the direction of movement.
+**** Extra
+    - source: [[id:45def885-44f5-45e3-b699-57c3ba7c0183]]
+*** 15:03 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692812479
+:END:
+**** Front
+    in ERP experiments, the data for conditions that have fewer trials is usually noisier, why?
+**** Back
+    because there are less trials to average, it's more likely for noise to remain in the final signal (rather than being averaged out)
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-09-13-virtual_erp_bootcamp_course_notes.org::*unjustified time window and/or electrode sites - without repeated experiments to rule out that the effect is a false positive.]]
+*** 15:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692812727
+:END:
+**** Front
+    what is the N400 component related to?
+**** Back
+    the surprise/effort to integrate stimulus that's incongruent to its surrounding, e.g. "I usually take my coffee with cream and *dog* "
+**** Extra
+    - source: [[id:6b78593a-a7e2-44d1-a569-4ffc368e329b]]
+*** 15:23 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692813041
+:END:
+**** Front
+    what is the N170 component associalted with?
+**** Back
+    recognition of objects/stimuli that we have an expertise with
+**** Extra
+    - source: [[id:69b0ad34-ee8e-4775-9704-69c303c7da32]]
+*** 18:10 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692813291
+:END:
+**** Front
+    what's the usual location used for placing the reference (R) electrode(s)
+**** Back
+    behind the lef and right mastoid arteries (behins the ears)
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/literature-notes/ERPDecodingPresentation.org::*they use a "cluster mass test" to test for statistical significance of the decoding accuracy]]
+*** 18:13 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693111339
+:END:
+***** Front
+    what's EOG (EEG)?
+***** Back
+    Electro-Oculogarm - the effect that eye movements and blinks have on the recorded EEG signal
+***** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/literature-notes/ERPDecodingPresentation.org::*they use a "cluster mass test" to test for statistical significance of the decoding accuracy]]
+*** 18:14 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692813569
+:END:
+**** Front
+    which electrodes are used to measure the vertical EOG effect?
+**** Back
+    Fp1 (left) and Fp2 (right)
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/literature-notes/ERPDecodingPresentation.org::*they use a "cluster mass test" to test for statistical significance of the decoding accuracy]]
+*** 15:58 :drill: 
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_DECK: TheDeck
+    :ANKI_NOTE_ID: 1603692813789
+    :END:
+**** Text
+     The first 4 layer surrounding the brains are (in order):
+      ***** {{c3::CSF}}
+      ***** {{c4::archanoid}}
+      ***** {{c5::dura}}
+      
+**** Extra
+      - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org]]
+
+*** 16:11 :drill: 
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_DECK: TheDeck
+    :ANKI_NOTE_ID: 1603692814009
+    :END:
+**** Front
+      *** the cerebrum is divided into what regions/lobes, which are responsible for what functions?
+**** Back
+      ***** frontal lobe - executive functions, problem solving
+      ***** parietal lobe - integration of sensory information
+      ******* motor cortex and sensory cortex - input/output to/from specific body parts/regions
+      ***** temporal lobe - derive semantic meaning from sensory information
+      ******* the hippocampus
+      ***** occipital lobe - vision
+
+**** Extra
+*** 16:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692815384
+:END:
+**** Front
+        what are the three main area of the brain
+**** Back
+    *** the brain is comprised of 3 main structures:
+            1. forebrain
+            2. midbrain
+            3. hindbrain
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::the brain is comprised of 3 main structures:
+******* forebrain
+divides into:
+********* cerebral cortex
+********* white matter
+********* basal ganglia
+********* thalamus
+********* hypothalamus
+********* subthalamus
+********* epithalamus
+******* midbrain
+********* relays sensory information from sense organs to the brain
+******* hindbrain
+consists of:
+********* pons:
+controls respiration and heart rate
+********* medula oblongada:
+controls respiration and heart rate
+********* cerebellum:
+helps control movement and timing][the lymbic system:]]
+*** 16:36 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692816760
+:END:
+**** Text
+the forebrain is comprised of the following regions:
+    - cerebral cortex
+    - white matter
+    - basal ganglia
+    - thalamus
+    - hypothalamus
+    - subthalamus
+    - epithalamus
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::cerebral cortex
+********* white matter
+********* basal ganglia
+********* thalamus
+********* hypothalamus
+********* subthalamus
+********* epithalamus][cerebral cortex]]
+*** 16:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692818043
+:END:
+**** Text
+    the forebrain is comprised of the following areas:
+   - {{c1::cerebral cortex}}
+   - {{c2::white matter}}
+   - {{c3::basal ganglia}}
+   - {{c4::thalamus}}
+   - {{c5::hypothalamus}}
+   - {{c6::subthalamus}}
+   - {{c7::epithalamus}}
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::forebrain
+divides into:
+********* cerebral cortex
+********* white matter
+********* basal ganglia
+********* thalamus
+********* hypothalamus
+********* subthalamus
+********* epithalamus][forebrain]]
+*** 16:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692819352
+:END:
+**** Text
+   the hindbrain consists of:
+   - {{c1::pons - controls respiration and heart rate}}
+   - {{c2::medula oblongada - controls respiration and heart rate}}
+    - {{c4::cerebellum - helps control movement and timing}}
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::hindbrain
+consists of:
+********* pons:
+controls respiration and heart rate
+********* medula oblongada:
+controls respiration and heart rate
+********* cerebellum:
+helps control movement and timing][the lymbic system:]]
+*** 16:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692820605
+:END:
+**** Text
+            the lymbic system includes:
+            - {{c2::hippocampus}}
+            - {{c3::amygdala}}
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::includes:
+********* hippocampus
+ much involved in memory
+********* amygdala][sympathetic and parasympathetic nervous systems:]]
+*** 16:48 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692820854
+:END:
+**** Front
+    what functions are reliant on the lymbic system?
+**** Back
+    the lymbic system is critical to memory formation, pleasure and various emotional processes.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::Structures that are critical to memory formation, pleasure and various emotional processes.]]
+*** 16:50 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692822135
+:END:
+**** Front
+    what's the difference between the sympathetic and parasympathetic systems
+**** Back
+the sympathetic system is dominant in stress response while the parasympathetic does the oposite - relaxes, conserves energy.
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::sympathetic and parasympathetic nervous systems:
+******* the sympathetic system is dominant in stress response: heart rate breathing, pupils dialation, blood flow to muscles
+******* the parasympathetic does the oposite - relaxes, conserves energy.
+******* both systems are active - the end result of effect on the body is by the balance of signals from the two.][3 types of neurons:]]
+*** 16:52 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692822384
+:END:
+**** Front
+        what are the effects of an active sympathetic system?
+**** Back
+     the sympathetic system is dominant in stress response: heart rate, breathing, pupils dialation, increased blood flow to muscles
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::*the parasympathetic does the oposite - relaxes, conserves energy.]]
+*** 16:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692822634
+:END:
+**** Front
+        how many glia cells are there in comparison to neurons?
+**** Back
+        roughly the same amount
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::*roughly the same number as neurons (at least)]]
+*** 17:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692823918
+:END:
+**** Front
+    what are the 6 types of astrocyte cells in the brain?
+**** Back
+            - Radial - found in spinal chord and cerabelum
+            - marginal - close to the surface of the brain
+            - protoplamic - in the gray matter, makes a lot of contact with neurons
+            - velate - in the cerebelum, where there are densely packed neurons
+            - fibrous - in white matter, parallel to axons, provides direction during development
+            - perivascular - unattached to neurons, a lot of contact to blood vessels.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::*have different structures and functions in different brain areas:]]
+*** 17:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693111681
+:END:
+**** Front
+    where are radial astrocytes found?
+**** Back
+                in the spinal chord and cerebellum
+
+**** Extra
+*** 17:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693112119
+:END:
+**** Front
+    where are marginal astrocytes found?
+**** Back
+    close to the surface of the brain
+**** Extra
+*** 17:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693112401
+:END:
+**** Front
+    where are protoplasmic astrocytes found?
+**** Back
+    in the gray matter, they make a lot of contact with neurons
+**** Extra
+*** 17:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693112681
+:END:
+**** Front
+    where are velate astrocytes found?
+**** Back
+    in the cerebelum, where there are densely packed neurons
+**** Extra
+*** 17:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693112969
+:END:
+**** Front
+    where are fibrous astrocytes found?
+**** Back
+    in white matter, parallel to axons, they provide direction during development
+**** Extra
+*** 17:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693113342
+:END:
+**** Front
+    where are pervascular astrocytes found?
+**** Back
+    unattached to neurons, a lot of contact to blood vessels.
+**** Extra
+*** 17:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692824856
+:END:
+**** Front
+    what role do astrocytes play in brain development?
+**** Back
+they for the scaffold on which new neurons grow, giving them their direction
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::*functions:]]
+*** 17:08 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693113654
+:END:
+**** Front
+    how do astrocytes support neurons metabolically?
+**** Back
+    they both transfer glucose directly, and also transfer energy in other forms after metaboling glucose themselves.  They also keep glycogen as a reserve.
+
+**** Extra
+*** 17:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692825260
+:END:
+**** Front
+    what relation do astrocytes have with aging and neurodegenerative diseases?
+**** Back
+    aging astrocystes look like neonatal astrocystes in some ways - they lose many dendrites/axons - and this may affect the neurons that depend on them
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::aging astrocystes look like neonatal astrocystes in some ways - they lose many dendrites/axons.]]
+*** 17:15 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692826571
+:END:
+**** Front
+    what are two indications/anecdotes that suggest that astrocytes may affect cognition?
+**** Back
+        - cognitive abilities (memory) with human astrocystes implanted in (Han et al cell 2013)
+        - Einstein's brain was richer in astrocystes in some areas related to mathematical thinking
+
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::improved cognitive abilities (memory) with human astrocystes implanted in mice.
+*********** Han et al cell 2013
+********* A. Einstein's brain was richer in astrocystes in some areas related to mathematical thinking][improved cognitive abilities (memory) with human astrocystes implanted in mice.]]
+*** 17:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603693113996
+:END:
+**** Front
+        how do astrocytes help protect the brain from trauma?
+**** Back
+        by forming a physical barrier - "scars" (astorgliosis) - between areas, and allowing for contained inflammation.
+**** Extra
+*** 17:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692827045
+:END:
+**** Front
+        what are oligodedrocytes
+**** Back
+        they area nother type of macroglial cells that have extensions that wrap around the axons - that actually provides all of the myelin in the CNS.
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::have extensions that wrap around the axons - that's actually all of the myelin in the CNS]]
+*** 17:22 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692827292
+:END:
+**** Text
+    myelin is the {{c1::white}} matter
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::myelin is the *white matter*]]
+*** 17:22 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1603692827540
+:END:
+**** Text
+    the neuron cell body is the {{c1::gray}} matter
+**** Extra
+    - source: [[file:/mnt/c/Users/Jonathan/Google Drive/.notes/slip-box/2020-10-19-class_notes_intro_to_neurobiology_0455223701.org::the neuron cell body is the *gray matter*]]
+
+*** 15:50 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802840929
+:END:
+**** Front
+    when does the myelin around an axon become thicker?
+**** Back
+    when the axon fires a lot, after learning
+**** Extra
+    - source: [[id:46eddaeb-d478-43e8-b3a1-63776b69a065]]
+*** 15:52 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802841238
+:END:
+**** Front
+    what's the relationship between the myelin thickness and the number of neurons an oligodendrocyte wraps around?
+**** Back
+    the thicker the myelin per axon, the fewer axons the oligodendrocyte protect
+**** Extra
+    - source: [[id:46eddaeb-d478-43e8-b3a1-63776b69a065]]
+*** 15:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802841519
+:END:
+**** Front
+    what's the PNS equivalent to oligodendrocytes?
+**** Back
+    Schwann cells
+**** Extra
+    - source: [[id:6b2eac71-1d45-4c0e-8adf-2c13a206a259]]
+*** 15:55 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802841931
+:END:
+**** Front
+    what's the function of schwann cells?
+**** Back
+   to provide myelin wrappings around axons - in the PNS
+**** Extra
+    - source: [[id:6b2eac71-1d45-4c0e-8adf-2c13a206a259]]
+*** 15:56 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802842301
+:END:
+**** Front
+    where do schwann cells occur?
+**** Back
+   in the PNS
+**** Extra
+    - source: [[id:6b2eac71-1d45-4c0e-8adf-2c13a206a259]]
+*** 15:56 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802842682
+:END:
+**** Front
+    where do satellite cells occur?
+**** Back
+    they occur in the peripheral nervous system
+**** Extra
+    - source: [[id:5452944c-5288-4c22-8130-02e4beef3234]]
+*** 15:57 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802843116
+:END:
+**** Front
+    what's the function of satellite cells?
+**** Back
+    they act like astrocytes in the CNS - provide support for neurons' cell bodies.
+**** Extra
+    - source: [[id:4f20c5be-cb7d-40fe-9939-40cf1f4dc874]]
+*** 15:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802843424
+:END:
+**** Front
+    what's roughky the size of microglial cell?
+**** Back
+    soma (cell body) size < 10 umeters
+**** Extra
+    - source: [[id:fc7b38e7-28cf-41e5-8f66-c2a4c4323da0]]
+*** 15:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802843742
+:END:
+**** Front
+    what's the proportion of microglial cells out  of all glial cells?
+**** Back
+    ~20%
+**** Extra
+    - source: [[id:2ccb59d7-35d0-4f10-8f7d-ff487f1b413f]]
+*** 16:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802844050
+:END:
+**** Front
+    what are the two main functions of microglial cells in the adult brain?
+**** Back
+    1. they protect the brain from pathogens
+    2. they keep the brain's environment "sanitary" - disposing of waste materials and dead neurons
+**** Extra
+    - source: [[id:ad7d7f96-fe8d-4f7e-a459-ee1151950e25]]
+*** 16:03 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802844454
+:END:
+**** Front
+    what three basic states do microglial cells have?
+**** Back
+    1. "surveyin"/resting/normal
+    2. activated for a short duration
+    3. activated for a long duration - after which they die
+**** Extra
+    - source: [[id:ad7d7f96-fe8d-4f7e-a459-ee1151950e25]]
+*** 16:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802844768
+:END:
+**** Front
+    what's the source of the microglial cell population in the brain?
+**** Back
+    the precursor cells for microglia "migarte" into the brain at some point during development, before the BBB is created. they are not part of the original tissue.
+**** Extra
+    - source: [[id:9f2991cf-5617-46c8-a573-4744756d39ba]]
+*** 16:07 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802845054
+:END:
+**** Front
+    what do microglial cells do in their normal "surveying" mode?
+**** Back
+    they are constantly checking up on the state of neurons via different markers on their surfaces in order to identify problems and pathogens.
+**** Extra
+    - source: [[id:9f2991cf-5617-46c8-a573-4744756d39ba]]
+*** 16:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802845560
+:END:
+**** Front
+    how do microglial cells fight pathogens?
+**** Back
+        1. they release harmful materials like ROS (reactive oxygen species)
+        2. they act like phagocytes, swallowing the pathogens
+**** Extra
+    - source: [[id:e177d255-053f-4cc9-87c4-517c3e57e7ce]]
+*** 16:13 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802845864
+:END:
+**** Front
+    what's an important role of microglial cells in development
+**** Back
+    they prune synapses (the brain creates many more synapses during development than are needed in adulthood)
+**** Extra
+    - source: [[id:32ac8b76-7e0b-4895-88c6-6cebf38ebf36]]
+*** 16:15 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802846181
+:END:
+**** Front
+    what are three important roles of microglial cells in normal conditions?
+**** Back
+    * release neurotrophic factor (like growth factors)
+    * clean up dead neurons
+    * clean up "garbage" produced by cells
+
+**** Extra
+    - source: [[id:256d92c4-c0ae-4b38-8cea-2a375fe4799c]]
+*** 16:16 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802846490
+:END:
+**** Front
+    what's the connection between microglial cells and neurodegenerative diseases?
+**** Back
+    with age, microglial cells become less ramified, meaning they don't have as many "arms" as they do in younger adults.
+**** Extra
+    - source: [[id:d522cbed-fef6-4a43-bbc6-7a39f2379135]]
+*** 16:18 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802847079
+:END:
+**** Front
+    what's the function of ependymal cells?
+**** Back
+    they create the cerebrospinal fluid - CSF
+**** Extra
+    - source: [[id:2219be88-dc77-442c-b068-9a69d6cc5c44]]
+*** 16:18 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802847392
+:END:
+**** Front
+    where are ependymal cells found?
+**** Back
+   they line the different ventricles of the brain.
+**** Extra
+    - source: [[id:0fa7cc51-0c5a-42ca-8412-47ca7c27d5a9]]
+*** 16:18 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802847740
+:END:
+**** Front
+    what's the importance of the CFS?
+**** Back
+******* absorbs physical shock
+******* an entry point for substances into the brain
+**** Extra
+    - source: [[id:45210344-0888-4f14-9a67-e78155135292]]
+*** 16:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802848111
+:END:
+**** Front
+    what are the 4 components of the BBB?
+**** Back
+   *  endothelial cells - line the inside of the blood cells
+   *  pericytes - cells that provide support on the outside of blood vessels.
+   *   perivascular astrocytes that interact with blood vessels
+   *  tight junctions - in the endothelial cells, in the archanoid layer, and in the choroid plexus that produces the CSF.
+
+**** Extra
+    - source: [[id:1808607a-99ea-4098-bff3-ecb6f3c93562]]
+*** 16:21 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802848554
+:END:
+**** Front
+    where are the tight junctions that are a part of the BBB found?
+**** Back
+       * in the endothelial cells
+       * in the archanoid layer
+       * in the choroid plexus that produces the CSF.
+**** Extra
+    - source: [[id:bf16b6d2-63fc-4cec-8d1f-55e09771869d]]
+*** 16:24 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802848934
+:END:
+**** Front
+    what are the tree precursor layer in fetal development?
+**** Back
+              1. endoterm
+              2. mesoderm
+              3. ectoderm
+
+**** Extra
+    - source: [[id:7ebf86b9-7485-4be8-a66a-597a7ce02729]]
+*** 16:24 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802849335
+:END:
+**** Front
+    what's the inner most layer in fetal development?
+**** Back
+    endoterm
+**** Extra
+    - source: [[id:70be33da-3a83-443f-b9fe-2edc914a083c]]
+*** 16:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802849956
+:END:
+**** Front
+    what's the middle layer in fetal development?
+**** Back
+    mesoderm
+**** Extra
+    - source: [[id:70be33da-3a83-443f-b9fe-2edc914a083c]]
+*** 16:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802850332
+:END:
+**** Front
+    what's the outer layer in fetal development?
+**** Back
+    ectoderm
+**** Extra
+    - source: [[id:70be33da-3a83-443f-b9fe-2edc914a083c]]
+*** 16:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802850676
+:END:
+**** Front
+    what layer in fetal development does the nervous system develop from?
+**** Back
+    the outer-most layer - the ectoderm
+**** Extra
+    - source: [[id:70be33da-3a83-443f-b9fe-2edc914a083c]]
+*** 16:26 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802851146
+:END:
+**** Front
+    what's neurolation?
+**** Back
+   the process by which the nervous system develops from the ectoderm
+**** Extra
+    - source: [[id:50f618af-f8cc-4a54-8aff-e6d7c0c4ea53]]
+*** 16:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802851615
+:END:
+**** Front
+    the neural tube - where is it located in the embyo?
+**** Back
+    on the dorsal side
+**** Extra
+    - source: [[id:f6820cd2-1630-41a3-9a5c-0ac48aeccd57]]
+*** 16:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802851923
+:END:
+**** Front
+    what does the neural tube develop into?
+**** Back
+    the spinal chord and the brain itself
+**** Extra
+    - source: [[id:5f8cac66-fa60-4074-af93-cbe060207e49]]
+*** 16:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802852240
+:END:
+**** Front
+    what's the early precursor of the brain and spinal chord in the embryo?
+**** Back
+    the neural tube
+**** Extra
+    - source: [[id:5f8cac66-fa60-4074-af93-cbe060207e49]]
+*** 16:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802852674
+:END:
+**** Front
+    what are the somites (embryonic development)
+**** Back
+the somites surround the neural chord, and later develop into the axial skeleton (spine) *and* the attached muscles.
+****  Extra
+    - source: [[id:5f8cac66-fa60-4074-af93-cbe060207e49]]
+*** 16:36 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802853054
+:END:
+**** Front
+    what are the three main vesicles of the brain at the 3-vesicle stage?
+**** Back
+   1. forebrain
+   2. midbrain
+   3. hindbrain
+**** Extra
+    - source: [[id:77afde53-c696-4260-a175-011510cb4f37]]
+*** 16:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802853393
+:END:
+**** Front
+    what does the forebrain differentiate into at the 5-vesicles stage?
+**** Back
+    1. diencephalon
+    2. telencephalon
+**** Extra
+    - source: [[id:2304ddac-f4b8-4308-8af2-28f8ac6edcfe]]
+*** 16:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802853740
+:END:
+**** Front
+    what brain structures does the diencephalon develop into?
+**** Back
+    the thalamus and the hypothalamus  (also the subthalamus, and the epithalamus
+****  Extra
+    - source: [[id:2304ddac-f4b8-4308-8af2-28f8ac6edcfe]]
+*** 16:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802854204
+:END:
+**** Front
+    what brain structures does the telencephalon develop into
+**** Back
+    the cerebral cortex
+**** Extra
+    - source: [[id:2acef672-df53-411f-8a1b-f73eb60e2d79]]
+*** 16:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802854550
+:END:
+**** Front
+    t are the 2 parts of the midbrain?
+**** Back
+    tectum and tegmentum
+**** Extra
+    - source: [[id:ee6a427d-7054-40ab-a3f6-813b8f2e9a5a]]
+*** 16:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802854892
+:END:
+**** Front
+    what are the three parts of the hindbrain?
+**** Back
+      * cerebelum (small brain)
+      * pons - transfers information between cerebelum and medula
+      * medula obolongata - sensory information, autonomous/reflexes
+
+**** Extra
+    - source: [[id:2acef672-df53-411f-8a1b-f73eb60e2d79]]
+*** 16:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802803525
+:END:
+**** Front
+    how many ventricles are in the brain? where are they located? which of them are connected?
+**** Back
+    2 lateral ventricles
+    3rd is below them
+    4th between the cerebelum and the medula oblongata
+
+    the 3rd and 4th are connected via the cerebral aqueduct
+**** Extra
+    - source: [[id:f9615c4c-19cb-45f9-93a7-14e5391e3348]]
+*** 17:09 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802803988
+:END:
+**** Front
+    what did Lisa's 1st experiment test
+**** Back
+    a 2x2 grid of conditions: congruous/incongruous x intact/scrambled
+**** Extra
+    - source: [[id:9e71da9a-4de6-4796-8074-6cbb563e9e7d]]
+*** 17:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802804361
+:END:
+**** Front
+    what effects were found in Lisa's 1st experiment?
+**** Back
+    * saw an N300 for intact/scrambled - basic object identification
+    * saw an N400 for congruent/incongruous - semantic understanding, integration effort of surprising information
+
+**** Extra
+    - source: [[id:0b350a58-2127-4a4b-9752-ceea741e5798]]
+*** 17:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802804673
+:END:
+**** Front
+    was Lisa's experiment done with or without awareness?
+**** Back
+    with awareness
+**** Extra
+    - source: [[id:54104c60-88d9-481a-bb5d-d13cea9082ed]]
+*** 17:13 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802805017
+:END:
+**** Front
+    what was the purpose of Itai's experiment?
+**** Back
+    to look for semantic processing without awareness
+**** Extra
+    - source: [[id:54104c60-88d9-481a-bb5d-d13cea9082ed]]
+*** 17:13 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802805429
+:END:
+**** Front
+    what did itai find in his experiment?
+**** Back
+    he found an N300 effect, but in the opposite direction than lisa: a more negative effect for intact objects.
+    he didn't find any N400 effect - so no UC processing of semantic information
+**** Extra
+    - source: [[id:2a85f78a-26be-429d-82a4-aec85415d719]]
+*** 16:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802806080
+:END:
+**** Front
+        what's included in the PNS?
+**** Back
+        all the nerves that go into the body itself - everything but the brain and spinal chord
+**** Extra
+    - source: [[id:ef635024-e62c-4a2d-b611-71a8d80c7ba4]]
+*** 08:23 :drill:
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_DECK: TheDeck
+    :ANKI_NOTE_ID: 1605802806330
+    :END:
+**** Text
+      sensory input into the spinal chord is more {{c1::dorsal::dorsal/ventral}}
+**** Extra
+      - source: [[id:086002bf-9b0d-4298-a86d-aac946cd73ce]]
+*** 08:24 :drill:
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_DECK: TheDeck
+    :ANKI_NOTE_ID: 1605802806679
+    :END:
+**** Text
+            motor  output from the spinal chord is more {{c1::ventral::dorsal/ventral}}
+**** Extra
+      - source: [[id:086002bf-9b0d-4298-a86d-aac946cd73ce]]
+*** 08:28 :drill:
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_DECK: TheDeck
+    :ANKI_NOTE_ID: 1605802806988
+    :END:
+**** Front
+        what type (function) of nerves are connected to the dorsal part of the spinal chord
+**** Back
+        sensory (input) neurons
+**** Extra
+      - source: [[id:4bf12653-cdd6-4dae-a349-f33d740c2c41]]
+*** 14:34 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802807242
+:END:
+**** Front
+    what's the adverse effect of electrode impedance on EEG recording?
+**** Back
+    it  adds low frequency noise to the recorded signal
+    electrode impedance does not reduce the amplitude of the EEG signal.
+*** 13:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802807554
+:END:
+**** Front
+     how does the number of neurons in the brain change over the course of time?
+**** Back
+    it stays pretty much constant, maybe declines a little
+**** Extra
+    - source: [[id:b45fa92e-87d6-467c-ac1f-0a801b546812]]
+*** 14:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802807957
+:END:
+**** Front
+    what three types of cells develop from brain stem cells?
+**** Back
+                1. neurons
+                2. macroglia
+                3. oligodendrocytes
+
+**** Extra
+    - source: [[id:fc68df05-1fd7-4914-af94-039e210575f9]]
+*** 15:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802808237
+:END:
+**** Front
+    what are the two materials used for tracking neurogenesis in adults?
+**** Back
+    1. BrdU - a thymidine analog
+    2. doublecortin DCX - associated with microtubules
+
+**** Extra
+    - source: [[id:a7d42234-e92a-4913-8aaf-63e45ce50d65]]
+*** 15:31 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802808518
+:END:
+**** Front
+    what is BrdU - what is it used for and how does it work?
+**** Back
+ BrdU  is a thymidine analog.
+ it's used to track neurogenesis - since it incoroporates into the DNA when cells divide.
+
+**** Extra
+    - source: [[id:d81a7485-954d-4df8-89b5-535067fd7351]]
+*** 15:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802808929
+:END:
+**** Front
+    what is DCX - what does it do, and how does it work?
+**** Back
+     DCX is  doublecortin - a protein associated with microtubules.
+     It's used to track neurogenesis, since it's only expressed in immature neurons, for a short while after they move out of the neural progenitor phase.
+
+**** Extra
+    - source: [[id:d81a7485-954d-4df8-89b5-535067fd7351]]
+*** 15:36 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802809179
+:END:
+**** Text
+   enhanced {{c1::neurogenesis}} was seen in an environment which was {{c2::rich with stimuli}} - in mice.
+
+**** Extra
+    - source: [[id:af66e42d-6490-48f9-a2eb-59b42e921aa5]]
+*** 18:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802809455
+:END:
+**** Front
+    what is BDNF?
+**** Back
+    BDNF  = brain derived neurotrophic factor. a type of growth factor secreted by astrocytes that promotes progenitor cell differentiation
+**** Extra
+    - source: [[id:76892306-37b8-4bcc-8f0d-003173a82c0c]]
+*** 18:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802809803
+:END:
+**** Front
+    how are astrocytes involved in neurogenesis?
+**** Back
+    they send signals that cause progenitor cells to divide (then they undergo preliminary differentiation, migration and then final differentiation)
+**** Extra
+    - source: [[id:020e04f2-8566-4d2e-a2ea-e5df94b233d0]]
+*** 18:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802810236
+:END:
+**** Front
+    what type of signals do astrocytes send that promotes differentiation?
+**** Back
+     neurotrophins - a type of growth factor.
+**** Extra
+    - source: [[id:38ff90b6-b8e8-4ec7-8a2b-673568798c74]]
+*** 18:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802810555
+:END:
+**** Front
+    what is the upper limit of size for going through the BBB?
+**** Back
+    4 amino acids
+**** Extra
+    - source: [[id:eb106bab-4a58-4955-8621-6647f41b5016]]
+*** 18:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802810830
+:END:
+**** Text
+  {{c1::angioneurins:name}} are growth factors that {{c2::affect both neurogenesis and angiogenesis.}}
+**** Extra
+    - source: [[id:a9eaf068-e1fc-4f84-9111-1eb5c81fe372]]
+*** 18:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802811113
+:END:
+**** Front
+    how do processes related to neurogenesis affect existing neurons?
+**** Back
+    the same GFs also promote sprouting of new axons and increased myelination.
+**** Extra
+    - source: [[id:f1018c0f-daa6-4aed-ad7b-da32b59bb992]]
+*** 18:44 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802811366
+:END:
+**** Text
+    most stem cells injected into tissue end up differentiating into {{c1::glial cells::type of cell}}
+**** Extra
+    - source: [[id:78a7ed7e-4b0a-4ba8-be4b-2bfa0c80035c]]
+*** 18:48 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802811738
+:END:
+**** Text
+    {{c1::deploarization::direction of voltage change}} -> {{c2::more::more/less}} likely to cause action potential
+**** Extra
+    - source: [[id:9d28d246-d303-46f5-bd10-406cb15cdb93]]
+*** 18:49 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802811989
+:END:
+**** Text
+    {{c2::hyperpolarization}} -> {{c1::less}} likely to cause action potential
+**** Extra
+    - source: [[id:95f3dea4-c7d4-4857-a038-9122e3e7eedf]]
+*** 19:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802812299
+:END:
+**** Front
+        what are the 4 mechanisms of inactivation of neurotransmitters?
+**** Back
+    1. reuptake by the releasing neuron - to be reused later.
+    2. diffusion - out of the synaptic cleft
+    3. degradation by enzimes that prevent th NT from binding to its receptor
+        e.g. acetylcholinesterase breaking down acetylcholine into choline and acetyl
+    4. reuptake by glial cells
+
+**** Extra
+    - source: [[id:7c49a520-3ca5-4e67-b55a-e89e70554896]]
+*** 19:21 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802812583
+:END:
+**** Front
+    what's the difference between receptors that are ion-channels, and those that are bound to a G-protein?
+**** Back
+    ion channels are opened immediately while G-proteins become phosphorilated as result of activation and start a chain reaction that ends in ion flow, which makes the much slower.
+
+**** Extra
+    - source: [[id:8a57ee67-bf1d-40c9-ac11-245c971d98ed]]
+*** 19:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802813016
+:END:
+**** Front
+        what are the 5 main processes related to NT's life cycle and action?
+**** Back
+    1. synthesis
+    2. packaging
+    3. release
+    4. reuptake/diffusion/degardation
+    5. binding to a receptor
+
+**** Extra
+    - source: [[id:5034808f-e698-404b-9b07-21de7be6c1ed]]
+*** 18:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802813364
+:END:
+**** Front
+    what's the most common neurotransmitter in the brain?
+**** Back
+    Glutamate
+**** Extra
+    - source: [[id:45aef97b-3530-4aa5-9d90-2cc558c36f70]]
+*** 18:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802813681
+:END:
+**** Front
+    neurotransmitters are what kind of biological compounds?
+**** Back
+    they're amino acids
+**** Extra
+    - source: [[id:8eb10fa1-39b9-439c-8dd9-9432be111ca2]]
+*** 18:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802814081
+:END:
+**** Front
+    can NTs pass the BBB?
+**** Back
+    yes, they're amino acids - their mollecular weight is less than 400D
+**** Extra
+    - source: [[id:9957af71-9baf-4e98-b459-1ea84a7bac7d]]
+*** 18:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802814332
+:END:
+**** Text
+    glutamate is an {{c3::excitatory::excitation/inhibition}} neurotransmitter
+**** Extra
+    - source: [[id:89ed2318-3349-4e55-aa10-46856bb32ea9]]
+*** 18:34 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802814615
+:END:
+**** Front
+    what are the three glutamate receptor types?
+**** Back
+1. nmdar - an ion channel
+2. ampa - an ion channel
+3. mGluR (metabotropic glutamate receptor) - coupled to G-proteins
+***** Extra
+    - source: [[id:e4b93057-71d6-45ba-b727-765d5a41391b]]
+*** 18:36 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802814929
+:END:
+**** Front
+    what's an NMDR receptor?
+**** Back
+    a glutamate receptor that is an ion channel
+**** Extra
+    - source: [[id:a046fbdb-333a-4c7f-9544-18b46084e862]]
+*** 18:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802815239
+:END:
+**** Front
+    what's an ampa receptor?
+**** Back
+    a glutamate receptor which is an ion channel
+**** Extra
+    - source: [[id:a046fbdb-333a-4c7f-9544-18b46084e862]]
+*** 18:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802815642
+:END:
+**** Front
+    what's an mGlu receptor
+**** Back
+    a glutamate recptor that's coupled to a G-protein
+**** Extra
+    - source: [[id:aa3baa36-4d43-4180-b82a-d05657cc83f6]]
+*** 18:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802815930
+:END:
+**** Front
+    what's the difference between mGlu and the other two Glu receptors (amapa & NMDR)
+**** Back
+    it's the only one that's coupled to a G protein
+**** Extra
+    - source: [[id:e64c1e8a-8057-4ba2-9bd6-7bf789f4fc20]]
+*** 18:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802816241
+:END:
+**** Front
+    mGlu receptors are found on the pre-synaptic neuron as well, why?
+**** Back
+    to help with the reuptake of glutamate
+**** Extra
+    - source: [[id:1f1ef867-0f52-4edb-9d82-ffc66df828d3]]
+*** 18:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802816644
+:END:
+**** Front
+    describe the pathway for glutamate re-absorption that involves astrocytes
+**** Back
+astrocytes have the ability to absorb glutamate, converting it to glutamine which is absorbed by neurons to be saved up and converted back to glutamate
+**** Extra
+    - source: [[id:fa22e139-3128-4050-9299-2e461411face]]
+*** 18:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802816893
+:END:
+**** Text
+    glutamine to glutamate is like {{c1::glicogen}} to glucose
+**** Extra
+    - source: [[id:fa22e139-3128-4050-9299-2e461411face]]
+*** 18:47 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802817180
+:END:
+**** Front
+    what's the risk of prolonged presence of glutamate in the synaptic gap?
+**** Back
+    it's important to absorb glutamate quickly because over excitation of its receptors can cause too much calcium to enter the cell, which can trigger apoptosis
+**** Extra
+    - source: [[id:fd5b83eb-af91-48d1-b566-789458b8a39f]]
+*** 18:49 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802817491
+:END:
+**** Front
+    what's the secondary usage of glutamate (used by astrocytes)
+**** Back
+    astrocytes can also release the glutamate in order to create controlled damage to cells around in case there's a pathogen like a virus that infects neurons.
+**** Extra
+    - source: [[id:1b4952c0-1c9d-43f4-94b8-04c6cc9edd5f]]
+*** 18:50 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802817894
+:END:
+**** Front
+    what's the main inhibitory NT in the CNS?
+**** Back
+    GABA
+**** Extra
+    - source: [[id:76478f66-9f4e-4fad-a56c-842ae0a2e985]]
+*** 18:51 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802818180
+:END:
+**** Front
+   what's the main effect GABA has on receiving neurons?
+**** Back
+    it makes the neurons more negative - allowing more chloride to enter the cells.
+**** Extra
+    - source: [[id:5947367f-9d70-44ee-af25-bdd3e7266215]]
+*** 18:52 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802818429
+:END:
+**** Text
+    when {{c1::chloride}} ions enter the cell, they make it's potential more {{c2::negative}}
+**** Extra
+    - source: [[id:5947367f-9d70-44ee-af25-bdd3e7266215]]
+*** 18:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802818741
+:END:
+**** Front
+    what's the metabolic relation between Glu and GABA? how is it useful to the body?
+**** Back
+    - glutamate is a precursor to GABA.
+    - GABA can be transformed into glutamate via the citric acid cycle
+    - another way to get rid of too much glutamate is to transform it into GABA
+**** Extra
+    - source: [[id:7ebac634-2c38-43d4-bd01-81900b86f535]]
+*** 18:55 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802819111
+:END:
+**** Text
+    the conversion between {{c1::Glu and GABA}} (and vice versa) is dependent on vitamin {{c2::B6}}
+**** Extra
+    - source: [[id:bb24a604-077a-4486-ac65-aa134261c32f]]
+*** 18:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802819424
+:END:
+**** Front
+    what are the two types of GABA receptors (families), what ions do they let through?
+**** Back
+      - GABA A - ion chanels - let Cl- into the cell
+      - GABA b - G proteins - let K+ out of the cell
+**** Extra
+    - source: [[id:b5d295f8-3071-4cfb-a713-06fd7b458fd2]]
+*** 18:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802819742
+:END:
+**** Front
+    what's the bodily/emotional effect of an excess of glutamate in relation to GABA?
+**** Back
+    increased anxiety - glutamate is an excitatory NT
+**** Extra
+    - source: [[id:7445fcd8-3f99-4ef0-9e39-23564644281d]]
+*** 19:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802820053
+:END:
+**** Front
+    what's the connection between valium and GABA?
+**** Back
+    valium is a sedative which is in fact a GABA agonist - it binds to the same receptors and activates them
+**** Extra
+    - source: [[id:d2ab9113-c6d6-45b1-9eda-fe91b1766f74]]
+*** 19:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802820424
+:END:
+**** Text
+    {{c1::Alcohol and benzodiazepines (sedatives)::2 materials}}  work by binding to {{c2::GABA}} recptors
+**** Extra
+    - source: [[id:6f71db8d-5f81-4a26-b828-61fce384f0d5]]
+*** 19:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1605802820704
+:END:
+**** Front
+    what sort of biological compound is GABA?
+**** Back
+    it's an amino acid
+**** Extra
+    - source: [[id:a7cf5e1f-45d0-4d9d-abec-505712ce0982]]
+
+*** 14:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661883555
+:END:
+**** Front
+    does Ach (acetylcholine) act as an inhibitory or excitatory NT?
+**** Back
+    Ach has both excitatory and inhibitory effects
+**** Extra
+    - source: [[id:413639a0-7bec-4423-81b9-216e24ef7e25]]
+*** 14:55 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661883872
+:END:
+**** Front
+    what type of material is Ach?
+**** Back
+    it's an acetic acid
+**** Extra
+    - source: [[id:347b1de3-b4d3-49e4-9e2d-bbc05699346d]]
+*** 14:56 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661884156
+:END:
+**** Front
+    what's the most common NT in the PNS?
+**** Back
+    Acetylcholine
+**** Extra
+    - source: [[id:ccf44ae0-bdd9-4d30-b3a0-f40dd41156ed]]
+*** 14:57 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661884444
+:END:
+**** Front
+    what are the two main effects/targets of Ach (actylcholine)
+**** Back
+    1. it's related to skeletal muscles (activation/inhibition)
+    2. it's related to both the sympathetic and parasympathetic systems
+**** Extra
+    - source: [[id:cd4b3bdd-5b2a-413d-bf70-b88ace3efa7d]]
+*** 14:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661884811
+:END:
+**** Front
+    what are the 2 compounds making up Ach?
+**** Back
+    it's produced in the brain from acetyl-CoA (comes from glucose metabolism) + cholin which is transported over the BBB for that purpose.
+**** Extra
+    - source: [[id:f7045069-5c07-44ab-bd9b-2138c7866a16]]
+*** 15:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661885093
+:END:
+**** Front
+    what are the 2 types og Ach receptors?
+**** Back
+   * nicotinic - an ion channel
+   * musachrinic - G-protein
+
+**** Extra
+    - source: [[id:c0e180fe-23f0-4df9-96f8-0165aed7b59f]]
+*** 15:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661885311
+:END:
+**** Text
+   nicotinic receptors are a type of {{c1::Ach}} receptors which are {{c2::ion channels}}
+**** Extra
+    - source: [[id:022bbfd4-81ae-4643-abdc-b763d40f1d86]]
+*** 15:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661885562
+:END:
+**** Text
+       musachrinic receptors are a type of {{c1::Ach}} receptors which are {{c2::attached to G-proteins}}
+**** Extra
+    - source: [[id:022bbfd4-81ae-4643-abdc-b763d40f1d86]]
+*** 15:08 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661885940
+:END:
+**** Front
+    whats part of the cell is affected in Alzheimer's disease?
+**** Back
+   the soma (i.e. not the dendrites or axons)
+**** Extra
+    - source: [[id:8ca933a2-54f7-48e3-92b8-2add6e52ccea]]
+*** 15:10 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661886218
+:END:
+**** Front
+    what's the main brain area that's hurt in Alzheimer's disease?
+**** Back
+    there's a severe loss of gray matter in the hippocampus
+**** Extra
+    - source: [[id:03dc6490-f62c-4dac-aa94-040dbb71d000]]
+*** 15:18 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661886505
+:END:
+**** Front
+    what's the leading theory about the mechanism of alzheimer's disease?
+**** Back
+    it's due to beta amyloid (Abeta) forming oligomers/plaques which sink and accumulate into deposits in neurons - which have been show to be toxic
+**** Extra
+    - source: [[id:f54060fd-89b5-4141-ad8f-76b18e0efcaf]]
+*** 15:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661886782
+:END:
+**** Front
+    what is beta amyloid?
+**** Back
+    it's a piece of malformed part of another protein called beta precursor which is a part of the cells membrane and is important for synapse creation.
+    it's though to be the main factor contributing to AD.
+**** Extra
+    - source: [[id:8a85db9c-b15a-4339-bb5e-f3e617cfd77d]]
+*** 15:22 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661887157
+:END:
+**** Front
+    what causes the creation of amyloid beta in AD?
+**** Back
+    an increase in cleaving proteins creating Abeta from the beta-precursor protein
+**** Extra
+    - source: [[id:8a85db9c-b15a-4339-bb5e-f3e617cfd77d]]
+*** 15:23 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661887445
+:END:
+**** Front
+    what are the 3 negative effects of ABeta?
+**** Back
+   1. the ABeta deposits can increase the rate of entry of calcium into the cells - causing apoptosis
+   2. may hurt the cells membrane
+   3. may bind to receptors and change the signal trasnduction and change the effects inside the cell
+
+**** Extra
+    - source: [[id:0ddd5c59-1b33-4df9-8b9a-0af1c06a595c]]
+*** 15:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661887716
+:END:
+**** Front
+    what is TAU protein?
+**** Back
+    it's a protein that creats scaffolds for microtubule tracks that go out into axons, and also stabilizes the cell's structure.
+**** Extra
+    - source: [[id:08001705-7b9b-4867-8762-6a7c3de906fd]]
+*** 16:00 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661888126
+:END:
+**** Front
+    what's the connection between TAU protein and AD?
+**** Back
+    in AD patients, hyper-phosphorylation of TAU disintegrates the microtubules, hurting the flow of nutrients etc. into the axons
+**** Extra
+    - source: [[id:ecfc4c82-7b92-4570-99f3-5cddddabafc6]]
+*** 16:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661888407
+:END:
+**** Front
+    what's the matter with the cholinergic pathway in AD patients?
+**** Back
+    cholin acetylesterase is less active in AD than in healty patients -> less ACh being created
+**** Extra
+    - source: [[id:0567163d-6dcc-4df0-846b-a9377874c405]]
+*** 16:03 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661888694
+:END:
+**** Front
+    what's the effect of AD on the glutamate pathway?
+**** Back
+    ABeta hurts the abilty of astrocytes to reuptake Glu -> increased glutamate in synapses -> increased entry of calcium into neurons.
+**** Extra
+    - source: [[id:0a7e7ae9-1d16-400e-82fa-43265c09da45]]
+*** 16:10 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661888968
+:END:
+**** Front
+    what's the main type of drugs used to treat AD?
+**** Back
+    acetylcholinesterase inhibitors: used to stop Ach destruction -> create more ACh (lowered activity of acetylcholinesterase is a hallmark of the disease)
+**** Extra
+    - source: [[id:cf2817e1-da0c-483e-a9ed-becade0503c2]]
+*** 16:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661889346
+:END:
+**** Front
+    what's the relation between tyrosine and dopamine?
+**** Back
+    tyr is a precursor to dopamine, the conversion happens in the brain
+**** Extra
+    - source: [[id:ca634695-ec8c-4f97-9dae-98c351517edc]]
+*** 16:26 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661889878
+:END:
+**** Front
+    what is tyrosine synthesized from?
+**** Back
+    tyrosine is synthesized from phenylalanine
+**** Extra
+    - source: [[id:15c6faf8-b208-45b1-846d-5c523d706695]]
+*** 16:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661890124
+:END:
+**** Text
+    {{c4::tyrosine}} -> {{c2::L-Dopa}} -> {{c1::dopamine}}
+**** Extra
+    - source: [[id:b926854b-b361-481c-8deb-7a9e1c73e936]]
+*** 16:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661890445
+:END:
+**** Front
+    what disease is related to a shortage of dopamine?
+**** Back
+    Parkinson's disease
+**** Extra
+    - source: [[id:1edf71c2-c8ce-4ec2-ac60-aa9952e00d42]]
+*** 16:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661890877
+:END:
+**** Front
+    what 2 types of dopamine receptors exist? what are their names and mechanisms?
+**** Back
+         - D1 - stimulatory
+         - D2 - inhibitory
+         - both are G-protein receptors
+
+**** Extra
+    - source: [[id:83e16c3a-e968-4ede-89cb-17390730e383]]
+*** 16:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661891346
+:END:
+**** Front
+    where is most of dopamine in the brain found?
+**** Back
+    80% of the dopamine in the brain is found in the pars compacta (in substantia nigra) in the brainstem
+**** Extra
+    - source: [[id:312c05af-e138-44e1-82d3-c6487453b77e]]
+*** 16:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661891628
+:END:
+**** Front
+    what's the relation between Ach, dopamine and motor control?
+**** Back
+    motor control in the striatum is thought to depend on a balance between cholinergic cells (stimulatory) and cells with (dopamine) D2 receptors (inhibitory)
+
+**** Extra
+    - source: [[id:ccc76dd9-f366-47db-a378-fa2a26d64489]]
+*** 11:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661891906
+:END:
+**** Front
+    when referring to the potential difference across the cell's membrane, what is defined as "zero" potential?
+**** Back
+    we take the *outside potential* to be zero. and so the inner potential is roughly -65mV
+**** Extra
+    - source: [[id:4fb3a1ec-57c9-4354-bc95-16ca0359913b]]
+*** 11:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661892285
+:END:
+**** Text
+    {{c2::potassium - K+::potassium/sodium}}, has a much higher concentration {{c1::_inside_}} the cell than out.
+**** Extra
+    - source: [[id:41f2f2a3-d64c-400b-b56a-bb3d953386e1]]
+*** 11:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661892563
+:END:
+**** Text
+    {{c2::potassium - K+}}, is {{c1::positive,}} so when it goes through its dedicated channels due to concentration gradient, the membrane potential becomes more {{c1::negative,}} and the electric gradient exerts an {{c1::inwards::direction}} force on it.
+**** Extra
+    - source: [[id:1967dfac-64a9-49aa-bbed-14035ea396bc]]
+*** 11:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661892844
+:END:
+**** Front
+    in which direction does the chemical gradient  work on Sodium (Na+) ions?
+**** Back
+   Na+ has a much higher concentration _outside_ the cell than in, so the gradient pulls it into the cell
+**** Extra
+    - source: [[id:e2776a09-b53c-4790-be77-13cd3ff81ef9]]
+
+*** 11:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661893095
+:END:
+**** Text
+    {{c2::Sodium - Na+}}, is {{c1::negative,}} so when it goes through its dedicated channels due to concentration gradient, the membrane potential becomes more {{c1::positive,}} and the electric gradient exerts an {{c1::outwards::direction}} force on it.
+**** Extra
+    - source: [[id:1967dfac-64a9-49aa-bbed-14035ea396bc]]
+*** 11:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661893499
+:END:
+**** Front
+    What is Nersnt's equation?
+**** Back
+            $E_ion  = \frac{58mV}{z} * log([ion]_{out}/[ion]_{in})$
+            - where z is the charge of the ion
+**** Extra
+    - source: [[id:d2f0d90d-0c54-406d-b3a4-4eb45af11d7d]]
+*** 11:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661893779
+:END:
+**** Front
+    what is the Goldman-hodkin-katz equation:
+**** Back
+            $V_{membrane} = 58mV * log(\frac{K_{out} + (P_{Na}/P_K)Na_{in} + (P_{Cl}/P_K)Cl_{out}}{K_{in} + (P_{Na}/P_K)Na_{in} + (P_{Cl}/P_K)Cl_{out}})$
+**** Extra
+    - source: [[id:14c823e6-f491-46bf-9869-c910167eff58]]
+*** 11:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661894061
+:END:
+**** Front
+    what is the permeability ratio (physiological) of K+:Na+?
+**** Back
+       $P_k:P_{Na} = 1: 0.04$
+**** Extra
+    - source: [[id:4185acce-2635-4a08-8dfc-cf770bdddc29]]
+*** 11:44 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661894342
+:END:
+**** Front
+    what ions does the Na_+/K+ pump transfer - how many in each direction?
+**** Back
+    it lets 3 Na+ ions out, and lets 2 K+ ions in.
+**** Extra
+    - source: [[id:78261b91-9bf2-47ec-b5c3-0ec89ac7d574]]
+*** 11:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661894719
+:END:
+**** Text
+    the Na+/K= pump {{c1::hyper}}polarizes the membrane - making it overall {{c1::1 charge}} more {{c1::negative}} per every transfer.
+**** Extra
+    - source: [[id:cb6e4629-b83e-40a5-a051-c218195ddeee]]
+*** 11:53 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661895036
+:END:
+**** Front
+    what is Oubain?
+**** Back
+    Oubain is a natural toxin that stops the Na+/K+ pumps and _depolarizes_ the membrane
+**** Extra
+    - source: [[id:a78fce46-c990-4dc7-9c6c-ce90cac1dc5f]]
+*** 11:57 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661895345
+:END:
+**** Front
+    what determines the resting potential of a given ion?
+**** Back
+    the resting potential of an ion is determined by the concentration gradient and permeability (also the charge)
+**** Extra
+    - source: [[id:a3f021f2-cac8-4714-ab60-1a95616e7522]]
+*** 11:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661895595
+:END:
+**** Text
+    {{c2::positive}} current = {{c1::positive ions}} going out of the cell = {{c1::negative ions}} going into the cell = current that {{c1::hyper}}polarizes the membrane
+**** Extra
+    - source: [[id:7da6c4c9-5bc2-4231-8335-b6fc66155cfb]]
+*** 12:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661896003
+:END:
+**** Front
+    how can we infer conductance from an IV plot?
+**** Back
+    conductance ($\gamma$): this is given by the slope of the line.
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 12:07 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661896313
+:END:
+**** Front
+    what is reversal potential, $V_r$?
+**** Back
+    $V_r$ is the voltage across the membrane at which no current run through the membrane.
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 13:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1606661896592
+:END:
+**** Front
+    what is the meaning of the reversal potential $V_0$ for a give ion channel?
+**** Back
+    $V = 0$ is actually the voltage at which the current is $0$  - which is the resting potential of the ion (if the channel is specific to one ion) or the averaged resting potential (if several ions can go through the same channel)
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+
+*** 23:44 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025032794
+:END:
+**** Front
+    what's the physiological concentration of sodium - Na+?
+**** Back
+    ~ 150 mM
+**** Extra
+    - source: [[id:6d89f093-b16e-403c-a451-67359ec5523f]]
+*** 12:24 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025033232
+:END:
+**** Text
+    {{c4::asymmetric::shape}} synapses are usually {{c3::excitatory::inhibitory/excitatory}}
+**** Extra
+    - source: [[id:daf43eca-c2ec-4449-8d78-8567582db2f1]]
+*** 12:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025033738
+:END:
+**** Text
+    {{c2::symmetric::shape}} synapses are usually {{c1::excitatory}}
+**** Extra
+    - source: [[id:a630fcb7-b996-432f-919e-c42665039788]]
+*** 12:26 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025034206
+:END:
+**** Front
+    what is the effect of higher time constant $\tau$ on the summation of EPSPs?
+**** Back
+     the discharge will be slower making the summation more effective - both temporal and spatial
+**** Extra
+    - source: [[id:abf270b5-2f47-4b18-91f2-f37a30eda225]]
+*** 12:28 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025034776
+:END:
+**** Front
+    what's the duration of an AP (in the presynaptic neuron)?
+**** Back
+    ~1-2 ms
+**** Extra
+    - source: [[id:168eda1e-13f5-4865-b510-9c1310262b03]]
+*** 12:28 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025035201
+:END:
+**** Front
+    what's the time scale of STP changes?
+**** Back
+    up to a minute
+**** Extra
+    - source: [[id:d0c9a5b3-b4fb-4a0f-ba95-1aec9c639a35]]
+*** 12:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025035733
+:END:
+**** Front
+    what's STP? (memory)
+**** Back
+    Short term plasticity
+**** Extra
+    - source: [[id:d0c9a5b3-b4fb-4a0f-ba95-1aec9c639a35]]
+*** 12:30 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025036214
+:END:
+**** Front
+    what's paired pulse facilitation?
+**** Back
+    the change in EPSP between two subsequent stimuli - the second being stronger than the first
+**** Extra
+    - source: [[id:d00de788-3245-4d72-ad26-38f8241b5ec3]]
+*** 12:31 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025036921
+:END:
+**** Front
+    what's the time frame in which we'll see facilitation in a synapse? (interval between APs)
+**** Back
+    20-500 ms
+**** Extra
+    - source: [[id:5f7431f5-5339-49ff-a65b-8cb6427b87d8]]
+*** 12:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025037583
+:END:
+**** Front
+    what's Pr (neurobiology)?
+**** Back
+    the release probability of a given vesicle in response to an AP:
+**** Extra
+    - source: [[id:7a4dc2e6-6c1e-4940-b096-6229ef4bc266]]
+*** 12:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025038138
+:END:
+**** Front
+    what's the effect of Pr on the tendency of a synapse towards depression/facilitation
+**** Back
+         * high Pr --> depressive
+         * low Pr --> facilitating
+           because in high Pr a greater % of the RRP will be released, leaving less vesicles to be released in the following stimulus.
+
+**** Extra
+    - source: [[id:c4f5961e-0ff8-40b4-9947-c240ead854d1]]
+*** 12:35 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025038793
+:END:
+**** Front
+    what's the mechanism behind paired-pulse facilitation?
+**** Back
+    residual Ca from the first AP affects the Ca levels during the 2nd AP
+**** Extra
+    - source: [[id:d50750e5-f523-450f-a419-962fcb1e7557]]
+*** 12:37 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025039389
+:END:
+**** Front
+    why is there residual Ca between APs in (paired pulse) facilitation?
+**** Back
+    since Ca leaves the synapse slowly after an initial fast phase
+**** Extra
+    - source: [[id:d50750e5-f523-450f-a419-962fcb1e7557]]
+*** 12:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025040023
+:END:
+**** Front
+    what will happen in the postsynaptic cell if we get an EPSP and an IPSP simultaneously from two synapses?
+**** Back
+    the overall voltage will not change (much) since they will cancel each other out
+**** Extra
+    - source: [[id:c86231a7-911e-41a1-af13-5c70d62e7b8e]]
+*** 12:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025040671
+:END:
+**** Front
+    an inhibitory synapse is connected near the terminal on an excitatory synapse. what will happen in the postsynaptic cell if the AP and the IPSP arrive at the same time?
+**** Back
+   nothing will be observed in the postsynaptic cell, since no NT will be released: the overall voltage change in the synapse will e too small to initiate calcium influx.
+**** Extra
+    - source: [[id:c86231a7-911e-41a1-af13-5c70d62e7b8e]]
+*** 12:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025041230
+:END:
+**** Front
+    what's synaptic depression?
+**** Back
+    a gradual weakening of the EPSP in case of high frequency firing
+**** Extra
+    - source: [[id:c92af154-fe92-459f-a4fb-b04a432ad186]]
+*** 12:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025041793
+:END:
+**** Front
+    what's the rate at which we'll observe synaptic depression?
+**** Back
+    5-100 ms  = higher frequency stimulation than facilitaion
+**** Extra
+    - source: [[id:c86231a7-911e-41a1-af13-5c70d62e7b8e]]
+*** 12:47 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025043448
+:END:
+**** Front
+    what are the 5 mechanisms of synaptic depression?
+**** Back
+******* depletion of vesicle pool
+******* inactivation of Ca channels
+******* metbotropic autoreceptors
+******* initial release probability
+
+**** Extra
+    - source: [[id:5c367184-ee58-4911-99b6-e9f6e6f104fb]]
+*** 12:48 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025044076
+:END:
+**** Front
+    what's the postsynaptic mechanism of synaptic depression (STP)?
+**** Back
+    saturation/desensitization of receptors
+**** Extra
+    - source: [[id:1777b1d9-7bba-4200-81d6-5d05959da4c3]]
+*** 12:49 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025044575
+:END:
+**** Text
+    higher freq stimuli -> {{c1::more::more/less}} depression
+**** Extra
+    - source: [[id:fd2650f8-cea9-4737-b62d-8da87239fff9]]
+*** 16:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025045141
+:END:
+**** Front
+    what is the concentration gradient for potassium?
+**** Back
+    it has a much higher concentration _inside_ the cell than out.
+**** Extra
+    - source: [[id:41f2f2a3-d64c-400b-b56a-bb3d953386e1]]
+*** 16:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025045893
+:END:
+**** Front
+        what is the concentration gradient for sodium?
+
+**** Back
+    it has a much higher concentration _outside_ the cell than in.
+**** Extra
+    - source: [[id:e2776a09-b53c-4790-be77-13cd3ff81ef9]]
+*** 16:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025046482
+:END:
+**** Front
+    what's the formulation of the Nernst equation?
+**** Back
+            $E_{ion}  = \frac{58mV}{z} * log([ion]_{out}/[ion]_{in})$
+**** Extra
+    - source: [[id:d2f0d90d-0c54-406d-b3a4-4eb45af11d7d]]
+*** 16:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025047083
+:END:
+**** Front
+    what's the formulation of the Goldman-hodkin-katz equation?
+**** Back
+            $V_{membrane} = 58mV * log(\frac{K_{out} + (P_{Na}/P_K)Na_{out} + (P_{Cl}/P_K)Cl_{in}}{K_{in} + (P_{Na}/P_K)Na_{in} + (P_{Cl}/P_K)Cl_{out}})$
+**** Extra
+    - source: [[id:14c823e6-f491-46bf-9869-c910167eff58]]
+*** 16:41 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025047793
+:END:
+**** Front
+     what's the permeability ratio (physiological) between K+ and Na+?
+**** Back
+      $P_k:P_{Na} = 1: 0.04$
+**** Extra
+    - source: [[id:4185acce-2635-4a08-8dfc-cf770bdddc29]]
+*** 16:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025048364
+:END:
+**** Front
+    what's the overall effect of potassium/sodium pumps on membrane potential?
+**** Back
+    it hyperpolarizes the membrane - making it overall 1 charge more negative per every transfer.
+**** Extra
+    - source: [[id:cb6e4629-b83e-40a5-a051-c218195ddeee]]
+*** 16:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025048886
+:END:
+**** Front
+    how many ions do sodium/potassium pumps transfer?
+**** Back
+    they let 3 Na ion out, and  2 K+ ions in.
+**** Extra
+    - source: [[id:78261b91-9bf2-47ec-b5c3-0ec89ac7d574]]
+*** 16:43 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025049607
+:END:
+**** Front
+    what's Oubain? what's its effect on membrane potential?
+**** Back
+    Oubain is a natural toxin that stops the Na/K pumps, thus  _depolarizing_ the membrane
+**** Extra
+    - source: [[id:a78fce46-c990-4dc7-9c6c-ce90cac1dc5f]]
+*** 16:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025050139
+:END:
+**** Front
+    how is positive current (across the membrane) defined?
+**** Back
+    positive current = positive ions going out of the cell = negative ions going into the cell = current that hyperpolarizes the membrane
+**** Extra
+    - source: [[id:7da6c4c9-5bc2-4231-8335-b6fc66155cfb]]
+*** 16:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025050670
+:END:
+**** Front
+    how can we inferconductance ($\gamma$) from IV plots?
+**** Back
+    conductance ($\gamma$) is given by the slope of the line.
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 16:47 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025051323
+:END:
+**** Front
+    what's reversal potential, $V_r$?
+**** Back
+    reversal potential, $V_r$, is the voltage at which the current that goes through the channel changes from positive to negative
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 16:48 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025051855
+:END:
+**** Front
+    how can we test if a specific ion goes through a channel (patch clamp/IV plots)
+**** Back
+    we can test if a specific ion goes through it by putting it in an environment with a lot/a little of that ion, and checking if it changes $V_r = 0$
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 16:50 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025052388
+:END:
+**** Front
+    what's the connection between $V_r$ and resting potential?
+**** Back
+    at $V_r$, $V = 0$, so it's actually the voltage at which the current is $0$  - which is the resting potential (if the channel is specific to one ion) or the averaged resting potential (if several ions can go through)
+**** Extra
+    - source: [[id:6ebaa756-3caa-446b-b230-21a23b882df0]]
+*** 16:53 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025053043
+:END:
+**** Front
+    what's the basic unit comprising all of the voltage-gated ion channels we talked about? what is its structure?
+**** Back
+    an $\alpha$ subunit - it has 6 transmembrane segments, repeating 4 times (4 domains) each of the 4 connected by a "P-loop" to the next domain. the loops make up the hole in the middle of the channel.
+**** Extra
+    - source: [[id:4fb16445-208e-4b36-bebd-a961865feace]]
+*** 16:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025053608
+:END:
+**** Front
+    how does the membrane potential change whe we inject a square current (i.e, 0 - maintained high - 0)?
+**** Back
+    square current -> exponential (root) increase in voltage due to membrane charging, acting like a capacitor
+**** Extra
+    - source: [[id:486a8bfa-c9dd-4192-8e25-e80712256b62]]
+*** 17:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025054168
+:END:
+**** Front
+    how does the rate of voltage change in response to current change with respect to membrane size?
+**** Back
+    for larger membranes, the rate of changes is *slower* - it takes longer to accumulate more charges, that are required to charge more membrane area.
+**** Extra
+    - source: [[id:fa16dac7-69da-4d94-9324-37b16a858277]]
+*** 17:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025054793
+:END:
+**** Front
+    do smaller cells respond (=Vm changes) to membrane currents faster or slower than larger ones? why?
+**** Back
+    they are quicker to respond, because the "membrane capacitor" is smaller, taking less time to charge uo to it's maximal voltage.
+**** Extra
+    - source: [[id:69fc8954-19e0-49c3-8170-371a7c50848a]]
+*** 17:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025055324
+:END:
+**** Front
+    what is $\tau$ (neurophysiology)
+**** Back
+    time constant $\tau$: the time required to reach 63% of the maximal voltage.
+**** Extra
+    - source: [[id:eb4423f6-0adf-4a12-b7af-541fa92bda12]]
+*** 17:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025055889
+:END:
+**** Front
+    how long does an AP last (in the presynaptic terminal)?
+**** Back
+    ~1-2 ms
+**** Extra
+    - source: [[id:770c8390-7715-45c5-a8ba-8c34763f5482]]
+*** 17:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025056514
+:END:
+**** Front
+    what's the highest voltage the membrane gets to during an AP?
+**** Back
+    it goes from -65 mV ~ +50 mV
+**** Extra
+    - source: [[id:7049a89e-269c-49e8-937c-1b5acb46c2f6]]
+*** 17:07 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025057076
+:END:
+**** Front
+    what's TTX?
+**** Back
+    TTX is a voltage dependent sodium channels blocker
+**** Extra
+    - source: [[id:b00d670c-eff5-423f-8636-86e453669392]]
+*** 17:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025057640
+:END:
+**** Front
+    does TTX affect the resting membrane potential?
+**** Back
+    TTX affects only the voltage dependent sodium channels - so it doesn't affect the resting potential.
+**** Extra
+    - source: [[id:b00d670c-eff5-423f-8636-86e453669392]]
+*** 17:21 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1609518642785
+:END:
+**** Front
+    what's TEA?
+**** Back
+    TEA is a volatge-gated potassium channel blocker, and also a K+/Na+ pump blocker
+**** Extra
+    - source: [[id:56bc42a0-fc2f-4eb6-8e70-5691500302a4]]
+*** 17:23 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025058804
+:END:
+**** Front
+    what's the difference between a voltage clamp and current clamp?
+**** Back
+    in voltage clamp we set  the membranes potential and measure the resulting currents (i.e. resulting from the opening of voltage-gated channels), while in a current clamp we inject a steady current of ions and watch the change in Vm
+**** Extra
+    - source: [[id:971e578a-639e-4dd5-a518-f44cec9716ea]]
+*** 17:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025059356
+:END:
+**** Front
+    what's the mechanism of *inactivation* of Na channels?
+**** Back
+    a ball and chain mechanism - cytoplasmatic ends of the channel move into the channel and close it off after some time.
+**** Extra
+    - source: [[id:d7194a0b-2217-422f-8c7d-76b9fff53747]]
+*** 17:30 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025060024
+:END:
+**** Front
+    in what sense AP is a positive feedback loop?
+**** Back
+    depolarization -> open Na channels ->inward Na current -> deploarization
+**** Extra
+    - source: [[id:1730ffc0-384c-4896-bc0c-e95da5ea9fc2]]
+*** 17:31 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025061639
+:END:
+**** Front
+    what determines the thershold at which AP starts?
+**** Back
+***** both Na and K channels open when the voltage rises
+***** the point at which inwards Na current is greater than the outward K current - so the overall effect is actually depolarizing and starts the positive feedback loop.
+
+**** Extra
+    - source: [[id:1f61f32b-bb1d-4965-b096-2d2e123637a8]]
+*** 17:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025062199
+:END:
+**** Front
+    what are nodes of ranvaier?
+**** Back
+    the areas in between myelinated segments, where there's a high concentration of channels
+**** Extra
+    - source: [[id:59964f82-8101-482b-861c-404caad11c99]]
+*** 17:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025062831
+:END:
+**** Front
+    how does multiple sclerosis affect the brain?
+**** Back
+    lack of myelin - such as multiple sclerosis - causes a massive reduction in AP, so by the time it gets to the synapse, it doesn't activate it strongly enough for the signal to pass well.
+**** Extra
+    - source: [[id:6b0e2e6e-2e2c-4924-8676-f9bd38d4916e]]
+*** 17:53 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025063355
+:END:
+**** Front
+    what is the PSD - post synaptic density
+**** Back
+    PSD is the area of dense receptors and other proteins on the post synaptic side of *excitatory* synapses, which form a semi rigid structure.
+**** Extra
+    - source: [[id:7a9ef3c0-c5a8-4ccf-af35-23cb330d52ca]]
+*** 17:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025063928
+:END:
+**** Front
+    if we were to slow down the egress of calcium from the cell, how would that affect the amount of NT being released after an AP?
+**** Back
+ the duration of release of NT depends on the rate of calcium leaving the synaptic terminal - slowing it down would increase the release of NT.
+**** Extra
+    - source: [[id:bbd100d6-5e67-48a0-b605-3d777e334c8a]]
+*** 17:57 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025064608
+:END:
+**** Front
+    how do NMJ aynapses differ from CNS synapses?
+**** Back
+    the post synaptic side is not flat, but has invaginations that go deep into muscle cell. the voltage-dependent channels are located at the deep end of the invgination, while the NT(Ach) sensitive channels are located near the synaptic gap.
+**** Extra
+    - source: [[id:2593b69e-2b39-4118-9caa-08660a759ab1]]
+*** 17:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025065168
+:END:
+**** Front
+    what's the purpose of the invaginations in NMJ synapses?
+**** Back
+    they reach deep into the cell to enable calcium to enter quickly into the area of cell where the actin and myosin fibers are (those are being activated by the incoming calcium - causing the muscle to contract)
+**** Extra
+    - source: [[id:860f0cae-196a-4d12-894e-bac579eec7b1]]
+*** 18:00 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025065703
+:END:
+**** Front
+    how does nerve gas work?
+**** Back
+    nerve gas binds to Ach-esterase (which brakes down Ach, removing it from the synapse) - this means too much Ach in the synapse - which iver activated the muscle, causing spasms
+**** Extra
+    - source: [[id:2fdb5f18-3a18-409d-ae9b-191a171e2f40]]
+*** 18:01 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025066355
+:END:
+**** Front
+    what's curare? how is it related to nerve gas?
+**** Back
+     it's a toxin used by native american hunters on their arrows - Curare blocks the nicotinic receptor, so like nerve gas, it affects the level of activation of muscles (in this case, prevents them from activating) through interaction with the Ach mechanism.
+**** Extra
+    - source: [[id:314469e5-3c72-4463-acfb-190d10e6e1dc]]
+*** 18:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025066887
+:END:
+**** Front
+    what's the RRP (neurons)
+**** Back
+    RRP -  Readily Releasable Pool (of vesicles)
+**** Extra
+    - source: [[id:ceaea8ac-8f12-4b2a-b847-96798f647fc9]]
+*** 18:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025067451
+:END:
+**** Front
+    what's the relative size of the RRP - relative to all the vesicles in the cell?
+**** Back
+    ~ 5%
+**** Extra
+    - source: [[id:542cbd0f-7d0c-4876-b4d4-bdecdd42dec9]]
+*** 18:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025068105
+:END:
+**** Front
+    how is sucrose used to force the release of RRP vesicles?
+**** Back
+    sucrose (high concentration) causes fluids to leave the cell, shrinking the actual terminal button, causing the RRP vesicles to fuse (used to meausre the size of the RRP)
+**** Extra
+    - source: [[id:bfc82cf9-b90d-4e53-bdad-fa28256290cf]]
+*** 18:07 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025068736
+:END:
+**** Front
+    what's omega-conotoxin?
+**** Back
+    omega-conotoxin is a toxin that blocks voltage dependent calcium channels, stopping vesicle release, and the connection to the next neuron/muscle
+**** Extra
+    - source: [[id:49ff4a11-c25f-4da1-ad6d-a0d75b63b2f1]]
+*** 18:08 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025069427
+:END:
+**** Front
+    what's the effect of TEA on vesicle release?
+**** Back
+    TEA blocks voltage-gated K+ channles - making the falling phase of the AP much slower (the return to membrane potential), while the voltage is high, voltage-dependent Ca+ channels remain open, and the lasting high Ca concentration causes more vesicles to be released.
+**** Extra
+    - source: [[id:488844b8-dad8-4986-bd99-a9458ca5536b]]
+*** 18:10 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025070264
+:END:
+**** Front
+     what is Ca+ resting potential?
+**** Back
+   it's very positive: >100mV
+**** Extra
+    - source: [[id:ad602ec4-ad3a-47b8-ac9f-dbfcb59fa219]]
+*** 18:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025071892
+:END:
+**** Front
+    what are the 6 stages in the life cycle of a vesicle?
+**** Back
+***** NT uptake
+***** translocation to the active zone
+***** docking at the membrane
+***** priming (before fusion) the vesicle is now "fusion competent"
+***** fusing (once Ca+ enters the synapse)
+***** endocytosis
+
+**** Extra
+    - source: [[id:ad90e1ae-ff9b-48b0-866e-0b6e4ec19f6a]]
+*** 13:31 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025072524
+:END:
+**** Front
+    what do we know about newly created neurons in relation to learning and memory?
+**** Back
+    young (= adult) born cells have enhanced LTP, are integrated into the existing neural network, and have a significant part in learning and in memory
+**** Extra
+    - source: [[id:0993a354-09f8-4764-b555-030df128980f]]
+*** 13:33 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025132265
+:END:
+**** Front
+    what's CREB, how is it related to memory formation?
+**** Back
+   CREB is  "cAMP response element-binding protein"  - a transcription factor that makes neurons more excitable.
+    More excitable neurons are more prone to be included in the memory engram of the created memory
+**** Extra
+    - source:
+*** 13:35 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025075218
+:END:
+**** Front
+    what are two ways to make neurons less excitable?
+**** Back
+***** adding K+ voltage-dependent channels
+***** inhibiting Na+ voltage-dependent channels
+
+both of these make the AP threshold (when Na+ currents are larger than K+) higher (more depolarisatory)
+**** Extra
+    - source: [[id:2b7c5a5b-0187-4875-9fe5-ebd232785e37]]
+*** 13:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025075833
+:END:
+**** Front
+    what are the first three stops for visual information coming from outside.
+**** Back
+    eye --> thalamus lateral geniculate nucleus --> V1
+**** Extra
+    - source: [[id:39a0eeb0-0798-4afe-af05-7e412078c36b]]
+*** 13:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025076584
+:END:
+**** Front
+    what are the three layers of cells on the retina?
+**** Back
+    - light sensitive cells - photoreceptors
+    - bipolar cells
+    - ganglion cells
+**** Extra
+    - source: [[id:3912869f-93c9-45c6-90e6-64cf65c49923]]
+*** 13:40 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025077233
+:END:
+**** Front
+    what's the function of the two kinds of horizontal cells connecting the different layers of adjacent retinal cells?
+**** Back
+    they are responsible for the inhibitory signal which creates the "on point" response of photoreceptors
+**** Extra
+    - source: [[id:4b797842-3f62-4256-bcbe-bcd2ccc6c053]]
+*** 13:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025077835
+:END:
+**** Front
+        what's the main structural difference between the fovea and the rest of the retina?
+**** Back
+        in the periphery, light passes through all the layers, hitting the photoreceptors *last*
+        at the fovea there top layers are shifted sideways, forming a depression thath exposes the photoreceptors
+**** Extra
+    - source: [[id:40a7171d-6462-48a1-907c-d771a1ea58fc]]
+*** 13:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025078598
+:END:
+**** Front
+    what are the ganglions (retina) connected to?
+**** Back
+    the optic nerve
+**** Extra
+    - source: [[id:9e8e76d9-16ce-42fc-8159-eac6c67f6633]]
+*** 13:45 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025079205
+:END:
+**** Front
+    how many photorecetors/neurons are on the retina?
+**** Back
+    ~ 1 million
+**** Extra
+    - source: [[id:9e8e76d9-16ce-42fc-8159-eac6c67f6633]]
+*** 13:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025079892
+:END:
+**** Front
+    what makes the rods more sensitive to light?
+**** Back
+    rods are much larger than cones
+**** Extra
+    - source: [[id:a4dd0a4f-c717-4627-afdf-94c5b14f85de]]
+*** 13:47 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025080672
+:END:
+**** Front
+    what's the mechanism by which photoreceptors are light sensitive?
+**** Back
+    light is absorbed by retinal (source: vitamin A), and activates (rhod)opsins  - that are coupled to G-proteins, and start a signal trasduction cascade
+**** Extra
+    - source: [[id:abec99a6-c814-4829-9bfa-f8693b10874d]]
+*** 13:49 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025081018
+:END:
+**** Front
+    how do you measure the size of the RRP using a patch clamp?
+**** Back
+    you make a hole in the membrane using the patch electrode, so that the inside of the electrode is one with the inside of the cell. Then you can measure the membrane's capacitance over time, which is in direct relation with it's surface area, and that changes with the fusing of RRP vesicles with the membrane.
+**** Extra
+    - source:
+*** 13:53 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025081455
+:END:
+**** Front
+    when measuring the capacitance of the membrane over time, while repeatedly stimulating it with APs, how does the resulting grpah look like?
+    what two distinct phases are to be found there?
+**** Back
+there are two distinct rising phases, the first steep (quick) and the second slow.
+the first is the relese of the RRP, and the 2nd is the gradual release of the other vesicle pools.
+**** Extra
+    - source:
+*** 13:58 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025081857
+:END:
+**** Front
+    what are FM dyes? what are they used for?
+**** Back
+    FM dyes are fluorescent dyes that have a hydrophobic and a polar head so that they embed themselves in the membrane.
+    they are used to measure the amount of vesicles that fused with the membrane and released their NT: after fusion the vesicles become embedded with the dyes and the level of fluorescence can be measured after the are recycled into the cell.
+**** Extra
+    - source:
+*** 14:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025082180
+:END:
+**** Front
+what's the usage protocol of FM dyes?
+
+**** Back
+                  - dye the medium
+                  - intensive stimulus to stain ~all of the vesicles in the terminal (all pools)
+                  - wash FM out for predetrmined amount of time
+                  - short stimulus (10 AP/sucrose) - release all the RRP vesicles
+                  - measure the released amount of vesicles by the amount of dye
+**** Extra
+    - source:
+*** 14:03 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025082609
+:END:
+**** Front
+    how long does it take for RRP vesicles to be released and recycled so that they are ready for another use?
+**** Back
+    several seconds
+**** Extra
+    - source:
+*** 14:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025083047
+:END:
+**** Front
+    how many proteins make up the SNARE complex? how many of them are bound to the membrane?
+**** Back
+   there are 3 proteins. 2 of them are bound to the membrane, and the third to the vesicle
+**** Extra
+    - source:
+*** 14:07 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025083388
+:END:
+**** Front
+    what is botulinum? how does it work, and what is its effect?
+**** Back
+    botulinum works on PNS motor neurons -cleaving the one or more of the SNARE complex proteins. this prevents contractions commands from going through - creating flaccid paralysis
+**** Extra
+    - source:
+*** 14:08 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025083987
+:END:
+**** Front
+    on which part of the nervous system does botulinum work on?
+**** Back
+    botulinum works on PNS motor neurons
+**** Extra
+    - source:
+*** 14:09 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025084295
+:END:
+**** Front
+    what does tetanus do? what is its effect?
+**** Back
+    tetanus works on the CNS - it hurts inhibitory synapses that would relax the muscles - creating spastic paralysis
+**** Extra
+    - source:
+*** 14:10 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025084765
+:END:
+**** Front
+    what part of the nervous system does tetanus work on?
+**** Back
+    tetanus works on the CNS - hurting inhibitory synapses that would relax the muscles
+**** Extra
+    - source:
+*** 14:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025085276
+:END:
+**** Front
+    how does tetanus get to the inhibitory synapses in the CNS?
+**** Back
+    it gets in through the NMJ, transported along the axon, and jumps into the inhibitory synapse from the spinal chord.
+**** Extra
+    - source:
+*** 14:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025085644
+:END:
+**** Front
+what is  synaptotagmin? how what are its two (postulated) mechanisms of action?
+**** Back
+            synaptotagmin is the calcium sensor that is responsible to vesicle fusion as a result of AP.
+            1. when Ca is bound the protein undergoes conformation changes. becomes more tightly inserted  into the membrane, and pulls the SNARE protein into the membrane with it.
+            2. it bends the membrane, lowering the energy required for fusion
+                interacts with SNARE
+
+**** Extra
+    - source:
+*** 14:19 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025086044
+:END:
+**** Front
+    what are dendritic spines?
+**** Back
+    bulges and branches on the main dendritic trunk, that's where most of the excitatory synapses occur
+**** Extra
+    - source:
+*** 14:19 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025086483
+:END:
+**** Front
+    what's the significance of the form factor (long and thin vs short and wide) of dendritic spines?
+**** Back
+    the form of the spines serves to modulate the signal - longer spines mean a greater chance for the signal to decay until it reaches the soma, while shorter/wider spines make the signal transduction more effective
+**** Extra
+    - source:
+*** 14:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025086831
+:END:
+**** Front
+    what is the resting potential for Cl-?
+**** Back
+    Cl resting potential is ~-66mV
+**** Extra
+    - source:
+*** 14:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025087295
+:END:
+**** Front
+    what sort of current passes through GABA receptors when they are activated?
+**** Back
+    GABA receptors let Cl- into the cell, so they induce a positive, hyperpolarizing current.
+**** Extra
+    - source:
+*** 14:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025087581
+:END:
+**** Front
+    what's the effect of alcohol/ethanol and valium on GABA receptors?
+**** Back
+    ethanol & valium modulate the receptors so that the channel stays open longer - increasing its efficacy
+**** Extra
+    - source:
+*** 14:35 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025087956
+:END:
+**** Front
+    during epileptic seizures the internal concentration of Cl- goes up from 10 mM to 25 mM. what's the effect of this change on the functioning of GABA receptors?
+**** Back
+   the change in concentration changes the resting potential for Cl- : it goes up to -40mv, making Cl *leave* the cell when the  GABA channels open - depolarizing the membrane making the synapse deploarizing, i.e. excitatory! (under normal conditions GABA receptors are hyperpolarizing, i.e. inhibitory)
+**** Extra
+    - source:
+*** 14:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025088395
+:END:
+**** Front
+    give an example of a synapse/scenario that moves from inhibitory to excitatory depending on ion concentrations
+**** Back
+    the case of GABA receptors when Cl- concentration inside the cell rises from 10 to 25 mM.
+**** Extra
+    - source:
+*** 14:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025088608
+:END:
+**** Front
+    which type of synapses is more sensitive to activation - NMJ or CNS?
+**** Back
+    NMJ synapses are much more sensitive: every AP creates a contraction in the muscle, while 50-100 APs are required to make the postsynaptic neuron fire its own AP.
+*** Extra
+    - source:
+*** 14:42 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025089016
+:END:
+**** Front
+    roughly how many APs are needed (summed up) in order to make a neuron fire an AP of its own (in the CNS)?
+**** Back
+    50-100, each contributing about 1mV to the membranes potential
+**** Extra
+    - source:
+*** 15:05 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025089293
+:END:
+**** Front
+    what's the holemark of LTP? how does it "look like"?
+**** Back
+    it's the stronger response of a postsynaptic cell to a signal (presynaptic), after that signal has been given many times/the post- and pre-synaptic cells have been stimulated at the same time many times.
+    it looks like a stronger EPSP in response to a signal from a given cell (post vs pre training)
+**** Extra
+    - source:
+*** 15:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025089700
+:END:
+**** Front
+    what's the definition of LTP?
+**** Back
+    Long Term Potentiation is the long term/long lasting strengthening of a synaptic connection
+**** Extra
+    - source:
+*** 15:24 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025090076
+:END:
+**** Front
+    what are the three main mechanisms of change that support the longevity of LTP?
+**** Back
+    1. synapse strengthening
+       a. insertion of new AMPARs
+       b. increased conductance of AMPARs
+       c. increase in release probability (Pr)
+    2. activation of immature/silent synapses
+       a. through insertion of new AMPARs into synapses that don't have them
+    3. formation of new synapses
+**** Extra
+    - source:
+*** 15:29 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025091423
+:END:
+**** Front
+    what's the mechanism by which LTP "happens" (i.e. that initiates the long term changes in the synapse)?
+**** Back
+    the repeated firing of a specific synapse (presynaptic) causes an increasing EPSP response in the postsynaptic cell. when the cell becomes sufficiently depolarized NMDRs become free from the Mg+ ion that blocks them and Ca+2 starts to flood the cell, further depolarizing it, causing it to fire too.
+    the open NMDRs also make the cell more excitable, increasing the probability of it firing in unison with the presynaptic cell.
+
+    the depolarized state of the cell triggers a signal transduction pathway that triggers the transcription factors that are responsible for the long term changes.
+**** Extra
+    - source:
+*** 15:46 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025091793
+:END:
+**** Front
+    how are changes in spine morphology related with LTP?
+**** Back
+    spine morphology impacts the strength of the synapse (the effect it has on the cell's potential)
+    this change is part of what LTP actually is.
+    during repeated, strong stimulus that happens in learning NMDARs open and let Ca2+ into the cell. Ca2+ causes changes in the cytoskeleton of the spine.
+**** Extra
+    - source:
+*** 16:14 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025092171
+:END:
+**** Front
+    what's the main cellular messenger for LTP related changes?
+**** Back
+    CREB - cyclicAmp response binding protein
+**** Extra
+    - source:
+*** 16:16 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025092483
+:END:
+**** Front
+    what ions does an NMDAR pass?
+**** Back
+    Na+ and Cl- (if the Mg2+ ion isn't blocking the channel)
+**** Extra
+    - source:
+*** 16:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025094023
+:END:
+**** Front
+    how can you check the effect of NMDAR existance on behavior in awake animals?
+**** Back
+    using the cre/loxP paradigm:
+***** two transgenic mice: one with LoxP sequeces around the NMDAR gene, the other with cre gene under a specific promoter (specific to the brain region under test)
+***** the cross between the mice will have NMDAR knocked out in the specific brain region only.
+***** see how they do on memory/learning tasks
+**** Extra
+
+    - source:
+*** 16:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1610025094305
+:END:
+**** Front
+    what was the effect of NMDAR knockout on the wading pool task?
+**** Back
+***** the mice learned where the pool was a little less successfully than w.t. mice
+***** when the platform wasn't present they didn't show any sign of remembering where it was during the learning period
+*** Extra
+    - source:
+
+*** 09:16 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675138890
+:END:
+**** Front
+    how does adding KCL to the medium trigger dopamine/glutamate/GABA release?
+**** Back
+    change to K+ concentrations changes the membrane equilibrium, depolarizes the membrane and triggers Ca entry and vesicle release
+**** Extra
+    - source:
+*** 19:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675139275
+:END:
+**** Front
+    What's PCP? what does it do? what is its effect on learning and memory?
+**** Back
+    PCP is a blocker of NMDR, like the Mg ion that usually there but not sensitive to potential.
+    inhibits learning and memory
+**** Extra
+    - source:
+*** 19:14 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675139684
+:END:
+**** Front
+    what functions is Ach involved in, in the CNS
+**** Back
+      - learning and memory
+      - sleep (REM)
+**** Extra
+    - source:
+*** 19:17 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675140172
+:END:
+**** Front
+    what's the effect of muscarinic Ach rceptors?
+**** Back
+    they close K+ channels, slowing down the exit of potassium, and so *slow down* the decline of the EPSP, making summation more probable.
+    so they are excitatory
+**** Extra
+    - source:
+*** 19:24 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675140555
+:END:
+**** Front
+    what's the general effect of norepinephrin on behavior?
+**** Back
+    it's excitatory, related to alertness
+**** Extra
+    - source:
+*** 21:55 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675140966
+:END:
+**** Front
+    what's the connection between serotonin and depression?
+**** Back
+    depression is characterized by a lack of serotonin, SSRI are reuptake inhibitors of serotonin
+**** Extra
+    - source:
+***** 22:08 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675141585
+:END:
+**** Front
+    where is the central sulcus?
+**** Back separates the frontal and the parietal lobes :drill:
+*** 22:09 :drill:
+*** 22:22 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675141984
+:END:
+**** Front
+    what causes unilateral neglect?
+**** Back
+    damage to the "where" =dorsal visual pathway, somewhere in the specifically the superior parietal cortex.
+**** Extra
+    - source:
+*** 22:25 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675142358
+:END:
+**** Front
+    what does bilateral damage to the superior parietal cortex cause?
+**** Back
+    bi-lateral neglect, where  a person can't bring his attention to more than one thing at a time and also has trouble reaching for /interacting with objects in his surrounding
+**** Extra
+    - source:
+*** 22:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675142746
+:END:
+**** Front
+    what functions reside in the prefrontal cortex?
+**** Back
+            - working memory - keeping information that is no longer in the real world
+            - goal directed action
+            - decision making
+            - social and emotional skills
+            - language - brocha's area and wernicke's area: both only in the left hemisphere
+**** Extra
+    - source:
+*** 22:34 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675143240
+:END:
+**** Front
+    how many layers does the cortex have?
+**** Back
+    there are 6 layers in the cortex (gray matter - cell bodies and dendrites)
+**** Extra
+    - source:
+*** 10:52 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675143617
+:END:
+**** Front
+    what are the basal ganglia? what are their function?
+**** Back
+    subcortical nuclei, involved in movement, movement planning, motivation and reward
+**** Extra
+    - source:
+*** 11:02 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675144041
+:END:
+**** Front
+    what's the connection between the basal ganglia and Parkinson's?
+**** Back
+    the substantia nigra (pars compacta) is a part of the basal ganglia which contains the dopamine secreting neurons that are hurt in Parkinsons'. This dopamine is fed into the res of the basal ganglia.
+**** Extra
+    - source:
+*** 11:12 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675144466
+:END:
+**** Front
+    what's the main function of the thalamus?
+**** Back
+    it's a gate through which all the information from senses passes through and is being filtered before reaching the primary cortices.
+**** Extra
+    - source:
+*** 11:15 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675144954
+:END:
+**** Front
+    what is the main function of the hypothalamus?
+**** Back
+    hormonal regulation of homeostasis - through control of the autonomic nervous system: temperature, blood pressure, hunger, sleep, period. 4 F's of survival
+**** Extra
+    - source:
+*** 11:19 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675145333
+:END:
+**** Front
+    what are the major functions of the midbrain?
+**** Back
+    it controls the basic fnctions of life - heart rate and breathing
+**** Extra
+    - source:
+*** 11:20 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:ANKI_NOTE_ID: 1611675145711
+:END:
+**** Front
+    what's the major function of the cerebellum?
+**** Back
+   it's part of the motor system - in charge of balance, timing and coordination
+**** Extra
+    - source:
+
+* Waiting for export
+*** 10:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's the mechanism by which nerve gas works?
+**** Back
+    it binds to Achesterase, preventing the breakdown of Ach, creating overactivation of the muscles = spasms
+**** Extra
+    - source: [[id:2fdb5f18-3a18-409d-ae9b-191a171e2f40]]
+*** 10:28 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's the action mechanism of atropine?
+**** Back
+    it blocks the musccarinic Ach receptors which are in the lungs, and when they are active fluid gets into the lungs.
+**** Extra
+    - source: [[id:e541355a-34e6-4a3d-abc5-495e0fe15e7d]]
+*** 10:30 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    how does curare (poisoned arrows) work?
+**** Back
+    it causes paralysis: it binds to the nicotinic Ach receptors, preventing the voltage rise that would open the channels in the invaginations and activate the muscle
+**** Extra
+    - source: [[id:314469e5-3c72-4463-acfb-190d10e6e1dc]]
+*** 17:06 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    What's a receptive field? what's the receptive field of a single retinal photoreceptor?
+**** Back
+   the receptive field of a neuron is the area of the world in which a stimulus will activate that particular cell. the receptive fields of photoreceptors and of neurons in LGN and in V1 are all the same - they respond to a point (small circle) of light in some given location in the image.
+**** Extra
+    - source: [[id:20210209T170644.650702]]
+*** 17:11 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    where does binoccular (= combining information from both eyes) begin in the brain?
+**** Back
+    binocular vision starts only after layer IV of the visual cortex - a single cell in level III receives inputs from both cells that are activated by the left visual field and by the right.
+**** Extra
+    - source: [[id:20210209T171134.392332]]
+*** 17:13 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what are occular dominance columns?
+**** Back
+    cells in level IV are divided into "occular dominance columns" - areas that are only activated by one side of the visual field.
+**** Extra
+    - source: [[id:20210209T171338.669062]]
+*** 17:27 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what are simple cells? how do they work?
+**** Back
+
+ cells that are not activated by points of light, but by elongated shapes (=lines) in a specific orientation.
+***** this is caused by a line activating specifically the 'on center' area of three retinal cells.
+***** are found in layers II & III
+***** different angles are distributed along the layer
+**** Extra
+    - source: [[id:20210209T172723.180234]]
+*** 17:32 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's a cortical module?
+**** Back
+    a 2 x 2 x 2 mm that has all the information (both eyes, orientation of lines, colors) from a specific small area of the visual field
+    it has occular dominance columns, perpendicular layers of orientation simple cells, and again perpendicular color responsive cells
+**** Extra
+    - source: [[id:20210209T173236.431974]]
+*** 17:38 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    how does the segregation into occular dominance areas develop in the eraly post-natal days?
+**** Back
+   cells in layer IV respond to synchronized activity of retinal neurons. it turns out that the eyes alternate in spontaneous activation, so the neurons that are connected to each eye and are activated become, dedicated to that eye. at the beginning all neurons are connected to both eyes.
+**** Extra
+    - source: [[id:20210209T173826.754652]]
+*** 20:26 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's Aga IV-A?
+**** Backer of voltage dependent Ca2+ channels - it bloc
+    like omega conotoxin, it a blocks AP from releasing the vesicles
+**** Extra
+    - source: [[id:20210210T202635.670422]]
+*** 09:28 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's the role of glutamate in AD?
+**** Back
+    in AD there's increased release of glutamate in the synapse.
+    1. this causes "noise" - since glutamate is normally released to induce an AP (the LTP mechanism of AMPAR and NMDAR)
+    2. the presence of glutamate causes an a continuous influx of Ca+ which is eventually toxic.
+**** Extra
+    - source: [[id:20210215T092847.554007]]
+*** 09:39 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's MAO (parkison's)?
+**** Back
+    MAO is an enzyme that catabolizes dopamine - so a drug that inhibits MAO is used to help with PD symptoms.
+    Also COMT - same idea
+**** Extra
+    - source: [[id:20210215T093910.036511]]
+*** 09:54 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what's the relation between alpha-synuclein and parkinson's?
+**** Back
+    mutations in a-synuc. reduce the availability of vesicles that can transport dopamine, or their ability to fuse with the membrane.
+**** Extra
+    - source: [[id:20210215T093910.036511]]
+*** 09:59 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what are lewy bodies?
+**** Back
+    aggregates of alpha-synuclein that are the hallmark of PD
+**** Extra
+    - source: [[id:20210209T173826.754652]]
+*** 10:04 :drill:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: TheDeck
+:END:
+**** Front
+    what are the 3 main avenues of treating PD?
+**** Back
+    1. L-Dopa - a dopamine precursor
+    2. COMT/MAO - preventing the breakdown of dopamine, prolonging its effect
+    3. dopamine agonists, mimicking its effect on the post-synaptic cell
+    4. Ach inhibitors - Ach and dopamine act in balance, in PD they're out of balance and Ach is overactivated/
+**** Extra
+    - source: [[id:20210209T173826.754652]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ROAM_REFS: @reznikMotorOutputNeural2019
+:ID:   20211031T151238.192286
+:END:
+#+title: Notes on Reznik, Mukamel, Motor Output, Neural States and Auditory Perception
+* main points
+* findings
+* methods
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):

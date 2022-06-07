@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20220508T171510.007111
+:ROAM_ALIASES:  AON
+:END:
+#+title:  Action observation network
+
+An extension of mirror neuron idea to human fMRI

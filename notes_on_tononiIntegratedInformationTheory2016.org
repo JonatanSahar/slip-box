@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       20210627T195318.241156
+:ROAM_REFS: cite:tononiIntegratedInformationTheory2016
+:END:
+#+TITLE: Literature notes: Integrated information theory: from consciousness to its physical substrate
+#+ROAM_KEY:* Notes
+:PROPERTIES:
+:Custom_ID: tononiIntegratedInformationTheory2016
+:NOTER_DOCUMENT: /mnt/c/Users/Jonathan/Google Drive/.notes/.bibliography/bibtex_pdf/Integrated-information-theory-from-consciousness-to-its-physical-substrate.pdf
+:AUTHOR: Tononi, G. et al.
+:JOURNAL:
+:DATE:
+:YEAR: 2016
+:DOI:  http://dx.doi.org/10.1038/nrn.2016.44
+:URL:
+:END:
+cite:tononiIntegratedInformationTheory2016
+
+*** Pg. 1
+***** IIT addresses [[file:../slip-box/2020-09-30-the_hard_problem_of_consciousness.org][§:the hard problem of consciousness]] from a new angle - not looking at the brain and asking hoe does it "produce" consciousness, but looking at consciousness and its properties as axioms, and deducing "postulates" about what the underlying structure must be.
+***** also provides  a mathematical framework for assessing the "quality and quantity" of consciousness in a system.
+***** PSC=physical substrate of consciousness
+***** Axioms - every conscious experience...:
+
+            1. exists intrinsically
+            2. is structured
+            3. is specific
+            4. is unitary
+            5. is definite
+
+***** Axioms elaborated:
+******* Axiom 1: intrinsic existence:
+********* my subjective experience just *exists*, cf. decartes' cogito ergo sum.
+********* I think therefor I think
+******* Axiom 2: composition:
+********* an experience is composed or structured from several (many) phenomenal distinctions" (=qualia) - locations, objects, properties of objects, feelings, thoughts, etc.
+******* Axiom 3: information
+********* an experience is specific, composed of the specific qualia which compose it - a change to any of the qualia will constitute a distinctly different experience.
+********* they define physical existence as cause - effect powers: being affected and having the capability to affect other things, and also itself (PSC -> PSC)
+***** the PSC must have corresponding properties that create these properties of consciousness, IIT calls them "the postulates"
+***** Postulates, derived from the axioms:
+******* Postulate 1: if my experience exists (and if there is a physical substrate/correlate to that experience) then what physically enables that experience must also exist.
+******* Postulate 2: the components of the PSC can affect one another ("have cause-effect powers over one another")
+******* Postulate 3:
+*** Pg. 2
+
+*****
+

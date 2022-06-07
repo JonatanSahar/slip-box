@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20210627T195155.428120
+:END:
+#+TITLE: Deep waves
+In the hippocampus, these are events of mass synchronized firing of O(2 million neurons)
+

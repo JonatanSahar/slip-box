@@ -1,0 +1,3788 @@
+* Exported
+*** 18:23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+    What is the problem with using white noise as a baseline for comparison of brain activity?
+
+**** Back
+
+    we are activating a whole bunch of cognitive processes that are not necessarily what we want to measure (greater attention, surprise, etc.)  - since white noise elicits so little response
+
+**** Extra
+
+    - source: [[id:20211021T182353.815391]]
+
+*** 18:35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+    What is the difference between the ventral and dorsal streams of visual processing?
+
+**** Back
+***** ventral - what
+
+        Or: vision for perception
+
+***** dorsal - where, actually how (we can we use it)
+
+        Or: vision for action
+
+**** Extra
+
+    - source: [[id:20211021T183519.523650]]
+
+*** 18:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+        What is the famous experiment that showed the dissociation of the "what and where" (ventral and dorsal) streams of visual perception?
+
+**** Back
+
+        D.F patient with slit experiment - entering a card into the slit vs estimating it. Ventral lesion.
+        Showing that perceiving and acting on objects are dissociated
+
+**** Extra
+
+    - source: [[id:20211021T183644.563696]]
+
+*** 18:39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+    Define the idea of embodiment in the area of semantic integration
+
+**** Back
+
+   embodiement - the idea that representations of meaning rely on sensory-motor areas
+
+**** Extra
+
+    - source: [[id:20211021T183944.751050]]
+
+*** 18:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+    How does the category size affect the speed of categorization? {{Hint: Is peacock a bird vs animal}}
+
+**** Back
+
+    Its usually slower to categorize something as being a part of a categoy with many members
+
+**** Extra
+
+    - source: [[id:20211021T184206.487470]]
+
+*** 18:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+
+**** Front
+
+    When learning information about a category of concepts through information about a member of that category - which way is it harder for people to generalize: from typical exemplars atypical ones, or vice versa?
+
+**** Back
+
+ From atypical examples it's harder to generalize
+
+**** Extra
+
+    - source: [[id:20211021T184410.976028]]
+*** 16:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Is there a distance between the dura and the arachnoid in the spinal chord?
+**** Back
+    No. Not in the spinal chord and not in the brain.
+**** Extra
+    - source:
+*** 11:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How do you select a slice in an MRI scan?
+**** Back
+    You define a magnetic field gradient that changes with the distance, and that lets you choose which RF frequency to focus on when reading the output
+**** Extra
+    - source:
+*** 11:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+   How does the magnetic gradient allow you to choose the slice in an MRI scan?
+**** Back
+    The gradient changes the magnetic field in a predictable way, and in different magnetic field the larmor frequency of the hydrogen atoms is different = they absorb and return different RF frequencies. We can then choose which RF freq to focus on.
+**** Extra
+    - source:
+*** 11:22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the strength of the gradient affect the thickness of the slice in an MRI?
+**** Back
+    The stronger the gradient, the steeper the slope of the frequency/distance graph, so that more frequencies map onto a smaller distance range. So: stronger gradient => thinner slices for the same band-width
+**** Extra
+    - source:
+*** 11:26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Why does the RF freq have to be synchronized with the magnetic gradient in an MRI scan?
+**** Back
+    RF freq is synchronized with the gradient because the targeting of a slice is a combination of the G and the RF pulse freq - the RF has to match the larmor freq at the wanted slice, which is determined by the G
+
+**** Extra
+    - source:
+*** 11:28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How doe a Fourier transform of an image work?
+**** Back
+    - fourier transform of an image: we give a differnt frequency to each pixel, and set the amplitude of that frequency to e.g the grayscale value of the pixel. We then sum all the sinusoids of the different pixels into a single waveform.
+    - this is a compressed view of the image in the time domain, and FT can get us back into the picture domain.
+
+**** Extra
+    - source:
+*** 11:35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    We want to construct an image from RF output of tissue in a given slice (MRI). How do we know what's the reading from each pixel?
+**** Back
+    we know where each larmor frequency "belongs" (to which pixel in the final image) by using two more gradients within the slice, to change the magnetic field in the X and Y axes too.
+
+**** Extra
+    - source:
+*** 11:37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the frequency gradient and phase gradient (MRI)?
+
+**** Back
+ gradients of the magnetic field in the X and Y axes which change the larmor frequencies across the slice. (Allowing us to determine what's the value of pixel in the final image)
+
+
+**** Extra
+    - source:
+*** 11:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's TR (MRI)
+**** Back
+    TR - time between scanning each line in the slice
+
+**** Extra
+    - source:
+*** 11:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's TE (MRI)?
+**** Back
+    TE - time to echo - how long we wait for the echo to converge so we can measure T2
+
+**** Extra
+    - source:
+*** 11:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the signal (contrast) depend on TE (MRI)
+**** Back
+            the more dephasing we let happen (the treater TE), the stronger the contrast will be (between fatty and watery areas for example)
+
+**** Extra
+    - source:
+*** 11:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the signal (contrast) depend on TR (MRI)?
+
+**** Back
+            If we shorten the TR = don't wait for full recovery (back to Z axis), we will get a different signal from areas that have different T1
+
+**** Extra
+    - source:
+*** 17:31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Dasd';;
+**** Back
+
+**** Extra
+    - source:
+*** 14:05
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What area the three types of cortex tissue (histology)
+**** Back
+    Neocortex
+                    - new, in evolutionary terms
+    Allocortex - not new
+                    - Paleocortex - old, very old
+                    - Archicortex - archi=first, so oldest in evolutionary terms
+
+**** Extra
+    - source:
+*** 14:07
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many layers does each type of cortex have?
+**** Back
+*****  Neocortex 6 layers
+***** Allocortex - not new
+******* Paleocortex  4-5 layers
+***** Archicortex 3 layers
+**** Extra
+    - source:
+*** 14:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 6 layers of the neocortex?
+**** Back
+                      1. Molecular - almost no cell bodies, mostly connections
+
+                      2. External Granular - connect other cortical areas in the same hemisphere
+                      3. External Pyramidal - mostly connect to the other hemisphere
+
+                      4. Internal granular - gets all the input from the thalamus
+                      5. Internal Pyramidal - mostly send towards the brainstem. Here are the primary motor neurons (Beltz cells)
+
+                      6. Multiform - mostly towards the thalamus
+
+**** Extra
+    - source:
+*** 14:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Give three examples of histology relating to function in different areas of the brain
+**** Back
+    * sensory areas get a lot of sensory input from tehe thalamus, so it has a thicvker layer IV
+    * cortex אסוציאטיבי: multimodal representation of concepts - inputs from many types of areas - has a rather balanced struvture
+    * motor cortex: has almost no sensory input, so no layer IV, but huge pyramidal neurons, so very thick layer V.
+
+
+**** Extra
+    - source:
+*** 14:12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the major function of the paleocortex in humans?
+**** Back
+    The Olfactory System
+**** Extra
+    - source:
+*** 14:12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the palecortex in humans?
+**** Back
+    In the Parahippocampal gyrus
+**** Extra
+    - source:
+*** 14:13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What structure is made of the archicortex in humans?
+**** Back
+    The Hippocampus
+**** Extra
+    - source:
+*** 14:14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Order the types of cortex from oldest to most recent (evolutionary time)
+**** Back
+    1. archicortex
+    2. palecortex
+    3. neocortex
+**** Extra
+    - source:
+*** 14:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+            What is a "primary cortex"
+**** Back
+                * the area where the representation is the closest to what exist at the periphery
+                * for the motor pathway - the last stop before the brainstem/spinal chord
+                * for sensory input - the first stop on the way in
+
+**** Extra
+    - source:
+*** 14:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is an association area?
+**** Back
+                * combining information from different modalities
+                * concepts
+
+**** Extra
+    - source:
+*** 14:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+            Where is the primary motor cortex?
+**** Back
+            * BA  4
+            * the precentral gyrus
+**** Extra
+    - source:
+*** 14:18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's special in the histology of M1?
+**** Back
+    * no internal granular layer, i.e. No layer IV ("agranular cortex")
+    * thick pyramidal layer V
+
+**** Extra
+    - source:
+*** 14:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What areas make up the secondary and associative motor cortex?
+**** Back
+******* Premotor (=before, more frontal than motor) Cortex  - BA 6
+******* SMA supplamentary motor area - in the most medial part of the premotor cortex, also folds into the medial surface - also BA 6
+******* Anterior cingulate cortex (ACC)
+******* frontal eye field (FEF)
+**** Extra
+    - source:
+*** 14:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the difference between the functionms of the premotor and the SMA?
+**** Back
+              The premotor cortex generates a set of movements which make up a motor plan (high level like walking), it activates and coordinates neurons in M.
+              The SMA activates the motor plan in the premotor cortex, and also deals with anticipation of external conditions relating to the movement - like the trajectory of a ball we want to hit
+**** Extra
+    - source:
+*** 14:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the function of the ACC as part of the secondary motor cortex?
+**** Back
+            error detection (not only motor!)
+
+**** Extra
+    - source:
+*** 14:34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the function of the FEF (frontal eye field)?
+**** Back
+    It synchronizes the movement of the eyeballs so it's consistent with the rest of our movement and where we put our attention
+
+**** Extra
+    - source:
+*** 14:34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the frontal eye field (FEF)
+
+**** Back
+     lower part of BA 8, anterior to the premotor cortex
+**** Extra
+    - source:
+*** 14:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where S1 (primary sensory cortex)?
+**** Back
+    * BA 1, 2, 3
+    * postcentral gyrus
+
+**** Extra
+    - source:
+*** 10:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many cervical vertebrae area there?
+**** Back
+   7
+**** Extra
+    - source:
+*** 10:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        How many thoracic vertebrae area there?
+
+**** Back
+    12
+**** Extra
+    - source:
+*** 10:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+       How many lumbar vertebrae area there?
+
+**** Back
+   5
+**** Extra
+    - source:
+*** 10:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        How many vertebrae are there in the sacrum?
+
+**** Back
+    5
+**** Extra
+    - source:
+*** 10:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        How many vertebrae are there in the coccyx?
+
+**** Back
+    4
+**** Extra
+    - source:
+*** 10:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the names of the differenttypes of vertebrae (areas), from top to bottom?
+**** Back
+    Cervical, thoracic, lumbar, sacral, coccyx
+**** Extra
+    - source:
+*** 10:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many vertebrae in total?
+**** Back
+    33
+**** Extra
+    - source:
+*** 10:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How far down the spine are there still intervertebral foramena?
+**** Back
+    The end of the sacrum
+**** Extra
+    - source:
+*** 10:47
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many segments in the spinal chord? What is a segment?
+**** Back
+    Each segment is a nerve going out & in to the spinal chord. There are 31 segments.
+**** Extra
+    - source:
+*** 10:48
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    The spinal chord has gray matter and white matter - which is on the inside and which on the outside?
+**** Back
+    The gray matter is on the inside - the opposite of how it is in the brain.
+**** Extra
+    - source:
+*** 10:54
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the epidural space?
+**** Back
+    The space between the dura and vertebrae in the spinal chord/column
+**** Extra
+    - source:
+*** 10:55
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Is there an epidural space in the brain?
+**** Back
+    No, in health there's no space above the dura
+**** Extra
+    - source:
+*** 10:55
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the subdural space
+**** Back
+    The space between the arachnoid and the dura in the spinal chord
+**** Extra
+    - source:
+*** 10:56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Is there a subdural space in the brain?
+**** Back
+    No, it exists only in the spinal chord
+**** Extra
+    - source:
+*** 10:56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the subarchnoid space?
+**** Back
+    It's the space between the arachnoid and the pia matterin the brain and in the spinal chord. It's filled with CSF.
+**** Extra
+    - source:
+*** 10:57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What else is there in the subarchnoid space except CSF?
+**** Back
+    The blood vessels of the brain.
+**** Extra
+    - source:
+*** 10:59
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Motor information leaves the spinal chord through which direction?
+**** Back
+    Through the ventral rootlets
+**** Extra
+    - source:
+*** 11:00
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which direction (ventral/dorsal) doen sensory information come into the spinal chord?
+**** Back
+    Through the dorsal rootlets
+**** Extra
+    - source:
+*** 11:01
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where are there pseudo-unipolar neurons
+**** Back
+    In the dorsal root ganglion (DRG) coming into the spinal chord
+**** Extra
+    - source:
+*** 11:03
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which structure in the spinal chord contains both motor and sensory information carrying neurons?
+**** Back
+    The mixed spinal nerve which contains both the dorsal and ventral roots
+**** Extra
+    - source:
+*** 11:06
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What does the mixed spinal nerve split into after it leaves the vertebra?
+**** Back
+    The dorsal ramus (branch) and ventral ramus
+**** Extra
+    - source:
+*** 11:09
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the name of the areas in the spinal chord where the pia is lodged into the dura matter? What do we think they are for?
+**** Back
+    They are the denticulate ligaments, and they provide structural support.
+**** Extra
+    - source:
+*** 11:11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the name of the very end of the spinal chord?
+**** Back
+    Conus medularis
+**** Extra
+    - source:
+*** 11:12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+   Conus medularis is the end of the spinal chord. What does it mean structurally, what differentiated it from the cauda equina?
+**** Back
+    It's te end of the space that is filled with CSF, and also the endo of the grey and white matter of the column. The cauda equina is the name for the rest of the nerves that need to ennervate areas that are lower than the conus medularis, they continue on downwards
+**** Extra
+    - source:
+*** 11:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the difference between the cauda equina and the filum terminale?
+**** Back
+    Cauda equina are actual nerves, that ennervate areas beneath the conus medularis where the spinal chord ends. Filum terminale is the remains of the pia matter that are left caudally to the coccyx
+**** Extra
+    - source:
+*** 11:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    At which vertebra does the spinal chord terminate?
+**** Back
+    Between L1 and L2
+**** Extra
+    - source:
+*** 11:21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are limb enlargements (spinal chord)
+**** Back
+      Areas where the spinal chord is thicker - thicker nerves, more information
+  Used for areas where we have finer motor control, and higher resolution sensing.
+    - cervical (neck)
+        - enervates hands
+    - lumbosacral (lower back)
+        - enervates legs and feet
+
+**** Extra
+    - source:
+*** 11:22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    The white matterin the spinal chord is devided into three funiculi - what are they?
+**** Back
+    Ventral, lateral and dorsal funiculi - they are the nerve tracts that travel up and down the spine
+**** Extra
+    - source:
+*** 11:58
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the general division of which rootlets ennerrvate which areas of the body - when looking at a cross section of the spinal chord?
+**** Back
+    - schematically we may say that:
+        - lateral areas enervate the arms
+        - medial areas enervate legs
+        - and in between areas enervate the trunk
+        - dorsal areas are sensory
+        - ventral areas are motor
+
+**** Extra
+    - source:
+*** 12:02
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the lamina of rexed
+**** Back
+    - Laminae of rexed - layers in the gray matter, different cells and functions in each layer.
+**** Extra
+    - source:
+*** 12:02
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's special about layers 5-7 of lamina of rexed?
+**** Back
+        layers V, VI, VII are *decousation* layers - meaning they have to do with crossing sides, from the word
+**** Extra
+    - source:
+*** 12:04
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which layers (in general) in lamina of rexed process sensory information, and which process motor information?
+**** Back
+    Lower number areas <5 are dorsal so they process sensory information, while layers >7 are ventral and process motor information
+**** Extra
+    - source:
+*** 12:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the main parts of the conceived embrio in the first week?
+**** Back
+    The blastocyst, whic contains:
+        - embryoblast - later to form the fetus
+        - trophoblast - the wall of the blastocyst, later to form the placenta and other external structures
+**** Extra
+    - source:
+*** 12:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the bilaminar disk? (development) what is it composed of?
+**** Back
+    It's the state of the fetus in the 2nd week, it contains the epiblast - later to form the fetus and the hypoblast
+**** Extra
+    - source:
+*** 12:19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which direction does the primitive streak develop along?
+**** Back
+    Rostral to caudal
+**** Extra
+    - source:
+*** 12:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the primitive node?
+**** Back
+    It's the most caudal partof the primitive streak, the part that leads the development
+**** Extra
+    - source:
+*** 12:21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 3 layers of the embrio in the 3rd week?
+**** Back
+    - 3 layers:
+        1. ectoderm - outer
+           Skin, hair, and *nervous system*
+        2. mesoderm - inner
+           Muscles and skeleton
+        3. endoderm - inner
+           Internal organs
+    **** Extra
+    - source:
+*** 22:37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the location/function of the lamina terminalis in neural development?
+**** Back
+    the *lamina terminalis* is the anterior-most part of the telencephalon when it develops (as it grows, other parts become more rostral/anterior than the lamina terminalis)
+
+**** Extra
+    - source:
+*** 22:38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which types of areas do projection fibers connect?
+**** Back
+    projection fibers connect the cortex with non-cortex structures
+    :PROPERTIES:
+    :ID:       20211227T223852.856379
+    :END:
+
+**** Extra
+    - source:
+*** 22:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the internal capsule located
+**** Back
+    At the bottom of the corona radiata
+**** Extra
+    - source:
+*** 22:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the three parts of the internal capsule?
+**** Back
+                              1. anterior limb
+                              2. genu
+                              3. posterior limb
+
+**** Extra
+    - source:
+*** 22:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two projections going out of the posterior limb of the internal capsule?
+**** Back
+                                   * retrolenticular part - fibers going caudally towards the occipital lobe - also called the *optic radiation*
+                                   * sublenticular part - the *auditory radiation* - going into the auditory cortex
+
+**** Extra
+    - source:
+*** 10:14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which area in the developing neural tube do the basal nuclei develop from?
+**** Back
+    They develop from the telencephalon (from an area of growth in the rear of the telencephalon)
+**** Extra
+    - source:
+*** 10:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two nuclei composing the corpus striatum?
+**** Back
+from the lateral mass of the developing striatum will develop the *lentiform nucleous* (from lentil - עדשה) and from the medial mass - the *caudate nucleous*
+
+**** Extra
+    - source:
+*** 11:19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What connects the lentiform and the caudate?
+**** Back
+    The nucleous accumbens
+**** Extra
+    - source:
+*** 11:23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the claustrum located and what is it?
+**** Back
+    It's a thin sheet of gray matter in betewen the external- and extreme-capsules
+**** Extra
+    - source:
+*** 11:28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    If we devide the straiatum by function and development, what would the division be?
+**** Back
+    a functional & embriological division of the puts the putamen with the caudate and divides between the "striatum" and the "pallibus"
+
+
+**** Extra
+    - source:
+*** 11:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the anatomical division of the striatum?
+**** Back
+    an anatomical division divides between the caudate and the lentiform, which are connecteted throug the nuc. accumbens
+
+**** Extra
+    - source:
+*** 11:31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What structures develop from diencephalon?
+**** Back
+    Anything with thalamus in the name: thalamus, hypothalamus.. Any more?
+**** Extra
+    - source:
+*** 11:32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 2 types of dopamin receptors and what is the difference between them?
+**** Back
+*********** D1 receptors create excitation
+*********** D2 create inhibition
+
+**** Extra
+    - source:
+*** 11:35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where do fibers in the genu of the intenal capsule connect to?
+**** Back
+    The medula oblongata - connections are called the corticoulbar tract
+**** Extra
+    - source:
+*** 11:38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which fibers run through the posterior limb of the internal capsule ?
+**** Back
+    Corticospinal fibers, and sensory fibers
+**** Extra
+    - source:
+*** 11:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which fibers run through the sublenticular part of the internal capsule?
+**** Back
+    Auditory connection between the thalamus (Medial geniculate body) and A1
+**** Extra
+    - source:
+*** 11:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the three anterior comissures?
+**** Back
+    1. Anterior commissure
+    2. Hippocampal commissure
+    3. Corpus Callosum
+**** Extra
+    - source:
+*** 11:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two posterior comissures?
+**** Back
+Posterior commissure
+Habenular commissure
+**** Extra
+    - source:
+*** 11:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas are connected by the cingulum?
+**** Back
+                        It goes from the subcallosal area all the way around to the uncus in the temporal gyrus
+
+**** Extra
+    - source:
+*** 12:02
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the three main nuclei of the thalamus
+**** Back
+    1. medial
+    2. ventral
+    3. anterior
+**** Extra
+    - source:
+*** 12:03
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas of the thalamus are  involved in planning and initiation of movement?
+**** Back
+    The VA and VL (ventralanterior and ventral lateral) areas of the lateral nucleous:
+
+**** Extra
+    - source:
+*** 12:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the direct pathway of motor activation work?(basal nuclei)
+**** Back
+- The GPi and the SNr are thalamus inhibitors
+- the striatum is a GPi inhibitor
+- the cortex activates the STR, which inhibits the thalamus inhibitor (GPi)
+-  the thalamus is free to  activate M1 neurons in the cortex
+**** Extra
+    - source:
+*** 12:25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the indirect pathway of motor activation work (basal nuclei)
+**** Back
+The indirect path is meant for reduction of unwanted movement
+    - the subthalamic nucleous is a GPi activator (so when it's active it's a thalamus inhibitor)
+    - the GPe is an inhibitor of the hypothalamic nucleous
+    - there's a neuron in the striatum which is an inhibitor of the GPe
+    - the cortex activates that neuron in the STR -->it inhibits the GPe --> GPe stops inhibiting the subthalamic nucleous --> the subthalamic nucleous stops inhibiting the GPi --> the GPi continues its action as a thalamus inhibitor
+    - and so there's less activation of M1 in the cortex
+**** Extra
+    - source:
+JK
+*** 12:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the SNc affect movement plannig and execution?
+**** Back
+    - in the direct pathway: it's connected to neurons in the putamen through D1 receptors, which makes its action excitatory - supporting the direct pathway in creating movement.
+    - in the indirect pathway: it's connected to the putamen through D2 receptors, which makes its action inhibitory - negating the indirect pathway action of inhibiting movement - so it again creates *more* movement
+**** Extra
+    - source:
+*** 12:48
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What would be the effect of damage to GPe input area on the motor system?
+**** Back
+    GPe is a part of the indirect pathway. It inhibits the subthalamic nucleous, which is (eventually) a thalamus inhibitor. If the GPe is damaged and can't receive commands from the cortex, then the cortex can't inhibit the thalamus, and we'll have large unwanted movements
+**** Extra
+    - source:
+*** 12:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What would be the effect of damage to GPe output area on the motor system?
+**** Back
+    GPe is a part of the indirect pathway. It inhibits the subthalamic nucleous, which is (eventually) a thalamus inhibitor. If the GPe is damaged and can't affect the subthalamic nucleous, then the subthalamic nucleous will be always active, activatin the GPi and inhibiting the thalamus - thus inhibiting movement all the time. We'll have difficulty in creating movement at all
+
+**** Extra
+    - source:
+*** 16:53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    The alar plate and the basal plate of the developing spinal tube: which becomes sensory neurons and which motor?
+**** Back
+The alar plate it the top plate when looking at a cross section from the top, and it's the dorsal part of the spinal tube (later spinal chord), so it's the one ddeveloping into sensory neurons
+**** Extra
+    - source:
+*** 17:56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which BA is broca located at?
+**** Back
+    The Expressive Speech Area - Broca’s area (BA 44,45)
+
+**** Extra
+    - source:
+*** 17:56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Whic BA is wernicke's area located at?
+**** Back
+    The Receptive Speech Area - Wernicke’s area (BA 22)
+
+**** Extra
+    - source:
+*** 17:57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which nerve tract connects the language areas?
+**** Back
+    arcuate fasciculus - part of the SLF, connecting Broca and Wernicke areas
+
+**** Extra
+    - source:
+*** 18:00
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two parts of the pituitary gland (hypophysis), and which precursor tissue does each develop from?
+**** Back
+    - anterior part develops from the non-nueonal ectoderm - like the roof of the mouth
+    - posterir part (=neuorhypophysis) is part of the thalamus itself, develops from the neural tube
+
+**** Extra
+    - source:
+*** 18:01
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What does the hypophysis secret?
+**** Back
+    the posterior pituitary part (neurohypophysis) secretes hormones - oxytocin and vasopressin
+
+**** Extra
+    - source:
+*** 18:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 6 layers of the neocortex, and what are their respective functions?
+**** Back
+                      1. Molecular - almost no cell bodies, mostly connections
+
+                      2. External Granular - connect other cortical areas in the same hemisphere
+                      3. External Pyramidal - mostly connect to the other hemisphere
+
+                      4. Internal granular - gets all the input from the thalamus
+                      5. Internal Pyramidal - mostly sends towards the brainstem. Here there are the primary motor neurons (Beltz cells)
+
+                      6. Multiform - mostly towards the thalamus
+
+**** Extra
+    - source:
+*** 18:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which lobes are connectedby the anterior commisure?
+**** Back
+    It connects the two temporal lobes
+
+**** Extra
+    - source:
+*** 10:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas of the body does fasciculus gracilis  bring sensory information from?
+**** Back
+    The lower areas of the body
+**** Extra
+    - source:
+*** 10:53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas of the body does fasciculus coneatus  bring sensory information from?
+**** Back
+    The upper areas of the body
+
+**** Extra
+    - source:
+*** 11:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the meaning of the diffusion coefficient in MRI?
+**** Back
+    It means to what degree is water free to move around in every direction in a given voxel
+**** Extra
+    - source:
+*** 10:53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which is the high energy state and which is the low energy state ($\alpha, \beta$) (MRI)
+**** Back
+    $\alpha = low energy$
+    $\beta = high energy$
+**** Extra
+    - source:
+*** 11:11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the definition of T1, how does it change between different tissues?
+**** Back
+    T1 is the relaxation time towards Z axis, the restoration of the magnetization. The shorter is for a given tissue, the quicker the spins in that tissue go back to the original magnetization
+**** Extra
+    - source:
+*** 11:14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does T1 relate to the amount of RF energy emitted from the tissue?
+**** Back
+    The shorter the T1, the quicker the tissue gives back the *full* amount of RF it received
+**** Extra
+    - source:
+*** 11:29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the equation connecting larmor freq. And the magnetic field?
+**** Back
+    $\omega = \gamma \cdot B_0$
+    So larmor freq is faster for larger magnetic fields
+**** Extra
+    - source:
+*** 11:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the order of magnitude of T1 times?
+**** Back
+    A few 100s of ms :
+ - CSF has the highest T1 and its ~1800ms.
+ - fat has the lowest and its ~200ms
+**** Extra
+    - source:
+*** 11:49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the difference between T2 and T2*?
+**** Back
+    T2 is a measure of the dephasing caused *only by spin-spin* interactions: spins change the magnetic firld in their environment, causing a change in the larmor freq of neighbouring spins.
+    T2* is a measure of the total dephasing - so it includes T2, and in addition also the effect of fixed local differences in the magnetic field (like metal, sinuses etc.)
+**** Extra
+    - source:
+*** 11:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What do we use inversion recovery pulse program for?
+**** Back
+    For measuring T1 by repeated measurements
+**** Extra
+    - source:
+*** 11:53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What do we use T2* imaging for? What is it most affected by?
+**** Back
+    T2* is most affected by the content of iron in the tissue - so we can check bleeding, problems with growth of blood vessels, and also deoxyhemoglobin (fMRI)
+**** Extra
+    - source:
+*** 12:01
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does T2 and T2* change between different tissues?
+**** Back
+     tissues with shorter T2 will show less magnetization after a given time than tissues with longer T2
+**** Extra
+    - source:
+*** 12:03
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the qualitative difference between T1 plots and T2/T2* plots?
+**** Back
+         T2/T2* are measures of _decay_ - while T1 is a measure of _accumulation_ (of the magnetization)
+
+**** Extra
+    - source:
+*** 12:07
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which will have a stronger signal - a tissue with short or long T2?
+**** Back
+    Since T2 is a decaying measure, the longer the T2, the _more_ magnetization will remain after a given time (T2 = magnetization decays more slowly), so it will show *more signal*
+**** Extra
+    - source:
+*** 12:09
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the order of magnitude of T2 values?
+**** Back
+    10s of ms: from 50ms for fat to 200 ms of CSF, gray matter having 70 ms
+**** Extra
+    - source:
+*** 12:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the order of magnitude of RF frequencies we use in the MRI?
+**** Back
+    128 MHz
+**** Extra
+    - source:
+*** 12:26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How can we "get rid" of the signal from a specific tissue type in a T1 MRI scan?
+**** Back
+We can  set the 90 deg pulse to be exactly at the time that (for the tissue type we want) the Z axis magnetization is zero (this is when exactly half of the protons that got moved to beta state went back to alpha, and its a different value for different tissues)
+**** Extra
+    - source:
+*** 13:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Explain why both fast and slow molecules have longer T1 than "medium" molecules
+**** Back
+    Fast molecules have a lot og energy, so it's less probable that they find another molecule in the matrix that will be able to accept it.
+    Slow molecules don't meet a lot of other molecules they can interact with
+**** Extra
+    - source:
+*** 13:17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Why does a stronger magnetic filed cause longer T1 times?
+**** Back
+    It causes a higher larmor freq, which means more energy, faster molecules, which have a harder time to release that energy into the environment - causing it to take a longer time.
+**** Extra
+    - source:
+*** 13:18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Order the following by the length of their T1/T2:
+    gray matter, white matter, CSF, fat, water
+**** Back
+    1. CSF/water
+    2. Gray matter
+    3. White matter
+    4. Fat
+
+       True for both T1 and T2
+**** Extra
+    - source:
+*** 16:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is susceptibillity? (MRI)
+**** Back
+    susceptibillity: the degree to which a matter becomes magnetized under a strong magnetic field
+
+**** Extra
+    - source:
+*** 16:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Is the susceptibillity of electrons greater or lesser than that of protons?
+**** Back
+    susceptibillity of electrons is *much* higher than that of protons
+
+**** Extra
+    - source:
+*** 16:22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the relation between susceptibility and dephasing?
+**** Back
+    Susceptibility  accelerates the dephasing of the protons
+
+**** Extra
+    - source:
+*** 16:23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which parameter is measured/shown by SWI?
+**** Back
+    SWI is an enhanced contrast of T2*
+
+**** Extra
+    - source:
+*** 17:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is a normal durarion for TR? And for TE?
+**** Back
+    TR usually ~5 sec
+    TE ~5 ms
+**** Extra
+    - source:
+*** 17:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        What combinations of TR (long/short) and TE (long/short) do we need for T1 weighted and T2 weighted images? And for proton density images?
+**** Back
+                - for T1 weighted images: short Tr, short Te
+                - for T2 weighted images: long Tr, long Te
+                - proton density: long Tr, short Te
+
+**** Extra
+    - source:
+*** 18:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    In a T1 weighted image, which tissues will have a higher value?
+**** Back
+                      - in a weighted image we get the raw signal value - rather than the T1/T2 times - so for T1 weighted scans, tissues with shorter T1 will have a higher value (they have a steeper slope = they grow faster):
+
+**** Extra
+    - source:
+
+*** 18:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    In a T2 weighted image, which tissues will have a higher value?
+**** Back
+                      - in a weighted image we get the raw signal value - rather than the T1/T2 times - so for T2 weighted scans, tissues with shorter T2 will have a lower value (they have a steeper slope = they decay faster):
+
+**** Extra
+    - source:
+*** 10:51
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the difference between MSME and turbo spin echo?
+**** Back
+    In turbo spin echo we change the gradient before every 180 pulse, so we change the row from which we sample the echo: we get multiple samples from different rows in the same K space
+
+    In MSME we just repeat the 180 pulse and get gradually more T2 weighted images from the same row - in different K spaces.
+**** Extra
+    - source:
+*** 11:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the reason for using small angles (variable flip angles) in GRE?
+**** Back
+                                    We don't have to use a 90 deg pulse, if we use smaller angles we'll have to wait less time between pulses, so we have a shorter Tr (and faster scans)
+
+**** Extra
+    - source:
+*** 11:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How (what pulse program) do we compute T2*?
+**** Back
+                      If we give more and more alternating gradients, we get another measurement from each of them - each with a progressively longer Te.
+                  the strength of the signal from each is decaying, exponentially, with time constant T2*!
+**** Extra
+    - source:
+*** 15:13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does the DIXON method work?
+**** Back
+    It's meant for suppressing one kind of tissue - either water or fat.
+     when they are in phase (at the beginning) and when they are exactly opposite ("out of phase"). in the in phase image the signal is s= water_s + fat_s, and in the out of phase image the signal water_s - fat_s. By combining them we can get just the fat or just the water signal, e.g use hte fat signal as a mask.
+
+**** Extra
+    - source:
+*** 15:16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the black line aretfact we get in DIXON images? Where do we usually see it?
+**** Back
+    It happens when there are - in the same voxel - similar proportions of water and fat. When that happens, the out of phase images show a significant decrease in signal, because they cancel each other out.
+
+    We would usually see it in the border of organs
+**** Extra
+    - source:
+*** 15:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is I useful for?
+**** Back
+    1. Since it's a T2* weighted image, it's very sensitive to blood vessels - we can see the small blood vessels in the brain with great resolution
+    2. For diagnosing diseases with accumulation of iron or calcium
+**** Extra
+    - source:
+*** 15:22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the problem with iron and calcium in SWI imaging? What can we do about it?
+**** Back
+    Iron is ferromagnetic, and calcium is diamagnetic, both affect the SWI in a similar way - we need another scan of a different type (like a CT) to tell the difference
+**** Extra
+    - source:
+*** 16:00
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the effect of susceptibility on dephasing?
+**** Back
+    Susceptibility  accelerates the dephasing of the protons
+
+**** Extra
+    - source:
+*** 16:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How does ASL atrterial spin lableing work?
+**** Back
+    We take a baseline scan of the whole brain, and then change the spins of protons just in the arterial entry into the brain, and them can take more scans and see the diffusion of the labeled (altered spin) blood moleccules.
+**** Extra
+    - source:
+*** 16:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which cells processes are the most energy consuming, and affect the hemodynamic response the most?
+**** Back
+    it's actually (mostly) the astrocytes (glia) that require the greatest amount of energy - for pumping neurotransmitters out of the synpatic gap, and for reusing them (like glutamat --> glutamin --> back to the synapse --> glutamat --> vesicles)
+
+**** Extra
+    - source:
+*** 16:38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How do we measure diffusion with an MRI?
+**** Back
+    In Diffusion weighted imaging we use a pair of pulses with a delay between them, and measure the transverse magnetization. Where the diffusion is greater the dephasing is greater and signal is weaker.
+
+    We do this measurement in many directions, and get the diffusion values in all of them.
+**** Extra
+    - source:
+*** 16:47
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the mechanism of diffusion's effect in stroke?
+**** Back
+                        what happens (probably) it that in an ischemic state (=when there's reduced blood flow after stroke) the *cells swell*, and also become more tortiouse - *more convoluted* and harder for water to move inside. So the *diffusion becomes slower* and as a result *the signal becomes stronger:*
+
+**** Extra
+    - source:
+*** 16:49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How can we use DWI to measure activity?
+**** Back
+    Since cells swell when they are active, there is less diffusion in active brain areas, and the signal there should be lower.
+**** Extra
+    - source:
+*** 17:34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    In DTI, which color represents which direction of fractional anisotrophy?
+**** Back
+    Z - green
+    X - red (left-right)
+    Y - blue (rosral-caudal)
+**** Extra
+    - source:
+*** 11:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What pulse program is used for the DIXON method?
+**** Back
+    Multi echo GRE
+**** Extra
+    - source:
+*** 13:10  :brain-structure:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:ID:       20220220T131747.251891
+:END:
+**** Front
+    במה מצופים (מבחוץ) כלי הדם במוח?
+**** Back
+    בזרועות של אסטרוציטים
+**** Extra
+:PROPERTIES:
+:ID:       20220220T132015.107149
+:END:
+    - source:
+*** 13:13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        איך נקראים איזורים במוח בהם ה BBB יותר חדיר?
+**** Back
+    Circumventricular organs
+**** Extra
+    - source:
+*** 13:14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    באילו מקרים רוצים שה BBB יהי יותר חדיר?(שני מקרים)
+**** Back
+    1. כדי לאפשר להורמונים לעבור מהמוח לגוף
+    2. כדי לאפשר לאיזורי חישה במוח לדגום את הרכב הדם
+**** Extra
+    - source:
+*** 13:18
+*** 13:23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the main arteries of the frontal pathway of blood flow to the brain?
+**** Back
+    The common carotid artery that splits into the external carotid artery (facial muscles etc.) and internal carotid artery (brain)
+**** Extra
+    - source:
+*** 13:26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the main arteries of the posterior pathway (blood flow to the brain)
+**** Back
+    The vertebral arteries that go through the transverse formaen and through the foramen magnum
+**** Extra
+    - source:
+*** 13:28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the  4 main cerebral arteries?
+**** Back
+    1. ACA - anterior
+    2. MCA - middle
+    3. PCA - posterior
+    4. Basilar artery
+**** Extra
+    - source:
+*** 13:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:ID:       20220220T134319.277164
+:END:
+**** Front
+    What areas get blood from the ACA?
+**** Back
+    The ACA goes frontally from the area of the optic chiasm, then dorsally into the the *mid-saggital plane* along the cigulate cortex
+**** Extra
+    - source:
+*** 13:32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas get blood from the MCA?
+**** Back
+:PROPERTIES:
+:ID:       20220220T133653.084844
+:END:
+    The MCA goes laterally, between the frontal and the temporal lobes, and then *around the outside, temporal aspect* of the brain, and also supplies blood to *the basal nuclei and the insula*
+**** Extra
+    - source:
+*** 13:34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which areas get blood from the PCA?
+**** Back
+    The posterior areas of the cortex, the visual areas etc.
+**** Extra
+    - source:
+*** 13:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which blood vessel we'll suspect if there's a specific numbing in the feet?
+**** Back
+    Since the feet are located in the top/medial area of the somatosensory cortex, in the paracentral lobule, and this area gets blood from the *ACA* mostly.
+**** Extra
+    - source:
+*** 13:39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK:School
+:END:
+**** Front
+        Which blood vessel we'll suspect if there's a specific numbing in the  hands?
+**** Back
+    Since the hand area is lower down on the lateral aspect, we'll suspect the *MCA*, which gives blood to that area.
+**** Extra
+    - source:
+*** 13:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        Where does the basilary artery sit?
+**** Back
+    In the basliar groove in the mniddle of the pons
+**** Extra
+    - source:
+*** 13:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the willis circle (brain blood supply)
+**** Back
+   The MCA, ACA, and PCA are connected by the anterior communicating artery and the 2 posterior communicating arteries
+**** Extra
+    - source:
+*** 13:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What smaller arteries diverge from the internal carotid artery?
+**** Back
+    1. Opthalamic artery - feeds the eye
+    2. Hypohyseal artey - feeds the בלוטת יותרת המוח
+    3. Anterior choroidal artery - feeds the choroid plexus of the lateral ventricles
+**** Extra
+    - source:
+*** 13:49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What arteries diverge from the PCA?
+**** Back
+    The posterior choroid plexus
+**** Extra
+:PROPERTIES:
+:ID:       20220220T135159.190261
+:END:
+    - source:
+*** 13:51
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What arteries diverge from the basilary artery?
+**** Back
+:PROPERTIES:
+:ID:       20220220T135524.747454
+:END:
+    1. Superior cerebellar artery
+    2. AICA: Anterior Inferior cerebellar artery
+    3. Labyrinthian artery - feeding the auditory pathway
+    4. Pontine arteries
+**** Extra
+    - source:
+*** 13:55
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which artery diverges directly from the vertebral arteries?
+**** Back
+        1. PICA: Posterior Inferior cerebellar artery
+
+**** Extra
+    - source:
+*** 13:57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which arteries supply blood to the spinal chord?
+**** Back
+    1. The anterior spinal artery
+    1. The posterior spinal artery
+**** Extra
+    - source:
+*** 13:58
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two categories of stroke?
+**** Back
+    1. Aschemia: a blockage
+    2. A hemmorage
+**** Extra
+:PROPERTIES:
+:ID:       20220220T160333.652077
+:END:
+    - source:
+*** 12:29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the perioesteum?
+**** Back
+    It's the more external layer of dura, which is attached to the inside of the cranium
+**** Extra
+    - source:
+*** 12:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the structure of the bone of the skull
+**** Back
+    It has three layers:
+    1. Compact bone
+    2. Spongey bone - also called diploic
+    3. Compact bone again
+
+**** Extra
+    - source:
+*** 12:32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 4 categories of veins in the brain/crainum?
+**** Back
+    1. Extracranial veins: outside the skull bone, serve the scalp and the face etc.
+    2. Diploic veins: pass inside the skull bone (in the diploic layer)
+    3. Meningeal veins - serve the meninges (dura, arachnoid and pia)
+    4. Veins of the deep brain
+**** Extra
+    - source:
+*** 12:35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the dural sinus?
+**** Back
+    It's the general name for blood vessels which are in fact spaces between the two layers of dura - serving as vein that drain blood from the brain
+**** Extra
+    - source:
+*** 12:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the different dural veins?
+**** Back
+        * sup. saggital sinus
+        * inf. saggital sinus
+        * straight sinus
+        * confluence of sinuses (the meeting place of the saggital sinuses, straight sinus and transverse sinuses)
+        * transverse sinuses (one in each hemisphere)
+        * sigmoid sinuses (one in each hemisphere)
+**** Extra
+    - source:
+*** 12:39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which vein drains blood from the deeper areas of the cortex and sub-cortex?
+**** Back
+    The great cerebral vein of Galen
+**** Extra
+    - source:
+*** 12:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+     Where does the great cerebral vein of Galen connect into the sinus system
+**** Back
+Into the straight sinus
+
+    *  Intro
+    - Lab  once in 2 weeks
+    - Must read lab prep handbook before  there will be a quiz every lab  20% of the grade
+
+    - groups of 7, should register with someone
+
+    - The CNS is one continuous tube. we should always ask ourselves what’s the inside (=space), and what is the “side”/דופן.
+    - The brain is the “side” and the CSF is the “inside”
+    - Foramen magnum = the big hole, is the whole in the cranium through which the CNS continues into the brain.
+    - In humans, the foramen magnum is directly below the skull, in dogs, e.g., it is more caudal, more towards the tail. The place changes along the evolution.
+    - Endocranium = what’s inside the cranium/skull = brain  also grows with evolution.
+    - Also with evolution: gyration, the brain becomes more convoluted, to allow more of it in the same space. To allow for birthgiving.
+    - Also: the chewing area becomes smaller and smaller
+    *  The spinal chord
+    - goes through the vertebral foramen
+    - the pedicles have concave bottom and to, so when they're one on top of the other, they create the intervertebral foramen - where the nerves leave the the spinal chord:
+        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_103854_weUZkR.png]]
+        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_103916_NSyXPZ.png]]
+    *** The different vertebrae along the spine:
+        + 7 cervical vertebrae: C1 - C7
+        + 12 thoracic vertebrae: T1 - T12
+        + 5 lumbar vertebrae: L1 - L5
+        + sacrum - 5 fused
+        + coccyx - 4 fused
+        + total 33 vertebra
+        + they are numbered from rostral part to caudal (head to to tail)
+    - the sacrum vertebrae still have intervertebral foramen - the coccyx does not.
+    *** segments  of the spinal chord:
+        + we can divide the spinal chord into 31 segments, each having a spinal nerve going out of it (and into it)
+        + each spinal nerve has both directions!
+        + why not the same number?
+            + first nerve goes out just before C1, and is called C1
+            + goes on till C7 - named for the vertebra that's below it
+            + then C8 even though there's no C8 vertebra
+            + thoracic T1 is named after vertebra above it, and so it continues
+              [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105130_gDU9Ew.png]]
+            + also only 1 nerve for "all" the coccyx vertebrae
+        + the spinal chord terminates a lot earlier than the spinal column - *around L1-L2*
+        + point of termination is called  *conus medullaris*
+        + in the bottom of the spinal column there are many roots making their way to their exit points.
+        + this area is called cauda equina = horse tail
+        + Filum terminale (= terminal film) is the rest of the pia mater continuing after the spinal chord is terminated
+        + in the ara of the filum terminale down to S1-S2 there the *dural sac* full of CSF, but no spinal chord.
+        + after the dural sac is the coccygeal ligament - the end of the dura and archanoid layers
+        + epidural injections and LP for sampling the CSF will be done usually around L3-L4 since there's no risk of hitting the spinal chord
+        + Limb enlargements:
+          Areas where the spinal chord is thicker - thicker nerves, more information
+          Used for areas where we have finer motor control, and higher resolution sensing.
+            + cervical (neck)
+                + enervates hands
+            + lumbosacral (lower back)
+                + enervates legs and feet
+    ***** Gray matter of the spinal chord:
+        + in the spinal chord the grey matter is on the inside, and the white matter is on the outside. In the brain, it's the opposite.
+        + in the grey matter there are "dorsal horns" reaching almost to the vertebra
+        + also there is a median fissure - a long deep groove on the ventral side.
+        + there's a hole in the middle of the grey matter - it's the central canal, and it's full of CSF.
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105248_XpxGaB.png]]
+            - Laminae of rexed - layers in the gray matter, different cells and functions in each layer.
+        + layers V, VI, VII are *decousation* layers - meaning they have to do with crossing sides, from the word deca, meaning 10, which is X in latin
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120340_GA5aSi.png]]
+
+    *** meninges קרומי המוח (from the outside to the inside)
+        + three types:
+            * dura mater
+            * arachnoid
+            * pia mater
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105332_SdkQBR.png]]
+        + mater is mother in latin - comes from translating the original latin to arabic, where it's really called mother, and back to latin after the middle ages
+        + pia mater is so thin we don't see it. It sticks to the surface of the brain, and goes into all the fissures.
+        + in the brain, there's no space between the dura and the skull (in health)
+        + in the spinal chord - there is space there. That space is called epidural space (epi = above)
+        + between the dura and arachnoid there is the subdural space (sub = under)
+        + between the arachnoid and the dura there is always space too - the subarachnoid space.
+        + the subarachnoid space is filled with CSF
+        + also in the subarachnoid space - the blood vessels of the brain
+        + all of these exist both in the brain and in the spinal chord
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105921_ckj0it.png]]
+    *** nerves of the spinal chord:
+        + rootletts - going out of the spinal chord. There are ventral and dorsal rootletts.
+        + rootletts collect into roots - ventral and dorsal roots, one of each.
+        + roots merge into a mixed spinal nerve
+        + ventral nerves carry motor information = out of the spinal chord
+        + dorsal nerves carry sensory information into the spinal chord
+        + DRG the dorsal root ganglion.
+        + ganglion is a collection of nerve cell bodies *in the PNS*
+        + the same collection in the CNS is called a *nucleous*
+        + the neurons in the DRG are uni-directional (called pseudo unipolar)
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110523_W6ZDKr.png]]
+        + each nerve contains thousands or tens of thousands of neurons
+        + the mixed spinal nerve *splits soon after leaving the vertebrae* - has two branches (=Rami): dorsal ramus and ventral ramus
+        + both rami carry both sensory and motor (in and out) information
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110552_Zmsm0e.png]]
+        + dermatomes - division lines on the body of areas enervated by the same spinal chord segment. They make sense when we look at animals walking on four legs
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110914_nJZHO5.png]]
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110939_vtzxbr.png]]
+        + face enervated by cranial nerves, going straight out of the brain
+    - denticulate ligaments - the pia leaves the grey matter and gets lodged into the dura. Maybe meant to give structural stability to the spinal chord.
+    *** white matter of the spinal chord:
+        + the white matter is devided into three *funiculi* - frontal, lateral,ventral
+            + funiculus means "cable" they look like cables from the side
+            + each funiculus is divided into fasciculi
+            + e.g. the dorsal(sensory) funiculus is devided into:
+                + fasciculus gracillis - enervates legs
+                + fasciculus cuneatus - enervates hands
+            + fasciculus comes from fascia/fasces - the roman bunch of twigs
+        + schematically we may say that:
+            + lateral areas enervate the arms
+            + medial areas enervate legs
+            + and in between areas enervate the trunk
+            + dorsal areas are sensory
+            + ventral areas are motor
+        + The higher we are in the spinal chord there's more white matter, because all the information tracks/ nerves that go in/out of the brain come together
+        + in the lower segments there aren't really any lateral horns
+        + reflex arc:
+            + when there's enough activation in the sensing area, the information travels to the dorsal root ganglion and the sensory nerve cell bodies there.
+            + if there's enough activation, the sensory neuron will activate the adjoining motor neuron in the ventral horn (through an interneuron) - directly, without waiting for information from the brain.
+            + we can choose to premeditatively inhibit the reflex, through inhibition of the interneuron
+            + this inhibition is dependent on the magnitude of the stimulus
+    * Embryology
+    *** 1st week - blastocyst
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120839_EU676x.png]]
+    - On the day of conception, there is a zygote
+    - This cell begins to split exponentially
+    - On days 4-5 the Morula
+    - On Day 5-6 the blastocyst forms
+        + This contains the embryoblast (the fetus forms from this) inside and the trophoblast which creates the membrane (go on to form structures external to the fetus)
+    - The blastocyst cavity is the space within the blastocyst
+
+    *** 2nd week - bilaminar disk
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120927_kcozm2.png]]
+    During week 2 the embryoblast divides into the Bilaminar Ebryionic Disk which costsists of epiblast and hypoblast cells
+
+    *** 3rd week gastrulation
+    :PROPERTIES:
+    :ID:       20211227T122019.739935
+    :END:
+    - moving from 2 layer disk to 3 layer disk
+    - primitive streak, develops along the midline, caudal to rostral.
+    - primitive node leading the change
+    - invagination of the epiblast
+    - the epiblast cells *replace* all of the hypoblast cells (they were only usued for support during the first weeks)
+    - 3 layers:
+        1. ectoderm - outer
+           Skin, hair, and *nervous system*
+        2. mesoderm - inner
+           Muscles and skeleton
+        3. endoderm - inner
+           Internal organs
+    - invaginating cells are pluripotent - they can develop into any and all types of cells.
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_122307_AAakHI.png]]
+    *** neurulation
+              - 4th week (6th week of pregnancy)
+              - the ectoderm separates into ectoderm and neuro-ectoderm
+              - neuro-ectoderm develops into the neural plate
+    ***** the notochord
+                  + develops from the primitive node (caudal) to the rostral area
+                  + the spinal column and spinal chord will develop from it
+                  + a part of the endoderm - will become a part of the mesoderm
+                  + signals a lot of developmental factors by secretion
+                  + induces development of neural part of ectoderm - called *neural plates*
+                  + in the middle of the spinal chord there's a small hall/tunnel - that's the remainder of the notochord
+    ***** the neural tube
+                  + neural plates invaginate and close to create the *neural tube*
+                [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_124357_arcBvD.png]]
+                  - closes from the cervical area (middle of the spine) towards both ends
+                  - leaves two neuropores - anterior and posterior, they close after 25 days or so
+                  - can have pathologies when not closing properly:
+                      - anencephaly - anterior
+                      - spina bifida - 3 kinds:
+                        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_191601_nR11Rp.png]]
+              - the rest of the non-neural ectoderm covers the neural tube from above
+              - betewen the ectoderm and the neural tube there's the neural crest - which used to be the outer border of the neural plate:
+                [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_191435_zox8yp.png]]
+              - neural tube --> the CNS
+              - the neural crest --> the PNS
+              - somites - muscles and bones
+    ***** development of the spinal chord
+          - from the neural tube
+          - dorsal part - alar plate (from wings) - will develop into sensory neurons
+          - ventral part - basal plate - will develop into motor neurons
+          - between them: the sulcus limitans
+          - roof plate - dorsal
+          - floor plate - ventral
+          - ependimal cells - line the neural plate from within
+          - so the neural tube becomes an actual hollow tube
+          - as time goes by - there are more cells, and the hollow part becomes smaller
+    ***** development of the brain
+          The rostral part of the neural tube doesn't stay as a regular tube:
+          - it segments into three parts (vesicles):
+              1. prosencephalon (pros = frontal)
+              2. mesencephalon (mes = missle)
+              3. rhombencephalon (rhomb = rhomboid = מעוין)
+          - 5 vesicles stage:
+            The front brain splits in to, the hindbrain splits in two, and the midbrain continues on as midbrain (mesencephalon)
+              1. *telencephalon* - mostly cortex
+              2. *diencephalon* - mostly the thalamus
+              3. mesencephalon - the midbrain
+              4. metencephalon - cerebllum and pons
+              5. myelencephalon - medula oblongata
+              - the eyes (the retina) are part of the CNS! They develop from the diencephalon
+          - the neural tube starts to fold - creating the structure of the brain
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_192542_iySHRz.png]]
+          - *gyrification* - the telencephalon starts to invaginate, "in order" to get more tissue into the same volume of skull
+          - the temporal and frontal poles grow further and further apart, the temporal pole goes backwards, and then laterally - *creating the C shape of many of the structures of the brain*
+          - falx medialis - a dura that grows between the two hemispheres - that's why they grow to be flat on the medial aspect. Flax - מגל
+          - pathologies: when the two vesicles don't separate
+              - holoencephalon - no telencephalon, but we do get the outside of the cortex, just empty
+              - cyclopia
+    * Topography of the brain
+    *** cerebrum - the big brain
+                - longitudinal fissure - between the hemispheres
+                - five lobes:
+                  - frontal
+                  - parietal - from the greek for wall (paries)
+                  - occipital - from "back of head"
+                  - temporal - from tempo, time, where age is first notices in the graying hair (of george clunney)
+    *** brainstem
+                - midbrain
+                - pons
+                - medulla oblongata
+    *** cerebllum - the small brain
+    *** four main features of the lobes - good for orientation:
+                - central sulcus (rolandic fissure)
+                - temporal sulcus (sylvian fissure)
+                - paraieto-occipital sulcus - not seen well from the temporal view
+                - preoccipital notch
+    - corpus callosum - white matter conencting the hemispheres, lit. Large body (of white matter)
+    - fornyx - ventral to the corpus callosum
+    - lateral ventricles - dorsal and lateral to the fornyx
+    - third ventricle - below the fornix
+    *** mid-sagital plane
+    ***** thalamus
+    - evolves from the diencephalon (the cortex develops from the telencephalon)
+    - anything with -thalamus in the name also develops from the diencephalon
+    - relay station from all senses excep olefactory
+    - inter-thalamic adhesion connecting R and L thalami
+    - septum pellucidum - divides the two lateral ventricles.  stretched between corpus callosum and the fornyx
+    ***** hypothalamus
+    - below and to the front of the thalamus
+    - mammillary body is a part of the hypothalamus
+    ***** the pituitary gland, outside of the brain, but continuous with the hipothalamus.
+    - anterior part develops from the non-nueonal ectoderm
+    - posterir part (=neuorhypophysis) is part of the thalamus itself, develops from the neural tube
+    - from the posterior pituitary hormones - oxytocin and vasopressin
+    - from the anterior part - other hormones
+    ***** pineal gland
+      - secretes melatonin, syncs our biological clock.
+    *** ventral view
+    ***** olfactory system:
+    - bulb
+    - tract
+    - lateral stria
+    - medial stria (unused in humans?)
+    - uncus (main processing area for smell in the cortex)
+    ***** Optic:
+    - nerve
+    - chiasma
+    - tract
+    ***** Pituitary Gland
+    - vetral to the chiasma
+    ***** orbital gyri (above the eye socket)
+    ***** rectus (straight) gyri
+    * white matter and connections
+    *** Development
+              - at the beginning the vesicles are empty - the neural tube is just the wall of the tube
+              - telencephalon grows much more than the rest, and the convolustions start taking up the internal space
+              - the *lamina terminalis* is the anterior-most part of the telencephalon when it develops (as it grows, other parts become more rostral/anterior than the lamina terminalis)
+                [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_223330_9QrJz8.png]]
+              - the space is filled with CSF (CSF is very similar to the blood plasma)
+              - the wall becomes thicker and thicker (becomes neurons = gray matter, cell bodies)
+                [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_223439_LrFYgn.png]]
+              - the space becomes filled with two types of tissue:
+                  + neurons:
+                      Neurons send axons - white matter, and they do it in bunches - nerve fibers/tracts
+                  + subcortical nuclei (= non cortical gray matter)
+    *** White matter:
+          - centrum semiovale- like it sounds - general name for the white matter
+    ***** projection fibers - connect the cortex with non-cortex structures
+                      - corticopetal - into the cortex
+                      - corticofugal - out of the cortex
+    ******* corona radiata - the "fan" of white matter
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_224708_AwVpr3.png]]
+                        - seen on the sagital plain/lateral section, but not medial, slightly off-center
+                        - the lower, ventral, part is called the internal capsule  the fibers come together and become more dense.
+    ********* the internal capsule
+                          - "hidden" by the lentiform nucleous (when looking from the side)
+                          - on the horizontal section (from above) - has five parts:
+                              1. anterior limb
+                              2. genu
+                              3. posterior limb
+                              4. retrolenticular part - fibers going caudally towards the occipital lobe - also called the *optic radiation*
+                              5. sublenticular part - the *auditory radiation* - going into the auditory cortex
+                          - medial to the internal capsule is the *thalamus*
+                          - summary of connections from the internal capsule:
+                              - Anterior limb
+                                  - Thalamo-cortical fibers to the frontal lobes
+                                  - Cortico-striatal fibers
+                                  - Cortico-pontine fibers
+                                  - Thalami-pontine fibers
+                                  - Connections between the lentiform and Caudate
+                              - Genu
+                                  - Corticobulbar fibers
+                              - Posterior limb
+                                  - Corticospinal fibers
+                                  - Sensory fibers (mainly from the medial lemniscus tract)
+                              - Retrolenticular part
+                                  - Optic Radiation (geniculocalcarine tract)
+                              - Sublenticular part
+                                  - Auditory pathway (from MGB to primary auditory cortex)
+                          - external capsule
+                          - extreme capsule
+    ***** commissural fibers - between hemispheres
+                  - develop from the telencephalon impart - the part middle part of the telencephalon that doesn't separate, stays between the two vesicles growing to the sides
+                  - Anterior Commissures
+                      - Anterior commissure
+                          - just above to the lamina terminalis (the frontmost part of the developing telencephalon)
+                          - connects the two temporal lobes
+                      - Hippocampal commissure
+                      - Corpus Callosum
+                          - grows to take up most of the telencephalon impart
+                          - *forceps minor* - fibers going through the genu (מלקחיים) - connecting areas in the frontal lobes - going rostrally from the Cps Colsm
+                          - *forceps major* - fibers going through the splenium (מלקחיים) - connects visual areas in the occipital lobe - going caudally from the Cps Colsm
+                          - *tapetum* - fibers going around (laterally) the lateral ventricles (coating them like a tapestry טפט)
+                  - Posterior Commissures
+                      - Posterior commissure
+                      - Habenular commissure
+    ***** association fibers - intra (inside)hemispheric
+                  - short fibers
+                      - between neighboring gyri
+                  - long fibers - also called fasciculi (sing. fasciculus)
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_114457_uP6NGF.png]]
+                      - usually between lobes
+                      - like a road, not all axons have to go all the way through, they can leave the fasciculus anywhere
+                      - supirior longitudinal fasciculus (SLF)
+                        C shaped, from frontal to temporal lobes
+                          + arcuate fasciculus - part of the SLF, connecting Broca and Wernicke areas
+                      - uncinate fasciculus - also frontal-temporal, but from the front
+                      - infirior longitudinal fasciculus (ILF)
+                        Temporal - occipital connection
+                      - infirior fronto-occipital fasciculus (IFOF)
+                      - Cingulum inside the cingulate gyrus
+                        From the subcallosal area all the way around to the uncus in the temporal gyrus
+    *** corpus striatum (striped body)
+    ***** develops from the telencephalon - from an area of growth it the rear of the telencephalon - along with the rest of the  *basal nuclei*
+    ***** white matter fibers growing down from the developing cortex *divide* the growing striatum (almost) into two parts
+    ***** from the lateral mass of the striatum will develop the *lentiform nucleous* (from lentil - עדשה) and from the medial mass - the *caudate nucleous*
+    ***** the lentiform sits "inside" the internal capsule
+    ***** the caudate grows "above" (dorsally to) the thalamus before it wraps around the internal capsule of the corona radiata
+    ***** the medial mass elongates dorsally, and wraps around the white matter - the corona radiata, back in a lateral direction - this the "tail" (caudate)
+    *** basal nuclei (subcortical nuclei):
+              - most notably - related to motor functions (but also more)
+    ***** striatum
+                  - caudate nucleous (see above)
+                  - nucleus accumbens (see above)
+                                      connects the caudate and the lentiform
+    ******* lentiform nucleous
+                            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_112304_GDtUfX.png]]
+                          - Putamen
+                              + connects to the accumbens, more similar to caudate in function
+                          - globus pallibus (pale ball)
+                              + more similar to brainstem in function
+                              + internus - GPi
+                              + externus - GPe
+    ***** layers of gray and white matter
+                    - [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_113501_byBXHH.png]]
+                    - laterally to the lentiform there's a thin sheet of white matter called the *external capsule*
+                    - laterally to that, there's a sheet of gray matter called the clasutrum
+                    - laterally to that there's another sheet white matter called the *extream capsule*
+    ***** two divisions of basal nuclei:
+                  - a functional & embriological division of the nuclei puts the putamen with the caudate and divides between the striatum and the pallibus
+                  - an anatomical division divides between the caudate and the lentiform
+    ***** subthalamic nucleous (also develops from the diencephalon)
+    ***** substantia nigra - part of the brainstem
+                        - pars reticulata - SNr
+                        - pars compacta (the black part) SNc
+                            + secrete dopamin
+                            + dopamin can be either inhibitory or excitatory depending on the post-synaptic neuron:
+                                - D1 receptors create excitation
+                                - D2 create inhibition
+    ***** Thalamus and the motor system
+    ******* divisions: (then more subdivisions)
+                        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_120553_dSKG8Q.png]]
+    ********* anterior nuclei
+    ********* medial nuclei
+    ********* lateral nuclei
+                - activates the cortex
+                - *SNr and GPi are thalamus inhibitors*
+                - the pyramidal system - two neurons from cortex to muscle - this is not enough for fine grained control
+    ******* extra-pyramidal system
+                      - works with agonist-antagonist pairs of muscles
+                      - this is the role of the basal nuclei
+                      - the VA (ventral-medial) and VL (ventral lateral) thalamic nuclei are involved in planning and initialtion of movement
+    ********* The extrapyramidal system has two pathways:
+                            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_124237_phIYw7.png]]
+                                     - both pathways operate all the time creating a balance of inhibition and activation of the thalamus = of movement initiation commands, and of the magnitude/strength of activation. This way we can create very gentle and precise movements
+    *********** direct - *for voluntary action*
+                                    - the striatum (caudate and putamen) inhibits the GPi and the SNr
+                                    - the GPi  and the SNr  inhibit the thalamus
+                                    - the thalamus activates the cortex
+                                    - the direct path is when the cortex activates the striatum, causing the it to inhibit GPi/SNr -> they stop inhibiting the thalamus -> the thalamus is free to activate the cortex - to tell it to initiate a movement.
+    *********** indirect - *reduces/inhibits unwanted movement*
+                                        - the cortex activates the striatum (STR) - specifically an inhibtory neuron connected to the GPe
+                                        - GPe usually inhibits the subthalamic nucleous
+                                        - subthalamic nucleous activates GPi/SNr (which are thalamic inhibitors)
+                                        - CTX activates STR --> STR inhibits GPe --> causes activation of subthalamic nucleous --> activates GPi/SNr --> inhibit thalamus --> no movement commands
+    ********* role of SNc in thalamus activation:
+                            - in the direct pathway, the SNc neurons are connected to the putamen through D1 (=excitatory neurons), so they *support* the direct (=activating) pathway = *supporting movment*
+                            - in the indirect pathway SNc neurons connect to the putamen through D2 neurons (=inhibitory) neurons. Since putamen activation eventually inhibits movement, this means the *the SNc inhibits the indirect pathway*, and _supports movement_.
+                            - so *SNc always supports movemnt!*
+                            - that's the main problem in parkinson's disease - the initiation of movement
+                            - hemiballismus - a malfunction in the mechanism of inhibition (caused by damage to the subthalamic nucleous) in some motor pathways, that causes ballistic (large and fast) movements in some body parts
+                            - chorea - another symptom of damage to the basla nuclei - causes many large movements in the whole body (looks like dancing)
+                            - *exam questions: what would happen if we damage any of the components of either pathway?*
+    *** the ventricles:
+                  - two lateral ventricles - separated by the septum pellucidum
+                  - third in the middle
+                  - septum pellucidum develops from two septums, that usually merge before birth
+    ***** third ventricle - rubber chicken head.
+    ******* has an eye and recesses created by pineal gland and more
+    ***** choroid plexus
+                        made of blood vessels and pia - filters out the red and white blood cells and elts only the plasma through to make the CSF
+    * Histology
+            - how the tissue looks
+    *** histology of the cortex:
+    *****  Neocortex
+                    - new, in evolutionary terms
+                    - the great majority of the human cortex
+    ******* 6 layers of cells, based on the way the tissue looks
+                      1. Molecular - almost no cell bodies, mostly connections
+
+                      2. External Granular - connect other cortical areas in the same hemisphere
+                      3. External Pyramidal - mostly connect to the other hemisphere
+
+                      4. Internal granular - gets all the input from the thalamus
+                      5. Internal Pyramidal - mostly sends towards the brainstem. Here there are the primary motor neurons (Beltz cells)
+
+                      6. Multiform - mostly towards the thalamus
+    ******* divided into columns - each col. contains all the layers, columns are usually responsible for some function
+    ******* there is no clear physical boundary - but sometimes moving a 0.5 cm to the one side moves a different finger for example.
+    ******* Bordmann areas - in different areas of the cortex, the distribution of the layers is different. the columns have substantially different function subserved by different layer structure.
+    ********* examples:
+    *********** primary sensory areas get a lot of sensory input from tehe thalamus, so it has a thicvker layer IV
+    *********** association cortex אסוציאטיבי: multimodal representation of concepts - inputs from many types of areas - has a rather balanced struvture
+    *********** primary motor cortex: has almost no sensory input, so no layer IV, but huge pyramidal neurons, so very thick layer V.
+
+    ***** Allocortex - not new
+    ******* Paleocortex - old, very old
+    ********* 4-5 layers
+    *********  Olfactory System (olfactory bulb; olfactory tubercle; piriform cortex)
+    ********* Parahippocampal gyrus
+    ******* Archicortex - archi=first, so oldest in evolutionary terms
+    ********* 3 layers
+    ********* Hippocampus
+    * functional localization
+    *** general division
+              - Primary Cortex
+                  * the area where the representation is the closest to what exists at the periphery
+                  * for the motor pathway - the last stop before the brainstem/spinal chord
+                  * for sensory input - the first stop on the way in
+              - Secondary Cortex
+                  * a higher representation than primary cortex
+              - Associative Areas
+                  * combining information from different modalities
+                  * concepts
+                  * sensory-motor feedback/correction?
+    *** the motor cortex
+            - primary motor cortex - M1
+                - BA (brodmann area) 4
+                - no internal granular layer, i.e. No layer IV ("agranular cortex")
+            - secondary/associative motor cortex
+                - Premotor (=before, more frontal than motor) Cortex  - BA 6
+                    + generation/execution of a motor plan (high level like walking)
+                    + activates and coordinates neurons in M1
+                - SMA supplamentary motor area - in the most medial part of the premotor cortex, also folds into the medial surface - also BA 6
+                    + planning movement - activates the motor plan in the premotor cortex
+                    + anticipation of external conditions relating to the movement - like the trajectory of a ball we want to hit
+                - Anterior cingulate cortex (ACC)
+                    + error detection (not only motor!)
+                - frontal eye field (FEF)
+                    + synchronizes the movement of the eyeballs so it's consistent with the rest of our movement and where we put our attention - lower part of BA 8
+    ***  the somatosensory cortext
+                - primary sensory cortex - S1
+                    + BA 1, 2, 3
+                    + postcentral gyrus
+                - secondary sensory cortex
+                    + BA 5, 7, 40
+                - damage to associative sensory areas:
+                    - tactile agnosia (types:)
+                        - astereognosis - inability to recognize objects by touch. (Though no problem using them)
+    *** the visual cortex:
+              - BA 17
+              - around and inside the calcarine sulcus
+              - aka the striate cortex
+              - stria of gennari
+    ***** laterality
+            - the right optic nerve has information from the left visual field and vice versa
+            - from the eye to the LGN
+            - from there, through the internal capsule and the optic radiation, to V1
+            - each LGN has information from *both* eyes, the left (right) side of each of them:
+              [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_164435_RLHHXU.png]]
+            - the LGN has 6 layers.
+    *****  V1 organization
+                  - is retinotopic, but inverse:
+                      + what's high on the visual field arrives at the bottom of V1:
+                        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_164745_Oe44iC.png]]
+                      + meyer's loop: fibers of the upper visual field go through the temporal lobe - "backwards" (more ventral) from the thalamus, and only then to V1 (see above)
+                      + what's outside, is represented deepest and most "inside" in the cortex
+                  - simple cells: neurons that respond to lines in one particular orientation, in one particular location across the visual field.
+                  - complex cells: respond to the orientation regardless of location
+    ***** secondary/associative areas:
+                  - in secondary areas we have neurons that respond to collections of lines in various orientations: shapes
+                  - gradually, hierarchially, becomes more complex
+                  - mostly in BA 18 & 19, to the sides of BA 17
+                  - [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_170204_KAyMG5.png]]
+                  - two streams:
+                      + ventral  "what"- inferior temporal lobe
+                      + dorsal "where" - parietal lobe - close to the somatosensory cortex
+    ***** damages:
+    ******* prosopagnosia - face blindness - the man who thought his wife was a hat
+    ******* right hemisphere is more active for face recognition
+    *** the gustatory cortex
+            - taste: BA 43
+            - bottom of the central sulcus
+    *** the olfactory cortex
+            - smell: BA 34 (uncus
+            - perhaps the most ancient sense
+            - no relay station like the thalamus, directly from the nose to the uncus - through *the olfactory trigon*
+            - Closely linked to the limbic system
+             - Extends to the Limen of the Insula and Amygdala
+    *** the auditory cortex
+    ***** BA 41 and 42
+    ***** superior part of the temporal lobe, bending inwards towards the insula (hescel's convolustion):
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_173500_9sIZ0G.png]]
+    ***** tonotopic:
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_173431_jyD51O.png]]
+    ***** goes through the MGN (medial geniculate nucleous)
+    ***** Secondary Regions:
+    ******* Planum Temporale
+    ******* Superior Temporal Gyrus (BA 22)
+    *** prefrontal cortex
+    ***** DSPFC dorso-lateral
+    ******* "high" cognitive processes
+    ******* decision making
+    ***** VMPFC - ventro-medial
+    ******* social skills
+    ******* emotional regulation
+    ********* inhibition
+    ********* decision making
+    *** language areas:
+        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_174130_vmw5SB.png]]
+    - The Expressive Speech Area - Broca’s area (BA 44,45)
+        - Pars Opercularis and Triangularis of Inferior Frontal Gyrus
+    - The Receptive Speech Area - Wernicke’s area (BA 22)
+        + Superior temporal gyrus
+        + Planum temporale (?)
+        + Supramarginal gyrus (?)
+    - Geschwind Territory
+        + Inferior Parietal lobule = Angular Gyrus = Brodmann area 39
+    * Blood suuply to the brain
+    :PROPERTIES:
+    :ID:       20220227T122832.527741
+    :END:
+
+**** Extra
+    - source:
+*** 12:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What and where is the tentorium?
+**** Back
+    From the word tent. It's a layer of dura separating the occipital lobe and the cerebellum
+**** Extra
+    - source:
+*** 12:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+   the tentorium is said to divide the endocranium into two compartments, what are they?
+**** Back
+    The supratentorial compartment
+    The infratentorial compartment
+**** Extra
+    - source:
+*** 12:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the incisura of tentorium?
+**** Back
+    It's an opening in the tentorium through which the brainstem passes and connects to the cerebrum
+**** Extra
+    - source:
+*** 12:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the ultimate drainage of the sinus system (brain structure)?
+**** Back
+    The Jagular vein
+**** Extra
+    - source:
+*** 12:49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the main superficial vein of the cortex?
+**** Back
+    The superficial middle cerbral vein
+**** Extra
+    - source:
+*** 12:49
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two main veins that split off of the superficial middle cerebral vein?
+**** Back
+    Superior anastomotic vein
+    Inferior anastomotic vein
+**** Extra
+    - source:
+*** 12:51
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where does the superior anastomotic vein drain into the sinus system?
+**** Back
+    Drains into the sup. Saggital sinus
+**** Extra
+    - source:
+*** 12:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where does the   inf.  anastomotic vein connect into the sinus system?
+
+**** Back
+    Connects into the transverse sinus
+**** Extra
+    - source:
+*** 12:53
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the difference between a hemmorage and a hematoma?
+**** Back
+    A hemmorage is any escape of blood from a torn blood vessel, a hematoma is when that blood can't leave and it enclosed in the surrounding tissue,
+**** Extra
+    - source:
+*** 12:54
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What  is the difference between a subdural hematoma and an epidural hematoma?
+**** Back
+    In epidural hematoma the blood is pooling outside the dura, pushing in both the brain and the dura.
+**** Extra
+    - source:
+*** 12:56
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the difference in treatment between epi- and sub-dural hematomas?
+**** Back
+    In subdural hematomas it's not enough to open the skull, you need to also open the dura, and then suture it back
+**** Extra
+    - source:
+*** 12:57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    Raptured {{c1::arteries}} are usually the cause for {{c2::epidural }} hematomas, while ruptured {{c3::veins}} are usually the cause for {{c4::epidural}} hematomas
+**** Extra
+    - source:
+*** 13:06
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the seal turcica?
+**** Back
+    It's the dura that surrounds the pituitary gland
+**** Extra
+    - source:
+*** 13:08
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the diaphragma sella?
+**** Back
+    It's the piece of dura that sits above the pituitary gland - almost cutting it off from the brain, but not quite. The infindibulum goes through it
+**** Extra
+    - source:
+*** 13:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+:PROPERTIES:
+:ID:       20220227T131128.533587
+:END:
+    The {{c1::infindibulum}} connects the brain and the pituitary gland, it passes through a {{c3::dural}} structure called the {{c2::diaphragma sellae}}.
+**** Back
+
+**** Extra
+    - source:
+*** 13:19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How are the spidery bits of the arachnoid called?
+**** Back
+    Trabeculae טרבקולות
+**** Extra
+    - source:
+*** 13:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    The {{c1::arachnoid villi}} are {{c2::protrusions of the arachnoid into the the dural sinus, through which CSF is drained into the blood again}}
+**** Back
+
+**** Extra
+    - source:
+*** 13:22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How come blood doesn't enter the subarachnoid space through the arachnoid villi?
+**** Back
+    The tissue in the villi creates a unidirectional filter (ependima & pia)
+**** Extra
+    - source:
+*** 13:25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is hydrocephalus?
+**** Back
+    A condition where the skull inflates (while it's still soft in babies) because of excess CSF that can't drain out.
+**** Extra
+    - source:
+*** 13:26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        Where can there be blockages that will cause hydrocephalus?
+**** Back
+            1. The intrerventricula forman
+            2. The cerebral aquaduct
+            3. Any of the apertures
+**** Extra
+    - source:
+*** 13:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is a sub-arachnoid hemmorage?
+**** Back
+    A condition where blood vessels which are in the subarachnoid space rupture and bleed into the brain.
+    This is very dangerous as blood is toxic to the brain
+**** Extra
+    - source:
+*** 13:29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the difference between a hematoma and a subarachnoid hemmorage?
+**** Back
+    In a hematoma the brain suffers physical pressures from the buildup of blood between it and the skull - it can squash the brain and/or cuase it to herniate into the infratentural compartment.
+
+    In a subarachnoid hemmorage there is much less buildup of pressure but blood can go everywhere and the brain becomes suffused with it - which is toxic
+**** Extra
+    - source:
+
+
+* Waiting for export
+*** 18:35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the 3 components of polysomnography?
+**** Back
+ - EEG
+	- brain
+	- in waking - low amplitude, fast oscillation
+- EMG
+	- muscle tone
+		- electro-myogram
+- EOG
+	- eyes
+		- electro-occulogram
+
+    
+**** Extra
+    - source:
+*** 18:37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What changes in the pattern of EEG waves as sleep deepens?
+**** Back
+    - amplitude rises
+- oscillations become slower
+
+**** Extra
+    - source:
+*** 18:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is a K complex (sleep)
+**** Back
+    A spike in the EEG during NREM, it's either a mini awakening or brain deepens the sleep to protect it - not sure which of the above
+
+**** Extra
+    - source:
+*** 18:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are the two features of NREM EEG?
+**** Back
+    Spindles and K complex
+
+**** Extra
+    - source:
+*** 18:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Does REM become more or less prominent as the night progresses?
+**** Back
+    More prominent
+
+**** Extra
+    - source:
+*** 18:45
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+
+    Broadly speaking, the {{c0::anterior hypothalamus}} is sleep {{c1::promoting}} and the {{c0::posterior hypothalamus}} is {{c2::wakefulness}} promoting
+**** Extra
+    - source:
+*** 09:21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which brain area is the main node for norepinephrine (NE) in the sleep system?
+**** Back
+    locus coeruleus (the blue area) in the brainstem
+**** Extra
+    - source:
+*** 09:24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What system is mostly responsible for waking up the brain? ("the big red button")
+**** Back
+    The norepinephrine system in the locus coeruleus
+**** Extra
+    - source:
+*** 09:25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the direct effect of norepinephrine on neurons?
+**** Back
+    When you expose neurons to NA the start firing at a high rate
+**** Extra
+    - source:
+*** 09:26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the effect of damage to the serotonin system?
+**** Back
+    It causes insomnia
+**** Extra
+    - source:
+*** 09:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Damage to the {{c1::serotonin}} system causes {{c1::insomnia}}, yet {{c1::serotonin}} producing cells are more active during {{c1::wakefulness}}
+**** Back
+
+**** Extra
+    - source:
+*** 09:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+
+**** Extra
+    - source:
+*** 09:32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+        Histamine is {{c1::wake::sleep/wake}} promoting
+
+**** Extra
+    - source:
+*** 09:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+        Hypocretin/orexin is {{c1::wake::sleep/wake}} promoting
+**** Extra
+    - source:
+*** 09:33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is on way through which hypocretin/orexin wakes up the brain?
+**** Back
+    Through the NA/NE circuits in the locus coeruleus
+**** Extra
+    - source:
+*** 09:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    {{c1::Narcolepsy}} is causes by an almost complete lack of {{c0::hypocretin/orexin}} neurons
+**** Extra
+    - source:
+*** 09:37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    hypocretin/orexin is secreted by neurons in the {{c1::hyptothalamus}}
+**** Extra
+    - source:
+*** 09:38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is serotonin produced?
+**** Back
+    In the midbrain , in the (ventral) tegmentum
+**** Extra
+    - source:
+*** 09:41
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the effect of dopamine in the wake/sleep system?
+**** Back
+    Probably wake promoting
+**** Extra
+    - source:
+*** 09:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Why is it more difficult to study the role of dopamine on sleep/wake?
+**** Back
+    Because it has many different functions, such that different but adjacent neurons connect to different brain areas and create different effects
+**** Extra
+    - source:
+*** 09:44
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+What are the 5 systems of sleep/wakefulness?
+**** Back
+    1. ACh
+    2. PPT
+    3. noradrenaline/norepinephrine (NA/NE)
+    4. serotonin (5-HT)
+    5. histamine
+**** Extra
+    - source:
+*** 09:47
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is an example of the redundancy of sleep/wakefulness systems?
+**** Back
+    Even after a triple lesion to the ach, NA and histamine systems, the subject animals regained some sort of regular sleep pattern
+**** Extra
+    - source:
+*** 10:01
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+What is the evidence that the noradrenergic LC (locus coeruleus) is important for arousal and EEG activation?
+**** Back
+    Lesion studies where a cut through the midbrain rendered subject animals in an alive but unconscious state
+
+**** Extra
+    - source:
+*** 10:03
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Noradrenaline (NA) per se is neither necessary nor sufficient for arousal/cortical activation; how was this established?
+**** Back
+    Even after damaging the NA system through genetic manipulation, sleep/wake cycles were reestablished
+**** Extra
+    - source:
+*** 10:04
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the tubero-mammillary nucleus (TM)?
+**** Back
+Its the nucleus that secretes histamine
+
+**** Extra
+    - source:
+*** 10:05
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    {{c2::Histamine}} is secreted from the {{c0::tubero-mammillary}} nucleus in the {{c1::hypothalamus}}
+**** Extra
+    - source:
+*** 10:08
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the seesaw model (sleep)
+**** Back
+    It's an (oversimplified) model according to which sleep is regulated through a balance of sleep-promoting systems/substances (Ach, serotonin, histamine, NA/NE, HC/OR) and wake-promoting systems: VLPO and MnPO
+**** Extra
+    - source:
+*** 10:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What are teh VLPO and MnPO
+**** Back
+    The ventro-lateral- and median preoptic areas (just anterior to the hypothalamus)
+    they are sleep promoting areas
+**** Extra
+    - source:
+*** 10:13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is an empiric support for the idea that sleep is the basic "default" state of the brain?
+**** Back
+    Neurons in vitro, without the environment of NTs in the brain go into the "up and down" state which they also do in NREM
+**** Extra
+    - source:
+*** 10:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    The {{c1::"up and down" behavior}} of neurons is the basis of {{c2::the slow waves we see in NREM}}
+**** Extra
+    - source:
+*** 10:19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the role of the PPT in REM sleep?
+**** Back
+    The cells there are very active during REM and thought to maintain/create it in some way
+**** Extra
+    - source:
+*** 11:58
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    The orexin/hypocretin system: how was it discovered? What is the evidence that it is important for wake and EEG activation?
+**** Back
+
+    Through a search for feeding behaviour modulation
+    genetic knockouts of receptors and secreting neurons in mouse and canine models creates narcolepsy
+
+
+**** Extra
+    - source:
+*** 14:24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    There are two ascending tracts - the {{c0::medial lemniscus}} tract and the {{c0::spinothalamic}} tract
+**** Extra
+    - source:
+*** 14:28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    There are two descending (motor) tracts - the {{c0::corticobulbar}} tract and the {{c0::corticospinal}} tract
+**** Extra
+    - source:
+*** 14:30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the difference between the information carried by the medial lemniscus and the spinothalamic tracts
+**** Back
+    The med-lem tract carries fine/discriminating sensations & proprioception (=advanced ) and the spinothalamic tract carries pain, temperature and coarse sensations (=primitive)
+**** Extra
+    - source:
+*** 14:36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    The corticospinal tract is divided into 2: the {{c1::lateral}} part carries commands to {{c2::distal limbs}}, and the {{c1::anterior}} part carries commands to {{c2::the trunk and other proximal muscles}}
+**** Extra
+    - source:
+*** 14:39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the first neuron in the descending (motor) tracts?
+**** Back
+    A pyramidal neuron in layer V of M1
+**** Extra
+    - source:
+*** 14:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the 2nd neuron in the descending (motor) tract?
+**** Back
+    In the ventral horn of the gray matter in the spinal column - in layer IX (corticospinal tract), or in the brainstem (corticobulbar)
+**** Extra
+    - source:
+*** 14:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the "final common pathway" of the motor tracts?
+**** Back
+    The NMJ (neuromuscular junction)
+**** Extra
+    - source:
+*** 14:43
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    The decussation of the lateral ccorticospinal tract on the way down to the periphery happens in the {{c0::pyramid of the medula}}
+**** Extra
+    - source:
+*** 14:46
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Where is the 2nd synapse on the corticobulbar tract?
+**** Back
+    In one of the cranial nuclei in the brainstem
+**** Extra
+    - source:
+*** 14:47
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    The fibers of white matter through which the lateral corticospinal tract runs are called the {{c0::lateral funiculus}}
+**** Extra
+    - source:
+*** 14:48
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+        The fibers of white matter through which the anterior corticospinal tract runs are called the ventral funiculus
+
+**** Extra
+    - source:
+*** 14:50
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which part of the crus cerebry does the corticospinal tract go through?
+**** Back
+    The middle third
+**** Extra
+    - source:
+*** 14:52
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+        The decussation of the anterior ccorticospinal tract on the way down to the periphery happens in {{c0:: the gray matter of the spinal chord}} or {{c0::it doesn't happen at all - and stays ipsi-lateral, or bi-latera (both sides contract together)}}
+
+**** Extra
+    - source:
+*** 14:55
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What's the difference in decussation between the lateral and anterior corticospinal tracts?
+**** Back
+    In the lateral part the deccusation is in the medula (pyramid), while in the anterior part it happens in the spinal column or not at all
+**** Extra
+    - source:
+*** 14:57
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many synapses are in the route from the brain to the muscles?
+**** Back
+    Only one (= only two neurons) - either in the medula or in the spinal chord (not counting the NMJzs)
+**** Extra
+    - source:
+*** 14:58
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How many synapses in the ascending (sensory) tracts?
+**** Back
+    Two: first either in the spinal chord or in the medula, second in the thalamus
+**** Extra
+    - source:
+*** 15:04
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Which part of the thalamus collects all of the sensory input from the body (=not the face) ?
+**** Back
+    The VPL
+**** Extra
+    - source:
+*** 15:06
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    The {{c0::VPM}} is the part of the thalamus that gets {{c1::sensory information from the face}}, while the {{c0::VPL}} gets {{c1::the information from the rest of the body}}.
+**** Extra
+    - source:
+*** 15:08
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How may neurons make up the spinothalamic tract? Where are they found?
+**** Back
+    Three in all:
+    1. In the DRG - pseudounipolar
+    2. In the dorsal horn of the gray matter of the spinal chord
+    3. In the thalamus
+**** Extra
+    - source:
+*** 15:08
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    How may neurons make up the medial lemniscus tract? Where are they found/where are the synapses?
+**** Back
+    Three in all:
+    1. In the DRG - pseudounipolar
+    2. In the nuclei of the medula (cuneatus or gracilis)
+    3. In the thalamus
+**** Extra
+    - source:
+*** 15:24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    Whats the diference between fasciculus gracilis and cuneatus?
+**** Back
+    Fasc. Cuneatus transfers sensory information from the upper body (hands), and gracilis from the lower body (legs)
+**** Extra
+    - source:
+*** 15:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the path of information from the periphery through the medial lemniscus?
+**** Back
+    From the sensing area through the DRG all the way up to the nucleus cuneatus/gracilis in the medula (synapse 1), then decussation on the way to the VPL in the thalamus (synapse 2), then to S1
+**** Extra
+    - source:
+
+*** 15:27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is the path of information from the periphery through the spinothalamic tract?
+**** Back
+    From the sensing area through the DRG into the spinal chord, make a synapse there (synapse 1) then decussation and all the way up to the VPL in the thalamus (synapse 2), then to S1
+**** Extra
+    - source:
+*** 15:40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What diffenrentiates CN1 and CN2 from the rest of the cranial nerves?
+**** Back
+    The rest of the nerves develop from the mesencephalon (midbrain), but CN1 (olfactory) develops from the telencephalon, and CN2 (optic) develops from the diencephalon (both originally prosencephalon)
+**** Extra
+    - source:
+*** 15:42
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is CN1 (nerve), what is the pathway of information?
+**** Back
+    CN1 is the olfactory nerve.
+    Olfactory bulb ⟹ olfactory tract⟹ lateral olfactory stria⟹ uncus **** Extra
+    - source:
+*** 16:10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What is CN2 (nerve)? What is the pathway?
+**** Back
+    פוטורפצטורים ⟹ תאים ביפולאריי ם ⟹ optic nerve ⟹ optic tract ⟹ LGB ⟹ optic radiation
+**** Extra
+    - source:
+*** 16:15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What goes through mayer's loop?
+**** Back
+    Optic tract fibers going from the LGN (thalamus) to V1 - specifically those carrying information about the upper visual field
+**** Extra
+    - source:
+*** 16:18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What kind of anopsia will be caused by damage to the left eye?
+**** Back
+    Depth perception, and a slight narrowing of the visual field - the entire visual field will generally still be visible
+**** Extra
+    - source:
+*** 16:20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        What kind of anopsia will be caused by damage to the left optic nerve?
+**** Back
+    Same as damage to the left eye - the entire visual field is still available, though slightly narrowed
+**** Extra
+    - source:
+*** 16:21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        What kind of anopsia will be caused by damage to the optic chiasm?
+**** Back
+    The nasal part of each eye's visual field will be missing - we'll get the right eye's left VF and the left eye's left VF
+**** Extra
+    - source:
+*** 16:23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        What kind of anopsia will be caused by damage to optic tract/LGN
+**** Back
+    We'll only have half of the VF (of the other hemisphere)
+**** Extra
+    - source:
+*** 16:28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+    What vesicle does the eye & optic nerve devlop from?
+**** Back
+    The diencephalon
+**** Extra
+    - source:
+*** 16:29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:END:
+**** Front
+        What kind of anopsia will be caused by damage to the temporal lobe?
+**** Back
+    A quarter of the visual field will be lost  - either left or right upper quadrant (because of mayer's loop)
+**** Extra
+    - source:
+*** 16:31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+    Cranial nerves 3, 4 and 6 are all concerned with {{c0::moving the eyeball}}
+**** Extra
+    - source:
+
+*** 16:31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: School
+:END:
+**** Text
+The 3rd CN is the {{c0::occulomotor}} nerve - it has a {{c0::motor}} function: {{c1::moving most of the muscles of the eyeball}}, and an {{c0::autonomic}} function: {{c1::the light reflex for narrowing the puplil}}.
+**** Extra
+    - source:
+*** 17:05
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:ANKI_NOTE_ID: 1649604784837
+:END:
+**** Front
+    Test image
+**** Back
+
+[[/mnt/g/My Drive/notes/gtd/inbox.org_20220410_170636_v4R344.png]]
+**** Extra
+    - source:
+
+*** 17:05
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: School
+:ANKI_FAILURE_REASON: Unable to resolve link: "G:\\My Drive\\notes\\slip-box\\anki.org_20220410_174107_vnukr0.png"
+:END:
+**** Front
+    Test image II
+**** Back
+[[G:\My Drive\notes\slip-box\anki.org_20220410_174107_vnukr0.png]]
+**** Extra
+    - source:

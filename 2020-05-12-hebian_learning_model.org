@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20210627T195155.653306
+:END:
+#+TITLE: Hebian Learning Model
+"(Neurons that) fire together, wire together"
+

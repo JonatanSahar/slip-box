@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       20210627T195317.490877
+:ROAM_REFS: cite:baeDissociableDecodingSpatial2018
+:END:
+#+TITLE: Notes on Dissociable decoding of location and orientation
+#+ROAM_KEY::PROPERTIES:
+:Custom_ID: baeDissociableDecodingSpatial2018
+:NOTER_DOCUMENT: //home/jonathan/google_drive/.notes/.bibliography/bibtex_pdf/Bae&Luck_2018.pdf
+:AUTHOR: Bae, G. & Luck, S. J.
+:JOURNAL:
+:DATE:
+:YEAR: 2018
+:DOI:
+:URL:
+:END:
+
+* Notes
+*** abstract: they decode location and orientation (with varying locations, i.e., location independent) from alpha band and "sustained potentials" - showing that these signals contain the actual information about the remembered location and orientation. they use ERP decoding as in cite:ERPDecodingPresentation.
+*** alpha band activity is known to correlate strongly with spatial memory and attention. e.g. which one out of eight locations on screen is monitored for a stimulus.
+*** it's possible that the way working memory works is by keeping sustained attention towards what is being remembered
+*** they use a "cluster mass test" to test for statistical significance of the decoding accuracy
+*** [?] they decoded alpha band activity, looking at it as phase-independent (?)
+*** they filtered out  frequencies > 6 Hz from the ERP data, and limited the alpha analysis to 8-12 Hz - to be sure they're not decoding using the same data twice.
+*** they rely on decoding accuracy being above-chance to determine that the signal really contains information about the stimulus

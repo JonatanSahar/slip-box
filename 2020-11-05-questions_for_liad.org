@@ -1,0 +1,6 @@
+#+TITLE: questions for liad
+[[file:slip-box/2020-10-22-meeting_summaries.org][Meeting summaries]]
+
+* should we separate the data into alpha (8-12Hz) and "ERP" (<6Hz) like in the paper?
+* should we compute temporal resolution with a boxcar function?
+* three-fold CV, repeated 10 times (reshuffling the folds), each time, 2/3 used for training

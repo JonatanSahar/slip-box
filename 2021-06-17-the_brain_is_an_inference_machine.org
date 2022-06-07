@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20210627T195309.165227
+:END:
+#+TITLE: The brain is an inference machine
+It's always busy collecting data from the environment and constructing explanations about it.
+
+See also:
+
+*** [[file:2021-06-17-free_energy_principle.org][Free energy principle]]

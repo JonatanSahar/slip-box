@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ROAM_REFS: @rosenblattBetterthanchanceClassificationSignal2021
+:ID:   20211030T234352.433116
+:END:
+#+title: Notes on Rosenblatt, Benjamini, Gilron, Mukamel, Goeman, Better-than-Chance Classification for Signal Detection
+* main points
+* findings
+* methods
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):

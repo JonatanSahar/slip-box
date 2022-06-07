@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       20210627T195158.683092
+:END:
+#+TITLE: Phone call with Aviva Berkowitz
+
+** 10:35 שיחה עם אביבה אתמול
+
+   <2020-05-13 Wed>
+   היתה לי שיחה ממש טובה עם אביבה אתמול. היא נשמעה מעוניינת וחיובית, והבוקר היא
+   שלחה לי טפסים להצעה למלגה (שאני בטח לא אקח). היא אמרה שהיא פחות או יותר
+   היחידה שחוקרת תודעה עם פסיכדלים, ונראה לי שהיא בין הבודדות שחוקרות מדיטציה.
+   
+   היא עובדת בעיקר בשיטות של ניורופיזיולוגיה ([[file:2020-05-14-neurophysiology.org][Neurophysiology]]) וספציפית עם
+   מכשיר ה [[file:2020-05-14-meg.org][MEG]] בבר אילן.
+   
+   חוקרת בתחום של [[file:2020-05-15-neuro_phenomenology.org][Neuro-phenomenology]]
+
+   אין אפשרות לקבל אצלה מלגה כי היא במחלקה לחינוך ואין שם כסף, אז היא הציעה לחפש
+   שיתופי פעולה. היא הציעה את:
+   - רועי סלומון שמתעניין ב [[file:2020-05-14-self_consciousness.org][Self-consciousness]]
+   - שמעון מרום ברמב"ם [[file:2020-05-14-technion_faculty_of_medicine.org][Technion faculty of medicine]]
+   - מריים ריינר מהטכניון שאולי כבר פרשה [[file:2020-05-14-technion.org][Technion]]
+     - [[ miriamr@g.technion.ac.il][email]]
+     - [[ http://vrneurocog.wix.com/vrneurocog][lab site]]
+     - rotem bennet שעובד עם שמאי-צורי עשה אצלה את ה PhD
+   - סימון שמאי צורי מהמחלקה ל cognitive sciences בחיפה [[file:2020-05-14-haifa_university.org][Haifa University]]
+     אמרה שאולי אפשר לקבל שם מלגת קיום. 
+
+   הזכירה את המושג [[file:2020-05-14-embodied_self.org][Embodied Self]] כמושג ששווה לחפש.
+
+   הזכירה את ציפי-הורוביץ-קראוס כמישהי שהיא לא מעוניינת בשת"פ איתה.
+

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210612T143047.420085
+:END:
+#+TITLE: Amatuers have more fun
+- source :: https://psyche.co/ideas/feel-free-to-stop-striving-learn-to-relish-being-an-amateur
+
+  The stress of a success/failure mindset is all around us, all the time, in anything we take upon ourselves to do.
+  It can be a much nicer experience to let go of needing to accomplish something - it makes us free to play with what we're doing, to investigate playfully, to be creative without fear of the consequences, to enter a state of flow - concentrating fully on the moment and the richness of experience.
+
+  If we're not concerned with any external measures of success, we have less that distracts us from enjoying the thing we're doing (music, painting, ceramics)
+
+  Can work also be this way? Reading articles, writing code? Learning?
+
+* see also
+ - [[id:20211031T095718.918456][Playfulness]]

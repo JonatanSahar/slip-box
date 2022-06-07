@@ -1,0 +1,9 @@
+
+#+title: notes on: Shanks, D. R. (2017): Regressive research: the pitfalls of post hoc data selection in the study of unconscious mental processes
+* main points
+We can't use post hoc narrowing of subject and/or trials to include on;y those trials in which subjects failed the awareness criterion, and then look only at their performance in the unconscious processing task. Why? Because of regression to the mean
+* findings
+* methods
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):

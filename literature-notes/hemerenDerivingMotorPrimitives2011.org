@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       20220508T112549.031067
+:ROAM_REFS: @hemerenDerivingMotorPrimitives2011
+:END:
+#+title: Notes on Hemeren, Thill, Deriving Motor Primitives Through Action Segmentation
+
+* summary and short reference
+They use a motion capture glove to display clips of actions (drinking from cup, pouring from bottle..) to subjects in an fMRI experiment.
+The clips are are either right side up with the image of the object shown or inverted with the object  not shown - so in this condition it's pretty impossible to discern what the action actually is:
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/hemerenDerivingMotorPrimitives2011.org_20220508_113935_omKQvQ.png]]
+
+Subjects are asked to "segment" the clips as they see fit.
+The segmentation is compared to the kinematic profile (velocity, acceleration, angle change) .
+
+They found that:
+1. There was consistent segmentation between the conditions
+2. There was a good match between the kinematics and the segmentation - they conclude that we understand actions through bottom up processing.
+
+* general notes
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:

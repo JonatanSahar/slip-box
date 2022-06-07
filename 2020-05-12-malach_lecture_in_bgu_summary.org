@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       20210627T195156.501298
+:END:
+#+TITLE: malach lecture in BGU - summary
+- see :: [[file:agenda.org::* watch Malach's lecture at ELSC][[]: watch Malach's lecture at ELSC]], [[file:labs.org::*Rafi Malaach][Labs]], [[file:2020-05-12-malach_lecture_in_elsc.org][malach lecture in ELSC - summary]]
+
+
+In this lecture, Rafi suggests that the random fluctuations are the brain's
+correlate to being creative and exercising free will w/ regards to thoughts.
+
+He compares it to stochastic search, saying that when the "random noise" crosses
+a certain threshold, it becomes a conscious thought/decision.
+He gives an example of mental tasks: to name tools, and to recall pictures that
+were shown - the moment of crossing the threshold is the moment of deciding which
+tool to name next.
+
+He shows evidence that the ramp-up of neuronal activity culminates in a peak a
+2-3 seconds before the decision is executed (tool is named, photo is recalled)
+
+He also mentions [[file:2020-05-12-deep_waves.org][Deep waves]] which also happen a couple of seconds before
+conscious decisions.
+
+He mentions that when we have a specific task, the fluctuations are dampened in
+areas that are not related to the performance of the task. 
+In the same subject, he says that when we need to remain focused and alert - the
+task was recognizing flashes of images that appear in inconstant intervals -
+then the baseline (i.e. the average of neuronal activation) of the fluctuations
+rises (making the whole network more responsive/sensitive), while the amplitude
+of the fluctuations decreases (making it less likely to pass the threshold
+without good reason).
+

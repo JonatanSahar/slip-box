@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       20210627T195207.353578
+:END:
+#+TITLE: Writing Inbox
+This is a place to put fractions of notes and ideas that I want to develop further.
+Interesting directions from the daily scratch-pad go here, and it must be regularly
+reviewed and processed into permanent notes.
+
+Source: [[file:2020-06-02-evergreen_notes.org][Evergreen Notes]] 
+
+* Notes
+* TODO הדימוי של תנועה צריך להיות תמיד שלם, משהו חלקי זה לא מספיק
+* DONE פגישה עם וובה
+CLOSED: [2020-10-07 Wed 23:21] SCHEDULED: <2020-09-08 Tue>
+
+7200 צבע
++ 5000 לשיש
+
+* TODO הגב התחתון הוא לא אגן
+* DONE ERP decoder
+CLOSED: [2020-12-26 Sat 23:12] SCHEDULED: <2020-12-01 Tue>
+
+* A healthy kind of uncertainty, leading to a happier more content state of mind #meditation #Dharma
+
+With the idea of constant change.
+How can it be safe to be uncertain? If I don't know what's coming next for me, if I'm changing all the time, I'm also more free to be different, to have happier, to find a 'me' that's more right for me at this moment
+

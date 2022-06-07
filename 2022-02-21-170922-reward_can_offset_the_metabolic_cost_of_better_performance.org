@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       20220221T170922.021684
+:END:
+#+title: Reward can offset the (metabolic) cost of better performance
+[[id:20220221T160259.019621][Reward improves motor performance]], possibly by [[id:20220221T170219.514092][Reward improves online correction in motor learning]]. [[cite:&manoharMotivationDynamicallyIncreases2019]] suggest that while making better, i.e. faster and more accurate, movements through improved online feedback is more metabolically demanding - the knowledge of reward makes it worthwhile for the brain to invest this extra cost.

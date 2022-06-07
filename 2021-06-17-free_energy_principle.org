@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210627T195308.261067
+:ROAM_ALIASES: "Predictive coding"
+:END:
+#+TITLE: Free energy principle
+#+ROAM_ALIAS:
+Is a theory/idea proposed by karl friston.
+One of the major ideas is the following:
+Since any system that exists over time is resisting entropy (it doesn't disperse), it may also be said that the molecules forming it are moving against the probability distribution of where they should be. This is somehow the same as saying that the states of the system as a [[file:2021-06-17-markov_blanket.org][Markov blanket]] are flowing in a direction that maximizes its model evidence (its model of the external environment) since the probability distribution is somehow the same as the bayesian model evidence.
+So, for a system like this (like the brain) it will always appear as if it has a model of the world, and is gathering evidence about it.
+
+From a predictive coding perspective, higher levels are continually trying to predict the signals coming from lower levels based on the current information - and when there's a mismatch, a prediction error, it gets either
+    1. Explained away by some other information, or
+    2. The model is updated.
+

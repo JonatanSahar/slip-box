@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       20220310T140804.293142
+:ROAM_REFS: @jamesImportanceHandwritingExperience2017
+:END:
+#+title: Notes on James, The Importance of Handwriting Experience on the Development of the Literate Brain
+* general notes
+Review of fMRI studies
+
+they scanned 4 year olds before and after 4 week training with letters in one of two ways:
+-  writing letters by hand.
+- watching and naming them (see-and-say)
+
+They found that only in the writing group did brain activation while seeing letters activated the same region as it did in adults.
+
+The deduce that "printing letters by hand actually formed neural specialization for letters and perhaps paved the way to creating the brain systems that were used for subsequent reading".
+
+Copying was better than tracing  [cite:@liHandwritingGeneratesVariable2016]
+ but only when tracing a single font(!). When traacing handwriting or multiple fonts there was no difference:
+ [[/mnt/g/My Drive/notes/slip-box/literature-notes/jamesImportanceHandwritingExperience2017.org_20220310_161058_LCji53.png]]
+
+Variability is important for learning:
+learning through seeing variable shapes created better learning than learning the same shapes
+
+Self generation of shapes creates variability - which we then immediately perceive.
+
+*However* learning the letters by seeing , even if they were variable in form, did not result in recruiting the reading network unless the letters were self-produced
+
+
+
+(From [cite:@jamesSensorimotorExperienceLeads2010]):
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/jamesImportanceHandwritingExperience2017.org_20220310_142931_VQnRLk.png]]
+
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/jamesImportanceHandwritingExperience2017.org_20220310_150811_S06tIo.png]]
+
+
+
+* summary and short reference
+* see also (notes, tags/ other papers):
+Self generation of action when learning about structue of objects creates a different brain network than watching in adults (e.g., Butler & James, 2013) and in young children
+(e.g., James & Swain, 2011)
+
+letter processing - visual letter processing (see Martin,
+Schurz, Kronbichler, & Richlan, 2015, for a meta-analysis;
+see Fig. 1 for a schematic that summarizes the results).
+
+how the perceptual and motor systems become functionally connected in the brain (Vinci-Booher, James, & James, 2016)
+
+Planton, S., Jucia, M., Roux, F.- E., & Demonet, J.- F. (2013).
+The “handwriting-brain”: A meta-analysis of neuroimaging
+studies of motor versus orthographic processes. Cortex,
+49, 27722787. Provides a large analysis and review of all
+the imaging work on handwriting up to 2013
+
+
+
+#+print_bibliography:

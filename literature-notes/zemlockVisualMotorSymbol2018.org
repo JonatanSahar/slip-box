@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       20220302T180813.011264
+:ROAM_REFS: @zemlockVisualMotorSymbol2018
+:END:
+#+title: Notes on Zemlock, Vinci-Booher, James, Visual\textendash Motor Symbol Production Facilitates Letter Recognition in Young Children
+* general notes
+They had preschoolers either draw or view either letters or digits, and tested the improvement in letter recognition.
+
+Behavioral study, no imaging
+
+They found that both letter writing and digit writing brought the same improvement in *letter* recognition.
+They deduced that sensory-motor practice with any symbol would've helped.
+This suggest that at least some of the improvement in recognition of specific shapes is due to motor experience with just shapes in general.
+
+This means that part of the improvement in children is due to better hand-eye coordination
+
+They stress the importance of equating the viewing time between viewing only and drawing
+* summary and short reference
+* see also (notes, tags/ other papers):
+This point is supported by work showing that children with reading delays
+also have low fine motor skills (Iverson & Goldin-Meadow, 2005).
+
+#+print_bibliography:

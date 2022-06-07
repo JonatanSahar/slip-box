@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20210627T195222.787625
+:END:
+#+TITLE: hubs in prenatal brain may be imortant for coordination in the development of primary function
+
+* Sources
+
+cite:turk19_funct_connec_fetal_brain
+

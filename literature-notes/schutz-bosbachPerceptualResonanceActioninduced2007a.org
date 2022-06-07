@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20220226T152630.190485
+:ROAM_REFS: @schutz-bosbachPerceptualResonanceActioninduced2007a
+:END:
+#+title: Notes on Sch\utz-Bosbach, Prinz, Perceptual Resonance: Action-Induced Modulation of Perception
+* general notes
+
+* summary and short reference
+* see also (notes, tags/ other papers):
+
+
+
+
+#+print_bibliography:

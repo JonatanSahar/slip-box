@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       20210627T195236.802984
+:END:
+#+TITLE: segregation vs integration
+cite:zhao19_graph_theor_model_baby_brain_networ refer to two aspects of network
+organization:
+ - segregation: a measure of the ability of a localized area to perform
+   computations. It's influenced by the degree of interconnectedness inside
+   clusters (see [[file:2020-08-09-modularity_in_the_developing_brain.org][modularity in the developing brain]])
+
+  - integration: the efficiency of the network as a whole, the path length between
+    nodes in different areas, the ability to transfer information between
+    different remote areas.
+    Developed integration is characterized by short average shortest-path, also
+    known as high [[file:2020-08-05-network_efficiency.org][network efficiency]]
+    [[file:2020-08-03-rich_club_effect.org][Rich-club effect]] is a hallmark of high integration, since it facilitates
+    shorter paths between member nodes of remote modules/clusters
+
+    [[file:2020-07-28-small_world_networks.org][small world networks]] are a good balance of segregation and integration
+
+* see also:
+
+- [[file:2020-08-04-the_brain_as_a_network_graph.org][the brain as a network/graph]]
+-
+

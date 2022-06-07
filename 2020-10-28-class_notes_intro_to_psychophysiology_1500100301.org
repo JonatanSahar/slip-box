@@ -1,0 +1,263 @@
+:PROPERTIES:
+:ID:       20210627T195253.844835
+:END:
+#+TITLE: Class notes: intro to psychophysiology (1500100301)
+
+* Oct 28
+*** exam 20 multiple choice questions
+*** CNS - neurons inside bones
+*** PNS  -neurons outside bones
+*** the function of the nervous system: input -> neural representation -> output
+*** neuron vs nerve -
+***** a whole bunch of neurons bundled together as a fiber
+*** reflexes  - direct transmission from sensory to motor neurons at the level of the spinal chord.
+*** can be inhibited by the brain if we want to avoid the instinct.
+*** the brain sends a contrasting inhibitory signal
+*** the end result is  determined by the stronger signal - no priority to the brain/reflex
+*** communication _within_ a neuron:
+***** resting potential
+***** graded potential
+***** action potential
+***** depending on the transfer of ions across a membrane
+***** concentration of Na+ is *higher* outside of the neuron than inside
+:PROPERTIES:
+:ID:       2e652f69-0dbc-40fe-bf1c-f8e3a4833270
+:END:
+
+***** concentration of Cl- is *higher* outside of the neuron than inside
+***** concentration of K+ is  *lower* outside of the neuron than inside
+***** forces that act on ions:
+******* diffusion
+******* electrical force (attraction/replant) (from the polarity of the membrane)
+******* can be the same direction or opposite
+***** equilibrium
+******* an ion is in equilibrium when the # of ions entering the cell is the as the # that leave it.
+******* electrical force = -concentration gradient force
+******* the diffusion of the different types of ions is constant in direction and force - [[id:2e652f69-0dbc-40fe-bf1c-f8e3a4833270][concentration of ions]] is constant
+******* Nernst equation:
+******* potential is defined so that its negative when the inside of the cell is negative.
+***** Resting potential
+******* membrane potential for equilibrium of Na+ = +55mV
+******* membrane potential for equilibrium of K+ = -80mV
+******* membrane potential for equilibrium of Cl- = -70mV
+******* membrane resting potential (#of + ions same as #of - ions) -70mV (inside is more negative)
+******* the membranes potential is affected by the weighted average of the potential of the different ions -  weighted by the number of open channels of every kind.
+******* P - permeability is the measure of how many channels are open.
+******* the membrane potential is given by goldman-hodgin-katz equation:
+
+            RT/F*ln(sum(P_ionType*[ionType]_outForPosIons)/sum(p_ionType*[ionType]_inForPosIons))
+
+********* Note that the "out" and "in" concentrations are reversed for Cl-! "in" goes int the nominator
+* Nov 11
+:PROPERTIES:
+:ID:       78fdaab4-abe6-40b8-918b-985355c46ffc
+:END:
+
+*** Resting potential cont./revision
+***** every ion type (K+, Na+, Cl-) can find equilibrium between the chemical and electrical forces
+***** but they can't all be in equilibrium at the same time, because following from the Ernst equation, they require different potential differences between the inside and outside of the neuron.
+***** many many more K+ channels than Na+ channels (2x orders of magnitude)
+***** this difference in channel numbers creates a situation where for every Na+ that enters the cell (when the membrane potential is -70 = equilibrium) one K+ exits, even though there's a much stronger force pulling NA+ into the cell.
+***** for every Cl- ion that enters - at -70  - one leaves because that's Cl- actual chemical-electrical equilibrium
+***** order of number of channels: K+ > Cl- > Na+
+***** this order is reflected in the permeability coefficient in the Nernst equation
+***** there's a problem with Na+! since both chemical and electrical forces pull it in, the concentration [Na+] only grows.
+******* the solution is the existence of Na+/K+ pumps: they move sodium ions out of the, and potassium ions into cell against the concentration gradient - with the investment of energy
+******* on average - for every Na+ ion that enters, another leaves through the pump
+*** Graded potential
+***** when Na+ channels open, Na+ flowes in -> the cell interior becomes less negative (say -60V). this is called *depolarization*
+***** when K+ channels open, K+ leaves (because its equilibrium is -80mV) - this is called *hyperpolarization* (say -80 mV)
+***** when they close, the membrane returns to the resting potential
+***** leaving the resting potential is called graded potential
+***** what causes cells to leave the resting potential?
+******* some physical stimulus in a sensory neuron (heat, mechanical stress, light on the retina etc.)
+********* this is how neurons respond to the environment, the first information that enters the nervous system from the outside world
+********* these all trigger the opening of Na+ channels, depolarizing the neurons
+******* Chemical signals from other neurons, through NTs in the synapse
+***** Why "graded"? - the potential changes *locally* only around the point where channels opened, and the change diffuses around that point, becomes gradually smaller with the distance
+*** action potential
+***** once depolarization crosses -55mV many many Na+ channels open, and the membrane potential spikes up to +40 mV
+******* this take ~2ms!
+***** these channels are of a different kind than the others we've mentioned - they are voltage dependent!
+***** once the potential reaches +40 mV all of these channels close again, and the potential drops back to resting state.
+***** these new channels change the ration between K+/Na+ channels from 100/4 to 100/2000
+******* this is in the course of 1ms
+***** at ~-30mV K+ channels open - this lets K+ leave the cell, which slows down the depolarization a little, but mostly creates the *rapid re-polarization* that starts when the Na+ channels close at +40mV
+***** the effect of the K+ channels is so strong the cell goes into hyperpolarization for a little bit before returning to resting potential
+***** as many as 330 APs a second (1 every 3 ms or so)
+***** the rate of firing is indicative of the strength of the stimulus
+***** AP traveling along the axon (Saltatory potential) - it starts where stimulus occurred, then the Na+ ions travel along the axon, changing the (local) membrane potential where they arrive. if the change is great enough (bringing the membrane to -55) - and it always is, in a healthy neuron -  then another AP occurs there, and so on.
+***** the flow of AP happens only in one direction, even though the distribution of NA+ from the channels diffuses in both directions - because of the inactivation (refractory period) of the voltage-dependent Na+ channels
+* Nov 18
+*** AP cont.
+***** the Na+ ions that flow in during AP change the membrane potential dramatically, but have overall a very small impact on the concentration gradient, so the chemical gradient force isn't really changes due to it.
+***** Axon Hilloc - the area where the axon is connected to the soma.
+******* its rich with voltage dependent Na+ channels
+******* that's actually the region that has to reach -55mV for AP to fire
+***** voltage dependent Na+ channels are mostly found on axons, and not so much on dendrites or the soma
+***** myelin makes the transfer of AP faster, and also more efficient - since the areas under the myelin don't leak Na+ outside, and no pumps are needed.
+***** the length of myelin segments is exactly long (short) enough that the signal doesn't decrease to under 55mV at the the next opening
+*** communications between neurons
+***** pre-synaptic neuron
+******* NT release is triggered by voltage-dependent calcium (Ca2+) channels
+******* when the AP arrives at the terminal button, the potential change causes these channels to open and calcium flows into the cell.
+******* Ca2+ triggers exocytosis of the vesicles containing the NT molecules
+***** synaptic cleft - ~20 nanometers
+******* mechanisms of NT evacuation from the synapse:
+
+            - reuptake
+            - enzymatic deactivation - acetylcholin
+            - diffusion
+
+***** post synaptic neuron
+******* NT binds to (gated) ion channels
+******* inhibition: channels causing hyperpolarization, opens K+ channels, pottasium leaves.
+******* excitation - the reverse: we want depolarization, want to open Na+ channels, let sodium in
+******* summing AP in time (high frequency firing from the same pre synaptic neuron)
+******* summing AP in space (simultaneous activation from 2 pre synaptic neurons of adjacent synapses)
+* Dec 2
+*** graded potential: neurotransmitter dependent channels
+*** GABA receptors of 2 kinds:
+***** Cl- channel
+***** K+ channel
+*** glutamate receptors of 2 kinds:
+***** Na+ & K+ (AMPA)
+***** Ca+, Na+ & K+ (NMDA)
+***** NMDA depends on voltage *and* neurotransmitter
+*** NT: acetylcholin
+***** NMJ synapses - makes the muscles move
+***** learning and memory (in the CNS)
+***** sleep
+***** nicotinic receptors:
+******* lets Na+ and K+ in - creates EPSP
+***** Muscarinic recetor:
+******* closes K+, slows down the EPSP, making it last longer, making summation more probable (~creating EPSP)
+***** AchE
+*** NT family: monoamins
+***** neuromodulators, metabotropic (=G-proteins, slower)
+***** dopamine
+******* movement, attention, learning, motivation
+******* both inhibitory and excitatory depending on the receptor
+******* a precursors to norepinephrine
+******* parkinson's - low dopamine
+******* schizofrenia - high dopamine
+***** norepinephrine/adrenaline
+******* alertness and vigilance
+******* behavioral effect is excitatory
+******* synaptic effect - both inhibitory and excitatory depending on the receptor
+***** serotonin
+***** mood, sleep, arousal, pain
+***** more than 14 different receptors
+***** depression and anxiety - SSRIs, preventing the reuptake of serotonin.
+* Dec 9 - functional neuroanatomy
+*** nerve = bundle of many axons
+*** inside the skull - CNS: brain, PNS: cranial nerves, sensory & motor to/from the facial area (sight/smell, movement)
+*** directions of views of the brain:
+***** superior = dorsal - from the top
+***** inferior  = ventral - from the bottom
+***** lateral - closer to the sides
+***** medial - closer to the center line (the line between the hemispheres)
+***** anterior = rostral - from the front (face)
+***** posterior = caudal - from the back
+***** horizontal plane - a plane parallel to the ground
+***** sagital plane - orthogonal to the horizontal plane, parallel to the midline
+***** transverse plane - orthogonal to the horizontal plane, parallel to the face
+***** the olfactory bulbs are ipsilateral - unlike most everything else.
+***** the visual field is contralateral - not the eyes themselves!
+*** the lobes:
+***** frontal (front)
+***** temporal (side, temples)
+***** parietal (back-top)
+***** occipital (back)
+*** Broadman's areas - a division according to the anatomy of the cells themselves
+:PROPERTIES:
+:ID:       74729252-ada5-4151-a90d-5cf6f9b3e49c
+:END:
+
+*** there are 4 primary/secondary cortices pairs:
+***** visual - occipital lobe
+******* Primary visual cortex (V1)
+********* there's an 'inversion' of the visual field in terms of how it's mapped onto the cortex - left VF goes to the right hemispheres and vice-versa, and the top of each VF is mapped to the lower part of each.
+********* cotrical magnification: the smaller areas in the center of the visual field, near the fixation point, are mapped onto a larger area of the cortex than the large areas of the VF further from the center  - this effectively means we have higher resolution near the fixation point.
+***** auditory - temporal lobe
+******* in the primary auditory cortex there's a mapping of different frequency ranges onto different areas of the cortex
+***** somatosensory - parietal lobe, just behind the central sulcus
+***** motor - frontal lobe just in front of the central sulcus
+***** in the primary motor and somatosensory cortices there's a mapping of the different body parts (humunclus)
+*** all other areas of the cortex are "association" areas - dealing with integration of the information from the senses into our coherent experience.
+*** primary cortices are called primary because they're the first to receive information from outside the brain - and they pass it on to the secondary cortices.
+*** cortical layers:
+***** there are 6 layers in the cortex (gray matter - cell bodies and dendrites)
+***** the relative thickness of each layer is a significant part of what makes the different broadman areas look different.
+***** e.g. - layer 4 is dedicated to sensory input, so it is drastically different beteen the pri. motor cortex (which has no sensory input) and the pri. visual cortex.
+* Dec 23.12
+*** cerebral cortex:
+***** ventral (temporal) and dorsal (parietal) visual pathways
+******* ventral = "what" pathway
+********* selectivity
+********* hierarchical processing
+*********** in V1, in each area that belongs to a part of teh visual field, different neurons respond to lines of different orientations.
+
+         adjacent neurons respond to lines of similar orientations
+
+*********** in V2 it's a little more complex: similar idea, but neurons respond also to implied lines, line in the pacman/triangle visual illusion
+*********** V4 responds to yet more complex patterns (circles, radial patterns)
+*********** FFA - responds to faces
+*********** the more forward (along the bottom = ventral axis) the area - the more complex
+*********** places, different body parts etc. different categories, some allocated to a specific group of cells.
+*********** damage to the ventral pathway - object agnosia: inability to recognize objects by vision
+********* concept neurons in the hippocampus - respond specifically to known "things", like a specific personality (Opra, Bill Clinton, the sydney opera house)
+******* Dorsal - "where" pathway
+********* location of the object, especially in relation to an action we want to perform on it.
+********* unilateral neglect
+*********** damage to the posterior parietal lobe
+*********** not being able to divert attention to one side of the visual field (but patients are able to see objects there if nothing is competing for their attention)
+********* bi-lateral damage to the posterior parietal lobe: being able to see only one object at a time
+*********** it is influenced by the nature of the task (e.g. a triangle made up of several dots, patients were able to see the triangle but not able to count the dots )
+********* spatial cognition - e.g. mental rotation of shapes
+***** prefrontal cortex ([[file:../../../../../../../home/jonathan/.local/share/Trash/files/2020-06-02-prefrontal_cortex.org][Prefrontal Cortex]])
+******* we see the most difference there between humans and other animals
+******* working memory - keeping information that is no longer in the real world
+******* goal directed action
+******* decision making
+******* social and emotional skills
+******* language - brocha's area and wernicke's area: both only in the left hemisphere
+*** subcortical areas:
+***** the lymbic system:
+******* Amygdala
+********* related to emotional *learning* - associating stimuli with emotional responses etc. - not for emotions themselves
+********* responds to fear, and general emotional stimuli
+********* frightening stimuli and also fear conditioning (pairing a neutral stimulus with an adverse stimulus like shock)
+******* Hippocamups
+********* declarative memory
+********* patient HM - anterograde amnesia, no new memories
+********* deteriorates with age
+******* Both have a high concentration of cell bodies and dendrites - gray matter
+***** Basal ganglia
+******* part of the motor system
+******* related to motivation, reward mechanism
+******* dopamine
+******* dopaminergic cells are below the basal ganglia (in the substansia nigra) -  they feed into the basal ganglia
+***** thalamus
+******* a relay station for signals coming from the senses on the way to the cortex
+******* has different sub-parts, each for one of the primary cortices
+******* it's a sort of gate - a way to filter and choose which information will get to reach the higher processing at the cortex.
+********* e.g. sleep
+********* e.g. selective attention
+***** Hypothalamus (unrelated to the thalamus functionally)
+******* responsible for homestasis through the autonomic nervous system - blood pressure, temperature, food, sleep, period etc.
+***** brainstem ([[file:2020-05-27-brainstem.org][Brainstem]])
+******* in charge of the basic functions of life - breathing, heart rate
+******* connects/transitions into the spinal chord
+***** cerebellum
+******* part of the motor system
+******* balance, timing, coordination
+
+*******
+
+* Jan 10 - review
+
+***
+
+*** the dorsal, where, parietal visual path is responsible for placing things in our surroundings, especially in the sense of affordances, of actions that we can perform on them.
+*** for example - people with damage to that are have trouble reaching to objects.

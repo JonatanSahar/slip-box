@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       20210627T195254.569479
+:END:
+#+title: 2020-10-29
+
+* 13:00 meeting with tamara:
+*** accessing the lab's resources
+***** log into mudrikLab user
+***** chrome remote desktop
+***** Harry will be available
+***** password is 123456 for all computers
+***** copy data to my google drive while logged in to the lab's computer
+***** open a folder for myself in "experiments_new"
+******* there's a template folder - copy the behavioral template folder
+***** create an analysis log and fill it up every day that I work.
+*** tamara's day off is tuesday, best by email
+* 14:00 meeting with liad:
+*** start with intactness
+:PROPERTIES:
+:ID:       90b581f6-33c0-4d3c-a906-8975a87b377b
+:END:
+

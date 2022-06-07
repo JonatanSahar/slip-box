@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20220306T135209.446006
+:END:
+#+title: standard error
+In [[id:20210627T195238.608117][Statistics]].
+It's the [[id:20220306T135846.426314][standard deviation]] of the *estimate* of the population mean.
+I.e, it's the SD of the distribution of *sample means*, where each value is the mean of a sample from the population. (The distribution of sample means in centered around the population )

@@ -1,0 +1,217 @@
+:PROPERTIES:
+:ID:       20220112T095220.150223
+:END:
+#+title: working on semantic integration paper
+#+bind: org-export-publishing-directory "~/exports"
+
+
+* 2nd question
+*** findings:
+***** SNARC - Spatial Numerical Association of Response Codes
+A relation between the internal *spatial* model we have about numbers (number axes) and our physical response - like which hand we use to repond, or where we think the middle of a line is
+***** sensory metaphors prime judgment about situations
+Not a good study
+***** figurative terms are more frontal (activation) than literal ones, and more on the left hemi
+meta-analysis about the difference between figurative and literal thinking
+***** no sensory activation found for metaphorical/figurative sentences - while in literal ones there are
+Aziz-zadeh
+also raposo 2009
+***** there *is* sensory/motor activation for figurative speach
+Boulanger 2009
+***** for texture metaphors there is a similar activation for the metaphors and for actual haptic experience
+***** metaphors and abstract concepts had similar activations, and both were different from literal concepts
+        - say this means that metaphors are based on abstract meaning circuits rather than concrete sensory circuits
+         [[cite:&laceyMetaphoricallyFeelingComprehending2012]]
+***** activation in sensory and motor areas while listening to metaphors was greater for novel metaphors than for familiar ones - supporting the weak version of [[id:20220112T095351.303112][conceptual metaphors]] theory
+Desai et al. 2010
+***** abstract vs concrete terms: abstract terms activate much more frontal areas, so there has to be something more than just  sensorimotor activation
+[[/mnt/g/My Drive/.notes.v2/slip-box/2022-01-12-095219-working_on_semantic_integration_paper.org_20220112_121419_M24QJT.png]]
+***** frontal areas are more correlated with concepts that were more "verbal" - that subjects described more with concepts than with sensorimotor words
+
+***
+***** pulvermuler: there are many hubs, each is actually more responsive to different categories - shown in fMRI
+***** barros - food words activate gustutory areas
+***** gonz'ales  - smell words activate olfactory areas
+***** pulvermuler: abstract concepts are learned through action
+
+*** idea: abstract (=amodal) representations of concrete (=sensorimotor) concepts is at the basis of abstract (=non concrete, figurative) semantic understanding
+figurative concepts and abstract concepts had similar activations, and both were different from literal concepts
+Glenberg & Kaschak, 2002, PBR: incongruency between the gesture used for answering a question and the abstract (and concrete) concepts of open/close towards/away that were described in the question made subjects answer more slowly.
+Shows embodiment of abstract concepts.
+
+What I want to say:
+the two findings support each other. They are compatible with an idea that goes like this:
+
+*** theories:
+***** conceptual metaphors
+        :PROPERTIES:
+        :ID:       20220112T095351.303112
+        :END:
+        Sensory metaphors are the scaffolds on which we construct meaning - used as basis for more complex concepts
+        [[cite:&laceyMetaphoricallyFeelingComprehending2012]]
+***** metaphors are understood by direct link betewen the word/sentence-form and the meaning
+:PROPERTIES:
+:ID:       20220112T101509.530681
+:END:
+[[id:20220112T095351.303112][conceptual metaphors]]
+***** current theory of metaphor understanding: a combination of sensory and abstract (lexical/semantic) codes
+:PROPERTIES:
+:ID:       20220112T110649.204244
+:END:
+***** abstract terms: read borghi et al 2017
+:PROPERTIES:
+:ID:       20220112T110645.742352
+:END:
+
+***** andrews et al. There are two semantic/knowledge systems: one based on experience (which relies more on sensorimotor information) and one more lexical, relying on connections between words in spoken language (distributional/co-occurrence)
+* 3rd question
+*** frequentist/statistical learning
+***** pulvermuler
+***** no need for experience
+***** like children, all they know of language is the (co) occurrence of words
+***** it encodes only the relation between different concept - and not its meaning. But what is the meaning other than the web of semantic relations? I think much more.
+***  semantic unification
+***** understanding a new word in the context of the previous sentence
+***** N400: the neural activity seen in situations of surprise
+******* interpretation 1: actually represents lexical retrieval (harder to retrieve unexpected words)
+******* interpretation 2: reflects the actual integration process
+***** world knowledge matters -
+***** context matters the surprise is adaptive. Things that are usually surprising can be unsurprising in another, even totally made up, context
+*** goldstein et al. annotations
+        "a numerical vector, termed a contextual embedding," (Goldstein et al 2020:2)
+
+        "I) both are engaged in continuous context-dependent next-word prediction before word-onset" (Goldstein et al 2020:2)
+
+        "II) both match pre-onset predictions to the incoming word to induce post-onset surprise (i.e., prediction-error signals);" (Goldstein et al 2020:2)
+
+        "III) both represent words using contextual embeddings" (Goldstein et al 2020:2)
+
+        "multiple lines of evidence that the brain, like autoregressive DLMs, is spontaneously engaged in next-word prediction before word onset" (Goldstein et al 2020:8)
+
+        "they learn from surface-level linguistic behavior to predict and generate the contextually appropriate linguistic outputs" (Goldstein et al 2020:22)
+
+        "Spontaneous prediction as a keystone of language processing" (Goldstein et al 2020:22)
+
+        "actively represents forthcoming words" (Goldstein et al 2020:22)
+
+        "Pre-onset predictions are coupled with post-onset surprise signals" (Goldstein et al 2020:22)
+
+        "Our behavioral results indicate that human and GPT-2 predictions match during the processing of natural language" (Goldstein et al 2020:22)
+
+        this only means that the model learned well - not that it learned in the same way that humans do (note on p.22)
+
+
+
+
+        "the results show that we can rely on GPT-2's internal pre-onset confidence (uncertainty) in its predictions (entropy) and post-onset surprise (cross-entropy) to model the brain's internal neural activity as it processes language" (Goldstein et al 2020:22)
+
+        that's interesting - that the model's prediction error and the brain's "prediction error" (ERPs) ar correlated (note on p.22)
+
+
+
+
+        "400 ms" (Goldstein et al 2020:22)
+
+        N400 (note on p.22)
+
+
+
+
+        "Context-specific meaning as a keystone of language processing" (Goldstein et al 2020:22)
+
+        "static word embeddings" (Goldstein et al 2020:23)
+
+        what are those? (note on p.23)
+
+
+
+
+        "three shared computational principles that reveal a strong link between the way the brain and DLMs process natural language" (Goldstein et al 2020:23)
+
+        "do not imply that the human brain and DLMs implement these computations in a similar way" (Goldstein et al 2020:23)
+
+        "linguistic output given the prior statistics of language use in similar contexts" (Goldstein et al 2020:23)
+
+        reminds me of statistical/probebalistic semantic learnign theory
+        (note on p.23)
+
+
+        "Our finding of spontaneous predictive neural signals as participants listen to natural speech suggests that active prediction may underlie humans' lifelong language learning" (Goldstein et al 2020:24)
+
+        "DLMs can capture many aspects of the latent structure of human language, including syntactic trees, voice, co-references, morphology, and long-range semantic and pragmatic dependencies 24" (Goldstein et al 2020:24)
+*** ideas
+          - the article supports N400 as integration effort/surprise
+              - vs lexical access
+              - can encode post onset ERP from GPT2's contextual embeddings
+                  - especially at N400 timeframe
+                  - especially at higher language areas
+              - correlation between GPT2 surprise and (size of?) N400
+
+          - unification without semantics
+              - what is semantics actually?
+              - what GPT2 predicts changes with added context
+                  - it's defeasible
+                  - becomes *better* with context
+
+          - the article supports frequentist language learning
+              - it learns
+                  - same predictions as humans
+              - it's frequentist
+                  - improves with more context
+              - natural languages are not really constructed around rules
+                  - they evolve
+                  - we learn new languages though compact rules
+                  - children learn from examples
+              - GPT2 can learn *a lot* of structural characteristics of language
+                  - including syntactic trees, voice, co-references, morphology, and long-range semantic and pragmatic dependencies
+              - raises serious questions about semantics
+                  - what is meaning?
+                      - defined by appropriate action?
+                      - turing test?
+              - maybe we're not defining it correctly?
+                  - maybe it is "just" complex-enough relations?
+
+          - the connection to how the brain works isn't trivial
+              - aside from all the correlational stuff
+                  - e.g. the research that uses an actual biological network topolgy from c elegance
+
+          - both children and GPT2 learn around a function, an objective
+              - organic learning
+*** draft:
+        This was an incredibly interesting paper for me. There are too many points to fit in the page allowance, so I've limited the answer to one point or so per topic. I chose to focus on combinatorial semantics and semantic unification (aka integration).
+
+        Combinatorial semantics is the idea that the meaning of words is learnable through, and perhaps in part consisting of, their statistical relationship to other words in the language - specifically the frequency of their co-occurrence.
+        On this view, the semantics of concepts learned this way do not necessarily require experience, since they're based in the relation between preexisting concepts rather than sensory and motor experiences. This relates more to so called secondary semantics, which are based on (derive their meaning from) those preexisting concepts which presumably /are/ grounded in experience ([[cite:&pulvermullerHowNeuronsMake2013]]).
+
+        Algorithmic models which are meant to support this idea typically scan large corpuses and construct vector representations of words based on the frequency of their occurrence and their proximity to certain other words. I this way it has been shown that clusters of words can be created, which share semantic characteristics that we (as humans) would recognize as meaningful [[(cite:&pulvermullerHowNeuronsMake2013)]].
+       The biological basis of this kind of representation is the idea of hebbian learning - specifically  coactivation of circuits in language areas cortex (sTC) and inferior frontal cortex (iFC) on the rim of the left-perisylvian language center ([[cite:&pulvermullerHowNeuronsMake2013]], [[cite:&pulvermullerDiscreteCombinatorialCircuits2009]], [[cite:&honkelaContextualRelationsWords]]).
+
+       The paper is a major support for the concept of combinatorial semantics, presenting an extraordinary example of a model which builds and expands upon this idea - adding the level of the context in which words cooccure and arriving at impressive results, both in prediction and in generation of text.
+
+       Their findings support the idea of predictive coding in the context of language...
+
+        In a sense, GPT2 is a proof of concept - that learning through mere exposure to many words in context, with the guiding principal/objective being that of minimizing (continuous, ongoing) prediction error, is enough to produce arguably human-level prediction and usage/construction of language, including complex grammatical structures and the creation of meaningful, relevant arguments (see this article in the guardian - https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3 which was written by the next generation of the same algorithm).
+       If they're correct in suggesting that prediction and correction are intrinsically, spontaneously, a major part of the activity of the brain while listening, and seeing as children learn their native language in similar conditions - in an unstructured way, while being exposed to thousands of words daily ([[cite:&weislederTalkingChildrenMatters2013]]), then this makes it seem more probable that a lot of human language learning naturally occurs in this way.
+       The problem of grounding still remains to some extent, but it's less of an issue in my opinion if we allow for the idea of secondary semantics, with primary semantics being learned by association of words and experiences.
+
+       It's tempting to say that GPT2 only learns some technical or schematic aspect of language without a deeper level of /meaning/. This question - whether the representations learned in this way amount to understanding the meaning of words and contexts goes directly to the question of what meaning actually is, and how can we decide if another agent understands the meaning of something in the same way that we do.
+       Outside of our own experience of meaning we have no way of knowing what internal states other people (or AIs) are experiencing - we assume other people, being human as we are, have experiences of meaning which are basically the same as ours, but other than this assumption we have to rely on external signs to ascertain this is so: how appropriate and coherent are responses we get, in terms of both language and action - a sort of limited Turing's test.
+       The question is obviously outside the scope of this essay, but I'd say that being so close to human performance seriously begs the question if there's anything more to meaning than the relation between different symbols. For example, if some future version of the algorithm would incorporate a DNN which does image analysis and generation (like [[cite:&karrasAnalyzingImprovingImage2020]]) , and it will be able to produce or fetch appropriate images from the web - we would probably be more convinced of the depth of meaning the algorithm possessed, though the underlying mechanism is basically the same.
+
+        Semantic unification is "the integration of word meaning into an unfolding representation of the preceding context" ([[cite:&giosubaggioSemanticUnification]]), it's the process by which an encountered word or complete sentence attains its full meaning within its semantic context, becomes disambiguated, its specific meaning chosen from the multiple possibilities we know it to posses.
+        It's the major process by which longer stretched of text become coherent - their structure rendered meaningful.
+        In terms of brain function, for several decades now the EARP N400 component has been associated with the effort of integrating the new information present in the latest word encountered ([[cite:&kutasThirtyYearsCounting2011]]), being more pronounced for words which are further from what is typically expected from the context.
+        It has been seen to incorporate (be sensitive to) world-knowledge (e.g. statements which are false incur a more negative N400, and so do objects which are incongruous to their environment . [[cite:&hagoortIntegrationWordMeaning2004]] [[cite:&mudrikInformationIntegrationAwareness2014;&mudrikIntegrationAwarenessExpanding2011]]), and to be based on the current, transitive, context (statements which are surprising in typical context may be normal in the context of a story, representing a sort of neural correlate of a suspension of disbelief, [[cite:&vanberkumRightWrongBrain2009]]).
+
+        An alternative interpretation for the N400 response is that it reflects a process of lexical access - trying to retrieve the meaning of the word-form we've just encountered. On this interpretation, the context primes words in the relevant semantic field, making it harder to retrieve words which are not part of it.
+        On this point I think the paper has a significant contribution in support of the first view of N400 being representative of integration effort.
+
+        The main idea of section II of the paper is the claim that the brain processes an incoming word in the same way that GPT2 does - comparing it to the latest prediction to obtain the prediction error (implicitly, in order to predict better in the future).
+        They substantiate this in three ways: First, by finding a correlation between post word-onset signal, and the average prediction error, peaking at 400ms - which replicates existing findings about the relation between N400 and surprise.
+        Second, by finding that pre-onset signal for successful predictions is stronger than that of incorrect ones -  connecting the pre-onset signal with a predictive process, arguably to the confidence in one's prediction.
+        And third, and most impressive to my mind, they correlate between GPT2's uncertainty in /its/ prediction and the pre-onset signal - where high certainty correlated with stronger signal, and between GPT2's prediction error and the post-onset signal, where high error correlated with stronger signal, peaking at 400ms.
+
+        I think these parallels between the workings of the algorithm and the biological signal make a compelling case for treating the N400 components as reflecting a process that relates to the agreement between expectation and reality in the brain. As such it puts it much more in the neighborhood of the process of semantic integration than in that of lexical access, more so if we take this correlation to imply a similar way of operation (not just computational similarity) - since the algorithm doesn't have a process of retrieval at all.
+
+    bibliographystyle:unsrt
+    bibliography:/mnt/g/My Drive/.bibliography/motor-cognition.bib

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       20210627T195319.123765
+:ROAM_REFS: cite:firestoneCognitionDoesNot2016
+:END:
+#+TITLE: Notes: Cognition does not affect perception: Evaluating the evidence for ``top-down'' effects
+#+ROAM_KEY:
+- tags ::
+- keywords ::
+
+:PROPERTIES:
+:Custom_ID: firestoneCognitionDoesNot2016
+:AUTHOR: Firestone, C., & Scholl, B. J.
+
+* Abstract
+
+This paper tries to refute the growing claim that there are definite "top-down" effects of what we think and feel on our visual perception. They try to tackle visual perception as a whole - up to and including the precept created in our consciousness (not just the claims for effects on the early stages of visual processing).
+They present an array of logical and methodological pitfalls and show how they apply to several published results.
+
+* Notes:
+*** "carve nature at its joints" - understanding nature through capturing generalizations
+*** the top down view of perception and cognition poists that perception os influenced by ou r beliefs, motives, desires, language structure and so on.
+*** "top down" in the neuroanatomical/systems neuroscience meaning* doesn't necessarily show that there's also a top-down effect in the cognitive sense
+
+        (where areas that are considered higher up are shown to send information to "lower" areas)
+
+***** this is because many brain areas are serving multiple purposes and we can't know which of these the descending pathway touches
+*** distinguish between changing the input (e.g, closing our eyes) and changing the actual processing
+*** unconscious inference  (context effects - like in lightness visual illusions) - when it refers to things like lightness and depth - is embedded in the visual module itself, so it can't be a top down effect (unconvincing)
+*** cross-modal effects (e.g, beep influencing the perception of moving discs intersecting or not) are same - they happen *whether we like it or not*
+*** they happen very quickly < 100ms, makes more sense that these effects *are actually part of the "module" of visual perception.*
+*** maybe can also be a direct effect of (other) perceptions on perception
+*** Five types of effects:
+***** motivation
+***** Action
+***** emotion
+***** categorization
+***** language
+*** Pitfalls:
+***** overly confirmatory research strategy - only positively testing the existence of the effect, not testing (not formulating) that it's absent where the hypothesis demands it be absent.
+
+*****
+

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ROAM_REFS: @reznikPredictedSensoryConsequences2018
+:ID:   20211031T151453.991478
+:END:
+#+title: Notes on Reznik, Simon, Mukamel, Predicted Sensory Consequences of Voluntary Actions Modulate Amplitude of Preceding Readiness Potentials
+
+* summary & short reference
+In this study, the authors argue that the RP is part of the biological mechanism of efference copy idea from the forward model. They show that before a voluntary action which has sensory consequences the RP is more negative than before motor actions without consequences - and they deduce from that, that RP contains information about these consequences.
+* main points
+*** they want to show that readiness potential (RP) codes the anticipation/preparation of the brain to the sensory consequences of a self-generated motor action
+*** RP, and LRP especially are candidates for the biological counterpart of the "efference copy" from forward model theory
+*** RP carries information about sensory outcomes from the motor cortex to the relevant sensory cortex
+* findings
+*** greater negativity for motor actions with a sensory outcome (button that makes a sound) vs same motor actions with no sound.
+*** longer + larger amplitude
+*** sound creating actions modulated RP but LRP - higher cortical rather than low level - but baysian analysis says it's not significant
+* methods/procedures
+*** they compared to a control of sound-only, and subtracted that signal from the
+* general notes
+*** it's been shown that brain activity during RP period, or generally before motor actions is related to preparation for the motor action - e.g you can decode the hand, the tool, and the type of action from it.
+*** early and late RP:
+***** early - mostly in the SMA thought to be associated with  preparation and initiation of movement
+***** late - more lateralized, mostly contralateral, thoughtto be associated with more specific information about the task.
+*** RP vs LRP:
+***** RP: SMA and pre-SMA - higher cortical areas
+***** LRP: more low level, M1 area
+motor+sound EEG, to control for the brain activity of expecting sounds (which doesn't happen in the motor only task)
+*** there are reports of attenuated sensation
+even during the preparatory period prior to movement (Voss et al.,
+2006). - this supports the idea that the modulation of perception starts before the action itself
+***
+* see also (notes, tags/ other papers):

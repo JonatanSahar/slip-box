@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       20210627T195159.335217
+:END:
+#+TITLE: Self-consciousness
+This is a jumping-off points for thoughts and ideas about the self.
+
+- see about the [[file:2020-06-16-default_mode_network.org][Default mode network]]
+
+* Researchers
+
+  - [[file:2020-05-31-relevant_labs.org::*\[sent\] Roy Salomon][Roy Salomon]] 
+

@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       20220309T143713.049058
+:END:
+#+title: colloquium lecture notes: koby rosenblu, on learning and the insula
+- long term memory storage
+    - we actually know very a little about how memories are stored
+
+- it's misleading to think about the "function of of the brain" since it's so interdependent with the body and the environment
+
+- memory formation
+    - our state
+        - emotional
+        - physical
+    - the attributes of the stimuli
+        - valence
+        - novelty
+        - etc
+
+- the triangle of body, brain and evironment
+
+- metabolic stress and learning
+    - kinases activating eif2alpha
+        - when P'ed it reduces transcription and translation of proteins which are important for synptic plasticity (=learning)
+    - ageing is actually prolonged metabolic stress
+
+- neurogenesis in the hippocampus
+    - enriched env.
+    - exercise
+    - antidepressants
+    - they found that the known factors all work through less phosphorilation of an elongation factor - so more elongation of synaptic plasticity proteins
+        - excitatory neurons
+        - inhibitory (GABA) neurons
+        - astrocytes
+
+- impact of mind on brain
+    - tsai et. al papers from MIT
+        - synching the brain into gamma frequency through light flickering
+
+- the insula
+    - interoception
+    - multimodal sensory processing
+    - taste
+    - correlation with other areas
+        - with mPFC
+            - novel taste learning
+            - also retrieving of learned knowledge
+        - with amygdala
+            - taste valance learning
+        - different neurons are responsible to learning and to retrieval
+
+- insula an mind-body
+    - the immune sytem
+        - how the brain influences it?
+            - does it encode immune memory?
+                - activating insular cells a month after inflamation creates the same inflamation again without the pathogen
+            - CID conditioned immune response
+                - coupling a new stimulus (taste) with a substance that creates or represses an immune response
+                - after a month - the same taste creates the same response
+                - the response is the same kind of response - if the agent was a specific pathogen the conditioned response would be the fitting response
+                - makes sense evolutionarily
+                    - a "fore" for the immune system on encountering the signs (e.g. taste) of a known pathogen

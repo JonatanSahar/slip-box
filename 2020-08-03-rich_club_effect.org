@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       20210627T195226.717200
+:END:
+#+TITLE: Rich-club effect
+
+Is an attribute of network topology in which high-degree nodes (or hubs) are
+also highly connected between themselves.
+The rich-club coeficient measures the degree to which this exists in a given
+graph, and it's value is roughly equal to:
+(# of edges between nodes of degree> (some chosen parameter) k)/# of edges between those nodes that would exist in a full graph.
+
+* sources:
+
+- https://en.wikipedia.org/wiki/Rich-club_coefficient
+
+* see also:
+
+- [[file:2020-08-04-the_brain_as_a_network_graph.org][the brain as a network/graph]]
+

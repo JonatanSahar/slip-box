@@ -1,0 +1,290 @@
+:PROPERTIES:
+:ID:       20210627T195319.528307
+:ROAM_REFS: cite:mashourConsciousProcessingGlobal2020
+:END:
+#+TITLE: Notes on Conscious Processing and the Global Neuronal Workspace Hypothesis
+#+ROAM_KEY:- tags ::
+- keywords :: GNW
+
+:PROPERTIES:
+:Custom_ID: mashourConsciousProcessingGlobal2020
+:AUTHOR: Mashour, G. A., Roelfsema, P., Changeux, J., & Dehaene, S.
+
+* Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: ../.bibliography/zotero_pdf/Mashour et al_2020_Conscious Processing and the Global Neuronal Workspace Hypothesis.pdf
+:END:
+
+*** ignition/areas of GNW/reverberating
+***** non-linear ignition of network activity
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+***** phenomenal consciousness - the very raw basic experience, qualia
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+***** access consciousness - the contents of experience as they are accessable to mental faculties (report, memory, judgement)
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+***** "report" vs "no report" - it's better to de-cofound the actual conscious process from action of reporting
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+***** distiction between "level" (how awake you are) and contents
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+***** The main hypothesis is that while input is being processed by a "local processor" only, it's not yet conscious - it becomes conscious when the data becomes available to be processed by many other "local processors".
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** this is correlated with the the "integration" of the experience which is a hallmark of conscious experience
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** they hypothesize that ther are neurons that this is their function: to connect or suppress the input from different areas into the the global workspace
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** they postulate also that these neurons are mostly in cortical levels 2 and 3, and also 5 to some degree
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** pyramidal nurons are the primary excitatory neurons of the CNS, found in the corex, the amygdala and the hyppocampus, the have an apical and a basal dendrite tree orientd towards the outside and interior of the cortex respectively, and one main axon
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** igntion refers to the sudden coherent and exclusive activation of a certain subset of the GW, while other parts are inhibited (we only have one conscious experrience at a time)
+:PROPERTIES:
+:NOTER_PAGE: 2
+:ID:       20210519T144658.360409
+:END:
+
+***** ignition can be triggered by external stimuli or "stochasitcally" from within the network. (why is it stochastic/random? are thoughts and internal impulses not referred to as volitional?)
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** importantly - the PFC is a major/critical part of the GNW b/c there's a great density of neurons there, which are needed to make all the connection in the network
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** other important areas: anterior temporal cortex, anterior and posterior cingulate cortices, precuneus, dorsolateral PFC
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** ignition is coordinated "reverberant"
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+***** reverebrating is dependent on FF and FB loops, caused only when the stimulus reaches the PFC (in simulations)(
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** Notes for page 4
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** it's compatible with bayesian inference (also free energy and markov bklankets?) - in this model the neurons that are part of the GNW create a sort of compressed representation - the brain's model/prediction of the world - and the deeper parts of the individual processors represent actual input (then the prediction can be corroberated or updated)
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** they predict that sustained information generally needs a conscious experience to be maintained (it can be sustained to some small degree in the local processors)
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** example for empirical support - local response to auditory oddball paradigm elicits two responses: an early local mismatch negativity, and a later P3. only the early one happens in sleep and comma as well as in normal consciousness
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** late ignition (200ms) is supported by multiple studies over multiple sensory "modalities", where it was found to be the only mutual attribute of conscious vs unconscious perception
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** echos of the igntion cause by (e.g.) an auditory stimulus were observed in brain areas related to other modalities (e.g. visual) - compatible with the idea that information becomes available across the GNW
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** another support for ignition: P300 only happens for conscious (aware of-) stimuli, and disappears for unconscious ones. (generally - conscious processing only starts after 200+ ms)
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** conscious perception is somewhat decuopled from the underlying sensory perception: e.g. a retro-cue as late as 900 ms post stimulus can create a sense of consciously preceiving that stimulus
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+***** P3b vs N2/N3: N2/N3 is the earliest ERP associated with awareness, mostly N2 & P3b are coupled but not in the case of awareness to a stimulus that is task irrelevant - in that case P3b is absent
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** current understanding of visual processing: a recurrent loop, from visual cortex to higher processing area, and back to the visual cortex
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** maybe earlier loops correspond to N2, and later loops (which involve higher areas, and can create   more global/widespread effects) correspond to P3b
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** seen vs unseen (conscious vs unconscious) trials differ in the "system dynamics" sense - conscious trials diverge quickly and suddenly (ignition) from unconsious trials
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** unconsious trials evoke a slow and decaying wave of (local?) activity
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** the wave of ignited activity has been shown to contain information about the actual seen stimulus (decoding)
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** when presenting visual stimuli of increasing strength (contrast?) to monkeys while following the propagation of spiking activity (localized) - they saw that weaker stimuli created a signal that "got lost" en rout from V1 to V4, somewhat stronger stimuli reached V4, and stimuli that was strong enough to become conscious reached all the way to the PFC
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+***** in false alarm trials of the above experiment there was a spontaneous activation (ignition) in the PFC (note: this was a report paradigm)
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+*** connection between GNW and SDT(signal detection theory)
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+***** threshold corresponds to ignition, and sensitivity corresponds to the efficeincy of signal transmission in the brain
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+***** the sensitivity could be predicted(!) (how is it measured?) by different brain markers (baseline activity, frequency bands), and they also predicted the probability of a false alarm  - which strengthens the notion that they correlate with (over) sensitivity
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+*** reverberating/sustaining
+***** an important aspect of GNW is that there's an amplification of weak signals, and a way to make them persist over a longer time period, so they areavailable to act on
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+***** recurrent/reverrating feedback loops exist both on a local level, and on a global level - including neurons from different cortical areas. thelong range ones are important in GNW
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+***** there is now evidence that subcortical neurons (esp. in the thalamus) are also involved in these long-distance loops (this was not originally predicted by the GNW)
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+***** is GNW aout consciousness or about conscious processing? Is there a difference?
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+***** some optogenetic experiments in mice selectively disrupt the top-down communication, preventing perception - this shows an actual causal relationship between the two
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+***** again, recurrent processing is important because it (a) amplifies signals, and so makes them available elsewhere too and (b) sustains them over time
+:PROPERTIES:
+:NOTER_PAGE: (7 . 0.6228458887247661)
+:END:
+
+***** the regions which are included in the GNW differ according to the task. e.g. tasks that are very demanding visualy (require high resolution details) will include V1 in the GNW, while other visual tasks may not
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+***** biological side: feedforward communication (sensory->cortex) is mostly AMPA based, while feddback relies mostly on NMDA receptors
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+***** the biological aspect is important here because it allows us to maybe modulate these processes separately
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+***** in relation to attention: they say that the GNW is the means by which different features of the (same) object (the one being attended to) are bound (see "binding problem") - as  they are processed by different local processors
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+***** concept cells (responding to concepts like bill clinton or the Eiffel  tower) only activated when images could be consciously perceived
+***** they say that a similar ignition happens when a specific memory/item in the working memory becomes the focus of attention
+*** anesthesia
+***** there's (maybe) a disruption of connectivity that's common to all anesthetics - this supports the idea that disruption of the GNW causes unconsciousness. A disruption in connectivity between the PFC and areas in the more posterior and/or dorsal parts of the cortex
+***** there are studies that show that activity patterns in anesthesized monkeys and people are a lot closer to the actual physical connections (areas that are physically connected are also correlated in activity) than during awake and conscious states (when there's functional connectivity/correlation between areas that are not actually connected)
+***** he thalamus has areas that are not related to transmission of sensory information from sensing centers - they're hypothesized to be important for relaying information, i.e. communication, between different brain areas.
+***** almost all sedatives affect the thalamus
+***** there's a study in primates where stimulation of the thalamus reversed the effects of anesthesia
+***** they're thinking about pathological unconsciousness (unresponsive wakefulness syndrome = vegetative state) as a network problem, impairing communication between GNW nodes, not as a problem with information processing.
+***** long range functional connectivity depressed in sleep, UWS and anesthesia
+***** GNW predicts that focal lesions shouldn't create unconsciousness - cf. solm's lecture?
+***** GNW does predict that damage to GNW neurons/pathways will make the ignition threshold higher/harder to cross
+******* patients with different DOCs (disorders of consciousness) show a higher threshold for conscious perception of stimuli, and also impaired long-distance tracts (in MRI diffusion tensor imaging)
+***** almost all of the evidence is correlational - the study about thalamus stimulation and others like it are the only causal attempts
+*** sleep
+***** NCs of REM sleep include high gamma activity in PFC areas that are part of the GNW
+***** lucid dream include even stronger gamma activity
+***** externally manipulating the gamma rhythm to make it stronger increase lucidity - causal evidence for PFC gamma rhythm being required for consciousness
+***** the first 200ms of stimuli processing remains the same in sleep and waking - the difference is the late P3 wave (in oddball paradigm)
+*** other TOCs
+***** vs IIT:
+******* GNW is representational - IIT is not: the network creates its own representations for itself
+******* GNW emphasizes the PFC - IIT says the poterior "hot zone" is enough
+******* GNW is about access consciousness, saying that maybe that and phenomenal consciousness are the same - IIT only deals with phenomenal
+***** vs Recurrent Processing Theory (RPT): in RPT local recurrent (i.e. top-down) processes are sufficient - in GNW the connection between "higher" level areas is needed, since it also enables the information to reach other local processors
+***** vs HOT:
+******* both emphasize the PFC, but in HOT it's job is to create 2nd order (re-)representations rather than to be a super-highway of information between different processing areas
+******* for HOT the PFC is source of consciousness - for GNW it just enables it
+***** in GNW the function of consciousness *is* global broadcasting of information (or is it actually just a byproduct of it? TODO)
+*** future directions:
+***** development - how do the long-range networks come to be? how do they start functioning in a way that "produces" consciousness?
+***** looks like the basic mechanism for ignition develops very early (evident even in 5 month old babies), and may even be already present at birth
+***** igntion in babies much slower (later after stimulus) and weaker than adults, but exists
+***** self-consciousness - how is the brain aware of its own thoughts: maybe we should start with a simpler question: how does is the brain aware of its own mistakes?
+******* error negativity (200ms) seen in unconscious errors, later - like P3 - the error positivity only happens for conscious errors con
+***** sounds like predictive coding: they say that the awareness to an eror comes from comparing what we meant to happen, our model, to what actually happened in the world, and an error is "
+***** they suggest awareness of other internal processes is similar - like the attention schema in the paper  we read - we have a model of our attention, and we can sense when the actual attention diverges from it (whatever that means for attention)
+*** conclusion/general
+***** main ideas of GNW:
+
+          - late ignition
+          - metastable sustained activity
+          - long distance cortical projections
+          - top down feedback
+

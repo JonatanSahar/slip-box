@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20210627T195221.491956
+:END:
+#+TITLE: clustering coefficient
+A measure of the degree to which nodes in a network tend to be interconnected in tight groups.
+Defined as: (number of closed triplets)/(number of all triplets)
+
+Or alternatively - the clustering coefficient *of a node* may be thought of as the
+number of connections between all neighbors of that node, and the network
+coefficient is then the average across all nodes.
+

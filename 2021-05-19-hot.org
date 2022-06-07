@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20210530T161444.232506
+:ROAM_ALIASES: "Higher Order Thought Theory"
+:END:
+#+TITLE: HOT
+#+ROAM_ALIAS:
+Is a family of theories of consciousness that broadly postulate that the basic requirement for consciousness is the existence of what they call "higher order representations" (henceforth HOR) of first order representations (these being the internal representations of sensory stimuli, or the raw stuff of emotions and thoughts in some variants, henceforth FOR).
+
+
+It's a theory of [[file:2021-05-30-phenomenal_consciousness.org][phenomenal consciousness]] - it  aims to explain subjective experience, and differentiates that from [[file:2021-05-30-acess_consciousness.org][Acess Consciousness]]. like [[file:2020-09-30-iit.org][IIT]].
+
+First order representations can be used by the brain to perform UC processing, but on their own they won't create a conscious experience.
+Unlike [[id:20210519T145016.540998][GNW]], HOR is decopuled from global availability: In the example of blindsight -  a patient can guess an object shown to her without consciously seeing it. In GNW the availability of the information conflicts with the lack of conscious experience.
+

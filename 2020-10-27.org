@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       20210627T195253.538616
+:END:
+#+title: 2020-10-27
+- tags :: [[file:../../../../../../../home/jonathan/google_drive/.notes/slip-box/2020-10-22-meeting_summaries.org][Meeting summaries]]
+
+* 10:15 Lab meeting - Dana's presentation
+*** how do we construct meaning/judgment about visual experience?
+*** how is that affected by our prior knowledge and experiences?
+*** cognitive penetrability - what we see is influenced by what we think. high level cognitive states penetrate perception.
+*** examples favor:
+***** red heart vs circle, black and white banana appearing yellow tinged.
+***** more words for shades colors affect the ability to recognize them
+*** ideas against:
+***** the 6 pitfalls
+*** this study: examine eye movement on images with and without meaning
+*** using mooney images
+*** it's the same stimuli exactly, but eliciting different experiences
+*** using eye gaze pattern and pupil size

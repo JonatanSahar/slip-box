@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20210627T195300.604891
+:END:
+#+TITLE: how to take smart notes
+- tags :: [[file:20200508121416-note_taking.org][note taking]]
+Is a book by Sonke Ahrens about the [[file:20200507190139-zettelkasten.org][zettelkasten]] method.
+

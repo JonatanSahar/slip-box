@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20210627T195234.600028
+:END:
+#+TITLE: network efficiency
+
+Network efficiency is the (inverse of the) mean path length from every node to
+every other node in the graph.
+
+* sources:
+
+- cite:heuvel18_hubs_human_fetal_brain_networ
+
+* see also:
+
+- [[file:2020-07-28-graph_theory.org][Graph theory]]
+- [[file:2020-08-04-the_brain_as_a_network_graph.org][the brain as a network/graph]]
+- [[file:2020-08-04-hubs_are_areas_of_vulenrability_in_the_fetal_infant_brain.org][hubs are areas of vulnerability in the fetal/infant brain]]
+

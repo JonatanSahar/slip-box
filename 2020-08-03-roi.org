@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       20210627T195227.660224
+:END:
+#+TITLE: ROI
+#+ROAM+ALIAS: Region of interest
+
+When measuring connectivity between brain areas/regions, these regions aren't
+actually predifined in the brain, in order to measure their interaction we must
+first define them ourselves, and the way to so this is non-trivial.
+

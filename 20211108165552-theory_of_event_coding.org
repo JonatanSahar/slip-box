@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       20211108T165554.167203
+:END:
+#+title: Theory of Event Coding
+#+ROAM_ALIAS: TEC
+
+Claims that perception and action are identical
+processes operating on the same codes  event files consisting of integrated networks of sensorimotor feature codes
+
+- Basically, the theory holds that cognitive representations of events (i.e., of any tobe- perceived or to-be-generated incident in the distal environment) subserve not only representational functions (e.g., for perception, imagery, memory, reasoning) but action-related functions as well (e.g., for action planning and initiation). According to TEC, the core structure of the functional architecture supporting perception and action planning is formed by a common representational domain for perceived events (perception) and intended or to-begenerated events (action).
+
+- address the mutual interactions between representations of perceived and produced events  and the structure of the functional architecture that takes care of generating, transforming, and storing these events.
+
+- TEC relies on three general and five more specific assumptions.
+  In general terms, the theory assumes that (a) perceptions
+and action goals are coded in the same way (common coding),
+(b) through distributed feature codes, which (c) refer to the
+distal features of the represented event.
+
+* See also:
+- papers [[cite:&hommelTheoryEventCoding2001]] [[cite:&hommelTheoryEventCoding2019]]

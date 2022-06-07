@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20210627T195242.081028
+:END:
+#+TITLE: code snippets
+
+* Emacs
+*** fix bibex paths from zotero:
+
+%s/C\\:\\\\Users\\\\Jonathan\\\\Documents\\\\zotero\\\\storage\\\\[A-Z0-9]*\\\\/\/home\/jonathan\/google_Drive\/.notes\/.bibliography\/bibtex_pdf\//g
+
+
+* pandoc
+    Convert to docx with complex formatting taken from a template document in
+docs/rendering/
+
+        pandoc -t latex mydoc.md | pandoc -f latex --data-dir=docs/rendering/ -o mydoc.docx
+
+        From [[https://stackoverflow.com/questions/14249811/markdown-to-docx-including-complex-template][stackOverflow]].
+
+***

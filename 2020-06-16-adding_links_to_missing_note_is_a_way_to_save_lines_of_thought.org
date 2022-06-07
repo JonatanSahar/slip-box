@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210627T195211.634654
+:END:
+#+TITLE: Adding links to missing note is a way to save lines of thought
+When adding links to a note, creating empty notes to link to, *and tagging them
+as something that needs completion* can be a way to find where to start thinking
+from when I get stuck, and also to mark avenues I wanted to think through but
+didn't have the time at the time.
+
+* Related:
+
+  - [[file:20200507190139-zettelkasten.org][zettelkasten]]
+  - [[file:20200508121416-note_taking.org][note taking]]
+  - 
+

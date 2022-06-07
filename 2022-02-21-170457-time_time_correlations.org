@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20220221T170457.279171
+:END:
+#+title: time-time correlations
+In motor cognition research: plots of the correlation between a measure of the movement in one time point and the same in other time points.
+If the correlation is high, it means that across trials (or across subjects as the case may be) it's possible to predict from the beginning of the movement how it will unfold - i.e the movement is predetermined. On the other hand, low correlation implies that there is online correction of the trajectory during the movement, i.e there's sensitivity to the changing conditions.
+[[/mnt/g/My Drive/notes/slip-box/2022-02-21-170457-time_time_correlations.org_20220221_172113_8bhoHC.png]]
+
+
+From [cite:@manoharMotivationDynamicallyIncreases2019]:
+
+"Online error correction is indicated by a low covariance between early and late timepoints, despite significant variance early in the saccade."
+
+"concentrating on how well variations at one moment in time predict variations at another moment"
+
+"Reward significantly reduces correlations between thefinal eye positions, and preceding eye positions"
+
+"To factor out absolute changes in variance, and focus only on correlations i.e. the degree to which earlier eye position predicted later - eye position, we examined the time-time correlation matrix of eye position (Fig. 2G). In this plot, warmer colours indicate that eye position at one moment in time positively predicts eye position at another moment in time, across trials. The difference between these plots show the effect of reward on the correlation (Fig. 2H, calculated using linear model as above, but using the Fisher inverse hyperbolic tangent ztransformed Pearson moments). Significant reductions in correlation are shown with a white outline, and in the 4- and 8- degree conditions, smaller regions remained significant after stringent correction for false detection rate. This indicates that reward reduces the noise correlation between earlier timepoints during the saccade, and late timepoints. This pattern is a hallmark of in-flight negative feedback control over trial-to-trial variability in the trajectory, and matches the simulations of increased feedback gain (Fig. 2D). The size of this reward effect predicted, across subjects, the effect of reward on endpoint error, suggesting that the negative feedback is indeed instrumental in reducing endpoint variability (Fig. S5). Thefinding is therefore consistent with the view that motivation attenuates the effects of noise online during the saccade. We also looked"

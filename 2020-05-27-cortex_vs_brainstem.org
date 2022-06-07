@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20210627T195204.588113
+:END:
+#+TITLE: Cortex vs Brainstem
+
+- Antonio Damasio:  
+  - the cortex represents the outside world
+  - the brainstem represents the internal states of the organism
+

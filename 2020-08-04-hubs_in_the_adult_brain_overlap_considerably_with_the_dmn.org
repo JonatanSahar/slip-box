@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210627T195230.441572
+:END:
+#+TITLE: hubs in the adult brain overlap considerably with the DMN
+
+in adult brains, hubs are found in areas that have considerable overlap with subregions of the DMN (ventral and dorsal precuneus, posterior and anterior cin- gulate gyrus, ventromedial frontal cortex, and interior parietal brain regions)
+
+* sources:
+
+- cite:heuvel18_hubs_human_fetal_brain_networ
+
+* see also:
+
+- [[file:2020-08-04-the_brain_as_a_network_graph.org][the brain as a network/graph]]
+

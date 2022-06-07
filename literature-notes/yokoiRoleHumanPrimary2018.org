@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ROAM_REFS: @yokoiRoleHumanPrimary2018
+:ID:   20211115T134258.586840
+:END:
+#+title: Notes on Yokoi, Arbuckle, Diedrichsen, The Role of Human Primary Motor Cortex in the Production of Skilled Finger Sequences
+* main points
+* findings
+* methods
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):
