@@ -4,7 +4,10 @@
 #+title: thesis experiment planning
 
 * Auditory - motor:
--
+- blocks of RHRE RHLE LHRE LHLE
+- each comprised of playing twice with a short break in between
+- several runs
+
 
 * shape experiment - old:
 
