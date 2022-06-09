@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20210627T195239.870492
+:END:
+#+TITLE: i-consciousness
+
+* Related
+
+- [[file:2020-09-30-ast.org][AST]]
+

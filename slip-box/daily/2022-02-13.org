@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20220213T150147.483019
+:END:
+#+title: 2022-02-13
+*  meeting with shlomit [[id:20210627T195251.857766][Meeting summaries]]
+#+CATEGORY: research

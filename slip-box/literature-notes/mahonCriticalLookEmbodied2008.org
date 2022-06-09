@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: @mahonCriticalLookEmbodied2008
+:ID:   20211120T164520.388783
+:END:
+#+title: Notes on Mahon, Caramazza, A Critical Look at the Embodied Cognition Hypothesis and a New Proposal for Grounding Conceptual Content
+* main points
+ Mahon and Caramazza start with a long critique of the theory of embodiment. They survey 4 main categories of findings that are currently taken to support embodiment, and explain why disembodiment can serve as an alternative explanation to each of them. Their main point in all of this is the following: that the accepted view confuses correlation with causation, in the sense that the activation of sensory and motor circuits soon after perceiving a stimulus is not evidence for that activation being a constitutive part of the representation, but rather is a result of spreading activation from the circuits of abstract concepts, which are not reliant on the sensory and motor circuits.
+ They go on to suggest their own theory of semantics: that the representation of concepts is essentially abstract - not requiring  a sensorimotor activation - but that it's enriched, and becomes concrete and specific through being "grounded" in the immediate sensorimotor input.
+
+ I didn't really understand what is the merit of their theory in comparison to embodiment - they spend a long time arguing that the data doesn't lend more power to embodiment than to disembodiment, but they don't explain why it does for their own theory.
+ When they talk about the experiences of seeing two different types of dogs, they're troubled by the fact that if the representation depends on the features of the sensory experience,  then how  can the two dog concepts be compared? Are they even the same concept? I'd argue that, first - concepts are flexible, they can change or expand based on newly encountered examples, and second - that they focus on what differentiates the two experiences, while there are many sensory features which are in fact shared: a similarity of smell, , sound of bark, shape of the ears and many other visual features, which are not easily put into words, but are definitely recognizable as shared.
+
+ I also don't agree with much of their critique of embodiment - for example, they say that patients with apraxia are a counterexample to the idea of embodiment because they lack the ability to use tools but still have semantic knowledge of various kinds about them.
+ I don't think this is a very strong objection since we don't actually know the mechanism by which the loss of ability happens. Is it possible they only lost the ability to plan movement, but that the connections which were learned before the injury are still intact? (I'm not sure if there are fMRI studies that actually show reduced activation in the motor cortex for apraxia patients viewing images or reading sentences about tools). Even if that were true - there's other kinds of sensory/embodied information that can subserve the semantic knowledge.
+
+
+
+
+* general notes
+* see also (notes, tags/ other papers):

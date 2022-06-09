@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20210627T195312.894219
+:END:
+#+TITLE: Our sense of free will depends on decisions around the decision
+According to [[file:2021-06-26-danielle_denett.org][Danielle Denett]] our sense of volition in choosing, of "having" free will is maybe more related to the myriad of decisions that precede and affect the deliberations towards some given decision, rather than the making of said decision itself.
+For example - the decision to stop deliberating, or the decision on which lines of thought to pursue in deliberating.
+

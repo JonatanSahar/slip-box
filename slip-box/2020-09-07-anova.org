@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20210627T195237.647411
+:END:
+#+TITLE: ANOVA
+
+= ANalysis Of VAriance is a type of statistical hypothesis testing (i.e. vs a
+null hypothesis).
+It's often used to determine whether a division of the population (=data points)
+into groups is statistically significant and as such - the null hypothesis is
+that all samples belong to the same distribution (group)
+
+ANOVA controls for the magnitude of false positives (type I errors) - this is
+the p-value given by the test: the confidence level in that the difference
+between the groups is _not_ due to chance.
+We still need to account for type II ([[file:2020-09-07-false_negative.org][False Negative]])
+
+It can be used as an exploratory tool (TODO: how?)
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20210627T195304.514496
+:END:
+#+TITLE: Consciousness is sparse
+Some claim that the contents of consciousness are actually not as rich as we usually think they are. That in fact, we only experience a small fraction of the details that reach our senses (perception?), and we fabricate most of our experience in a significant way to make it seem consistent and whole.
+
+There are two main models of this sparsity:
+
+*** overflow
+***** our capacity for richness and detail in _phenomenal_ consciousness is limitless
+***** what's limited is our WM and other capacities which (later?) make sense of the experience and enable us to report on it.
+*** illusion
+***** two approaches: fragment illusion, and gist
+******* generally mean that consciousness is limited in real time ... TODO complete
+* see also:
+*** [[file:2021-06-01-fabrication_dharma.org][Fabrication (Dharma)]]
+*** [[file:2020-10-21-countering_the_illusionist_perspective_on_consciousness.org][countering the illusionist perspective on consciousness]]
+*** [[file:2020-09-30-ast.org][AST]]

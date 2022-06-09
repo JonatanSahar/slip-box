@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       20210627T195210.014370
+:END:
+#+TITLE:  Notes on article - Neilsen2018_Augmenting_memory
+- source :: [[file:.bibliography/bibtex_pdf/Nielsen2018_Augmenting_memory.txt][Neilsen2018_Augmenting_memory]]
+
+* general remarks
+
+  - reading in depth: a few passes, at each stage ankify only easy to understand
+  concepts and facts. then a couple of in depth reads.
+  - ankify at least 5 questions per article even for shallow reads.
+  - add questions from both directions of a fact (who said X about Y? also what
+    did A say about Y?) 
+  - include questions that question the validity if the facts/clains/findings/
+    analysis. add the name of the researcher/year, add questions about what
+    makes a particular analysis hard to make (accurately).
+  - add figures as questions
+  - get into the habit of not reading all the way through, not getting deeper if
+    it doesn't feel worth it/if it feels like there's more value in reading
+    something else. 
+  - to get into a new field it's much better to interact deeply with a few key
+    papers than with much of everything.  
+
+* patterns of use
+
+  - make most questions as atomic as possible
+    - break down more complicated questions that are hard to remember
+  - make your own decks
+  - build hierarchies of questions
+  - create interconnections
+

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20211027T160845.218633
+:END:
+#+title: Notes: Laterality of auditory feedback in motor learning and cross-education Mukamel 2021
+
+* main point
+
+- Found in previous study that actions that create sensory outcomes modulate, change, the activity in perception areas such that it includes information on the motor action that created the sensory information (e.g which hand turned on the light)
+-
+
+* findings
+* methods
+* summary
+* short reference

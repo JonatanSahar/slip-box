@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       20210627T195234.280119
+:END:
+#+TITLE: hubs are related to early myelination
+There is evidence that hubs in the infant brain ([[file:2020-07-28-infant_connectome.org][§:infant connectome]]) form in areas which myelinate early in development, such as the cerebellum - where most of the hubs were found in cite:heuvel18_hubs_human_fetal_brain_networ - and other cortical areas which are known to myelinate early.
+
+There are also more hubs in the left hemisphere, which known to myelinate more quickly (earlier?) than the right. (see [[file:2020-08-05-asymmetry_in_the_developing_brain.org][§:asymmetry in the developing brain]]) There's also evidence that neuronal activity stimulates the formation of myelin (cite:turk19_funct_connec_fetal_brain), and it's interesting to think what's the causal relationship there ([[file:2020-08-05-unanswered_(research)_questions.sync-conflict-20200805-132316-DDBHED7.org][§:Unanswered (research) questions]]): it seem plausible that areas which are meant to be hubs would need, and also foster, an environment of better neuronal conductivity.
+
+Also interesting to think about the connection with spontaneous firings (see
+[[file:2020-08-05-there_s_possibly_a_connection_between_hubs_and_spontaneous_activity.org][there's possibly a connection between hubs and spontaneous activity]]),
+especially with regards to the formation of myelin. why are these areas more
+active to begin with? ([[file:2020-08-05-unanswered_(research)_questions.sync-conflict-20200805-132316-DDBHED7.org][Unanswered (research) questions]])
+
+Apparently, most studies haven't looked for hubs in fetal brains, why?
+([[file:2020-08-05-unanswered_(research)_questions.sync-conflict-20200805-132316-DDBHED7.org][Unanswered (research) questions]])
+

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210627T195212.762991
+:END:
+#+TITLE: Every note should have at least 3 links
+An idea taken from [[https://medium.com/@philhoutz/make-your-notes-work-for-you-the-secret-sauce-of-zettelkasten-cb901a3cce00][a medium article]] about the [[file:20200507190139-zettelkasten.org][zettelkasten]] method. The Idea is that you want to add at least
+on of each of these 3 kinds of links:
+1. a more general idea than the note I wrote
+2. a more specific idea
+3. a another idea that relates to the note in some other way - like a contrast,
+   or some relation to same subject matter or something like that.
+
+* Related:
+
+  - [[file:20200508121416-note_taking.org][note taking]]
+

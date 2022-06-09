@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       20220226T152242.879978
+:ROAM_REFS: @fanCommonObjectRepresentations2018
+:END:
+#+title: Notes on Fan, Yamins, Turk-Browne, Common Object Representations for Visual Production and Recognition
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):
+
+
+
+
+#+print_bibliography:

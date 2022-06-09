@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       20220530T174345.260824
+:ROAM_REFS: @verrelChangesNeuralResting2015
+:END:
+#+title: Notes on Verrel, Almagor, Schumann, Lindenberger, K\uhn, Changes in Neural Resting State Activity in Primary and Higher-Order Motor Areas Induced by a Short Sensorimotor Intervention Based on the Feldenkrais Method
+
+* summary and short reference
+Eilat did a 3 minute artificial floor FI on subjects in an fMRI.
+They did a RS before, after and during the intervention, as well as scans while subjects pushed with their food standing:
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/verrelChangesNeuralResting2015.org_20220530_174828_5YwMZ6.png]]
+
+The artificial floor was either directed to explore local movement possibilities in the foot, or to explore the relation between the foot and higher areas along the body.
+
+Comparing the difference in activity between pushing and rest in the while brain between the different time points - they found significant differences for post-local>post global and for baseline > post-local.
+However, an ROI based search didn't find any significant clusters for activation during pushing.
+
+They found the ReHo increased in different areas from baseline to either post-local or post-global
+comparing ReHo directly between post-local and post-global also found a significant cluster.
+
+They didn't find significant differences in brain activity during pushing between post-local and post-global.
+
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/verrelChangesNeuralResting2015.org_20220530_174512_2cIHFf.png]]
+* general notes
+* see also (notes, tags/ other papers):
+
+
+
+
+#+print_bibliography:

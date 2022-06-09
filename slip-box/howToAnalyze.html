@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html  dir="ltr">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>How to analyze fMRI</title>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon.png">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.26.4/css/uikit.gradient.css">
+
+        <!-- <link rel="stylesheet" href="style.css"> -->
+        <link rel="stylesheet" href="https://cdn.rawgit.com/diversen/pandoc-uikit/master/style.css">
+        <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+        <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+        <!-- <script src="uikit.js"></script> -->
+        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/uikit.js"></script>
+        <!-- <script src="scripts.js"></script> -->
+        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/scripts.js"></script>
+        <!-- <script src="jquery.sticky-kit.js "></script> -->
+        <script src="https://cdn.rawgit.com/diversen/pandoc-uikit/master/jquery.sticky-kit.js"></script>
+
+        <meta name="generator" content="pandoc-uikit" />
+                        <title>How to analyze fMRI</title>
+        <style type="text/css">code{white-space: pre;}</style>
+                                                        </head>
+
+    <body>
+
+
+        <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+
+                        <div class="uk-grid" data-uk-grid-margin>
+                <div class="uk-width-1-1">
+                    <h1 class="uk-heading-large">How to analyze fMRI</h1>
+                                                        </div>
+            </div>
+            
+            <div class="uk-grid" data-uk-grid-margin >          
+                <div class="uk-width-medium-1-4">
+                    <div class="uk-overflow-container" data-uk-sticky="{top:25,media: 768}">
+                        <div class="uk-panel uk-panel-box menu-begin" >
+
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="uk-width-medium-3-4">
+<h1 id="connect-to-the-mri-center-file">connect to the MRI center file</h1>
+<p>Other locations in file manager</p>
+<p><a href="smb://mrilabfs.tau.ac.il/mri_XX_lab$" class="uri">smb://mrilabfs.tau.ac.il/mri_XX_lab$</a></p>
+<p>username/password - same as in TAU</p>
+<h1 id="order-the-data-on-my-computer">Order the data on my computer:</h1>
+<h3 id="bids-folder-structure">BIDS folder structure</h3>
+<p>The standard way to order and share imaging data <a href="https://bids.neuroimaging.io/" class="uri">https://bids.neuroimaging.io/</a></p>
+<p>Batel has a script for that :)</p>
+<h1 id="types-of-sacns">types of sacns</h1>
+<p>Mprage - anatomical</p>
+<p>cmrr - functional</p>
+<p>each scan name contains the number of volumes, and a name we can choose</p>
+<p>there's an <sub>sbref</sub> scan for each scan: used for motion correction, we don't use it usually</p>
+<p>each dicom is 3D at a given Tr</p>
+<p>use the 2nd mprage dir - has been filtered</p>
+<h1 id="analyzing-with-fsl">analyzing with FSL</h1>
+<p>Can open individual tools from command line - for GUI, call tool with capital letter (otherwise is calls the function directly)</p>
+<h3 id="bet">BET</h3>
+<p>Extract the brain only need to do only once - for the anatomical data, FEAT later uses it give it the anatomical DICOM</p>
+<h3 id="feat---first-level">FEAT - first level</h3>
+<ol>
+<li><p>Data:</p>
+<p>Preprocessing &amp; GLM analysis first level: single run second level: multiple runs group analysis fulle analyis = inc. running a GLM highpass filter = 100HZ</p></li>
+<li><p>pre-stats</p>
+<p>Keep defaults, and add slice time correction = interleaved</p></li>
+<li><p>registration</p>
+<p>Select anatomical<sub>brain</sub> image (from BET) for the standard space use full search &amp; 12 DOF</p></li>
+<li><p>Stats</p>
+<p>Need to create an EVs (events) files for every kind of event that happend in the scan: <img src="file:///mnt/g/My Drive/notes/slip-box/2022-04-27-121446-how_to_analyze_fmri.org_20220427_130611_bCeBCg.png" /> onset duration weight</p>
+<p>The GLM: &quot;Full model setup&quot; create a page for each EV HRF: double gamma</p></li>
+<li><p>post-stats = multi comparisons correction</p>
+<p>Don't need for first-</p></li>
+<li><p>save! before hitting go</p>
+<p>Creates a &quot;batch&quot; file : .fsf</p></li>
+<li><p>go</p>
+<p>Creates a FEAT report html that updates in real time shows the quailty of registration, motion correction, the details of the statistical model etc.</p>
+<p>Can run from command line as &quot;feat path/to/design.fsf&quot;</p></li>
+<li><p>load</p>
+<p>load an existing .fsf file can create an empty .fsf with names of vars in &quot;&quot;, and then populate file with a script</p></li>
+<li><p>output:</p>
+<p>Work with filtered<sub>Funcdata</sub> feed into FSLeye</p>
+<p>cope files: the different contrasts we computed: we can use them later for the higher order analysis.</p>
+<p>in stat directory:</p>
+<ul>
+<li>peNUM: the beta value for each eventNUM in EVs: also NIFTI files, the beta for each voxel</li>
+<li>tfiles - the t-values for each voxel</li>
+</ul>
+<p>Feat doen't apply the transformation to MNI - the coomputations for doing so are in reg dir. Also in reg - hires<sub>head</sub> - the anatomical head</p></li>
+</ol>
+<h3 id="feat---higher-level">FEAT - higher level</h3>
+<p>Analyze multiple runs from the same esubject input the cope files from previous analysis of all runs averages the different run + transforms to MNI space</p>
+<h3 id="fsleyes">FSLeyes</h3>
+<p>Presentation of images</p>
+<h3 id="dcm2nii---external-app">dcm2nii - external app</h3>
+<p>Convert DICOM to NIFTI</p>
+<h1 id="more-info-on-fsl---videos-from-jeanette-mamford-httpswww.youtube.comwatchvlcwewjjpd5ulistplb2iatgpi4yhlh4sno3i3cujcofi38a-3">more info on FSL - videos from jeanette mamford <a href="https://www.youtube.com/watch?v=lCwewJJPd5U&amp;list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3" class="uri">https://www.youtube.com/watch?v=lCwewJJPd5U&amp;list=PLB2iAtgpI4YHlH4sno3i3CUjCofI38a-3</a></h1>
+<h1 id="code--">Code -</h1>
+<p>main<sub>visualPerceptionAnalysis</sub>.m in Batel's code base</p>                    
+                </div>
+            </div>
+            <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+        </div>
+    </body>
+</html>

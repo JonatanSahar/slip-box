@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       20210627T195213.097271
+:END:
+#+TITLE : Methods in neuroscience
+
+* fMRI
+* MEG
+
+  - is maybe better than fMRI for studying the self/consciousness due to better
+    temporal resolution.
+
+* EEG
+* 

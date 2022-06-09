@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       20210627T195215.311520
+:END:
+#+TITLE: Writing zettels should be fun
+
+It should be playful, and it should feel meaningful to me. It's not about what
+it looks/reads like, it shouldn't look like the examples I see online. It
+should be personal. It should be written for my eyes only, I needs to have the
+certainty that only I would ever see it, so I can be free to make mistakes, and
+make it *personal*. It's about how it feels for me to write a piece of myself
+out into the world.
+
+* See also:
+
+ - [[file:2020-05-12-ideas_are_not_facts.org][Ideas are not facts]]
+ - [[file:20200508121416-note_taking.org][note taking]]
+

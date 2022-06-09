@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       20220326T180314.246008
+:ROAM_REFS: @ruleCausesConsequencesRepresentational2019
+:END:
+#+title: Notes on Rule, O'Leary, Harvey, Causes and Consequences of Representational Drift
+* general notes
+A review paper about representational drift: the population of neurons that codes for a specific task and their relative level of activation (firing rate) changes significantly over time - even for a task that we are experts in.
+
+Work on mice with calcium imaging:
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/ruleCausesConsequencesRepresentational2019.org_20220326_180542_hqaxTU.png]]
+
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/ruleCausesConsequencesRepresentational2019.org_20220326_180636_Wjcw9n.png]]
+
+They say that redundancy and reccurance can start to explain:
+the brain saves high dimentional representations of tasks/memories which can be represented in a much lower dimension - so there are a lot of different codings in that high-D space which code for the information that we want to save, giving flexibility and robustness.
+
+* summary and short reference
+* see also (notes, tags/ other papers):
+
+        L.N. Driscoll, N.L. Pettit, M. Minderer, S.N. Chettih, C.D. Harvey Dynamic reorganization of neuronal activity patterns in parietal cortex Cell, 170 (2017), pp. 986-999
+
+        J.P. Cunningham, B.M. Yu Dimensionality reduction for large-scale neural recordings
+
+        J.P. Cunningham, B.M. Yu Dimensionality reduction for large-scale neural recordings
+
+        B.A.W. Brinkman, F. Rieke, E. Shea-Brown, M.A. Buice Predicting how and when hidden neurons skew measured synaptic interactions
+
+        Y. Ziv, L.D. Burns, E.D. Cocker, E.O. Hamel, K.K. Ghosh, L.J. Kitch, A. El Gamal, M.J. Schnitzer Long-term dynamics of CA1 hippocampal place codes
+
+#+print_bibliography:

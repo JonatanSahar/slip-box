@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20211213T105534.626078
+:END:
+#+title: Attention
+#+roam_alias: "תשומת לב"
+
+A concept note to link information and thoughts about attention

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20220422T155143.585333
+:ROAM_ALIASES:  CNN
+:END:
+#+title: Convolutional neural networks
+
+* see also:
+***** https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1 (tutorial)
+***** https://e2eml.school/convolution_one_d.html (tutorial)

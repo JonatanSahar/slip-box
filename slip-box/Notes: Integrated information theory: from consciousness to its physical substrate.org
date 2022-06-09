@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20210627T195319.898658
+:ROAM_REFS: cite:tononiIntegratedInformationTheory2016
+:END:
+#+TITLE: Integrated information theory: from consciousness to its physical substrate
+#+ROAM_KEY:- tags ::
+- keywords ::
+
+:PROPERTIES:
+:Custom_ID: tononiIntegratedInformationTheory2016
+:URL:
+:AUTHOR: Tononi, G., Boly, M., Massimini, M., & Koch, C.
+
+cite:amir19_simul_thoug_measur_study_inter
+

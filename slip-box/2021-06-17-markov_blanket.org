@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       20210627T195308.775492
+:END:
+#+TITLE: Markov blanket
+A markov blanket is a statistical construct used to define something, anything, that has an "inside" and an "outside".
+
+The boundary between inside and out is the Markov blanket - it separates the world into states that are internal to the system, that belong to it, and those that are external to it.
+
+"the system" can be anything - it's an abstraction - a cell, the brain, a culture, this planet etc. at any scale
+
+The blanket has two faces - internal and external - and is comprised of "states"
+
+*** *sensory states* influence internal states (= stated of the system) but not the outside world. they mediate information about the world to the system.
+*** *active states* are  the other way around - they are dependent on internal states of the system, but not by the outside world. they influence external states (=states of the world outside).

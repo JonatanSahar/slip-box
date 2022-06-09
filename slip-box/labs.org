@@ -1,0 +1,170 @@
+* Labs
+:PROPERTIES:
+:ID:       20210627T195316.153559
+:END:
+
+** Weizman Institute
+
+   [[file:2020-05-14-neurophysiology.org][Neurophysiology]] 
+
+**** Rony Paz
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/rony/][lab site]]
+     - asks big questions behind the details of actual reaserch 
+     - neural codes that underlie cognitive phenomena: 
+       * reinforcement learning
+       * generalization of learning
+       * emotional modulation of memories
+       * extinction and maintenance of memories
+       * primitives of computation
+       * social cognition and learning
+       * 
+
+**** Rafi Malaach
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/malach/][lab site]]
+     - perception and free will. looks interesting, good lecture in ELSC.
+     - how preconceptions affect vision and creaton of coherent/meaningful 
+       percept.
+     - the brain at rest  
+     - from the site:
+      We study how our perception and spontaneous behavior are reflected in 
+      neuronal activity
+      Our overall aim is to understand how visual images and free behaviors 
+      emerge from such patterns of activity. 
+
+**** Ehud Ahissar
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/ahissar/][lab site]]
+    - perception, specifically touch and vision, in humans and rats.
+    - also deal with brain-machine interfaces 
+    - from their description:
+    - from the site:
+      What does it mean for a brain to perceive? 
+      What are the processes underlying the seemingly effortless acts of seeing, feeling, hearing, tasting or smelling? 
+      In our lab we try to answer some of these questions. We focus on the senses of touch and vision: 
+      we study them in rodents and humans, construct them in synthetic (robotic) and hybrid (brain-machine) agents, 
+      and substitute one with the other
+
+**** Ofer Izhar
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/yizhar/][lab site]]
+     - the prefrontal cortex. 
+       - high-order processes
+       - working memory
+       - emotion regulation
+       - behavioral control
+       - social behaivor and long-term memory
+
+**** Yadin Dudai
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/dudai/][lab site]]
+     - learning and memory in rats and humans
+     - esp. the conversion of one-shot experiences into long term memory
+     - in rats: combination of molecular, cellular and behavioural methods
+     - in humans: sophisticated behavioural and FMRI
+
+**** Rony Paz
+
+     - [[www.alonchenlab.com][lab site]]
+     - stress and related psychiatric/psycologic disorders
+     - epigenetic mechanisms
+     - metabolism
+     - frmo genes --> behavior  
+     - stress in early life
+
+**** Yaniv Ziv
+
+     - [[https://www.weizmann.ac.il/neurobiology/labs/ziv/][lab site]]
+     - memory, long term memory
+     - how is it stored? how does it change?
+     - in vivo optical imagery (yikes)
+
+** ELSC
+*** Sensation and perception
+**** Merav Ahissar
+
+     - [[https://elsc.huji.ac.il/faculty-staff/merav-ahissar][lab site]]
+     - A cognitive neuroscience lab which studies perceptual learning
+		   task and stimulus driven
+		   in various populations – typically developing
+		   individuals with dyslexia and individuals with autism.
+       We use computational, behavioral, ERP and imaging tools to
+       understand the cognitive nature of processes and their relation to brain
+       structures and mechanisms.
+     - also under cognition
+
+**** Ami Citri
+
+     - [[https://elsc.huji.ac.il/faculty-staff/ami-citri][lab site]]
+     - Experience dependants plasticity
+     - how the brain chooses what sensory information to accept and keep, the 
+       role of the claustrum
+     - how these experiences are kept and built on (made into habits etc.) 
+
+**** Leon Deouell
+
+     - [[https://elsc.huji.ac.il/faculty-staff/leon-deouell][lab site]]
+     - when does non-concious information processing become concious perception 
+       and can affect behavior and decision making
+     - working with patients post-stroke with unilateral damage, those that
+      have no concious perception and response to events in one side.
+     - also under cognition
+
+**** Eran Lotem
+
+     - [[https://elsc.huji.ac.il/faculty-staff/eran-lottem][lab site]]
+     - The neural mechanisms of decision making
+     - Looking for specifc brain areas that patterns that are responsible for
+       choosing one thing over another.
+     - foraging
+     - serotonin not only inhibitory
+     - mechanisms of inference in humans and mice
+
+*** Cognition
+**** Ehud Zohary
+
+     - [[https://elsc.huji.ac.il/faculty-staff/ehud-zohary][lab site]]
+     - How we create the image of the world around us - visually
+     - How preconceptions and expectations combine with sensory input in
+       creating our model of the world
+
+*** Psycology
+**** Hillel Aviezer
+
+     - [[http://www.aviezerlab.com/publications][lab site]]
+     - affective neurophysiology
+     - Real life emotion expression and perception
+     - [[http://www.aviezerlab.com/media][media]]
+
+**** Anat Perry
+
+     - [[https://scholars.huji.ac.il/perrylab/research][lab site]]
+     - Neural mechanisms of Empathy
+     - Interpersonal distance and implicit cues in social interaction.
+    - Emotion perception in neuropsychological disorders
+
+** Haifa Uni
+*** Simon Shamai Story
+
+    - [[https://sites.google.com/edu.haifa.ac.il/sans/home?authuser=0][lab site]]
+    - Neural mechanisms underlying social and and emotional cognition
+    - NC (neural correlates) of social cognition
+    - inter-brain
+    - [[https://sites.google.com/edu.haifa.ac.il/sans/press?authuser=0][media]]
+
+*** Aviva Berkowitz Ohana
+** Gonda center - Bar Ilan
+*** Roy Salomon
+
+    [[https://www.salomonlab.org/][lab site]]
+    investigates the sense of self, the way the self relates to the body 
+    ([[file:2020-05-15-body_ownership.org][Body ownership]], [[file:2020-05-14-embodied_self.org][Embodied Self]])
+    for example - a research showing that the Insula (a brain region) is
+    implicated in suppressing visual effects that are related to the heartbeat.
+
+** Technion
+*** Shimon Marom
+
+    
+

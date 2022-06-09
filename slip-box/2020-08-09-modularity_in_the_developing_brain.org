@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       20210627T195236.459685
+:END:
+#+TITLE: modularity in the developing brain
+an exaple of segregation (see [[file:2020-08-09-segregation_vs_integration.org][segregation vs integration]]), modularity
+signifies the existence of dense clusters that are sparsely interconnected.
+
+Each such module, a community of nodes, is in theory, a specialized unit - that is best suited to some
+kind of information processing.
+

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20210627T195221.790339
+:END:
+#+TITLE: functional connectome
+
+is the network of regions in the brain that are functionally connected
+
+* sources
+
+cite:turk19_funct_connec_fetal_brain
+

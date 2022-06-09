@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20220112T093712.442494
+:END:
+#+title: Embodied cognition
+
+A theory that asserts that meaning in the brain is the same thing as the sensory and motor activation at the basis of experiencing that meaning

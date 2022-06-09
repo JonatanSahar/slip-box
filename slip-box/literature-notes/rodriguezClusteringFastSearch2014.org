@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: @rodriguezClusteringFastSearch2014
+:ID:   20220101T120601.920156
+:END:
+#+title: Notes on Rodriguez, Laio, Clustering by Fast Search and Find of Density Peaks
+* main points
+- clustering based on distance between points
+- able to detect non spherical clusters
+- finds the correct no. Of clusters automagically
+- uses local maxima in density to decide on cluster centers
+- they say that the algo is sensitive only to the relative values of the density $\rho_i$ - and is robust to the choice of $d_c$ - but why is that so? If we choose a large enough value we'll get the same density for all points
+- how the algorithm works:
+    + they measure two quanitities for each point:
+        - the density
+        - the min distance to a point that has a higher density
+    + the idea is that points nearer the center of a cluster will bcome progressively more dense, and so their distancefrom ooints of even higher denisty will become smaller and smaller (imagine rings of equal denisty around the center, $\delta_i$ is the distance to the next ring). When we get to the center there's nowhere higher to go in the vicinity -g the next point with a higher denisty will be somewhere in another cluster.
+    + $\Rightarrow$ they take as cluster centers points that are anomalous in the $\delata - \rho$ graph:
+      [[/mnt/g/My Drive/.notes.v2/slip-box/literature-notes/rodriguezClusteringFastSearch2014.org_20220101_125756_4k7ri5.png]]
+    + after that they assign points to clusters such that each point belongs to the same cluster as its closest higher-density neighbor
+    + after that, they look at the border of each cluster - which is all the points that belong to that cluster, and are also closer than some distance $d_c$ to the center of any other cluster: they find the point on the border that the highest density, and they divide the cluster based on that value - every point with a higher density is considered in the core cluster, and any point with lower denistyis "in the halo" = considered to be noise.

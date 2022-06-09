@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       20210627T195251.307091
+:END:
+#+TITLE: Class notes: Physics, The Brain and Free Will (HUJI)
+
+* Oct 21 - introduction to basic notions and ideas, introduction to the brain
+*** Introduction
+***** all of the things that we study - what are their implications for our lives. how to they come together?
+***** what is the work about?
+*** free will:
+***** we have a sense that we make decisions etc. freely, spontaneously. we'll try to critisize this from variuos
+***** some basic assumptions
+******* the principle of alternative possibilities - otherwise we don't have real choices
+******* causation of the will - our choices actually make a difference in the world
+*** determinism
+***** every event is necessitated by an event that preceded it
+***** the world id just a chain of events
+***** the future can (theoretically) be inferred from the past/present exactly - by an infinite intellect.
+***** Laplace - conflates determinism and predictability (it may be determined, but we may not be able to predict one thing from the other)
+*** causal relations
+***** in science we look for causal relations, explanations, underlying mechanisms, rather than just correlations
+*** mind-body/mental-physical problem
+***** Descartes proposes that the mind and body are totally separate
+***** property dualism - matter is matter, but the behavior is different than
+***** monism - the mental is a product of the natural laws like the rest of the universe. compatibilism - the mind is compatible with the rest of creation
+***** the hard problem - the subjective part of cognition, our experience. we won't discuss it here rather -
+***** free will - not just mental activity, but something that affects the world in actuality.
+*** the brain - macro
+***** on average, every neuron has 10,000 - 100,000 synaptic connections! massively connected.
+***** 100,000,000 fibers connect the two hemispheres
+***** 4 lobes in the coretx
+******* frontal
+******* parietal
+******* temporal
+******* occipital
+***** 3 functional areas:
+******* motor
+******* sensory
+******* association - integration/exec functions
+***** imporatnt subcortical regions, (the cortex is heavily connected to these):
+******* basal ganglia - movement habits, reward
+******* limbic system: motivation emotion learning, memory
+***** many maps:
+******* vision:
+********* dorsal vs ventral pathways: "what" vs "where"
+********* the visual system is divided into areas - each area is a complete map, in its way, of the outside world. every sort of map has different information.
+********* 20%-25% of the cortex dedicated to vision
+******* also many auditory maps
+******* somto-sensory cortex
+******* motor cortex
+******* both have maps as well - areas of cortex dedicated to activate/sense specific parts of the body
+*** the brain - micro
+***** cortical columns, 1-2 cub-mm
+******* 6 layers, 100,000 neurons
+******* 10^9 synapses 80% excitatory
+******* 5KM of wiring!
+***** the first repetitive building block are these columns. think of them as computing nodes/blocks.
+***** nerve cells are input/ouput devices.
+***** the competition betwenn excitatory and inhibitory pathways is a hallmark of the activity of the brain
+***** neurons are either totally excitatory or totally inhibitory
+***** tempting to refer to a neuron as a digital switch, but it's more complex than that:
+
+            even when the neuron is not "active" it's still collecting information in an analog fashion from connected neurons.
+
+***** sub-threshold stimuli create small predictable  changes
+***** supra-threshold stimuli create an all=or=nothing response: a pulse, an action potential
+***** only supra=threshold response is communicative, smaller responses are not felt by surrounding cells.
+*** Neural code: relation between pattern of activity and extrnal world
+***** can we interpret meaningfully the pulses of a single neuron?
+***** yes, for example, the orientation of a grid will make certain neurons respond with high rate of firing when presented with its preferred orientation and not all for other orientations.
+***** in higher levels neurons respond to faces but not non-faces
+***** there's a hierarchy of responding to more and more complex features of the stimuli (response of single neurons!)
+
+*****
+
+* Oct 28 - classical mechanics
+*** phase space instead of Cartesian axes
+*** momentum/position
+*** time is implicit
+*** energy conservation is a *consequence* of the equations of motion in mechanics.
+*** you can index trajectories by their energy (energy is conserved along a trajectory)
+*** conservation occurs when forces are a function of location X.
+*** micro-reversibility: for every solution {X(t), P(t)} there's another solution {X(-t), -p(-t)}
+***** not a time machine!
+***** only for conservative systems
+*** linearity is somehow derived/related to locality
+*** how come natural forces act in a linear way? in the sense that the total effect is the sum of the individual contribution
+*** spooky action in  a distance
+*** the intuition of causality - no matter its metaphysical origins - is compatible with the physical laws and useful for us to consider when investigating the natural world
+:PROPERTIES:
+:ID:       f0ff2e2f-c785-403e-87fd-f1d5112e7731
+:END:
+
+* Nov 4
+* Nov 11 - cognitive methodologies
+*** stimulation of preSMA arrea at low current created an *urge* to move certain body parts. question of free will
+*** TMS stimulation of right side dorso latereal [[file:../../../../../../../home/jonathan/.local/share/Trash/files/2020-06-02-prefrontal_cortex.org][Prefrontal Cortex]] increased the rate of acceptance in the Ultimatum Game

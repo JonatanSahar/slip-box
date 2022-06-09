@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       20220516T192509.026000
+:END:
+#+title: Repetition supression (fMRI)
+
+RS has been extensively studied in the context of visual representations (Grill-Spector and Malach, 2001, Kourtzi and Kanwisher, 2000), where it is more commonly known as fMRI adaptation.
+
+There are three major advantages to the RS approach:
+- It allows us to look for changes within a class of stimuli or a level of the hierarchy rather than between classes. Thus, different levels of representation for the same stimulus can be analysed independently.
+- RS has been linked to reaction time priming (Wig et al., 2005, Maccotta and Buckner, 2004).
+- Third, RS data can be interpreted in terms of neuronal population coding, in accordance with two key principles:
+    1. Suppression from stimulus A to stimulus B occurs within a brain region only if some feature of both A and B is encoded in the same population of neurons in that region.
+    2. If stimulus B caused suppression in a region, release from suppression on presentation of stimulus C occurs only if some feature of B and C is encoded in different populations within that region.
+
+a concrete example of these principles in a hypothetical brain area representing animals: In this region, one subpopulation of neurons encode ‘dog’, and a different population encode ‘cat’. These two populations are interspersed and each contain the same total number of neurons, so they cannot be distinguished by a traditional fMRI subtraction design, but they can be discerned by measuring RS:
+On seeing stimulus A, a Dalmatian, the neuronal population encoding ‘dog’ will fire vigorously and a robust BOLD response will be recorded. When a picture of a Daschund is shown next (B), the total activity in the ‘dog’ population is reduced and a suppressed BOLD response is recorded for the repeated stimulus. If the third stimulus (C) shows a tabby cat, the neuronal population encoding ‘cat’ will now respond robustly giving a strong BOLD signal.
+Thus, the presence of the predicted BOLD pattern in response to this stimulus sequence is evidence for distinct neuronal populations encoding ‘dog’ and ‘cat’ within a brain region.
+Note that this pattern of activation would not be seen if the brain area represented either a broader category (e.g. mammals), which would result in suppression over all stimuli, or a narrower category (e.g. each breed of dog in a different population), which would not give any suppression between breeds.
+Thus, RS can reveal the level of neural representation in different brain regions. The validity of this interpretation depends on two simple assumptions
++ First is the assumption of population coding within brain regions, for which there is extensive evidence in many parts of the cortex (Georgopoulos et al., 1982, Britten et al., 1993).
++ Second, the population response must be suppressed when the same stimulus feature is repeated.
+
+The precise pattern of suppression, which could be an overall reduction or a sharpening of neuronal tuning curves, remains a matter of debate (Grill-Spector et al., 2006), as does the mechanism by which suppression might occur (Krekelberg et al., 2006). However, the plausibility of population suppression to repeated stimuli is no

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: @pobricCategorySpecificCategoryGeneralSemantic2010
+:ID:   20211104T163829.481551
+:END:
+#+title: Notes on Pobric, Jefferies, Lambon Ralph, Category-Specific versus Category-General Semantic Impairment Induced by Transcranial Magnetic Stimulation
+* main points
+This paper uses rTMS - stimulating the ventromedial ATL and the IPL in order to simulate lesions in those areas and test their impact on semantic processing: naming pictures of animals and man made objects (and numbers for control).
+Their hypothesis is that the ATL is responsible for integration of information from the various modalities (the different senses, but also verbal descriptors and information about affordances), and that the information from each modality is processed in its own area. In their view both the local processing and the integration are necessary for the eventual semantic knowledge.
+They show that disrupting the IPL damages specifically the ability to name man-made objects relative to animals, and more specifically objects with greater affordances relative to objects with less affordances, and that disrupting the ATL damages naming of all semantic concepts pretty much equally, and more so compared to naming numbers.
+
+In way of critique:
+ - there was  a significant effect found in the left hemisphere only - why is that? No explanation is offered.
+ - In fig 2.A (comparing pictures to numbers) the effect of IPL stimulation looks almost the same as that of ATL stimulation even though only ~50% of pictures are of man-made objects. In fact the difference looks to be mostly in the baseline (no TMS), so the fact ATL stimulation was significant while IPL was not is maybe due somewhat to chance
+ - In both fig 2.A and 2B, while the effects of ATL stimulation are statistically significant, they are quite small ~50ms difference out of 700ms. This also begs the question of why the effect of the same stimulation on low vs high manipulable objects is much stronger ~90ms out of 670ms.
+ - A smallish effect on RT of naming is still a long way from the symptoms we saw in SD patients, which does weaken their argument a little... I wonder why they didn't perform the task while actually under TMS influence, and if that would create a more substantial difference.
+
+* findings
+* methods
+* summary and short reference
+* general notes
+* see also (notes, tags/ other papers):

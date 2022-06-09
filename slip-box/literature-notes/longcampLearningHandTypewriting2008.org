@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       20220302T141038.521544
+:ROAM_REFS: @longcampLearningHandTypewriting2008
+:END:
+#+title: Notes on Longcamp, Boucard, Gilhodes, Anton, Roth, Nazarian, Velay, Learning through Hand- or Typewriting Influences Visual Recognition of New Graphic Shapes: Behavioral and Functional Imaging Evidence
+
+    * general notes
+        Highly relevant!
+
+        They compared training to recognize new letters through writing by hand and typing on keyboard.
+
+        They found better recognition - lower RT - for writing by hand.
+
+        Only after a few weeks, in the retention test, they found a correlation between writing speed and recognition RT.
+
+        Correlation between recognition performance and activation in L brocha
+        [[/mnt/g/My Drive/notes/slip-box/literature-notes/longcampLearningHandTypewriting2008.org_20220302_141930_pB8her.png]]
+
+        Activation in L brocha was shared between the new symbols and known letters (english alphabet) in the hand learning group only(!) They say this means that L broca is related to knowing the motor plan for the observed symbol
+
+
+        They found activation in post temp gyr for hand vs typing groups - they conect it to the area being related to recognition of manipulable objects and objects and action knowledge (Tranel, Kemmerer, Adolphs, Damasio, & Damasio, 2003).
+
+    * summary and short reference
+    * see also (notes, tags/ other papers):
+      - ( Weisberg, van Turennout, & Martin, 2007; Pollmann & Maertens, 2005; Wolfensteller, Schubotz, & von Cramon, 2004)
+      - (Longcamp, Anton, Roth, & Velay, 2003, 2005; Kato et al., 1999; Anderson, Damasio, & Damasio, 1990)
+      - (Raij, 1999; Kosslyn, Thompson, & Alpert, 1997)
+      - (Longcamp et al., 2005; Naka, 1998; Hulme, 1979)
+      - (Longcamp et al., 2006; Naka & Naoi, 1995)
+      - (Bartolomeo, Bachoud-Le vi, Chokron, & Degos, 2002; Seki, Yajima, & Sugishita, 1995)
+      - (Pollmann & Maertens, 2005; Corbetta et al., 1998; Nobre et al., 1997)
+      - (Weisberg et al., 2007; Pollmann & Maertens, 2005)
+      - (Nishitani, Schurmann, Hari, & Amunts, 2005)
+
+    * extracted annotations
+            "We explored the possible contribution of writing memory to character recognition processes" (Longcamp et al 2008:802)
+
+            "we found stronger and longer lasting (several weeks) facilitation in recognizing the orientation of characters that had been written by hand compared to those typed." (Longcamp et al 2008:802)
+
+            "some studies have directly assessed the role of motor learning in the reorganization of the neural networks involved in object processing ( Weisberg, van Turennout, & Martin, 2007; Pollmann & Maertens, 2005; Wolfensteller, Schubotz, & von Cramon, 2004) with results showing that after learning, visual presentation of the stimuli elicits activations in brain regions involved in the programming of the response specifically associated to the stimuli during learning." (Longcamp et al 2008:802)
+
+            "distinct pathways during recognition of graphic shape" (Longcamp et al 2008:802)
+
+            "strong arguments in favor of the view that the specific movements memorized when learning how to write participate in the visual recognition of graphic shapes and letters" (Longcamp et al 2008:802)
+
+            "that motor knowledge acquired through learning how to write contributes to the visual recognition of letters." (Longcamp et al 2008:802)
+
+            "cortical motor system participate in recognition (Longcamp, Anton, Roth, & Velay, 2003, 2005; Kato et al., 1999; Anderson, Damasio, & Damasio, 1990) and visual imagery of characters (Raij, 1999; Kosslyn, Thompson, & Alpert, 1997)." (Longcamp et al 2008:802)
+
+            "of primary importance when one considers the striking change arising in our writing habits with the extended use of computer keyboards, and the progressive disappearance of traditional handwriting from our everyday lives" (Longcamp et al 2008:802)
+
+            "We found a more accurate recognition of new characters that had been written by hand than those that had been typed" (Longcamp et al 2008:808)
+
+            "(Longcamp et al., 2005; Naka, 1998; Hulme, 1979) and in adults (Longcamp et al., 2006; Naka & Naoi, 1995)." (Longcamp et al 2008:808)
+
+            "reports of reading improvements in alexic patients who simultaneously trace the outline of the letters with their fingers (Bartolomeo, Bachoud-Le vi, Chokron, & Degos, 2002; Seki, Yajima, & Sugishita, 1995)." (Longcamp et al 2008:808)
+
+            "correlation between the recognition performance for handwritten characters and the writing speed" (Longcamp et al 2008:808)
+
+            "measured at the end of training, significant only 5 weeks following the end of the training," (Longcamp et al 2008:811)
+
+            "The observed stability of the writing performance, measured 6 weeks following the end of training (sensorimotor test), argues for this interpretation" (Longcamp et al 2008:811)
+
+            "Activity in the right intraparietal sulcus has been linked to demands in attentional spatial processing (Pollmann & Maertens, 2005; Corbetta et al., 1998; Nobre et al., 1997) with increased strength likely for less familiar symbols such as new characters" (Longcamp et al 2008:811)
+
+            "these results indicate that the task was performed differently in terms of both memory and attentional processes on characters recently acquired compared to those items overlearned such as letters" (Longcamp et al 2008:812)
+
+            "Activations Specific to Each Learning Modality" (Longcamp et al 2008:812)
+
+            "The cerebellum, where three distinct clusters of activation were found" (Longcamp et al 2008:812)
+
+            "several of the activations we report for handwritten characters have been described in studies where subjects learned an association between a visual stimulus and a motor response (Weisberg et al., 2007; Pollmann & Maertens, 2005)." (Longcamp et al 2008:812)
+
+            "posterior part of the middle temporal gyrus predominantly on the left hemisphere" (Longcamp et al 2008:812)
+
+            "The most important finding in the fMRI study was the existence of activations common to the visual processing of handwritten characters and letters, and therefore, dependent on the writing knowledge associated with the stimulus." (Longcamp et al 2008:812)
+
+            "The only feature common to letters and handwritten characters, which was not shared by typewritten characters, was that subjects knew how to write them" (Longcamp et al 2008:812)
+
+            "Thus, left Broca's area activation seems to depend on the motor knowledge associated with the characters." (Longcamp et al 2008:812)
+
+            "individual levels of activation in the left Broca's area strongly correlated to individual behavioral differences between handwritten characters and letters, thereby underlining the sensitivity of this region to the similarity in processing letters and handwritten characters." (Longcamp et al 2008:812)
+
+            "today's views suggest a role in much wider languageand motor-related functions (Nishitani, Schurmann, Hari, & Amunts, 2005)." (Longcamp et al 2008:812)
+
+            "The behavioral data confirmed that handwriting memory facilitates the discrimination between characters and their mirror images for longer periods than typewriting memory" (Longcamp et al 2008:813)
+
+            "The fMRI results showed that the difference in recognition performance between characters learned by handwriting and characters learned by typewriting is related to different neural pathways" (Longcamp et al 2008:813)
+
+            "reactivation of motor knowledge during visual processing" (Longcamp et al 2008:813)
+
+
+            #+print_bibliography:

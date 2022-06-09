@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ROAM_REFS: @reznikActionlockedNeuralResponses
+:ID:   20211101T104058.017767
+:END:
+#+title: Notes on Reznik, Guttman, Buaron, Zion-Golumbic, Mukamel, Action-Locked Neural Responses in Auditory Cortex to Self-Generated Sounds
+* summary and short reference
+Basically the same as [cite:@reznikPredictedSensoryConsequences2018] but using MEG.

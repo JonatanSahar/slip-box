@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       20210627T195305.825978
+:END:
+#+TITLE: Mapping the field of the science of consciousness
+
+** Keep questions in mind
+*** what are the prominent theories?
+*** what are the main areas of interest?
+***** effect of cognition on perception
+
+        Five types of effects:
+
+******* motivation - desires, needs etc.
+******* Action
+******* emotion
+******* categorization
+******* language
+*** what are the major questions?/ What is this paper asking about consciousness?
+***** is there in fact an effect of cognition on perception?
+***** is perception encapsulated?
+*** Who are the important researchers?
+***** Scholl - perception, perception and cognition
+*** What are the main methodologies?
+***** effect of cognition on perception
+
+        Five types of effects:
+
+******* motivation - desires, needs etc.
+********* using naturally more or less desirable objects or priming subjects to want one type more
+********* rewarding one type over another to create an incentive
+******* Action
+********* making subjects do, or prepare to do things with their bodies influences their *assesments/estimations* of aspects of the task (wieght/distance/slope etc.)
+******* emotion
+********* priming subjects' mood (mostly sadness and fear) to test how it changes their interpretations of the environment: faces and ambiguous forms, their estimations of distance and weight.
+********* relates to the idea that consciousness is related to affect
+******* categorization and language
+********* using visual illusions + a prime to interpret them in a known way (grayscale bananas appear yellowish)
+********* priming associations to see if they are later perceived faster/differently (letter + color combinations)
+********* using our preexisting knowledge of language as the prime
+*** How is this question related to consciousness/what liad is interested in?

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       20220106T124938.254360
+:END:
+#+title: 2022-01-06
+* meeting with roy and shlomit: [[id:20210627T195251.857766][Meeting summaries]] [[id:20211117T180212.209211][Thesis meetings & ideas]]
+*** 10 VMr, 10 VMl, 10 Vl
+*** all groups start ~41% and improve ~23%-25%
+***** vml improved only 19% (but started higher)
+*** one back task:
+        Count twice in a row shapes
+*** can scan with the retention
+*** talk to batel and shachar about MRI slot availabillty
+*** talk to batel about experiment programming  code
+***** pseudo random - two blocks with one-back
+***** one-back blocks have 7 different shapes and one duplicated
+***** randomization is actually permutation
+***** should tell subjects that we will count their successes
+*** get image files and code from shlomit
+*** catch trial for 2nd question - have one different shape or different color
+*** we throw away the catch trial block shape!
+:PROPERTIES:
+:ID:       20220118T133622.440408
+:END:

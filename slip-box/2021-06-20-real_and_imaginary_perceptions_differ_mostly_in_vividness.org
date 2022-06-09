@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20210627T195312.091711
+:END:
+#+TITLE: Real and imaginary perceptions differ mostly in vividness
+- source :: missing
+
+  Looks like vividness is a major criterion for deciding what perceptions are real and whiche imaginary, but both share some underlying mechanisms, and so can be manipulated to make e.g a real but blurry stimulus to be perceived as imaginary.
+

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       20210627T195156.318517
+:END:
+#+TITLE: Idead are not facts
+when using a [[file:20200507190139-zettelkasten.org][zettelkasten]] I don't have to put in it things that I necessarily
+know to be *true*. It's meant to be a collection of ideas, and I can tag them in
+a way that I will know where that idea came from. 
+I don't need to be afraid to put stuff in there that I will later rely on, and
+thus they must be true - it's a source of inspiration, it can hold bad ideas and conflicting ones too. 
+
+It's hard for me to let go of the idea of summing up the information in an
+article or lecture in a way that says: "this is what this author thinks about
+this subject". I wonder if I should (let go of it).
+
+- tags :: [[file:20200508121416-note_taking.org][note taking]]
+

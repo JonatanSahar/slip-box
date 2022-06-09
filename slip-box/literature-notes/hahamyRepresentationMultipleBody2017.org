@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: @hahamyRepresentationMultipleBody2017
+:ID:   20211114T162751.922155
+:END:
+#+title: Notes on Hahamy, Macdonald, van den Heiligenberg, Kieliba, Emir, Malach, Johansen-Berg, Brugger, Culham, Makin, Representation of Multiple Body Parts in the Missing-Hand Territory of Congenital One-Handers
+* summary and short reference
+They look at motor cortex organization if born-one-handers in MRI, MR spectroscopy  (for GABA concentration measuring) a ;nd fMRI. They show that the area of the missing hand is used by/activated with  feet, lips, and arm movements that are used as compensation for the missing hand.  They say this is evidence that the cortex organization is dependent more/also on function, not just the specific limb.
+
+They asked subjects to move their hand, lips and feet (small movements) inside the MRI and saw activation in the missing hand territory.
+
+* general notes: methods,  findings, main points
+
+"Finally, although the same body parts used for compensatory behavior also showed ; increased activation in the missing-hand territory, no correlations were found between behavior and reorganization"
+
+* see also (notes, tags/ other papers):
+-  Reich, L., Maidenbaum, S., and Amedi, A. (2012). The brain as a flexible
+task machine: implications for visual rehabilitation using noninvasive vs.
+invasive approaches.

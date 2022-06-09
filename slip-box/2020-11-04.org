@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       20210627T195255.598407
+:END:
+#+title: 2020-11-04
+
+* meeting with Itai [[file:../../../../../../../home/jonathan/google_drive/.notes/slip-box/2020-10-22-meeting_summaries.org][Meeting summaries]]
+*** per subject
+
+      - 4 conditions
+      - 156 images viewed per conditions before cleaning
+      - clean up problematic trials
+      - ANOVA 4 way
+        + intactness
+        + congruency
+        + laterality
+        + frontal-dorsal
+      - 64 electrodes x 512 Hz sampling rate x # of trials
+
+*** don't export red subjects (excel)

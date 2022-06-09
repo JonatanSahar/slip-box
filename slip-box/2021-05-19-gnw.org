@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       20210519T145016.540998
+:ROAM_ALIASES: "Global Neuronal Workspace"
+:END:
+#+TITLE: GNW
+#+ROAM_ALIAS:
+This is one of the four leading theories of consciousness [[file:2021-05-19-tocs.org][(TOCs]]) the others being [[file:2021-05-19-hot.org][HOT]], [[file:2020-09-30-iit.org][IIT]] and [[file:2021-05-19-rpt.org][RPT]].
+
+* The main ideas are:
+*** late ignition
+
+    Consciousness characterized by non-linearity. At a given point some content becomes conscious "all of a sudden" and not gradually (e.g. as a sound becomes gradually stronger it becomes also gradually "more" in consciousness).
+    They say that the same is true for memories/information in working memory when it become the center of our attention.
+    Ignition is coordinated/synchronized between the different brain areas that make up the GNW at that time
+
+*** metastable sustained activity
+
+    Once information is conscious, it stays that way through sustained activity of neurons and the connections between them - they can be said to encode in some way our current conscious experience.
+    These are not always the same neurons - depending on the nature of the task.
+    Information cannot be sustained for any significant length of time without a conscious experience to support it.
+
+*** long distance cortical projections
+
+   consciousness entails (not clear if this is its function or if it is created by it or some other option) making information which was received and processed in one area pf the brain (e.g. sound in the hearing area), available "globally" to other processing areas as well
+
+*** top down feedback
+
+    a way to make weak signals stronger and persistent is through feedback loops - both on a local level and between groups of neurons from different cortical areas such as the PFC and the local processors.
+    This creates what they call "reverberating"
+    The thalamus seems to also be an important node in these long distance loops.
+
+*** The PFC is (postulated to be) a major hub of the GNW - because of the high density of neurons there
+* Experimental support:
+*** early <200ms responses to auditory oddballs are seen in sleep and comma, but the late P3 is only seen when conscious
+*** P3 only happens for conscious stimuli and not for sub threshold ones in awake subjects
+*** retro-cueing shows that conscious awareness is somewhat decoupled from perception
+*** seen vs unseen (conscious vs unconscious) trials differ in the "system dynamics" sense - conscious trials diverge quickly and suddenly (ignition) from unconsious trials
+*** (in monkey trials) weak signals (images shown for longer? more contrast? not sure) were shown to propagate up to a point on the way from V1 to V4, while progressively stronger signals propagated progressively more, until PFC activation and conscious perception for strong enough signals.
+** * in most anethetics there's a common disruption in brain connecivity - between the [[file:2021-05-20-pfc.org][PFC]] and more posterior areas
+* Predictions:
+*** local lesions shouldn't create unconsciousness (since consciousness is a network product)
+*** damage to GNW neurons/pathways will make the ignition threshold higher/harder to cross
+* See also:
+
+    - [[file:Notes: Conscious Processing and the Global Neuronal Workspace Hypothesis.org][Notes on Conscious Processing and the Global Neuronal Workspace Hypothesis]]
+

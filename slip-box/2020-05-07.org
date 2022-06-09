@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20210627T195154.518640
+:END:
+#+TITLE: 2020-05-07
+- testing linking:
+- read a lot about [[file:20200507190139-zettelkasten.org][zettelkasten]] and [[file:20200507190541-org_roam.org][org-roam]] and stuff
+- really meant to read [[file:20200507190753-mark_solems.org][Mark Solems]]'s article about [[file:20200507190903-consciosness.org][Consciosness]] but totally [[file:20200507190947-Procrastination.org][procrastinated]].
+

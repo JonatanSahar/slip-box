@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       20210627T195250.309550
+:END:
+#+title: 2020-10-19
+
+* 9:00 lab meeting about literature
+:PROPERTIES:
+:ID:       1613dfbb-52ad-4c98-90c2-69cd971a0229
+:END:
+
+ - tags :: [[file:2020-10-19-research_skills.org][Research skills]]
+
+*** consult people about keywords
+*** web of science gives fewer, but more relevant results, also possible to narrow by field
+*** once you get a "lead" (=relevant articles), use it wisely!
+***** check who they're citing in their references, and so on for those papers.
+***** check has quoted it
+*** you know when you're in a good state when you see that you know the names of articles being cited in papers you read.
+*** decide if a paper is a "key paper", to know how deeply to read it.
+*** so this is about collecting the actual papers - even before reading.
+*** be consistent with the names you give papers, and the order where you save them
+*** software for saving articles:
+***** mendeley
+*** it *always* feels like a waste of time to write something that is currently fresh in our mind - but it's worth *exponentially* our time in the future.
+*** *document* what your current experience and understanding is. map the articles you've found.
+*** tag the notes/papers with the question/area as I see them, into what field of interest of mine does it fit? then I can easily find all the papers I collected for a given topic.
+*** How to stay updated?
+
+after we've mapped a question, we want to stay up to date with the literature.
+
+***** google scholar
+******* alerts from previous searches
+******* follow prominent researchers (e.e. dehaene), choose only new articles by that
+***** same from web of science and NCBI
+***** must be very efficient with reading the email notifications about these notifications. don't do it while on the computer and supposed to be actually working :)
+***** follow journals (e.g. science, nature etc.) and more specific journals: TICS, psychological science etc.  - check the presentation on the lab site for the full list.
+***** social networks - researchGate (not so hot), *twitter*
+***** twitter is the one of the best ways to stay updated and get exposed - check the presentation on the lab site for the full list.
+******* be responsible for your time on twitter!
+***** blogs - check the presentation on the lab site for the full list.
+***** podacasts - the black goat
+*** How to engage in effective reading? see also [[file:../../../../../../../home/jonathan/google_drive/.notes/slip-box/2020-10-20-read_with_a_pen_in_your_hand.org][read with a pen in your hand]]
+***** active reading. write when you read.
+***** ask questions while reading
+***** when writing - do everything you can to help your readers be *one step ahead of you* - so you're only confirming what they thought they understood.
+***** read the same way - try to guess/predict ahead of the text.
+***** try to guess the research question.
+***** question the logic etc.
+***** make connection, associate.
+***** ask yourself how *you* would interpret the results before reading the discussion
+***** write your takeaways from the article.
+***** check the references yourself - often people mis-quote
+***** how to read?
+******* abstract (is it interesting?)
+******* figures
+******* methods (are they reliable)
+******* results/beginning of discussion
+******* after you get to know the field you can usually skip the introduction.
+*** reading reviews (when getting int0 a new field)
+***** it's more narrative-like
+***** gives a good overview
+***** mark a lot of references - papers you'd like to read.
+*** a key paper - the closest to what is specifically interesting to me. closest to my question
+
+***
+

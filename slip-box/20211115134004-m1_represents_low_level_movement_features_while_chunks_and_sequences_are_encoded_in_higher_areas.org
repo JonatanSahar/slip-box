@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20211115T134005.719221
+:END:
+#+title: M1 represents low level movement features, while chunks and sequences are encoded in higher areas
+
+
+"Our data clear shows that M1 represents only individual finger movements (Yokoi et al., 2018). Within premotor and parietal cortices, chunk and sequence representations partially overlapped." - from diedrichsen lab site
+
+See [cite:@yokoiRoleHumanPrimary2018]

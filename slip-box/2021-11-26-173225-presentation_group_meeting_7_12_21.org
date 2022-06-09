@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       20211126T173226.275936
+:END:
+#+title: Presentation: group meeting 7.12.21
+
+* Plasticity post training for shape recognition aided by motor engagement
+*** overview - what shlomit's project is about
+*** what I'm going to do
+***** add fMRI post-training
+******* scan while subjects are statically viewing the shapes they were trained on.
+******* compare with novel shapes as control?
+******* how many trials? how to calculate power for comparisons/amount of data for decoder?
+******* how long to display? as long as they had to draw/view in testing? shorter for ease of analysis?
+******* how long to wait between shapes? 8 sec?
+******* how to control for "remembering" the movement? Is the short display enough?
+
+***** what do I want to check?
+******* decoding the training regimen from the visual cortex, comparing motor engagement with dynamic trace viewing (also static viewing?) - don't need control
+******* same but from co-activation with the motor cortex - don't need control
+******* correlation between decoding "success" (e.g confidence in decoding, success rate for subjects in test set, more?) and kinematic measurements (smoothness/coactivation, other?) - don't need control   s
+******* correlation between decoding "success" (e.g confidence in decoding, success rate for subjects in test set, more?) And success in task
+******* compare decoding "success" (accuracy) between R & L hand trainees
+******* co-activation of visual & motor cortices, specifically hand area - need control, to show activation is significant
+********* compare difference from control between active and viewing conditions

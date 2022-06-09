@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       20210627T195232.949502
+:END:
+#+TITLE: communication between remote areas increases with fetus age
+
+ there are new studies on [[file:2020-08-03-rsfc.org][RSFC]] in fetuses that show that long range, cross-
+ and intra-hemisferic connectivity becomes stronger with the age of the fetus.
+
+* sources:
+
+- cite:heuvel18_hubs_human_fetal_brain_networ
+

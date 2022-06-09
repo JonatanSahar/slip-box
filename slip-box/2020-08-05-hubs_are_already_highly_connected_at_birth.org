@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20210627T195233.991816
+:END:
+#+TITLE: hubs are already highly connected at birth
+
+They also show the [[file:2020-08-03-rich_club_effect.org][Rich-club effect]], meaning they are interconnected with
+other hubs, and have characteristics of [[file:2020-07-28-small_world_networks.org][small world networks]]
+
+* Sources:
+
+- cite:heuvel18_hubs_human_fetal_brain_networ
+- cite:turk19_funct_connec_fetal_brain
+
+* See also:
+
+- [[file:2020-08-04-the_brain_as_a_network_graph.org][the brain as a network/graph]]
+- [[file:2020-07-28-infant_connectome.org][infant connectome]]
+

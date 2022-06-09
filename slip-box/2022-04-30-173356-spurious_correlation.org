@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20220430T173356.888380
+:END:
+#+title: Spurious correlation
+
+When two variables or time series have a high correlation between them, but that correlation is in fact explained by some third variable or factor: either the third variable is the cause of both variables, or there is a common trend in the data for both which is due to some intrinsic property of both of them.
+Example:
+- weight from birth till age of 20 of different people
+- number heads - number of tails in coin tosses (there is some high probability that a correlation will arise between two different coins because of properties of the probability distribution)
+
+* What can we do about it?
+- We need to make sure to account for the interdependence of the signals, to remove trends an periods
+- make sure the series is "integrated" (not sure what that means)
+
+
+Sources (external)
+- [[https://stats.stackexchange.com/questions/7975/what-to-make-of-explanatories-in-time-series/8037#8037][crossValidate thread]]
+- [[https://stats.stackexchange.com/questions/8185/correlation-terminology-in-time-series-analysis][another thread]]

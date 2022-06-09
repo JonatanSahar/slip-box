@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20210627T195216.292848
+:END:
+#+TITLE: Everything is fabricated
+- source :: [[file:2020-06-24-seeing_that_frees.org][Seeing that frees]]
+- tags :: [[file:2021-06-01-fabrication_dharma.org][Fabrication (Dharma)]]
+

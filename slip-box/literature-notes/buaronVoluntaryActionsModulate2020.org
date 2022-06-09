@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ROAM_REFS: @buaronVoluntaryActionsModulate2020
+:ID:   20211031T104116.298685
+:END:
+#+title: Notes on Buaron, Reznik, Gilron, Mukamel, Voluntary Actions Modulate Perception and Neural Representation of Action-Consequences in a Hand-Dependent Manner
+* summary and short reference
+voluntary actions change the way we perceive sensory information stemming from them (vs same sensory input from non-self actions)
+the change is asymmetrical - depends on the laterality between visual field and hand
+The study shows three main effects:
+1. our perception of the consequences of our motor actions is different depending on the laterality of the sensory consequences vs the motor action
+   Different modulation of perception of self-generated stimuli, depending on which hand was used to generate the stimuli and what side of the visual field was stimulated (behavioral). The idea is to advance an understanding of the brain mechanism of efference copies by showing that same-hemisphere sensory cortex modulates differently than cross-hemisphere one (relative to the motor cortex).
+2. we can infer which motor cortex was active from the brain activity in the visual cortex
+   That the modulation is such that information about the modulating motor cortex is infer-able from the activity of the visual cortex (fMRI). That was not super convincing - only 55% success in SVM decoding.
+3. there was stronger modulation in the ipsi-lateral condition (but only in one hemisphere)
+   Stronger modulation of same-hemisphere visual cortex through stronger correlation between motor and visual cortices activity (fMRI)- was only shown for the right visual cortex (left visual field)
+
+* main ideas & points
+- there's no good neurological account of effernce copies
+- the idea is that if there is a different modulation depending on the hand/part of the visual field combination, that would tell us something about that mechanism
+- voluntary actions change the way we perceive sensory information stemming from them (vs same sensory input from non-self actions)
+- the change is asymmetrical - depends on the laterality between visual field and hand
+- ipsi-lateral stimuli seemed stronger than contra-lateral
+* findings
+- visual stimuli were modulated more strongly when they were caused by ipsi-lateral compared to contra-lateral hand
+- seemed either brighter or darker about 50%-50%
+- trying to decode hand from brain response was so-so, ~55% mean accuracy of SVM per subject across all significant neighborhoods of voxles
+* methods
+- two phases behavioral and fMRI
+  - Behavioral:
+    + passive and active stimuli in each trial, on opposite sides
+    + in active part, subjects used either R or L hand, and a light gray circle appeared either to the R or to the L of the screen
+    + requested to asses which was brighter (2AFC)
+  - fMRI
+    + only active presentation sometimes R sometimes L
+* general notes
+- motor actions modulate perception through the mechanism of efference copies
+* see also (notes, tags/ other papers):

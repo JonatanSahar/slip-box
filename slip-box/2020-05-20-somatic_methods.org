@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       20210627T195202.319609
+:END:
+#+TITLE: somatic methods
+

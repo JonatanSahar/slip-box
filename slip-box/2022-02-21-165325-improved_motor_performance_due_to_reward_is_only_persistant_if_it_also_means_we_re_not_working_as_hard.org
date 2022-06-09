@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       20220221T165325.768595
+:END:
+#+title: improved motor performance due to reward is only persistant if it also means we're not working as hard

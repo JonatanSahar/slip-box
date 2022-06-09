@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       20210627T195322.709060
+:END:
+#+TITLE: Writing Inbox
+This is a place to put fractions of notes and ideas that I want to develop further.
+Interesting directions from the daily scratch-pad go here, and it must be regularly
+reviewed and processed into permanent notes.
+
+Source: [[file:2020-06-02-evergreen_notes.org][Evergreen Notes]]
+
+* Notes
+*** NOTE what is a good state of mind to be in when critiquing a paper?
+              We want to be critical of their deductions in the discussion/conclusion, but not petty. We want to find *alternate explanations* for the same results, and think of experiments (as wild and difficult to preform as they may be) that will support/refute their ideas.
+*** NOTE calling the use of stronger deep learning, with more computation etc. "Brute force" (vs implementing some smart model) - is a little like assuming that "the world/nature is dumb" (a la alan watts), and that only what our intellect can perceive and create is smart. Maybe the brain is smart in the same way DLMs are smart, in some very computationally powerful way
+*** NOTE I have to think in Hebrew, thinking in English feels foreign
+*** NOTE פלדנקרייז אומר שאחד המחסומים הכי משמעותיים ללמידה אורגנית הוא לכפות מסגרת זמנים על הלמידה - כמו שלא מגדירים לתינוק עד מתי הוא חייב ללמוד ללכת
+*** NOTE our intellect is  "generated" by the underlying brain connectivity - so in some sense it's at best as complex and capable as what is possible for the brain to attain in ways that don't rely on the intellect
+*** NOTE ...continued - so that may say something about what we can learn in our terms, through our way of making sense and imposing order on reality. Connecting back to the "brute force" point
+*** NOTE when you have subjects make repetative hand movements and measure M1 with an ECog - the first responses are stronger (higher amplitudes), and then there's an habituation, and following spikes are lower
+*** NOTE the reason why handwriting is more conducive to learning shapes may be because it creates many variable examples of the shape - and variability is important to learning
+*** NOTE self generated action creates mini-learning episodes that shape our consciousness
+*** NEXT talk to roy about using inter subject correlation
+*** NOTE  סנכרון בין איזורים מוטוריים בהמיספרות - קשור ל cross eductaion?
+*** NOTE "Reason" is perceiving a new level of order, in the realm p f thought (bohm)

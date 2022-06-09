@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       20220508T173250.073570
+:ROAM_REFS: @deryLearningAudiomotorSkill
+:END:
+#+title: Notes on Dery, Mukamel, Learning of Audio-motor Skill Is Sensitive to the Lateral Relationship between Trained Hand and Ear
+
+* general notes
+
+- Behavioral study
+- Task: learn a piano sequence in one hand with auditory feedback  to either L or R hand.
+- 4 groups: RH ipsi, RH contra, LH ipsi, LH contra.
+- "Cross-talk across large cortical regions and engagement of more neural circuitry has been suggested to play an important role in conscious perception (Mashour, Roelfsema et al. 2020)."
+Main findings:
+  - there was better learning in the contralateral condition (both hands).
+    [[/mnt/g/My Drive/notes/slip-box/literature-notes/deryLearningAudiomotorSkill.org_20220509_153806_tFxDZu.png]]
+  - there was better cross-education (LH $\Rightarrow$ RH) for the contra group:
+
+[[/mnt/g/My Drive/notes/slip-box/literature-notes/deryLearningAudiomotorSkill.org_20220509_151533_D7A0IA.png]]
+
+
+* summary and short reference
+* see also (notes, tags/ other papers):
+ - Scott 2004,
+- Crochet, Lee et al. 2019)
+- Schutz-Bosbach and Prinz 2007
+- Gallivan and Culham 2015,
+- Rizzolatti and Sinigaglia 2016
+- review by Zatorre
+
+
+
+#+print_bibliography:

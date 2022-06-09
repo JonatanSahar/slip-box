@@ -1,0 +1,153 @@
+:PROPERTIES:
+:ROAM_REFS: @pulvermullerHowNeuronsMake2013
+:ID:   20211111T153547.539657
+:END:
+#+title: Notes on Pulverm\uller, How Neurons Make Meaning: Brain Mechanisms for Embodied and Abstract-Symbolic Semantics
+* main points
+They review a lot of the current knowledge about semantic processing, the different types and location.  Talking about hubs - they identify the current areas that are considered hubs and say that each of them contributes in a specific way to semantic processing (based on lesion studies) - some relate to different senses, other to specific categories of objects, or different domains of meaning (like spatio-temporal concepts, numbers), and some of them are adjacent to or overlap with known sensory areas. They also show results showing that there is a sub area (~ATL) that is activated in all categories.
+
+  Mostly I think, they want to propose a mechanism that would explain both concrete semantic processing - of actions, objects etc. - and abstract meaning like beauty and freedom.
+  The idea they propose is that there the relation between word (=symbol) and meaning is acquired through correlation learning - where we encounter the word many times, at the same time as we experience sensory inputs that are related to that word, and we learn to associate the totality of these inputs to the word, as the meaning of that word. This is "grounded" or embodied meaning, like what we've discussed so far in the course. The transition to abstract semantics has three parts:
+  first, less-embodied concepts can rely on properly grounded concepts.
+ second, by referring to the complement to hebbian learning (out of sync - delink), they explain how larger categories (like "animals") come to be: they contain so many different specimen, that the correlation of the word with the appearance (or sound etc.) Of any on specimen becomes too weak to sustain a neural connection .
+ Third they say that abstract concepts are often related in some way to emotions, and there are studies that support the idea that emotion-words are embodied in the feeling of those emotions - which is also grounded in motor and other somatosensory areas.
+
+
+ For future research:
+ Regarding emotion grounding - they talked about activation in areas used to convey emotion, like hands and faces, but I think it would make more sense for emotion words to be grounded in the somatic experience of the emotion. Its harder to characterize, but that would be really interesting to compare the activation in the brains of subjects when they experience an emotion, and when they process it semantically. In a way it's the emotional parallel of mirror neurons - how is empathy used to understans emotional concepts.
+
+ Regarding concrete vs category (abstract), I wonder what it would like if we taught new semantic categories to subjects - say we make up a word for objects that have four legs, or three legs, or a handle etc., and train subjects to name these categories. How would the activation differ between a naive viewing of an object, and viewing it after associating it with a category, how would semantic processing of the concept og the category look?
+
+
+
+
+complementary mechanisms,
+
+
+* findings
+* methods
+* summary and short reference
+* general notes
+
+How brain structures and neuronal circuits mechanistically underpin symbolic meaning
+
+What is the brain basis of meaning or semantics?
+
+casting doubt on the existence of a single focal 'hub' for semantic integration
+
+
+semantic grounding problem
+
+emphasizes semantic grounding of symbols in perception and action systems of the mind and brain
+
+category-specific semantic brain mechanisms
+
+supporting 'disembodied' semantic mechanisms that can dissociate from sensorimotor functions and brain areas
+
+covers both embodied and abstract-symbolic processes
+
+both modalityspecific and multimodal areas of the brain
+
+aspects of abstract concepts.
+
+several cortical regions that may support general meaning processes
+
+Inferior frontal cortex (iFC):
+
+Broca's area
+
+Superior temporal cortex (sTC
+
+Inferior parietal cortex
+
+semantic processing
+
+sTC): Wernicke's area
+
+a semantic processor
+
+angular and adjacent supramarginal gyrus in
+
+semantic processing of crossmodal spatial and temporal configurations
+
+Inferior and middle temporal cortex
+
+between words and
+
+general semantic binding site
+
+their meaning
+
+Anterior temporal cortex
+
+Semantic integration mechanisms draw on higher association areas of the neocortex
+
+convergence zones
+
+rather than as functionally isolated modules
+
+all of the candidate semantic hubs appear to contribute to semantics differentially. Typical lesions in each of the five potential hubs do not affect all words alike
+
+Left iFC and bilateral frontocentral motor systems
+
+processing of action-related words and phrases
+
+Bilateral sTC
+
+words related to sounds
+
+supramarginal gyrus
+
+spatial language
+
+Angular gyrus and intraparietal sulcus
+
+number words and concepts
+
+m/iTC
+
+animal, tool, and person names
+
+emotion terms
+
+colorand formrelated words
+
+ability to process semantic categories have also been observed after lesion in aTL
+
+equally open to the possibility that
+
+otentially be explained by close adjacency of true hubs and category preferential areas
+
+potential hub areas preferentially process specific semantic types
+
+Category-specific semantic effects also appear for regions far beyond the hub candidates, in and close to modality-specific - or, more accurately, modality-preferential - sensory and motor areas
+
+In motor cortex, a fine-grained semantic map reflects the body-part relationship of action-related words, phrases, and sentences, and potentially additional features of the action schemas these signs relate to semantically
+
+The overlap and adjacency of many of the categoryspecific semantic areas with sensory and motor areas suggests common mechanisms for action, perception, and semantic processing
+
+an integration of these positions with each other is required
+
+as is an explanation of why different aspects of semantics relate to different multimodal and modality-preferential brain parts
+
+left hemisphere takes a lead role in mapping correlated articulatory-auditory information
+
+perisylvian cortex
+
+correlations between word and sound-, smell-, taste-, or action-related information lead to the establishment of embodied referential semantic circuits, including perisylvian neuronal populations
+
+word form circuit is active together with neural activity in the ventral-temporal visual stream related to the processing of visual object information. Correlation learning links the word and object circuits, resulting in an embodied objectsemantic representation. If word meaning is grounded in the visual shapes of objects, the
+
+what about the meaning of the object? this is only about the visual aspect of it. what about other angles? (note on p.463)
+
+
+
+
+6
+
+Action-perception
+
+why action-perception? more like perception-percetion..
+
+(note on p.464)
+* see also (notes, tags/ other papers):

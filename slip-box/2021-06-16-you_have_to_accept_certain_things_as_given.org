@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20210627T195307.948371
+:END:
+#+TITLE: You have to accept certain things as given
+- source :: [[https://www.youtube.com/watch?v=36GT2zI8lVA][Richard Feynman]]
+- tags  :: [[file:2020-05-14-research.org][Research]]
+When inquiring into something - asking why something is the way it is - you can go on and on with the questions, further and further down into more fundamental reasons.
+For the question to be effective - we need to decide what we are willing to take as a given, as understood by common sense, or someone else's authority.
+

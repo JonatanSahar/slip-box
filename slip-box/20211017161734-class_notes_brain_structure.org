@@ -1,0 +1,565 @@
+:PROPERTIES:
+:ID:       20211017T161735.167402
+:END:
+#+title: Class notes: Brain structure
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+*  Intro
+- Lab  once in 2 weeks
+- Must read lab prep handbook before  there will be a quiz every lab  20% of the grade
+
+- groups of 7, should register with someone
+
+- The CNS is one continuous tube. we should always ask ourselves what’s the inside (=space), and what is the “side”/דופן.
+- The brain is the “side” and the CSF is the “inside”
+- Foramen magnum = the big hole, is the whole in the cranium through which the CNS continues into the brain.
+- In humans, the foramen magnum is directly below the skull, in dogs, e.g., it is more caudal, more towards the tail. The place changes along the evolution.
+- Endocranium = what’s inside the cranium/skull = brain  also grows with evolution.
+- Also with evolution: gyration, the brain becomes more convoluted, to allow more of it in the same space. To allow for birthgiving.
+- Also: the chewing area becomes smaller and smaller
+*  The spinal chord
+- goes through the vertebral foramen
+- the pedicles have concave bottom and to, so when they're one on top of the other, they create the intervertebral foramen - where the nerves leave the the spinal chord:
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_103854_weUZkR.png]]
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_103916_NSyXPZ.png]]
+*** The different vertebrae along the spine:
+    + 7 cervical vertebrae: C1 - C7
+    + 12 thoracic vertebrae: T1 - T12
+    + 5 lumbar vertebrae: L1 - L5
+    + sacrum - 5 fused
+    + coccyx - 4 fused
+    + total 33 vertebra
+    + they are numbered from rostral part to caudal (head to to tail)
+- the sacrum vertebrae still have intervertebral foramen - the coccyx does not.
+*** segments  of the spinal chord:
+    + we can divide the spinal chord into 31 segments, each having a spinal nerve going out of it (and into it)
+    + each spinal nerve has both directions!
+    + why not the same number?
+        + first nerve goes out just before C1, and is called C1
+        + goes on till C7 - named for the vertebra that's below it
+        + then C8 even though there's no C8 vertebra
+        + thoracic T1 is named after vertebra above it, and so it continues
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105130_gDU9Ew.png]]
+        + also only 1 nerve for "all" the coccyx vertebrae
+    + the spinal chord terminates a lot earlier than the spinal column - *around L1-L2*
+    + point of termination is called  *conus medullaris*
+    + in the bottom of the spinal column there are many roots making their way to their exit points.
+    + this area is called cauda equina = horse tail
+    + Filum terminale (= terminal film) is the rest of the pia mater continuing after the spinal chord is terminated
+    + in the ara of the filum terminale down to S1-S2 there the *dural sac* full of CSF, but no spinal chord.
+    + after the dural sac is the coccygeal ligament - the end of the dura and archanoid layers
+    + epidural injections and LP for sampling the CSF will be done usually around L3-L4 since there's no risk of hitting the spinal chord
+    + Limb enlargements:
+      Areas where the spinal chord is thicker - thicker nerves, more information
+      Used for areas where we have finer motor control, and higher resolution sensing.
+        + cervical (neck)
+            + enervates hands
+        + lumbosacral (lower back)
+            + enervates legs and feet
+***** Gray matter of the spinal chord:
+    + in the spinal chord the grey matter is on the inside, and the white matter is on the outside. In the brain, it's the opposite.
+    + in the grey matter there are "dorsal horns" reaching almost to the vertebra
+    + also there is a median fissure - a long deep groove on the ventral side.
+    + there's a hole in the middle of the grey matter - it's the central canal, and it's full of CSF.
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105248_XpxGaB.png]]
+        - Laminae of rexed - layers in the gray matter, different cells and functions in each layer.
+    + layers V, VI, VII are *decousation* layers - meaning they have to do with crossing sides, from the word deca, meaning 10, which is X in latin
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120340_GA5aSi.png]]
+
+*** meninges קרומי המוח (from the outside to the inside)
+    + three types:
+        * dura mater
+        * arachnoid
+        * pia mater
+        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105332_SdkQBR.png]]
+    + mater is mother in latin - comes from translating the original latin to arabic, where it's really called mother, and back to latin after the middle ages
+    + pia mater is so thin we don't see it. It sticks to the surface of the brain, and goes into all the fissures.
+    + in the brain, there's no space between the dura and the skull (in health)
+    + in the spinal chord - there is space there. That space is called epidural space (epi = above)
+    + between the dura and arachnoid there is the subdural space (sub = under)
+    + between the arachnoid and the dura there is always space too - the subarachnoid space.
+    + the subarachnoid space is filled with CSF
+    + also in the subarachnoid space - the blood vessels of the brain
+    + all of these exist both in the brain and in the spinal chord
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_105921_ckj0it.png]]
+*** nerves of the spinal chord:
+    + rootletts - going out of the spinal chord. There are ventral and dorsal rootletts.
+    + rootletts collect into roots - ventral and dorsal roots, one of each.
+    + roots merge into a mixed spinal nerve
+    + ventral nerves carry motor information = out of the spinal chord
+    + dorsal nerves carry sensory information into the spinal chord
+    + DRG the dorsal root ganglion.
+    + ganglion is a collection of nerve cell bodies *in the PNS*
+    + the same collection in the CNS is called a *nucleous*
+    + the neurons in the DRG are uni-directional (called pseudo unipolar)
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110523_W6ZDKr.png]]
+    + each nerve contains thousands or tens of thousands of neurons
+    + the mixed spinal nerve *splits soon after leaving the vertebrae* - has two branches (=Rami): dorsal ramus and ventral ramus
+    + both rami carry both sensory and motor (in and out) information
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110552_Zmsm0e.png]]
+    + dermatomes - division lines on the body of areas enervated by the same spinal chord segment. They make sense when we look at animals walking on four legs
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110914_nJZHO5.png]]
+      [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_110939_vtzxbr.png]]
+    + face enervated by cranial nerves, going straight out of the brain
+- denticulate ligaments - the pia leaves the grey matter and gets lodged into the dura. Maybe meant to give structural stability to the spinal chord.
+*** white matter of the spinal chord:
+    + the white matter is devided into three *funiculi* - frontal, lateral,ventral
+        + funiculus means "cable" they look like cables from the side
+        + each funiculus is divided into fasciculi
+        + e.g. the dorsal(sensory) funiculus is devided into:
+            + fasciculus gracillis - enervates legs
+            + fasciculus cuneatus - enervates hands
+        + fasciculus comes from fascia/fasces - the roman bunch of twigs
+    + schematically we may say that:
+        + lateral areas enervate the arms
+        + medial areas enervate legs
+        + and in between areas enervate the trunk
+        + dorsal areas are sensory
+        + ventral areas are motor
+    + The higher we are in the spinal chord there's more white matter, because all the information tracks/ nerves that go in/out of the brain come together
+    + in the lower segments there aren't really any lateral horns
+    + reflex arc:
+        + when there's enough activation in the sensing area, the information travels to the dorsal root ganglion and the sensory nerve cell bodies there.
+        + if there's enough activation, the sensory neuron will activate the adjoining motor neuron in the ventral horn (through an interneuron) - directly, without waiting for information from the brain.
+        + we can choose to premeditatively inhibit the reflex, through inhibition of the interneuron
+        + this inhibition is dependent on the magnitude of the stimulus
+* Embryology
+*** 1st week - blastocyst
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120839_EU676x.png]]
+- On the day of conception, there is a zygote
+- This cell begins to split exponentially
+- On days 4-5 the Morula
+- On Day 5-6 the blastocyst forms
+    + This contains the embryoblast (the fetus forms from this) inside and the trophoblast which creates the membrane (go on to form structures external to the fetus)
+- The blastocyst cavity is the space within the blastocyst
+
+*** 2nd week - bilaminar disk
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_120927_kcozm2.png]]
+During week 2 the embryoblast divides into the Bilaminar Ebryionic Disk which costsists of epiblast and hypoblast cells
+
+*** 3rd week gastrulation
+:PROPERTIES:
+:ID:       20211227T122019.739935
+:END:
+- moving from 2 layer disk to 3 layer disk
+- primitive streak, develops along the midline, caudal to rostral.
+- primitive node leading the change
+- invagination of the epiblast
+- the epiblast cells *replace* all of the hypoblast cells (they were only usued for support during the first weeks)
+- 3 layers:
+    1. ectoderm - outer
+       Skin, hair, and *nervous system*
+    2. mesoderm - inner
+       Muscles and skeleton
+    3. endoderm - inner
+       Internal organs
+- invaginating cells are pluripotent - they can develop into any and all types of cells.
+  [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_122307_AAakHI.png]]
+*** neurulation
+          - 4th week (6th week of pregnancy)
+          - the ectoderm separates into ectoderm and neuro-ectoderm
+          - neuro-ectoderm develops into the neural plate
+***** the notochord
+              + develops from the primitive node (caudal) to the rostral area
+              + the spinal column and spinal chord will develop from it
+              + a part of the endoderm - will become a part of the mesoderm
+              + signals a lot of developmental factors by secretion
+              + induces development of neural part of ectoderm - called *neural plates*
+              + in the middle of the spinal chord there's a small hall/tunnel - that's the remainder of the notochord
+***** the neural tube
+              + neural plates invaginate and close to create the *neural tube*
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_124357_arcBvD.png]]
+              - closes from the cervical area (middle of the spine) towards both ends
+              - leaves two neuropores - anterior and posterior, they close after 25 days or so
+              - can have pathologies when not closing properly:
+                  - anencephaly - anterior
+                  - spina bifida - 3 kinds:
+                    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_191601_nR11Rp.png]]
+          - the rest of the non-neural ectoderm covers the neural tube from above
+          - betewen the ectoderm and the neural tube there's the neural crest - which used to be the outer border of the neural plate:
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_191435_zox8yp.png]]
+          - neural tube --> the CNS
+          - the neural crest --> the PNS
+          - somites - muscles and bones
+***** development of the spinal chord
+      - from the neural tube
+      - dorsal part - alar plate (from wings) - will develop into sensory neurons
+      - ventral part - basal plate - will develop into motor neurons
+      - between them: the sulcus limitans
+      - roof plate - dorsal
+      - floor plate - ventral
+      - ependimal cells - line the neural plate from within
+      - so the neural tube becomes an actual hollow tube
+      - as time goes by - there are more cells, and the hollow part becomes smaller
+***** development of the brain
+      The rostral part of the neural tube doesn't stay as a regular tube:
+      - it segments into three parts (vesicles):
+          1. prosencephalon (pros = frontal)
+          2. mesencephalon (mes = missle)
+          3. rhombencephalon (rhomb = rhomboid = מעוין)
+      - 5 vesicles stage:
+        The front brain splits in to, the hindbrain splits in two, and the midbrain continues on as midbrain (mesencephalon)
+          1. *telencephalon* - mostly cortex
+          2. *diencephalon* - mostly the thalamus
+          3. mesencephalon - the midbrain
+          4. metencephalon - cerebllum and pons
+          5. myelencephalon - medula oblongata
+          - the eyes (the retina) are part of the CNS! They develop from the diencephalon
+      - the neural tube starts to fold - creating the structure of the brain
+        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_192542_iySHRz.png]]
+      - *gyrification* - the telencephalon starts to invaginate, "in order" to get more tissue into the same volume of skull
+      - the temporal and frontal poles grow further and further apart, the temporal pole goes backwards, and then laterally - *creating the C shape of many of the structures of the brain*
+      - falx medialis - a dura that grows between the two hemispheres - that's why they grow to be flat on the medial aspect. Flax - מגל
+      - pathologies: when the two vesicles don't separate
+          - holoencephalon - no telencephalon, but we do get the outside of the cortex, just empty
+          - cyclopia
+* Topography of the brain
+*** cerebrum - the big brain
+            - longitudinal fissure - between the hemispheres
+            - five lobes:
+              - frontal
+              - parietal - from the greek for wall (paries)
+              - occipital - from "back of head"
+              - temporal - from tempo, time, where age is first notices in the graying hair (of george clunney)
+*** brainstem
+            - midbrain
+            - pons
+            - medulla oblongata
+*** cerebllum - the small brain
+*** four main features of the lobes - good for orientation:
+            - central sulcus (rolandic fissure)
+            - temporal sulcus (sylvian fissure)
+            - paraieto-occipital sulcus - not seen well from the temporal view
+            - preoccipital notch
+- corpus callosum - white matter conencting the hemispheres, lit. Large body (of white matter)
+- fornyx - ventral to the corpus callosum
+- lateral ventricles - dorsal and lateral to the fornyx
+- third ventricle - below the fornix
+*** mid-sagital plane
+***** thalamus
+- evolves from the diencephalon (the cortex develops from the telencephalon)
+- anything with -thalamus in the name also develops from the diencephalon
+- relay station from all senses excep olefactory
+- inter-thalamic adhesion connecting R and L thalami
+- septum pellucidum - divides the two lateral ventricles.  stretched between corpus callosum and the fornyx
+***** hypothalamus
+- below and to the front of the thalamus
+- mammillary body is a part of the hypothalamus
+***** the pituitary gland, outside of the brain, but continuous with the hipothalamus.
+- anterior part develops from the non-nueonal ectoderm
+- posterir part (=neuorhypophysis) is part of the thalamus itself, develops from the neural tube
+- from the posterior pituitary hormones - oxytocin and vasopressin
+- from the anterior part - other hormones
+***** pineal gland
+  - secretes melatonin, syncs our biological clock.
+*** ventral view
+***** olfactory system:
+- bulb
+- tract
+- lateral stria
+- medial stria (unused in humans?)
+- uncus (main processing area for smell in the cortex)
+***** Optic:
+- nerve
+- chiasma
+- tract
+***** Pituitary Gland
+- vetral to the chiasma
+***** orbital gyri (above the eye socket)
+***** rectus (straight) gyri
+* white matter and connections
+*** Development
+          - at the beginning the vesicles are empty - the neural tube is just the wall of the tube
+          - telencephalon grows much more than the rest, and the convolustions start taking up the internal space
+          - the *lamina terminalis* is the anterior-most part of the telencephalon when it develops (as it grows, other parts become more rostral/anterior than the lamina terminalis)
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_223330_9QrJz8.png]]
+          - the space is filled with CSF (CSF is very similar to the blood plasma)
+          - the wall becomes thicker and thicker (becomes neurons = gray matter, cell bodies)
+            [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_223439_LrFYgn.png]]
+          - the space becomes filled with two types of tissue:
+              + neurons:
+                  Neurons send axons - white matter, and they do it in bunches - nerve fibers/tracts
+              + subcortical nuclei (= non cortical gray matter)
+*** White matter:
+      - centrum semiovale- like it sounds - general name for the white matter
+***** projection fibers - connect the cortex with non-cortex structures
+                  - corticopetal - into the cortex
+                  - corticofugal - out of the cortex
+******* corona radiata - the "fan" of white matter
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211227_224708_AwVpr3.png]]
+                    - seen on the sagital plain/lateral section, but not medial, slightly off-center
+                    - the lower, ventral, part is called the internal capsule  the fibers come together and become more dense.
+********* the internal capsule
+                      - "hidden" by the lentiform nucleous (when looking from the side)
+                      - on the horizontal section (from above) - has five parts:
+                          1. anterior limb
+                          2. genu
+                          3. posterior limb
+                          4. retrolenticular part - fibers going caudally towards the occipital lobe - also called the *optic radiation*
+                          5. sublenticular part - the *auditory radiation* - going into the auditory cortex
+                      - medial to the internal capsule is the *thalamus*
+                      - summary of connections from the internal capsule:
+                          - Anterior limb
+                              - Thalamo-cortical fibers to the frontal lobes
+                              - Cortico-striatal fibers
+                              - Cortico-pontine fibers
+                              - Thalami-pontine fibers
+                              - Connections between the lentiform and Caudate
+                          - Genu
+                              - Corticobulbar fibers
+                          - Posterior limb
+                              - Corticospinal fibers
+                              - Sensory fibers (mainly from the medial lemniscus tract)
+                          - Retrolenticular part
+                              - Optic Radiation (geniculocalcarine tract)
+                          - Sublenticular part
+                              - Auditory pathway (from MGB to primary auditory cortex)
+                      - external capsule
+                      - extreme capsule
+***** commissural fibers - between hemispheres
+              - develop from the telencephalon impart - the part middle part of the telencephalon that doesn't separate, stays between the two vesicles growing to the sides
+              - Anterior Commissures
+                  - Anterior commissure
+                      - just above to the lamina terminalis (the frontmost part of the developing telencephalon)
+                      - connects the two temporal lobes
+                  - Hippocampal commissure
+                  - Corpus Callosum
+                      - grows to take up most of the telencephalon impart
+                      - *forceps minor* - fibers going through the genu (מלקחיים) - connecting areas in the frontal lobes - going rostrally from the Cps Colsm
+                      - *forceps major* - fibers going through the splenium (מלקחיים) - connects visual areas in the occipital lobe - going caudally from the Cps Colsm
+                      - *tapetum* - fibers going around (laterally) the lateral ventricles (coating them like a tapestry טפט)
+              - Posterior Commissures
+                  - Posterior commissure
+                  - Habenular commissure
+***** association fibers - intra (inside)hemispheric
+              - short fibers
+                  - between neighboring gyri
+              - long fibers - also called fasciculi (sing. fasciculus)
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_114457_uP6NGF.png]]
+                  - usually between lobes
+                  - like a road, not all axons have to go all the way through, they can leave the fasciculus anywhere
+                  - supirior longitudinal fasciculus (SLF)
+                    C shaped, from frontal to temporal lobes
+                      + arcuate fasciculus - part of the SLF, connecting Broca and Wernicke areas
+                  - uncinate fasciculus - also frontal-temporal, but from the front
+                  - infirior longitudinal fasciculus (ILF)
+                    Temporal - occipital connection
+                  - infirior fronto-occipital fasciculus (IFOF)
+                  - Cingulum inside the cingulate gyrus
+                    From the subcallosal area all the way around to the uncus in the temporal gyrus
+*** corpus striatum (striped body)
+***** develops from the telencephalon - from an area of growth it the rear of the telencephalon - along with the rest of the  *basal nuclei*
+***** white matter fibers growing down from the developing cortex *divide* the growing striatum (almost) into two parts
+***** from the lateral mass of the striatum will develop the *lentiform nucleous* (from lentil - עדשה) and from the medial mass - the *caudate nucleous*
+***** the lentiform sits "inside" the internal capsule
+***** the caudate grows "above" (dorsally to) the thalamus before it wraps around the internal capsule of the corona radiata
+***** the medial mass elongates dorsally, and wraps around the white matter - the corona radiata, back in a lateral direction - this the "tail" (caudate)
+*** basal nuclei (subcortical nuclei):
+          - most notably - related to motor functions (but also more)
+***** striatum
+              - caudate nucleous (see above)
+              - nucleus accumbens (see above)
+                                  connects the caudate and the lentiform
+******* lentiform nucleous
+                        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_112304_GDtUfX.png]]
+                      - Putamen
+                          + connects to the accumbens, more similar to caudate in function
+                      - globus pallibus (pale ball)
+                          + more similar to brainstem in function
+                          + internus - GPi
+                          + externus - GPe
+***** layers of gray and white matter
+                - [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_113501_byBXHH.png]]
+                - laterally to the lentiform there's a thin sheet of white matter called the *external capsule*
+                - laterally to that, there's a sheet of gray matter called the clasutrum
+                - laterally to that there's another sheet white matter called the *extream capsule*
+***** two divisions of basal nuclei:
+              - a functional & embriological division of the nuclei puts the putamen with the caudate and divides between the striatum and the pallibus
+              - an anatomical division divides between the caudate and the lentiform
+***** subthalamic nucleous (also develops from the diencephalon)
+***** substantia nigra - part of the brainstem
+                    - pars reticulata - SNr
+                    - pars compacta (the black part) SNc
+                        + secrete dopamin
+                        + dopamin can be either inhibitory or excitatory depending on the post-synaptic neuron:
+                            - D1 receptors create excitation
+                            - D2 create inhibition
+***** Thalamus and the motor system
+******* divisions: (then more subdivisions)
+                    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_120553_dSKG8Q.png]]
+********* anterior nuclei
+********* medial nuclei
+********* lateral nuclei
+            - activates the cortex
+            - *SNr and GPi are thalamus inhibitors*
+            - the pyramidal system - two neurons from cortex to muscle - this is not enough for fine grained control
+******* extra-pyramidal system
+                  - works with agonist-antagonist pairs of muscles
+                  - this is the role of the basal nuclei
+                  - the VA (ventral-medial) and VL (ventral lateral) thalamic nuclei are involved in planning and initialtion of movement
+********* The extrapyramidal system has two pathways:
+                        [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211229_124237_phIYw7.png]]
+                                 - both pathways operate all the time creating a balance of inhibition and activation of the thalamus = of movement initiation commands, and of the magnitude/strength of activation. This way we can create very gentle and precise movements
+*********** direct - *for voluntary action*
+                                - the striatum (caudate and putamen) inhibits the GPi and the SNr
+                                - the GPi  and the SNr  inhibit the thalamus
+                                - the thalamus activates the cortex
+                                - the direct path is when the cortex activates the striatum, causing the it to inhibit GPi/SNr -> they stop inhibiting the thalamus -> the thalamus is free to activate the cortex - to tell it to initiate a movement.
+*********** indirect - *reduces/inhibits unwanted movement*
+                                    - the cortex activates the striatum (STR) - specifically an inhibtory neuron connected to the GPe
+                                    - GPe usually inhibits the subthalamic nucleous
+                                    - subthalamic nucleous activates GPi/SNr (which are thalamic inhibitors)
+                                    - CTX activates STR --> STR inhibits GPe --> causes activation of subthalamic nucleous --> activates GPi/SNr --> inhibit thalamus --> no movement commands
+********* role of SNc in thalamus activation:
+                        - in the direct pathway, the SNc neurons are connected to the putamen through D1 (=excitatory neurons), so they *support* the direct (=activating) pathway = *supporting movment*
+                        - in the indirect pathway SNc neurons connect to the putamen through D2 neurons (=inhibitory) neurons. Since putamen activation eventually inhibits movement, this means the *the SNc inhibits the indirect pathway*, and _supports movement_.
+                        - so *SNc always supports movemnt!*
+                        - that's the main problem in parkinson's disease - the initiation of movement
+                        - hemiballismus - a malfunction in the mechanism of inhibition (caused by damage to the subthalamic nucleous) in some motor pathways, that causes ballistic (large and fast) movements in some body parts
+                        - chorea - another symptom of damage to the basla nuclei - causes many large movements in the whole body (looks like dancing)
+                        - *exam questions: what would happen if we damage any of the components of either pathway?*
+*** the ventricles:
+              - two lateral ventricles - separated by the septum pellucidum
+              - third in the middle
+              - septum pellucidum develops from two septums, that usually merge before birth
+***** third ventricle - rubber chicken head.
+******* has an eye and recesses created by pineal gland and more
+***** choroid plexus
+                    made of blood vessels and pia - filters out the red and white blood cells and elts only the plasma through to make the CSF
+* Histology
+        - how the tissue looks
+*** histology of the cortex:
+*****  Neocortex
+                - new, in evolutionary terms
+                - the great majority of the human cortex
+******* 6 layers of cells, based on the way the tissue looks
+                  1. Molecular - almost no cell bodies, mostly connections
+
+                  2. External Granular - connect other cortical areas in the same hemisphere
+                  3. External Pyramidal - mostly connect to the other hemisphere
+
+                  4. Internal granular - gets all the input from the thalamus
+                  5. Internal Pyramidal - mostly sends towards the brainstem. Here there are the primary motor neurons (Beltz cells)
+
+                  6. Multiform - mostly towards the thalamus
+******* divided into columns - each col. contains all the layers, columns are usually responsible for some function
+******* there is no clear physical boundary - but sometimes moving a 0.5 cm to the one side moves a different finger for example.
+******* Bordmann areas - in different areas of the cortex, the distribution of the layers is different. the columns have substantially different function subserved by different layer structure.
+********* examples:
+*********** primary sensory areas get a lot of sensory input from tehe thalamus, so it has a thicvker layer IV
+*********** association cortex אסוציאטיבי: multimodal representation of concepts - inputs from many types of areas - has a rather balanced struvture
+*********** primary motor cortex: has almost no sensory input, so no layer IV, but huge pyramidal neurons, so very thick layer V.
+
+***** Allocortex - not new
+******* Paleocortex - old, very old
+********* 4-5 layers
+*********  Olfactory System (olfactory bulb; olfactory tubercle; piriform cortex)
+********* Parahippocampal gyrus
+******* Archicortex - archi=first, so oldest in evolutionary terms
+********* 3 layers
+********* Hippocampus
+* functional localization
+*** general division
+          - Primary Cortex
+              * the area where the representation is the closest to what exists at the periphery
+              * for the motor pathway - the last stop before the brainstem/spinal chord
+              * for sensory input - the first stop on the way in
+          - Secondary Cortex
+              * a higher representation than primary cortex
+          - Associative Areas
+              * combining information from different modalities
+              * concepts
+              * sensory-motor feedback/correction?
+*** the motor cortex
+        - primary motor cortex - M1
+            - BA (brodmann area) 4
+            - no internal granular layer, i.e. No layer IV ("agranular cortex")
+        - secondary/associative motor cortex
+            - Premotor (=before, more frontal than motor) Cortex  - BA 6
+                + generation/execution of a motor plan (high level like walking)
+                + activates and coordinates neurons in M1
+            - SMA supplamentary motor area - in the most medial part of the premotor cortex, also folds into the medial surface - also BA 6
+                + planning movement - activates the motor plan in the premotor cortex
+                + anticipation of external conditions relating to the movement - like the trajectory of a ball we want to hit
+            - Anterior cingulate cortex (ACC)
+                + error detection (not only motor!)
+            - frontal eye field (FEF)
+                + synchronizes the movement of the eyeballs so it's consistent with the rest of our movement and where we put our attention - lower part of BA 8
+***  the somatosensory cortext
+            - primary sensory cortex - S1
+                + BA 1, 2, 3
+                + postcentral gyrus
+            - secondary sensory cortex
+                + BA 5, 7, 40
+            - damage to associative sensory areas:
+                - tactile agnosia (types:)
+                    - astereognosis - inability to recognize objects by touch. (Though no problem using them)
+*** the visual cortex:
+          - BA 17
+          - around and inside the calcarine sulcus
+          - aka the striate cortex
+          - stria of gennari
+***** laterality
+        - the right optic nerve has information from the left visual field and vice versa
+        - from the eye to the LGN
+        - from there, through the internal capsule and the optic radiation, to V1
+        - each LGN has information from *both* eyes, the left (right) side of each of them:
+          [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_164435_RLHHXU.png]]
+        - the LGN has 6 layers.
+*****  V1 organization
+              - is retinotopic, but inverse:
+                  + what's high on the visual field arrives at the bottom of V1:
+                    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_164745_Oe44iC.png]]
+                  + meyer's loop: fibers of the upper visual field go through the temporal lobe - "backwards" (more ventral) from the thalamus, and only then to V1 (see above)
+                  + what's outside, is represented deepest and most "inside" in the cortex
+              - simple cells: neurons that respond to lines in one particular orientation, in one particular location across the visual field.
+              - complex cells: respond to the orientation regardless of location
+***** secondary/associative areas:
+              - in secondary areas we have neurons that respond to collections of lines in various orientations: shapes
+              - gradually, hierarchially, becomes more complex
+              - mostly in BA 18 & 19, to the sides of BA 17
+              - [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_170204_KAyMG5.png]]
+              - two streams:
+                  + ventral  "what"- inferior temporal lobe
+                  + dorsal "where" - parietal lobe - close to the somatosensory cortex
+***** damages:
+******* prosopagnosia - face blindness - the man who thought his wife was a hat
+******* right hemisphere is more active for face recognition
+*** the gustatory cortex
+        - taste: BA 43
+        - bottom of the central sulcus
+*** the olfactory cortex
+        - smell: BA 34 (uncus
+        - perhaps the most ancient sense
+        - no relay station like the thalamus, directly from the nose to the uncus - through *the olfactory trigon*
+        - Closely linked to the limbic system
+         - Extends to the Limen of the Insula and Amygdala
+*** the auditory cortex
+***** BA 41 and 42
+***** superior part of the temporal lobe, bending inwards towards the insula (hescel's convolustion):
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_173500_9sIZ0G.png]]
+***** tonotopic:
+[[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_173431_jyD51O.png]]
+***** goes through the MGN (medial geniculate nucleous)
+***** Secondary Regions:
+******* Planum Temporale
+******* Superior Temporal Gyrus (BA 22)
+*** prefrontal cortex
+***** DSPFC dorso-lateral
+******* "high" cognitive processes
+******* decision making
+***** VMPFC - ventro-medial
+******* social skills
+******* emotional regulation
+********* inhibition
+********* decision making
+*** language areas:
+    [[/mnt/g/My Drive/.notes.v2/slip-box/20211017161734-class_notes_brain_structure.org_20211219_174130_vmw5SB.png]]
+- The Expressive Speech Area - Broca’s area (BA 44,45)
+    - Pars Opercularis and Triangularis of Inferior Frontal Gyrus
+- The Receptive Speech Area - Wernicke’s area (BA 22)
+    + Superior temporal gyrus
+    + Planum temporale (?)
+    + Supramarginal gyrus (?)
+- Geschwind Territory
+    + Inferior Parietal lobule = Angular Gyrus = Brodmann area 39
+* Blood supply to the brain

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       20210627T195156.956441
+:END:
+#+TITLE: Neuro-feedback
+A method in neuroscience whereby subjects are given an indication of the
+"internal state" of their brain while they are in an fMRI, and they are asked to
+perform a mental task.
+The feedback helps them to orient their internal
+efforts.
+
+- see :: [[file:2020-05-12-how_to_change_your_mind.org][How to change your mind]] 
+

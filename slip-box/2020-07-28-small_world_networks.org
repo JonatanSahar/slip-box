@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       20210627T195223.938164
+:END:
+#+TITLE: small world networks
+Network topologies where most nodes are not neighbors, but the average (shortest) path between any two nodes is small, while at the same time the [[file:2020-07-28-clustering_coefficient.org][clustering coefficient]] is relatively high
+
+(in contrast with random graphs where the average distance is small and the clustering coefficient is also small)
+
+
+to measure small-worldness, you take the ratio between *normalized*  avg. shortest
+path, and *normalized*  clustring coefficient of a graph, where *normalized* =
+divided by the same property in a random graph.
+
+for a network to be said to display this feature, the ratio should me much
+greater than 1
+
+* See also
+
+- [[file:2020-07-28-graph_theory.org][Graph theory]]
+
+* Sources:
+
+- cite:zhao19_graph_theor_model_baby_brain_networ
+

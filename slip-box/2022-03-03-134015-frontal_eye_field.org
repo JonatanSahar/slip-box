@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20220303T134015.382386
+:END:
+#+title: frontal eye field
+Located between BAs 4, 6, and 8 around the intersection of the middle frontal gyrus and the precentral gyrus.
+It's responsible for the coordination of eye movements with head movements and for saccadic eye movements
+
+[[/mnt/g/My Drive/notes/slip-box/2022-03-03-134015-frontal_eye_field.org_20220303_135723_gHa4um.png]]
+
+
+[[id:20220303T134657.008940][::brain structure]]

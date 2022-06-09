@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20220430T174247.499014
+:END:
+#+title: Regression (statistics)
+To regress a variable with respect to other variables means to find some linear combination of those variables that explains the primary variable (all of them as time series).
+Something of the form:
+$Y_t=\beta_0+X_{t1}\beta_1+...+X_{tk}\beta_k+\varepsilon_t$
