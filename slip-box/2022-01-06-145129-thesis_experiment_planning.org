@@ -8,6 +8,20 @@
 - each comprised of playing twice with a short break in between
 - several runs
 
+*** code design:
+     - randomize 4 conditions: RHRE RHLE LHRE LHL
+     - for each condition:
+         + display instruction: which hand to play with
+         + start Tr
+         + record sequence of keystrokes
+         + TODO: how long does the sequence take? should there be one or more in a "block"?
+         + rest 8 sec
+         + save the start time of the Tr and of the first keystroke
+         +
+     -
+
+
+
 
 * shape experiment - old:
 

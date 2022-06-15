@@ -3,4 +3,7 @@
 :END:
 #+title: Thesis meetings
 
-* meeting with
+* meeting with roy 7.6.22
+
+
+* meeting with roy 14.6.22
