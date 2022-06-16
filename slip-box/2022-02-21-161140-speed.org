@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       20220221T161140.809836
-:END:
-#+title: speed

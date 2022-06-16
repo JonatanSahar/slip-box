@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       20220221T161022.283341
-:END:
-#+title: speed-accuracy tradeoff

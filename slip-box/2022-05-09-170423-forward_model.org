@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       20220509T170423.463536
-:END:
-#+title: Forward model
-
-[A difference in the was we perceive sensory outcomes of self vs external actions] is believed to occur through a ‘corollary discharge’, or ‘efference copy’ that is sent by the motor cortex, as part of an internal forward model to sensory areas before self-generated voluntary action. The postulated model for sensory processing of self-generated stimuli implies that during voluntary movement, the motor commands are sent to the executing effectors and, in parallel, a copy is sent to the relevant sensory cortex in which actionconsequences of the voluntary action are expected. This copy can inhibit, excite or otherwise modulate the activity in the sensory cortex and is considered to be an essential component of a forward model that is involved in online correction of movements based on sensory feedforward feedback ‘errors’.
-
-Quote from [cite:@reznikLateralizedEnhancementAuditory2014] intro

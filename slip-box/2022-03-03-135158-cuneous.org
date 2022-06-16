@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20220303T135158.424474
-:END:
-#+title: cuneus
-
-[[id:20220303T134657.008940][::brain structure]]

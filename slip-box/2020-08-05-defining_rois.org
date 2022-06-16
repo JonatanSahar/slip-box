@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195233.206146
-:END:
-#+TITLE: defining ROIs
-
-- cite:heuvel18_hubs_human_fetal_brain_networ use a [[file:2020-08-05-bottom_up_method_for_defining_rois.org][bottom up method for
-defining ROIs]]
-

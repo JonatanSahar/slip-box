@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195312.414628
-:END:
-#+TITLE: Sense of reality is a measure of the current prediction error
-Sense of reality (SoR) may be thought of, in the context of the [[file:2021-06-17-free_energy_principle.org][Free energy principle]] as a measure of the size of the prediction error created by the current perception - when it becomes too big, we start questioning if what we perceive is in fact real.
-

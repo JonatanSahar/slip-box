@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195241.048593
-:END:
-#+TITLE: Theories of Consciousness
-[[file:2020-06-24-seeing_that_frees.org][Seeing that frees]]
-

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195159.507566
-:END:
-#+TITLE: Technion
-

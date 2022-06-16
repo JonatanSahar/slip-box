@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195235.023356
-:END:
-#+TITLE: there's possibly a connection between hubs and spontaneous activity
-
- spontaneous bursts seem to be linked to hubs - possibly areas that are destined
- to become hubs have more spontaneous activity, c.f. feldenkrais's notion ([[file:2020-08-05-אספקט_חשוב_בלמידה_הוא_לנסות_הרבה_הרבה_דברים_שונים.org][אספקט חשוב בלמידה הוא לנסות הרבה הרבה דברים שונים]])
-

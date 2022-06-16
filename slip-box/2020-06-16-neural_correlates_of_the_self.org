@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195213.743872
-:END:
-#+TITLE: Neural correlates of the Self
-- ego disintegration is correlated with decrease in alpha rythem
-- 
-

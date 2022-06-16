@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195221.218400
-:END:
-#+TITLE: blueprint for the conneectome emerges in prenatal life
-suggested by  cite:turk19_funct_connec_fetal_brain, the development of white matter and early hubs in the fetal brain are precursors to the more "complete" adult brain, and they suggets it may be useful for diagnosing problems (psychological and otherwise) in later life.
-
-They show existence and similarity to adult brains of sensory and motor networks, visual and auditory networks, but not in the frontomedial network which is associated with higher order cognitive networks.
-

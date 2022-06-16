@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195203.982689
-:END:
-#+TITLE: Brainstem
-
-* receives information from all senses (except smell)
-* includes body-monitoring nuclei

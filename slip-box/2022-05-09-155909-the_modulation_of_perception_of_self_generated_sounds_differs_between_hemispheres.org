@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20220509T155908.942343
-:END:
-#+title: The modulation of perception of self-generated sounds differs between hemispheres
- From [cite:@buaronVoluntaryActionsModulate2020]

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20220306T135846.426314
-#+ROAM_ALIASES: SD
-:END:
-#+title: standard deviation
-In [[id:20210627T195238.608117][Statistics]], is the measure of the spread of values in the *population*, the width of the ditrivution of values in the world

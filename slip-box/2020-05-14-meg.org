@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195158.172536
-:ROAM_ALIASES: Magnetoencephalography
-:END:
-#+TITLE: MEG
-#+ROAM_ALIAS:
-

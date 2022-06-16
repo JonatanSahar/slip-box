@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       20220427T154615.283745
-:END:
-#+title: how to export from org to html
-
-pandoc howToAnalyze.org -o howToAnalyze.html --toc --standalone --template=uikit.html
-
-Available templates:
-https://github.com/ryangrose/easy-pandoc-templates

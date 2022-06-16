@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20210706T235145.530569
-:END:
-#+title: Swing
-

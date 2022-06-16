@@ -1,5 +1,0 @@
- :PROPERTIES:
-:ID:       20211031T100247.836351
-:END:
-#+title: Rob Burbea
-A great [[id:20210627T195212.280284][Dharma]] teacher

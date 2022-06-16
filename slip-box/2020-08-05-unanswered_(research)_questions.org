@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195235.721806
-:END:
-#+TITLE: Unanswered (research) questions
-A tag to gather interesting open questions I have when reading research papers
-

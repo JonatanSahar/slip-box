@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195239.638353
-:ROAM_ALIASES: "Integrated Information Theory"
-:END:
-#+TITLE: IIT
-#+ROAM_ALIAS:
-

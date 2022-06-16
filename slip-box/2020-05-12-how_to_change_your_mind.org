@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195155.888933
-:END:
-#+TITLE: How to change your mind
-A book about [[file:20200507190903-consciosness.org][Consciosness]] and [[file:2020-05-12-psychedelics.org][Psychedelics]] by Michael Pollan.
-

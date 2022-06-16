@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195225.500727
-:ROAM_ALIASES: Posterior Cingulate Cortex
-:END:
-#+TITLE: PCC
-#+ROAM_ALIAS:
-

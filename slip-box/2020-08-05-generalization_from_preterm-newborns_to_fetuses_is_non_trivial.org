@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       20210627T195233.520227
-:END:
-#+TITLE: generalization from preterm newborns to fetuses is non-trivial
-
-Since there's an early exposure to all the stimuli in the outside world, and
-deprivation of hormones that are usually present in late pregnancy s.e IGF-1 etc.
-

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       20210630T113857.709229
-:ROAM_REFS: cite:trumanAreIncongruentObjects2018
-:END:
-#+title: Are incongruent objects harder to identify? The functional significance of the N300 component
-

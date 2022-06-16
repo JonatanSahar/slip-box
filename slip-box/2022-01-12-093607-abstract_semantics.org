@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20220112T093607.669146
-:END:
-#+title: Abstract semantics
-The ability of the brain to represent concepts with no concrete sensory meaning

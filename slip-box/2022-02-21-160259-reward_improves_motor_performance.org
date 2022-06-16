@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       20220221T160259.019621
-:END:
-#+title: Reward improves motor performance
- [[cite:&galeaDissociableEffectsPunishment2015]] and [[cite:&manoharMotivationDynamicallyIncreases2019]] show that when subjects were learning a motor task - reaching for something with a manipulendum - on trials where the movement had a know reward attached to it they had better [[id:20220221T161153.447426][accuracy]] and [[id:20220221T161140.809836][speed]]  and in fact broke [[id:20220221T161022.283341][speed-accuracy tradeoff]].
-
- However - this heightened ability  was transient, applying to reward trials only, unless(!) They learned an improved movement which was more energetically efficient ([[id:20220221T165325.768595][improved motor performance due to reward is only persistant if it also means we're not working as hard]])

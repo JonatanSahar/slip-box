@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       20220512T172710.910631
-:END:
-#+title: test
-
