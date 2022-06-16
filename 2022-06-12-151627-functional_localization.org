@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20220612T151627.204414
+:END:
+#+title: Functional localization
+The advantage of functional vs using structural areas:
+- the anatomical region is different between individuals, so we may be looking in the wrong place.
+- anatomical regions are too large often - having voxels which are unrelated - so we may be able to reduce the number of comparisons even further.

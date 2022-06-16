@@ -17,4 +17,6 @@ docs/rendering/
 
         From [[https://stackoverflow.com/questions/14249811/markdown-to-docx-including-complex-template][stackOverflow]].
 
-***
+* pdfAnnots
+Extract annotations + quotes to .md:
+~/.local/pdfannots/pdfannots.py FILE -s comments --no-condense
