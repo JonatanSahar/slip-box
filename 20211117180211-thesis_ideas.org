@@ -3,4 +3,30 @@
 :END:
 #+title: Thesis meetings
 
-* meeting with
+* 7.6.22 Meeting with Roy
+- conditions: RELH, RERH, LHRE, LHLE
+- Activation: looking at the auditory cortex, are there other different areas active when the hand is contra vs ipsi?
+    + ANOVA on RELH, RERH, LHRE, LHLE to get voxels with significant effect of laterality.
+    + look at RELH > RERH and LHRE > LHLE independently (GLM)
+- Can we decode hand from activity in stimulated auditory cortex? And in non-stimulated auditory cortex? - unrelated to the ipsi-contra debate
+    + MVPA
+- What can we learn about the modulation of the auditory cortex by the motor cortex? Is it motor ⟹ both auditory cortices  or motor ⟹ auditory R ⟹ auditory L? ?
+- functional connectivity from auditory cortex (seed) to whole brain - comparing ipsi to contra hand
+    + *question*: of course there will be a correlation in activity between motor and auditory cortex, because the both operate at the timing of key presses - how to deal with this?
+
+* 14.6.22 Meeting with Roy
+- design
+    + blocks of two sequences in a row
+    + 3 runs of 20 blocks each. Every block is ~16 seconds including washout, so total of ~5.5 minutes per run
+    + have all conditions in  each run - so averaging would eliminate differences in external conditions  between runs.
+    + two localizers - one run each:
+        * motor only  - 2 hands
+        * auditory only - 2 ears
+        * *question*: should we make the auditory only run shorter? Might be boring.
+    + scan motor only condition at the end of the experiment as well to check if the modulation without sound changes with experience. - another run.
+        * *question*: are two run (one before, one after) enough for checking modulation without sound
+
+- analysis:
+    + Does the motor cortex modulate the auditory cortex even without sound?
+        * Does it change after association between action and sound is established?
+    + Is there a difference in modulation between stimulated and unstimulated ear?

@@ -1,77 +1,47 @@
 :PROPERTIES:
 :ID:       20220106T145130.362390
 :END:
-#+title: thesis experiment planning
-*** plan (draft):
-***** two groups:
-              1. visuomotor(VMr): 30 subjects
-              2. visual only - RH (Vr): 20 subjects (maybe 30?)
-***** Q1: decode training regimen
-******* stimuli:
-                  - blocks of the 8 shapes in random order (no repetitions), each shape displayed for 1000ms - total 8 seconds per block
-                  - 8-10 sec fixation break
-                  - 40 blocks => *~11 minutes*
-                  - one back task
-                      + to say if there were two consecutive shapes that were the same
-                      + if the last shape had a thicker border/other color
-******* analysis:
-                  - the question is: *is the functional connectivity map more similar within the training group than between the groups?*
-                  - collase all blocks per subject, then each subject is a single point - the space is one of:
-                      + all voxels in the visual and motor ROIs - average activation throughout
-                          * MVPA?
-                      + temporal correlation between visual and motor areas:
-                          * create a *correlation matrix* between the signals of all voxels in the ROIs - one per subject. We have 20 of each group.
-                          * leave one out: average 19 matrices of each group and compare the remaining two (individual) correlation matrices with the two group averages.
-                          * redo for all pairs of left out subjects, and take the *matching score* between subject and its group to be the number of times its *correlation matrix was closer to its group than to the other group*.
-                  - prediction - MVPA - leave some out
-***** Q2: differentiate between shapes
-******* the question is: *is there a better (richer) representation of shapes in the brain (evident through better decoding) in subjects that learn better (evident through better evaluation results & smoother drawing)*
-******* analysis:
-                    - collapse each block in each subject - each averaged block is a single point - the space is one of:
-                        + all voxels in the visual ROI - average activation throuhout the trial
-                        + all voxels in the motor ROI - average activation throuhout
-                        + some measure of temporal correlation between visual and motor areas - functional connectivity like previous question
-                    - prediction - MVPA -  leave some out
-                    - create correlation matrix between smoothness measures and prediction success
-                    -  create correlation matrix between test result and prediction success
-********* use three shapes: base, one similar, and one dissimilar.
-                        - use for normalizing the decoding result - decoding dissimilar shapes is the maximum performance for that subject
-********* normalize behavioral score: take the % improvement from the pre-training evaluation
+#+title: Thesis experiment planning
 
-*** training:
-***** two consecutive days
-***** assessment before and after each session
-***** MRI scan in the following week
+* Auditory-motor:
+- blocks of RHRE RHLE LHRE LHLE
+- they'll play twice in a row at their own pace
+- a short fixation break between blocks
+- 3 runs, 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
+- two localizers: motor only and auditory only. One run each. (*question:* is it enough trials?)
+- repeat the motor localizer at the end -
+- total ~5.5 minutes per run
 
-*** scanning protocol:
-***** visual localizer
-******* shapes on checkerboard
-******* 1 run of 25 block = 6min
-******* blocks of 4 images
-***** 2 conditions:
-******* training regimen (Q1)
-********* 2 runs
-********* 25 blocks each = 6min
-********* blocks of 4 images
-********* 1sec on/0.5 sec off
-********* each starts with a rest of 8sec
-******* shape decoding(Q2)
-********* 4 runs
-********* 24 blocks each = 6min
-*********** blocks of three types:
-************* shape A
-************* most confused with A
-************* least confised with A
-************* based on confusion matrix from behavioral
-************* total 8 blocks per shape in each run = total 32 blocks of each shape
-********* 750ms on/250ms off
+*** Analysis
+    - compare the activation in the auditory cortex between ipsi and contra hand playing - using a GLM. Do this separately for each ear.
 
-*** experiment instructions:
-***** welcome + general description of what's going to be displayed (localizer, 2 tasks, structure of runs, length of runs)
-***** task 1 description (one back counting)
-***** תיכף נתחיל - בזמן שמחכים לסורק
-***** we've finished x/n runs for this task, how many one-backs?, rest a little. While waiting for t X num of runs
-***** task 2 description (one back counting)
-***** תיכף נתחיל - בזמן שמחכים לסורק
-***** we've finished x/n runs for this task, how many one-backs?, rest a little. While waiting for t X num of runs
-***** all done! Thank you very much :)
+    - compare all 4 conditions (RELH, RERH, LHRE, LHLE) with [[id:20210627T195237.647411][ANOVA]], look for a mixed effect of hand and ear (=effect of laterality).
+
+    - decode hand from auditory cortex. Do this twice: once for the stimulated ear (cortex), once for the unstimulated ear.
+
+    - compare functional connectivity between ipsi and contra hands per ear.
+        + *question*: of course there will be a correlation in activity between motor and auditory cortex, because the both operate at the timing of key presses - how to deal with this?
+
+    - compare the activation in the auditory cortex during the motor-only task:
+        + compare between ipsi and contra hands per ear
+        + compare between pre- and post- experiment scans.
+
+
+*** Code design:
+     - define an 8 second scan time in advance.
+     - randomize 4 conditions: RHRE RHLE LHRE LHL
+     - motor only run: localizer + baseline for checking modulation
+     - auditory only run: localizer + baseline for checking modulation
+     - auditory-motor familiarization half-run
+     - auditory-motor part
+     - motor only run: for checking modulation
+
+     - for all parts:
+     - for each block in blocks
+         + get type of block (hand/ear)
+         + display instruction: which hand to play with + which ear will be heard + "get ready!"
+         + wait for Tr: display instruction to play
+         + process midi information and play it back to subject
+             * save the start time and end time of playing
+         + save information about block in table (type, start/end time, ...)
+         + display instructions for next part + "get ready!" for 8 sec of rest

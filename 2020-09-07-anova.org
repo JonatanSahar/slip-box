@@ -1,18 +1,46 @@
 :PROPERTIES:
 :ID:       20210627T195237.647411
 :END:
-#+TITLE: ANOVA
+#+title: ANOVA
 
 = ANalysis Of VAriance is a type of statistical hypothesis testing (i.e. vs a
 null hypothesis).
-It's often used to determine whether a division of the population (=data points)
-into groups is statistically significant and as such - the null hypothesis is
-that all samples belong to the same distribution (group)
 
-ANOVA controls for the magnitude of false positives (type I errors) - this is
-the p-value given by the test: the confidence level in that the difference
-between the groups is _not_ due to chance.
-We still need to account for type II ([[file:2020-09-07-false_negative.org][False Negative]])
+ In a broad sense, an ANOVA is *a method of understanding the contributions of different factors to an outcome variable by studying the proportion of variance explained by each factor*.
 
-It can be used as an exploratory tool (TODO: how?)
+The idea is to decompose the total variance of the data into
+different sources:
+1. variation due to differences within each group
+2. variation due to differences between the groups' means.
 
+* one way ANOVA:
+The F statistic used in the F-test characterizes the variation due to between-group difference relative to the variation due to within-group difference.
+- The total variance (SST) is calculated as the sum of squared-errors of _all_ data points from the grand mean of all points
+- The within group variance (SSW) is calculated as the sum of squared-errors of all points in a group from the group average
+- The between group variance (SSB) is calculated as the sum of squared-errors of the mean of the group to the grand mean, multiplied by the number of samples in the group.
+
+The F static is a ratio between two Chi statistics with (possibly) different degrees of freedom.
+
+
+* two way (factorial) ANOVA:
+[[/mnt/g/My Drive/notes/slip-box/2020-09-07-anova.org_20220619_141858_LsTjeo.png]]
+
+The idea is similar, but more involved: we have two variables along which we can slice the data (e.g. Age and Gender of participants, with the dependent variable being a test score), so we need to calculate the SSW and SSB for each division of the data.
+We take all the participants of the same age, regardless of gender, and calculate their sum of squared errors from the mean of their age group, and then take all the subjects of the same gender and calculate the sum of squared errors from the mean of their age group. This is the equivalent of SSW.
+We also calculate the equivalent of SSB - the error between the mean of each group (in each division of the data) from the grand mean of all samples.
+Finally we also calculate the SST in the same way as in the one-way ANOVA.
+
+We then calculate the mean-square, which is the Chi statistic of each group, and that's just equal to the sum of squared errors divided by the  degrees of freedom of that group.
+
+Then the F score is calculated in the same way as before - with the SST as the denominator and  SSB or SSW as the nominator.
+
+*** Interactions and main effects:
+    The main effects are the effects of each independent variable on its own, ignoring the division created by the other variable.
+
+    The interaction between the variables is actually asking whether the difference between the groups created by looking at both independent variables is what we would expect from the main effects, or is it different.
+    If it's different, that means that the combination of the conditions has an effect in and of itself.
+
+
+*** sources:
+  - https://www.youtube.com/watch?v=1o4CO2mBmgU
+  - https://youtu.be/ajLdnsLPErE
