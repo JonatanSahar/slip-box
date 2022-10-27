@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       20220908T155902.645654
+:END:
+#+title: Quantum fields lecture notes
+
+Everything is made electorns and the two kinds of quarks... Not.
+
+* fields
+Spread over the whole universe
+have a value at each point, that can change in time

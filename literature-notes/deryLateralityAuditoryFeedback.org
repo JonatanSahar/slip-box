@@ -22,7 +22,6 @@ better for learning with right ear (for right hand playing?)
 
 (the ideomotor theory): action and perception are linked in a bidirectional mannerre a common representation of information at behavioral *and physiological* levels
 
-
 AON - action observation network: extension of mirror neuron idea to human fMRI
 
 - auditory singnals can modulate motor activity:

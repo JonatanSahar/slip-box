@@ -20,10 +20,12 @@ The study shows three main effects:
 - voluntary actions change the way we perceive sensory information stemming from them (vs same sensory input from non-self actions)
 - the change is asymmetrical - depends on the laterality between visual field and hand
 - ipsi-lateral stimuli seemed stronger than contra-lateral
+
 * findings
 - visual stimuli were modulated more strongly when they were caused by ipsi-lateral compared to contra-lateral hand
 - seemed either brighter or darker about 50%-50%
 - trying to decode hand from brain response was so-so, ~55% mean accuracy of SVM per subject across all significant neighborhoods of voxles
+
 * methods
 - two phases behavioral and fMRI
   - Behavioral:
@@ -32,6 +34,7 @@ The study shows three main effects:
     + requested to asses which was brighter (2AFC)
   - fMRI
     + only active presentation sometimes R sometimes L
+
 * general notes
 - motor actions modulate perception through the mechanism of efference copies
 * see also (notes, tags/ other papers):

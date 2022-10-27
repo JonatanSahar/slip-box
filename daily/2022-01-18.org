@@ -38,12 +38,3 @@ CLOSED: [2022-02-21 Mon 07:08]
 *** change catch trials to fixed location
 *** for 1st Q. 30 trials to fit in one  ~10m run
 *** for 2nd Q: shorter blocks of 6, 9 sec between blocks. Have 2 runs. So we get total 40 blocks per shape
-* DONE תרגיל בית ב fmri
-CLOSED: [2022-05-06 Fri 16:15] SCHEDULED: <2022-05-01 Sun 08:35>
-
-* DONE פגישה של אורי עם משקיעים - לאחל לו בהצלחה!
-CLOSED: [2022-05-01 Sun 14:28] SCHEDULED: <2022-05-01 Sun 12:00>
-
-* DONE לפתוח חוזר במערכת זימון הנבדקים של הmri (מייל מבתאל)
-CLOSED: [2022-05-28 Sat 18:26] SCHEDULED: <2022-04-29 Fri>
-

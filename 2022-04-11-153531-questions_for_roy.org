@@ -3,7 +3,5 @@
 :END:
 #+title: Questions for Roy
 
-* לא כדאי שנעשה בלוקים ארוכים יותר?
-[[/mnt/g/My Drive/notes/slip-box/2022-04-11-153531-questions_for_roy.org_20220411_153632_rSsfjl.png]]
-* איך עובדת קונבולוציה?
-*
+- should we analyze the transient and sustained parts of the BOLD response separately? As per [[id:20221027T144723.518071][lehman et al.]]
+- what does tha even mean?

@@ -9,6 +9,25 @@
 %s/C\\:\\\\Users\\\\Jonathan\\\\Documents\\\\zotero\\\\storage\\\\[A-Z0-9]*\\\\/\/home\/jonathan\/google_Drive\/.notes\/.bibliography\/bibtex_pdf\//g
 
 
+* python
+- iterate over dirs in current path:
+  #+begin_src python
+list_subfolders_with_paths = [f.path for f in os.scandir(path) if f.is_dir()]
+  #+end_src
+
+- a function for "natural" alphanumeric sorting:
+   #+begin_src python
+import re
+def sorted_alphanumeric(data):
+    convert = lambda text: int(text) if text.isdigit() else text.lower()
+    alphanum_key = lambda key: [ convert(c) for c in re.split('([1-7]+)', key) ]
+    return sorted(data, key=alphanum_key)
+   #+end_src
+
+-
+
+
+
 * pandoc
     Convert to docx with complex formatting taken from a template document in
 docs/rendering/

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       20221027T130641.028270
+:END:
+#+title: Laterality of activation in the auditory cortex is seen only in sustained part of BOLD response
+
+From [cite:@lehmannDissociatedLateralizationTransient2007]
+
+* see also
+- [[id:20221019T140315.468323][Notes on Gutschalk, Steinmann, Stimulus Dependence of Contralateral Dominance in Human Auditory Cortex: Contralateral Dominance in Auditory Cortex]]
+-

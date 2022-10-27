@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       20220623T181007.555618
+:ROAM_ALIASES: Psychophysiological Interaction analysis
+:END:
+#+title: PPI
+Psychophysiological Interaction is a type of functional connectivity analysis used with fMRI data.
+
+"Psychophysiological interactions (PPIs) analysis is a method for investigating task-specific changes in the relationship between activity in different brain areas, using functional magnetic resonance imaging (fMRI) data. Specifically, PPI analyses identify voxels in which activity is more related to activity in a seed region of interest (seed ROI) in a given psychological context, such as during attention or in the presence of emotive stimuli"
+
+"PPI is concerned with task-dependent functional connectivity analysis: the purpose of a PPI analysis is to determine which voxels in the brain increase their relationship with a seed region of interest in a given context, such as during a particular behavioural task."
+
+"A task-specific increase in the relationship between brain regions (a PPI effect) is suggestive of a task-specific increase in the exchange of information."
+
+
+* Sources:
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#:~:text=Psychophysiological%20interactions%20(PPIs)%20analysis%20is,resonance%20imaging%20(fMRI)%20data.

@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       20221006T123248.498351
+:ROAM_REFS: @carlsonPhysiologyBehavior11th
+:END:
+#+title: Notes on Carlson, Physiology_of_Behavior_11th_Edition_chapter_7_Audition.Pdf
+
+* general notes
+*** How we hear pitch?
+Inner hair cells are required for hearing - outer hair cells are modulators of the basillar membrane (affect the the way we hear sounds)
+
+There are potassium channels in the hair cells: when the hairs move to one direction the gates open more, and the cells depolarize - increasing the firing rate, and when the move the other way, the gates close, the cells polarize and the firing rate decreases.
+
+Because of the structure of the cochlea - a snail like structre - the amount of bending in the basal membrane is differnet in different points along the cochlea and for different frequencies: for a give frequency, a specific point witll be the one which is being bent the most by a sound of that frequency.
+
+For most of the frequency range we have a "place code" - meaning that neurons with dendrites at a given point in the cochlea code for the frequency which most affects that point.
+For low frequencies we rely directly on the frequency of the oscillations in firing rate created by the sound.
+
+Each hemisphere gets auditory information from both ears, but primarily from the /contralateral/ one.
+
+The auditory information is relayed to the [[id:20220929T101221.395488][Cerebellum]] and the [[id:20221006T143624.358385][Reticuar formation]] as well.
+
+*** The auditory cortex is made up of three main areas:
+[[file:g:/My Drive/notes/slip-box/literature-notes/carlsonPhysiologyBehavior11th.org_20221006_145127_JR864O.png]]
+- the core region/primary auditory cortex
+- the belt - a secondary/associative cortex
+  Receives information from both A1 and directly from parts of the lateral lemniscus
+- the parabelt -
+Receives information from both the belt region and directly from (same) parts of the lateral lemniscus
+
+
+
+*** Auditory processing is done in two streams - like visual processing:
+- the anterior stream
+    + Begines in the anterior parabelt
+    + Processes complex sounds
+
+- the posterior stream
+    + Begines in the posterior parabelt
+    + Processes localization of sounds
+
+*** the auditory pathway is especially configured for fast and accurate transmission of the signal
+- large synaptic buttons
+- special low-threshold  voltage gated channles
+- especially fast neurotransmitter-gated channels
+-  synapses connect to the cell's soma, not dendrites (short transmissiondistance)
+
+- Theses create very short and strong action potentials (that can respond to rapid changes)
+
+*** dorsal (=where) streams of visual and auditory systems converge in the parietal lobe, and also in the vlPFC
+- localization through combining auditory-visual information
+- matching an object with the sound that it makes
+
+*** babies are already able to hear music in much the same way as we do
+- respond to key changes
+- respond to dissonant music
+
+
+* see also (notes, tags/ other papers):
+
+
+#+print_bibliography:

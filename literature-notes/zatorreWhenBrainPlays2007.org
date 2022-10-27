@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       20220914T160611.429645
+:ROAM_REFS: @zatorreWhenBrainPlays2007
+:END:
+#+title: Notes on Zatorre, Chen, Penhune, When the Brain Plays Music: Auditory–Motor Interactions in Music Perception and Production
+
+* summary/main points
+Probable involvement of [[id:20220929T101221.395488][the Cerebellum]] in the action of playing is due to a couple of attributes:
+    - it's responsible to milisecond-level timing (both sensory and motor)
+    - it's directly involved in auditory perception
+
+The [[id:20220929T101340.379019][Premotor cortex]] (PMC) is involved in the two "streams" of auditory-motor integration: the ventral and dorsal streams (like in the visual system)
+
+The dorsal PMC (rPMC) is part of the dorsal stream and it's active in the selection of movements that are linked by a sensory stimulus (like playing a specific chord, or a learned sequence)
+
+* general notes
+- The cerebellum is involved in several ways:
+    + related to timing in the milisecond level (both motor and sensory)
+        * through feed-forward (=prediction) and feedback (=error correction)
+    + it's  related to auditory perception (active in purly auditory tasks with no specific timing component)
+
+- the basal nuclei are also involved in timing
+    + also specifically in finger tapping tasks
+
+- the dorsal stream of auditory processign is more likely to be related to motor action
+
+- after training to play a sequence there was a response in vPMC (ventral premotor cortex), brocha and pariental areas when listening to the same sequence but not to others, and an intermidiate response when listening to othe sequences that shared the same notes as the learned one.
+
+    - in the brains of musicans which were playing without feedback, and listening without playing there was a significant overlap between activity in auditory and premotor areas in the two conditions:
+[[file:g:/My Drive/notes/slip-box/literature-notes/zatorreWhenBrainPlays2007.org_20220920_132152_PTJ7BE.png]]
+
+- generally - when there's a a coupling between the motor sequence and the auditory consequence, there's a co-activation even when just one of them is active.
+
+- rhythm is important in creating the connection between auditory an motor activity: the stronger the beat/the more salient it was - the stronger was the coactivation between the two.
+
+- ventral vs dorsal PMC
+
+    + vPMC is direct visuomotor tranftormation
+
+    + dPMC is indirect
+
+    + direct transformation: 1:1 mapping of sound to action
+
+    + indirect: how to choose an action based rules pertaining to an auditory cue.
+
+    + vPMC is involved in hearing music for which we have a motor plan
+
+    + dPMC is active in the selection of movements thata are linked by a sensory stimulus (like playing a specific chord)
+
+    + anatomical connections between the auditory (pSTG) and different motor/premotor/association cortices:
+      [[file:g:/My Drive/notes/slip-box/literature-notes/zatorreWhenBrainPlays2007.org_20220928_142602_w6Gezv.png]]
+
+* see also (notes, tags/ other papers):
+
+
+
+
+#+print_bibliography:

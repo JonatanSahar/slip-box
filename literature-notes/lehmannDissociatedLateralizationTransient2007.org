@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       20221027T130210.638905
+:ROAM_REFS: @lehmannDissociatedLateralizationTransient2007
+:END:
+#+title: Notes on Lehmann, Herdener, Schneider, Federspiel, Bach, Esposito, di Salle, Scheffler, Kretz, Dierks, Seifritz, Dissociated Lateralization of Transient and Sustained Blood Oxygen Level-Dependent Signal Components in Human Primary Auditory Cortex
+
+* general notes
+
+
+* summary and short reference
+They look at the transient vs sustained parts of the BOLD signal and show that the transient part is in fact bilateral, while the sustained part shows contralateral activation.
+
+They used monaural stimulation.
+
+They say that  it's important to analyse the transient and sustained parts separately  (see [cite:@foxTransientBOLDResponses2005] for specifically blocked-design relevant considerations)
+
+[cite:@wangSustainedFiringAuditory2005] say (single unit, mokeys) that the transient part of the response is a larger population of neurons responding to the onset of a sound, and the sustained part is due to the more specialized populationof nurons that is tuned to that frequency.
+
+
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:

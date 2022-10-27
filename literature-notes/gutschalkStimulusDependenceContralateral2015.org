@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       20221019T140315.468323
+:ROAM_REFS: @gutschalkStimulusDependenceContralateral2015
+:END:
+#+title: Notes on Gutschalk, Steinmann, Stimulus Dependence of Contralateral Dominance in Human Auditory Cortex: Contralateral Dominance in Auditory Cortex
+
+* general notes
+** intro
+In animals -  spiking activity is strongly contralateral in IC, and moderately-strong in AC
+
+EEG and MEG in humans only moderately contralateral dominant
+See also: Hine and Debener, 2007; Keonigs and Gutschalk, 2012;
+
+Strong lateralization to the contralateral AC has been found in a number of fMRI studies using monaural stimulus presentation
+See also: Langers et al., 2005; Scheonwiesner et al., 2007;
+
+Also in human fMRI - considerably strong ipsilateral AC activation
+See also: Devlin et al., 2003; Lehmann et al., 2007.
+
+The importance of understanding contralateral dominance is e.g for understanding [[id:20221019T144900.589024][Right ear advanatge in dichotic listening]]
+
+They try to reconcile the weak contralateral dominance found in MEG with the strong one found fMRI and animal models
+
+
+*** methods
+
+Long sequences - 32sec
+Amplitude modulated white noise vs unmodulated
+monaural
+
+What is timing correction due to cardiac gating?
+
+Clustered activated voxels and got pvalue based on monte-carlo simulation
+
+They used just the contralateral monaural stimulus for auditory localization
+
+What does
+"BOLD time courses were reconstructed from the cortical data to separately estimate the contribution of transient and sustained BOLD components"
+mean?
+
+" Peak amplitudes of the transient onset response were measured in the time interval 2–14 s and average amplitudes of the sustained BOLD response were measured in the time interval 14–34 s after sound onset. "
+
+We need to use a sound > silence contrast , where "sound" is left-monaural + right-monaural as the auditory localizer
+
+*** results
+
+***** brainstem
+In the brainstem they found no difference between AM and UM noise, only a difference beween noise and silence
+
+There was ipislateral dominance in the cochlear nucleus (duh), bilateral at the superior olivary complex ([[id:20221020T110952.527386][SOC]]), and contralateral at later stages - esp. In the inf. Colliculi ([[id:20221020T111200.383236][IC]]) and the MGB
+
+Contralateral activity also beween SOC and IC (how did they measure activity between areas?)
+
+
+***** auditory cortex
+Contralateral activation in AC
+
+An ipsilateral deactivation in lateral [[id:20221020T114257.720190][Herschel's convolution]] - but only for UN sounds
+
+Because of that there's a slightly increased ipsilateral activation when contrasting AM vs noise
+
+[[file:g:/My Drive/notes/slip-box/literature-notes/gutschalkStimulusDependenceContralateral2015.org_20221020_131754_LUq5Uy.png]]
+
+a previous report suggests that sustained BOLD
+components are more strongly lateralized than the onset transient
+See also: Lehmann et al., 2007
+
+They calculate something called "lateralization index" - how?
+***** discussion
+Lateralization in AC in previous monaural fMRI studies is varied:
+- strongly contralateral [see also: Langers et al., 2005; Scheffler et al., 1998]
+-  50% or less contralateral [see also: Behne et al., 2005; Jeancke et al., 2002; Langers et al., 2007; Leh- mann et al., 2007; Suzuki et al., 2002; Woldorff et al., 1999]
+- not significantly contralateral [see also: Devlin et al., 2003].
+
+(Relevant to our analysis)
+The degree of lateralization may be dependent on three factors:
+First, the strongly lateralized sustained BOLD activity observed for sound-versus-silence contrasts, which is supposedly related to the fine structure of the carrier signal.
+Second, the weakly lateralized transient onset response [Lehmann et al., 2007]. Third, the weakly lateralized sustained response to slow (AM) fluctuations.
+
+Prominent differences in lateralization are accordingly expected in dependence on temporal stimulus characteristics, in particular temporal modulation and sound duration.
+
+Previous studies of subcortical activation with monaural stimuli: all of them found strong contralateral activation in [[id:20221020T111200.383236][IC]] and [[id:20221020T140117.811499][MGB]], but different degrees of ipsilateral activation. In this study the didn't see any ipsilateral activation.
+see also: Langers et al., 2005; Melcher et al., 2000; Scheonwiesner et al., 2007; Boyen et al., 2014
+
+The lack of ipsilateral activation is in line with single unit studies in the IC of cat [see also: Delgutte et al., 1999; Semple and Aitkin, 1979] and gerbil [see also: Semple and Kitzes, 1985]. Based on these data, almost all IC neurons respond to contralateral sounds, whereas only 20% also respond to ipsilateral sounds and the response for ipsilateral stimulation is typically much weaker than for contralateral stimulation in these neurons [see also: Semple and Kitzes, 1985].
+
+In monkeys (single unit recording) (see also: Reser et al., 2000):
+layer III showes excitatory contralateral activation and inhibitory ipsilateral activation
+supragranular layer shows ipsilateral activation
+but layer III is the input layer from the thalamus, and the supragranular layer is more related for processing - so how does the information get to the supragranular layer on the ipsilateral side?
+
+It has been shown that *sustained* fMRI activity in AC decreases strongly with rates of change above 20 Hz [see also: Giraud et al., 2000; Harms and Melcher, 2002; Overath et al., 2012], so for those situations the response is mainly the transient (=peak) res
+I understand it to mean more than 20Hz of e.g tapping, not the freq of the soundwave
+
+Subcortical sustained activity is not affected by the rate and remains high regardless
+
+
+
+* summary and short reference
+
+This paper contrasts the processing of unmodulated noise (UN) with amplitude modulated noise (AM) in human fMRI and MEG.
+They look at the laterality of proccesing all along the pathway from the cochlear nucleus to the auditory cortex (AC).
+They found that there was contralateral dominance in the parts of the pathway after the superior olivary complex esp. in the infirior colliculi, the MGB and the AC itself.
+
+
+[[file:g:/My Drive/notes/slip-box/literature-notes/gutschalkStimulusDependenceContralateral2015.org_20221020_131754_LUq5Uy.png]]
+
+
+They found a difference in the processing of UN and AM in the AC:  there was contralateral activation mostly for AM, while for UN there was  actually a moderate contralateral activation accompanied by ipsilateral /deactivation/.
+
+Accordingly(?) They found contralateral activation for AM vs UN.
+
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:

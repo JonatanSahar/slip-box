@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20221019T144900.589024
+:END:
+#+title: Right ear advanatge in dichotic listening
+
+Right-ear advantage refers to the observation that when two different speech stimuli are simultaneously presented to both ears, listeners report stimuli more correctly from the right ear than the left.

@@ -18,4 +18,53 @@
 *** plotting with python (plotly): https://plotly.com/graphing-libraries/
 * Misc
 *** export powerpoint slides to images (VBA script)
-       Look at  [[file:/mnt/g/My Drive/Msc neuroscience/lab - mukamel/code/stimuli-presentation-for-fMRI/instructions/instructions.pptm]]
+       Look at  [[file:/mnt/g/My Drive/Msc neuroscience/lab - mukamel/presentations/instructions.pptm]]
+
+       Alt-F11 to open the VBA editor, then input the following (without #+BEGIN_SRC):
+
+        #+BEGIN_SRC  VBA
+        Sub SaveSlideAsImage()
+        'PURPOSE: Save each selected slide as an individual image file
+        'SOURCE: www.TheSpreadsheetGuru.com
+
+        Dim FileExtension As String
+        Dim SaveLocation As String
+        Dim ImageName As String
+        Dim SelectedSlides As SlideRange
+        Dim sld As Slide
+        Dim x As Long
+
+        'Inputs
+        FileExtension = "png" 'jpg, gif, bmp, emf
+        SaveLocation = "C:\Users\jonathan\Desktop\"
+        ImageName = "Custom Image"
+
+        'Set variable equal to only selected slides in Active Presentation
+        On Error GoTo NoSlideSelection
+            Set SelectedSlides = ActiveWindow.Selection.SlideRange
+        On Error GoTo 0
+
+        'Loop through each selected slide
+        For x = 1 To SelectedSlides.Count
+
+            'Store each slide to a variable
+            Set sld = SelectedSlides(x)
+
+            'Save Slide as image file
+            With ActivePresentation.Slides(sld.SlideIndex)
+                .export SaveLocation & ImageName & _
+                sld.SlideIndex & "." & FileExtension, FileExtension
+            End With
+
+        Next x
+
+        Exit Sub
+
+        'ERROR HANDLERS
+        NoSlideSelection:
+        MsgBox "You do not have any slides in your PowerPoint project.", 16, "No Slides Found"
+        Exit Sub
+
+        End Sub
+
+        #+END_SRC

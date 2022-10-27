@@ -2,6 +2,6 @@
 :ID:       20210627T195212.280284
 :END:
 #+TITLE: Dharma
-This is a jumping-off point for thoughts and ideas about the dharma in general,
-and the practice of meditation
-
+This is a jumping-off point for thoughts and ideas about the dharma in general and the practice of meditation
+* some
+*** some other

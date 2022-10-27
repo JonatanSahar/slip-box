@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       20220908T153056.488060
+:END:
+#+title: Leonard Susskind interviews
+
+* The fine tuning of the universe to life
+Knife edge of many (10s) of physical constants
+The landsccape of biological design => the landscape of bubble universes
+string theory implies many many possible ways for the universe to be configured in (like the many ways to configure DNA)
+
+* black holes
+The analogy of the lake - infinite, shallow lake with a drain hole in the middle - and creatures that communicate only through sound. Near the drain hole, water moves so fast that it's faster than sound, so if a creature floats into the drain, there's a moment after which the sound coming from it can't make it out (because the water is moving so fast).
+For creatures on the outside, the sounds comng from the creature floating in take longer and longer to get to them the closer the creature is floating to the point of no return - so for them it looks (sounds) as if he's stuck on the edge - the closer to the edge he is, it takes infinitly long to for the sound to get out.
+Black holes are like that, but for light.
+
+Black holes are interesting because they're massive objects that have quantom behaviors - and at the moment quantom physics is considered to govern what happens at very small scales, and general reltibity to govern what happens at large, heavy scales.

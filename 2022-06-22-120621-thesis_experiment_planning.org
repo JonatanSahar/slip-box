@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       20220622T120619.545393
+:END:
+#+title: Thesis experiment planning
+#+OPTIONS: broken-links:mark
+
+* Previous work/motivation
+*** Reznik 2014: single hand playing piano in the MRI scanner, binaural feedback
+         a. *stronger modulation* of contralateral auditory cortex relative to playing hand (in active > passive condition)
+              a. accordingly - *lower (=better) hearing threshold* in the ear ipsilateral to the playing hand (so the auditory cortex is contralateral)
+         b. during the task, the contralateral audiory cortex had the strongest *functional connectivity* (across the brain) to the motor cortex
+
+*** Buaron 2020: same sensory (visual) consequence for different motor actions (right/left button press)
+         a. sensory modulation of self generated actions is dependent on laterality : *stronger modulation in the ipsilateral condition* (motor and visual cortex in the same hemisphere)
+         b. possible to *decode the operating hand from the activity* in the visual cortex.
+
+*** Dery (2022? In process): behavioral task, learning a single hand piano sequence with monaural feedback
+         a. *better learning* in left hand contralateral condition
+         b. *better cross education* for left hand contralateral condition  (right hand learning from left)
+
+* Design
+
+***  Localizers:
+    - Two localizers:
+        + motor only
+        + auditory only
+
+    - One run each. (*question:* is it enough trials?)
+
+***  Block design
+  - An 8 seconds fixation break between blocks for signal washout
+  - 4 runs - 2 x LE, 2 x RE
+  - 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
+  - ~5.5 minutes per run
+  - total 38.5min: 2x5.5 (localizers) + 5.5 (familiarization) 4x5.5 (experiment)
+
+* Conditions
+    - subjects will be playing the keyboard inside the MRI scanner
+    - Blocks of RH-RE RH-LE LH-RE LH-LE
+    - In each block participants will be asked to play twice in a row at their own pace
+        + limited to 8 seconds
+
+* Analysis
+*** GLM
+- Compare the activation in the auditory cortex between ipsi and contra hand  playing. Separately for each ear
+    - RH-LE > RH-RE
+    - LH-RE > LH-LE
+    - *question*: should we look at the reversed contrast as well?
+
+- Compare the activation in the auditory cortex during the motor-only task:
+    + compare between ipsi and contra hands per ear
+
+*** MVPA
+    - Decode hand from auditory cortex.
+      Using MVPA
+      Do this twice: once for the stimulated ear (cortex), once for the unstimulated ear.
+
+*** functional connectivity (PPI?)
+    - Compare (task) functional connectivity between ipsi and contra hands per ear.
+        + *question*: of course there will be a correlation in activity between motor and auditory cortex, because the both operate at the timing of key presses - how to deal with this?
+
