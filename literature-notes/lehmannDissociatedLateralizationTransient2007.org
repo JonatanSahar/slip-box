@@ -4,19 +4,23 @@
 :END:
 #+title: Notes on Lehmann, Herdener, Schneider, Federspiel, Bach, Esposito, di Salle, Scheffler, Kretz, Dierks, Seifritz, Dissociated Lateralization of Transient and Sustained Blood Oxygen Level-Dependent Signal Components in Human Primary Auditory Cortex
 
-* general notes
-
 
 * summary and short reference
+This papaer used monaural stimulation to look at lateralization in the AC.
+
+They are asking in fact - it there a difference in the function of the activitie(s) represented by the initial (=transient) response and the later, sustained response.
+
 They look at the transient vs sustained parts of the BOLD signal and show that the transient part is in fact bilateral, while the sustained part shows contralateral activation.
+They replicate an earlier finding showing that the transient component comes predominantly from the belt area, and from neurons which are more senstive to broad-band stimuli.
 
-They used monaural stimulation.
+The conclude by saying that the transient part is related to a general sound detection function, involving a larger neuronal population, while the transient part is the activity of the more specialized group of neurons that are tuned to that frequency.
 
-They say that  it's important to analyse the transient and sustained parts separately  (see [cite:@foxTransientBOLDResponses2005] for specifically blocked-design relevant considerations)
+"The fact that, independent of its spatial source, the onset of an auditory stimulus is processed by both auditory cortices, even though right and left auditory cortices are known to exhibit some specialization and preference for different stimulus characteristics (Zatorre and Belin, 2001), may signify the importance of an unspecific, but rapid kick off of ‘sound detection’ processes"
 
-[cite:@wangSustainedFiringAuditory2005] say (single unit, mokeys) that the transient part of the response is a larger population of neurons responding to the onset of a sound, and the sustained part is due to the more specialized populationof nurons that is tuned to that frequency.
+They say that  it's important to analyse the transient and sustained parts of the BOLD response separately  (see [[id:20221030T123830.359110][Transient vs sustained BOLD response]])
 
 
+* general notes
 * see also (notes, tags/ other papers):
 
 
