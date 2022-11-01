@@ -49,10 +49,6 @@
 
 
 
-* literature - motor learning & visual learning (shapes)
-
-
-
 * literature - motor, auditory, and laterality
 - Batel's paper [cite:@buaronVoluntaryActionsModulate2020]
 - current draft of Hadar's paper [cite:@deryLearningAudiomotorSkill]
@@ -60,7 +56,7 @@
 
 
 * methods
-- [[cite:&gilronWhatPatternExamining2017]]
+- [[[cite:@gilronWhatPatternExamining2017]]]
 - temporal consistency asymmetry (TCA, in cite:&mazorTCAAnalysisFMRI)? - roy's student
 - uses and misuses of fMRI - [cite:@turnerUsesMisusesNew2016]
 - ReHo regional homogeneity  [cite:@jiangRegionalHomogeneity2016]
