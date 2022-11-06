@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       20221106T113829.195020
+:END:
+#+title: MIDI devices in Matlab
+
+See:
+- https://www.mathworks.com/help/audio/ug/midi-device-interface.html
+
+- https://www.mathworks.com/help/audio/ref/mididevice.html
