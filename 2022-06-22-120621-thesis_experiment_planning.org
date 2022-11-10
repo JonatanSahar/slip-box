@@ -42,6 +42,7 @@
       - T2 1:42
       - T1 4:26
   - total time in scanner: 46min (without spare time for talking and rest between runs)
+
 * Conditions
     - subjects will be playing the keyboard inside the MRI scanner
     - Blocks of RH-RE RH-LE LH-RE LH-LE

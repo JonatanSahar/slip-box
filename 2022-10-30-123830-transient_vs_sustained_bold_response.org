@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20221030T123830.359110
+:END:
+#+title: Transient vs sustained BOLD response
+
+[cite:@lehmannDissociatedLateralizationTransient2007] say that  it's important to analyse the transient and sustained parts separately  (see [cite:@foxTransientBOLDResponses2005] for specifically blocked-design relevant considerations)
+
+[cite:@wangSustainedFiringAuditory2005] say (single unit, mokeys) that the transient part of the response is a larger population of neurons responding to the onset of a sound, and the sustained part is due to the more specialized populationof nurons that is tuned to that frequency.

@@ -6,6 +6,11 @@
 :CATEGORY: reading
 :END:
 
+* literature - motor, auditory, and laterality
+- Batel's paper [cite:@buaronVoluntaryActionsModulate2020]
+- current draft of Hadar's paper [cite:@deryLearningAudiomotorSkill]
+- Daniel's paper in Nature comm. [cite:@reznikLateralizedEnhancementAuditory2014]
+
 * Free energy principle
 *** karl friston lecture https://www.youtube.com/watch?v=G_sQZeFRjR8
 *** karl friston interview https://www.youtube.com/watch?v=NwzuibY5kUs
@@ -47,12 +52,6 @@
 * thinking and researching
 *** [[file:/mnt/c/Users/Jonathan/Google Drive/.bibliography/bohm_inisight_1979.org::On Insight and its Significance for Science, Education and Values][bohm on insight and creativity]]
 
-
-
-* literature - motor, auditory, and laterality
-- Batel's paper [cite:@buaronVoluntaryActionsModulate2020]
-- current draft of Hadar's paper [cite:@deryLearningAudiomotorSkill]
-- Daniel's paper in Nature comm. [cite:@reznikLateralizedEnhancementAuditory2014]
 
 
 * methods

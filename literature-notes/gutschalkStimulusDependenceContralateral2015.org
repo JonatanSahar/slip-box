@@ -67,6 +67,9 @@ See also: Lehmann et al., 2007
 
 They calculate something called "lateralization index" - how?
 ***** discussion
+:PROPERTIES:
+:ID:       20221027T162601.765287
+:END:
 Lateralization in AC in previous monaural fMRI studies is varied:
 - strongly contralateral [see also: Langers et al., 2005; Scheffler et al., 1998]
 -  50% or less contralateral [see also: Behne et al., 2005; Jeancke et al., 2002; Langers et al., 2007; Leh- mann et al., 2007; Suzuki et al., 2002; Woldorff et al., 1999]

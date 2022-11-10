@@ -20,12 +20,15 @@ Main findings:
 * summary and short reference
 
 * see also (notes, tags/ other papers):
- - Scott 2004,
-- Crochet, Lee et al. 2019)
-- Schutz-Bosbach and Prinz 2007
-- Gallivan and Culham 2015,
-- Rizzolatti and Sinigaglia 2016
-- review by Zatorre
+- cross talk betweenmotor and sensory circuits
+    + Scott 2004,
+    + Crochet, Lee et al. 2019)
+    + review by Zatorre
+- reciprocal interaction between perception and action, circuitry and behavior
+    + Schutz-Bosbach and Prinz 2007
+    + Gallivan and Culham 2015,
+    + Rizzolatti and Sinigaglia 2016
+- actions modulate tha perception of their sensory consequences
 
 
 
