@@ -27,15 +27,15 @@
 
     - One run each. (*question:* is it enough trials?)
 
-***  Block design
+***  Block design and timings
   - An 8 seconds fixation break between blocks for signal washout
-  - 4 runs - 2 x LE, 2 x RE
+  - 4 runs - divided by ear. 2 x LE, 2 x RE
   - 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
-  - ~5.5 minutes per run
-  - experiment run time (total 38.5min):
-      - 2x5.5 (localizers)
-      - 5.5 (familiarization)
-      - 4x5.5 (experiment)
+  - 320 sec (~5.333) minutes per run
+  - 7 runs, experiment run time (total 2240 sec ~38.5min):
+      - 2 (localizers)
+      - 1 (familiarization)
+      - 4 (experiment)
   - anatomical scan etc. (total 7.5 min):
       - localizer 0:25
       - spin echo field map: 0:49
@@ -67,4 +67,3 @@
 *** functional connectivity (PPI?)
     - Compare (task) functional connectivity between ipsi and contra hands per ear.
         + *question*: of course there will be a correlation in activity between motor and auditory cortex, because the both operate at the timing of key presses - how to deal with this?
-
