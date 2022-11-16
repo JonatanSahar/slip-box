@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20221027T162601.761946
+:END:
+#+title: There is solid evidence for contralateral activation of subcortical parts of the auditory pathway
+
+From [cite:@lehmannDissociatedLateralizationTransient2007], citing  Langers et al., 2005; Melcher et al., 2000; Scheonwiesner et al., 2007; Boyen et al., 2014
+
+"Previous studies of subcortical activation with monaural stimuli: all of them found strong contralateral activation in [[id:20221020T111200.383236][IC]] and [[id:20221020T140117.811499][MGB]], but different degrees of ipsilateral activation."
