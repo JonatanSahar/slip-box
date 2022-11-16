@@ -13,7 +13,8 @@
 - How is this question related to laterality in the AC?
 
 * specific questions
-- the effect of *action on perception* shown here?
+- *my research question* is there a differece in AC  processing between ipsilateral and contralateral hand-ear cases?
+- what is the effect of *action on perception* shown here?
 
 * what do I want to know?
 - laterality dominance:
@@ -22,6 +23,5 @@
 - what's the effect of  producing (motor control) a sound on:
     - the perception (experience) of that sound.
     - the processing (brain activity) of that sound.
-- is there a differece in AC  processing between ipsilateral and contralateral hand-ear cases?
 - what else was done with MVPA in this area? Did anyone else try to decode something from AC activity?
 -

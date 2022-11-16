@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20221116T120818.033970
+:ROAM_REFS: @deryThesisLateralityAuditory
+:END:
+#+title: Notes on Dery, Mukamel, Thesis Laterality of Auditory Feedback in Motor Learning and Cross-Education
+Notes located here: [[id:20220508T173250.073570][Notes on Dery, Mukamel, Learning of Audio-motor Skill Is Sensitive to the Lateral Relationship between Trained Hand and Ear]]
+#+print_bibliography:

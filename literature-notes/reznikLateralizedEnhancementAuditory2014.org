@@ -5,6 +5,8 @@
 #+title: Notes on Reznik, Henkin, Schadel, Mukamel, Lateralized Enhancement of Auditory Cortex Activity and Increased Sensitivity to Self-Generated Sounds
 
 * summary and short reference
+" Given the premise that efference copies are sent from the motor regions generating the action and the robust laterality effects of both the motor and sensory systems, it has been suggested that the degree of sensory modulations would be significantly different depending on the identity of the stimulus-generating effector. In a previous study conducted in our lab, Reznik et al. (2014) showed that when sounds are generated with the hand ipsilateral to the stimulated ear, the monaural auditory threshold is lower than for sounds generated with the hand contralateral to the stimulated ear. At the physiological level (using fMRI), they also demonstrated stronger enhancement of neural responses to self vs. externally generated stimuli in the superior temporal gyrus (STG) that resides within the same hemisphere as the active motor cortex "
+
  Behavioral + fMRI study, task: play a piano sequence with either RH or LH, auditory feedback either R or L ear inside the magent.
 
 ניסוי התנהגותי, מטלה: נגינה על פסנתר, ביד ימין או ביד שמאל, עם פידבק לאוזן ימין או שמאל.
@@ -16,14 +18,6 @@ Main results:
   3. ההגברה הייתה יותר משמעותית בקורטקס הקונטרלטרלי ליד
   4. בהתאם - סף השמיעה היה נמוך (=טוב) יותר באוזן האיפסילטרלית ליד (ככה שהקורטקס האודיטורי יוצא קונטרה ליד)
 
-       1.  Attenuation activity mostly in frontal areas (such as the superior and middle frontal gyri (SFG and MFG)) bilaterally.
-
-       2. Activity is enhanced in auditory cortices (bilateral STG) during the active condition.
-
-       3. Enhancement was stronger when the hand was contralateral to the auditory cortex.
-
-       4. The hearing thershold was lower (=better) when the hand and the ear were ipsilateral.
-
 
 
 * general notes
@@ -31,33 +25,6 @@ Generally - previous behavioral studies show a reduced response to self-generate
 fMRI studies are less equivocal - some show enhancement, some attenuation, some both
 
  self produce sounds enhanced  auditory cortex activity more than externally produced sounds
-
-* Annotations(5/9/2022, 4:52:43 PM)
-
-Performing actions with auditory consequences modulates the response in auditory cortex to otherwise identical stimuli passively heard.
-
-functional magnetic resonance
-
-bilateral enhancement in the auditory cortex to self-generated versus externally generated sounds
-
-this enhancement is stronger when the sound-producing hand is contralateral to the auditory cortex
-
-binaural hearing thresholds are lower for self-generated
-
-monaural thresholds are lower for sounds triggered by the hand ipsilateral to the stimulated ear.
-
-is reported as being less loud9
-
-
-Our results show that sensory attenuation is mostly found in frontal regions such as the superior and middle frontal gyri (SFG and MFG) bilaterally.
-
-activity in auditory cortices (bilateral STG) is enhanced during the active condition.
-
-this enhancement is stronger when the performing hand is contralateral to the auditory cortex
-
-further supported at the behavioural level as manifested by lower hearing thresholds to sounds evoked by the hand ipsilateral to the stimulated ear
-
-
 
 * see also (notes, tags/ other papers):
 
