@@ -3,6 +3,7 @@
 :ROAM_REFS: @carlsonPhysiologyBehavior11th
 :END:
 #+title: Notes on Carlson, Physiology_of_Behavior_11th_Edition_chapter_7_Audition.Pdf
+#+filetags: Thesis
 
 * general notes
 *** How we hear pitch?
@@ -28,8 +29,10 @@ The auditory information is relayed to the [[id:20220929T101221.395488][Cerebell
 Receives information from both the belt region and directly from (same) parts of the lateral lemniscus
 
 
-
 *** Auditory processing is done in two streams - like visual processing:
+:PROPERTIES:
+:ID:       20221127T134755.224209
+:END:
 - the anterior stream
     + Begines in the anterior parabelt
     + Processes complex sounds
@@ -38,7 +41,12 @@ Receives information from both the belt region and directly from (same) parts of
     + Begines in the posterior parabelt
     + Processes localization of sounds
 
+See https://www.nature.com/articles/nn.2331/figures/1
+
 *** the auditory pathway is especially configured for fast and accurate transmission of the signal
+:PROPERTIES:
+:ID:       20221127T134819.074835
+:END:
 - large synaptic buttons
 - special low-threshold  voltage gated channles
 - especially fast neurotransmitter-gated channels
@@ -47,10 +55,16 @@ Receives information from both the belt region and directly from (same) parts of
 - Theses create very short and strong action potentials (that can respond to rapid changes)
 
 *** dorsal (=where) streams of visual and auditory systems converge in the parietal lobe, and also in the vlPFC
+:PROPERTIES:
+:ID:       20221127T134835.876512
+:END:
 - localization through combining auditory-visual information
 - matching an object with the sound that it makes
 
 *** babies are already able to hear music in much the same way as we do
+:PROPERTIES:
+:ID:       20221127T134843.015293
+:END:
 - respond to key changes
 - respond to dissonant music
 

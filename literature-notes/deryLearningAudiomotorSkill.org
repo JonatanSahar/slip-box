@@ -32,14 +32,12 @@ Lahav, A., Saltzman, E., & Schlaug, G. (2007). Action representation of sound: a
 Stephan, Lega, and Penhune (2018)
 
 
-***
-
 * summary and short reference
 
 * see also (notes, tags/ other papers):
-- cross talk betweenmotor and sensory circuits
+- cross talk between motor and sensory circuits
     + Scott 2004,
-    + Crochet, Lee et al. 2019)
+    + Crochet, Lee et al. 2019 - (https://doi.org/10.1016/j.tins.2018.08.011) in mice, showing that the targets (=higher level cortical regions) of primary sensory areas change as a result of learning.
     + review by Zatorre
 - reciprocal interaction between perception and action, circuitry and behavior
     + Schutz-Bosbach and Prinz 2007

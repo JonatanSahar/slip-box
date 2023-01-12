@@ -2,5 +2,6 @@
 :ID:       20220929T131701.371065
 :END:
 #+title: Thesis
+#+filetags: Thesis
 
 A tag to collect thesis related ideas and references

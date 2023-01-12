@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20221127T115227.188220
+:ROAM_REFS: @satoActionObservationModulates2008
+:END:
+#+title: Notes on Sato, Action Observation Modulates Auditory Perception of the Consequence of Others’ Actions
+
+#[[id:20220929T131701.371065][Thesis]]
+
+* summary and short reference
+An experiment aiming to show that attenuation through the (putative) forward-model is not limited to our own actions, but happens in action observation scenarios as well - this means that the attenuation is related to prediction rather than being an effect of agency.
+
+* general notes
+
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:

@@ -38,3 +38,10 @@
 מ [cite:@deryLearningAudiomotorSkill]
 
 * עבודות אחרות
+*** Sensory cortices including A1 receive varied and dense inputs from the motor cortex and other non-sensory areas
+:PROPERTIES:
+:ID:       20221129T130222.606037
+:END:
+- tags :: #[[id:20220929T131701.371065][Thesis]]
+Motor cortical inputs to sensory cortex are functionally important for modulating sensory cortical activity during behavior. In both A1 and S1, artificially activating inputs from motor cortex in resting mice is sufficient to recapitulate key aspects of movement-related modulation.
+From: https://www.sciencedirect.com/science/article/pii/S0959438820300428#sec0015 (mice)
