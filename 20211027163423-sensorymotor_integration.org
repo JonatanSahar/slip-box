@@ -1,4 +1,4 @@
 :PROPERTIES:
 :ID:       20211027T163423.679299
 :END:
-#+title: Sensorimotor integration
+#+title: Sensory-motor integration

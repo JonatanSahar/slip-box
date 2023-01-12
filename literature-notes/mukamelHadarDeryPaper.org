@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20221116T114055.986784
+:ROAM_REFS: @mukamelHadarDeryPaper
+:END:
+#+title: Notes on Mukamel, Dery, Hadar Dery Paper Draft - Laterality and Learning
+
+* general notes
+
+  %?
+
+* summary and short reference
+
+* see also (notes, tags/ other papers):
+
+
+
+
+#+print_bibliography:

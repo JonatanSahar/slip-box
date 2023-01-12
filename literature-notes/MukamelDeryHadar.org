@@ -1,9 +1,8 @@
 :PROPERTIES:
-:ID:       20220508T173250.073570
-:ROAM_REFS: @deryLearningAudiomotorSkill
-:ROAM_REFS: @deryThesisLateralityAuditory
+:ID:       20221116T120658.036669
+:ROAM_REFS: @MukamelDeryHadar
 :END:
-#+title: Notes on Dery, Mukamel, Learning of Audio-motor Skill Is Sensitive to the Lateral Relationship between Trained Hand and Ear
+#+title: Notes on , Mukamel_Dery_Hadar Dery Paper Draft - Laterality and Learning
 
 * general notes
 Behavioral study
@@ -23,7 +22,6 @@ Task: learn a piano sequence in one hand with auditory feedback  to either L or 
 
 *** Literature
 Auditory and motor functions are connected through audio-motor representations. This is seen through "auditory mirror neurons" - e.g. After learning a melody, hearing the same melody (but not another made from the same notes) brings about activity in motor circuits, and also MEP (motor evoked potentials) associated with the fingers, even anticipating note onset.
-
 ***** refs
 de Manzano, Ö., Kuckelkorn, K. L., Ström, K., & Ullén, F. (2020). Action-Perception Coupling and Near Transfer: Listening to Melodies after Piano Practice Triggers Sequence-Specific Representations in the Auditory-Motor Network. Cerebral Cortex.
 
@@ -36,19 +34,7 @@ Stephan, Lega, and Penhune (2018)
 
 * summary and short reference
 
-* READ Related papers:
-- cross talk between motor and sensory circuits
-    + Scott 2004,
-    + Crochet, Lee et al. 2019)
-    + review by Zatorre
-
-- reciprocal interaction between perception and action, circuitry and behavior
-    + Schutz-Bosbach and Prinz 2007
-    + Gallivan and Culham 2015,
-    + Rizzolatti and Sinigaglia 2016
-
-- actions modulate the perception of their sensory consequences
-
+* see also (notes, tags/ other papers):
 
 
 #+print_bibliography:
