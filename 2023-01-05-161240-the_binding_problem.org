@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20230105T161240.066889
+:END:
+#+title: The binding problem
+- tags :: [[id:20210627T195259.200809][tag: Consciosness]]
+
+  How is it that the brain combines all different stimuli that belong to a given object/attaches them to the same object? E.g.  all the different patches of color making up what we know to be a teapot on the table - there are many of them, all of different colors etc. And the shade of the object as well.

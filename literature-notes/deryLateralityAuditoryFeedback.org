@@ -41,23 +41,24 @@ cross education: training one side affects performance of the untrained side
 
 - hypothesis: within hemisphere (sensory & motor) is better for learning, and cross hemisphere is better for cross education
 
-* related papers:
-  - [[id:20211027T163423.679299][Sensorymotor integration]]
-  - Koch, I., Keller, P., & Prinz, W. (2004). The ideomotor approach to action control: Implications for skilled performance. International Journal of Sport and Exercise Psychology , 2 (4), 362-375.
-    - Wolpert, D. M., Ghahramani, Z., & Flanagan, J. R. (2001). Perspectives and problems in motor learning. Trends in cognitive sciences,
+* READ related papers:
+  - Sensorimotor integration
+      + Koch, I., Keller, P., & Prinz, W. (2004). The ideomotor approach to action control: Implications for skilled performance. International Journal of Sport and Exercise Psychology , 2 (4), 362-375.
+      + Wolpert, D. M., Ghahramani, Z., & Flanagan, J. R. (2001). Perspectives and problems in motor learning. Trends in cognitive sciences,
+
   - learning from observation:
-    + Blandin, Y., Lhuisset, L., & Proteau, L. (1999). Cognitive processes underlying observational learning of motor skills
-    + Badets, A., Blandin, Y., & Shea, C. H. (2006). Intention in motor learning through observation.
+      + Blandin, Y., Lhuisset, L., & Proteau, L. (1999). Cognitive processes underlying observational learning of motor skills
+      + Badets, A., Blandin, Y., & Shea, C. H. (2006). Intention in motor learning through observation.
+
   - Hughes, G., Desantis, A., & Waszak, F. (2013). Mechanisms of intentional binding and sensory attenuation: The role of temporal prediction, temporal control, identity prediction, and motor prediction (self vs other)
-  - the forward model: Wolpert, D. M., Ghahramani, Z., & Jordan, M. I. (1995). An internal model for sensorimotor
-  - Cross, E. S., Kraemer, D. J., Hamilton, A. F. D. C., Kelley, W. M., & Grafton, S. T. (2009). Sensitivity of the action observation network to physical and observational learning.
+
+  - the forward model:
+      + Wolpert, D. M., Ghahramani, Z., & Jordan, M. I. (1995). An internal model for sensorimotor
+      + Cross, E. S., Kraemer, D. J., Hamilton, A. F. D. C., Kelley, W. M., & Grafton, S. T. (2009). Sensitivity of the action observation network to physical and observational learning.
+
   - cross education
-    - Ruddy, K. L., & Carson, R. G. (2013). Neural pathways mediating cross education of motor function
-    -Van Mier, H. I., & Petersen, S. E. (2006). Intermanual transfer effects in sequential tactuomotor learning: evidence for effector independent coding
-  -
-
-
-
+      + Ruddy, K. L., & Carson, R. G. (2013). Neural pathways mediating cross education of motor function
+      + Van Mier, H. I., & Petersen, S. E. (2006). Intermanual transfer effects in sequential tactuomotor learning: evidence for effector independent coding
 
 
 #+print_bibliography:

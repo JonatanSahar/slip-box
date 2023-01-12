@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20221208T101618.833052
+:END:
+#+title: Efference copy
+
+A main tenant of the [[id:20211108T172724.895041][Ideomotor Theory]], postulating that motor commands are sent to sensory areas to prepare them for the sensory consequence of the motor action.

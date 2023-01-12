@@ -3,10 +3,7 @@
 :ROAM_REFS: [[cite:&hommelTheoryEventCoding2019]]
 :END:
 #+title: notes on: Hommel, B. (2019): Theory of Event Coding (TEC) V2.0: representing and controlling perception and action
-* main points
 
-* findings
-* methods
-* summary and short reference
 * general notes
+* summary and short reference
 * see also (notes, tags/ other papers):

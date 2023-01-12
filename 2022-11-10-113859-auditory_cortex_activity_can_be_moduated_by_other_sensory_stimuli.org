@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       20221110T113859.755608
+:END:
+#+title: Auditory cortex activity can be moduated by other sensory stimuli
+- [[id:20220929T131701.371065][tag: thesis]]
+
+* TODO: followup on references below:
+
+" an increasing number of studies show that early sensory cortices are involved in processing cross-modal interaction (*Ghazanfar and Schroeder, 2006; Driver and Noesselt, 2008; Vasconcelos et al., 2011*). Electrophysiological studies have demonstrated that neuronal activities in auditory cortex can be modulated by visual (*Ghazanfar et al., 2005; Bizley et al., 2007; Kayser et al., 2008; Perrodin et al., 2015; Atilgan et al., 2018*) and somatosensory stimulation (*Fu et al., 2003; Meredith and Allman, 2015*). "
+
+"Intracellular recordings in mice have shown that many neurons in sensory cortices are unisensory in spiking behavior but multisensory in intracellular signals (Olcese et al., 2013; Ibrahim et al., 2016). It is an emerging notion that multisensory association learning could increase the prevalence of crossmodally responsive neurons in sensory cortices (Xu et al., 2014; Vincis and Fontanini, 2016; Knצpfel et al., 2019; Han et al., 2021). In addition, anatomic studies have disclosed reciprocal nerve projections among the somatosensory, auditory, and visual cortices in monkeys, ferrets, and rats (Falchier et al., 2002; Cappe and Barone, 2005; Bizley et al., 2007; Campi et al., 2010; Stehberg et al., 2014)."
+
+*Brosch M, Selezneva E, Scheich H (2005) Nonauditory events of a behavioral procedure activate auditory cortex of highly trained monkeys. J Neurosci 25:6797–6806*
+
+*Bizley JK, Walker KM, Nodal FR, King AJ, Schnupp JW (2013) Auditory cortex represents both pitch judgments and the corresponding acoustic cues. Curr Biol 23:620–625.*
+
+*Miller KD, Froemke RC (2017) Parallel processing by cortical inhibition enables context-dependent behavior. Nat Neurosci 20:62–71.*
+
+*Huang Y, Heil P, Brosch M (2019) Associations between sounds and actions in early auditory cortex of nonhuman primates. Elife 8:e43281.*
+
+
+from [cite:@changCombiningVisualInformation2022]

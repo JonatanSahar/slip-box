@@ -29,9 +29,11 @@
 
 ***  Block design and timings
   - An 8 seconds fixation break between blocks for signal washout
+  - 2 seconds instruction slide
   - 4 runs - divided by ear. 2 x LE, 2 x RE
   - 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
-  - 320 sec (~5.333) minutes per run
+  - 320 sec (~5.333) minutes per experiment run
+  -
   - 7 runs, experiment run time (total 2240 sec ~38.5min):
       - 2 (localizers)
       - 1 (familiarization)
@@ -56,14 +58,22 @@
     - LH-RE > LH-LE
     - *question*: should we look at the reversed contrast as well?
 
-- Compare the activation in the auditory cortex during the motor-only task:
-    + compare between ipsi and contra hands per ear
-
 *** MVPA
     - Decode hand from auditory cortex.
-      Using MVPA
-      Do this twice: once for the stimulated ear (cortex), once for the unstimulated ear.
+            Do this twice: once for the stimulated ear (cortex), once for the unstimulated ear.
+    - cross-decoding: per each neighborhood train a classifier on the the condiiton where the ear is stimulated and test on the unstimulated ear.
+    - cross-decoding: train on stimulated ear, test on ooppoidte ear wj
 
 *** functional connectivity (PPI?)
     - Compare (task) functional connectivity between ipsi and contra hands per ear.
         + *question*: of course there will be a correlation in activity between motor and auditory cortex, because the both operate at the timing of key presses - how to deal with this?
+
+
+
+* notes from barazani
+
+לשים לב לאיך ממקמים את הידיים - הם לא יראו את הידיים ואת המקלדת בכלל.
+הטכנאי יעשה להם את ההקדמה על המקלדת
+להביא כרית להניח עליה את הידיים? לוודא שזה נוח לנגן בשכיבה
+לסנן החוצה אנשים עם נסיון *כל נסיון שהוא* בנגינה
+לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם

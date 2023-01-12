@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       20230108T153250.314336
+:END:
+#+title: fMRI checklist
+- tags ::  [[id:20220929T131701.371065][tag: thesis]]
+
+1. Sound check
+2. keyboard check
+
+3. Subject lies in the scanner
+
+4. Sound check with dummy scan
+
+5. Motor locoalizer
+6. Auditory localizer
+7. 4 x experiment run

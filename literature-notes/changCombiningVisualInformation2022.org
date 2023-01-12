@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       20221110T125907.952289
+:ROAM_REFS: @changCombiningVisualInformation2022
+:END:
+#+title: Notes on Chang, Xu, Zheng, Keniston, Zhou, Zhang, Yu, Combining Visual Information into the Auditory Cortex Promotes Sound Discrimination through Choice-Related Multisensory Integration
+
+* general notes
+
+* summary and short reference
+This paper is sabout a single-unit recording experiment in rats.
+The rats had to choose R or L to get a water reward based on an audtitory cue (high or low tone).
+In some trials the audtitory cue was accompanied by a visual cue (flash of light). They found that the visual cue didn't change the success rate of recognition (correct tone ⇒ direction mapping) but significantly increased discrimination speed (by 12ms on aveg), and significantly modulated the neuronal response in the following way: it seems to boost a neurons response, but only to its preferred frequency, to such degree that some neurons that didn't show a clear frequency preferrance, showed a clear on when the tone was coupled with the visual cue.
+
+[[file:c:/Users/Jonathan/Documents/Notes/slip-box/literature-notes/changCombiningVisualInformation2022.org_20221110_132303_BY76fC.png]]
+
+The coupling of a visual cue also made classification a little more accurate, and able to reach the same accuracy with less signal (i.e earlier in time):
+[[file:c:/Users/Jonathan/Documents/Notes/slip-box/literature-notes/changCombiningVisualInformation2022.org_20221110_143305_1OnjQJ.png]]
+
+Additionally, they found that the boosting effect of the visual cue on a given tone (e.g high) was much more prominent in neurons which were contralateral to the side that the tone was pointing towards (e.g left, if high tones are pointing to the right)
+
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:
