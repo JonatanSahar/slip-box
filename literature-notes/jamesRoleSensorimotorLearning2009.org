@@ -82,7 +82,7 @@ Suggest this supports a role for motor system in the development and specializat
 
     "Presumably, practised motor experiences set up representations of motor programmes in the frontal cortex, and these representations are activated upon subsequent visual presentation of the object" (James and Atwood 2009:108)
 
-    "Efferent copies of such information may project to the ventral visual processing stream, affecting neural activation in these regions. This process may facilitate recognition of the object by augmenting the visual information with sensorimotor information" (James and Atwood 2009:108)
+    "Efference copies of such information may project to the ventral visual processing stream, affecting neural activation in these regions. This process may facilitate recognition of the object by augmenting the visual information with sensorimotor information" (James and Atwood 2009:108)
 
 
 

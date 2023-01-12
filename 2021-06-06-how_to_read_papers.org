@@ -18,9 +18,9 @@
 
 * what do I want to know?
 - laterality dominance:
-    - which parts of the pathway?
-    - what kinds of information? Is it different for e.g. Voice and music, or environmental sounds etc.
-- what's the effect of  producing (motor control) a sound on:
+    - in which parts of the pathway?
+    - for what kinds of information? Is it different for e.g. Voice and music, or environmental sounds etc.
+- what's the effect of producing a sound on:
     - the perception (experience) of that sound.
     - the processing (brain activity) of that sound.
 - what else was done with MVPA in this area? Did anyone else try to decode something from AC activity?

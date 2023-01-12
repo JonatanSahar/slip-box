@@ -9,15 +9,18 @@
 
  Behavioral + fMRI study, task: play a piano sequence with either RH or LH, auditory feedback either R or L ear inside the magent.
 
-ניסוי התנהגותי, מטלה: נגינה על פסנתר, ביד ימין או ביד שמאל, עם פידבק לאוזן ימין או שמאל.
-
 Main results:
+       1. Attenuation activity mostly in frontal areas (such as the superior and middle frontal gyri (SFG and MFG)) bilaterally.
 
-  1. הנחתה בפעילות בעיקר באיזורים פרונטליים
-  2. הגברת פעילות בעיקר באיזורים אודיטוריים STG
-  3. ההגברה הייתה יותר משמעותית בקורטקס הקונטרלטרלי ליד
-  4. בהתאם - סף השמיעה היה נמוך (=טוב) יותר באוזן האיפסילטרלית ליד (ככה שהקורטקס האודיטורי יוצא קונטרה ליד)
+       2. Activity is enhanced in auditory cortices (bilateral STG) during the active condition.
 
+       3. Enhancement was stronger when the hand was contralateral to the auditory cortex.
+
+       4. The hearing thershold was lower (=better) when the hand and the ear were ipsilateral.
+       5. הנחתה בפעילות בעיקר באיזורים פרונטליים
+       6. הגברת פעילות בעיקר באיזורים אודיטוריים STG
+       7. ההגברה הייתה יותר משמעותית בקורטקס הקונטרלטרלי ליד
+       8. בהתאם - סף השמיעה היה נמוך (=טוב) יותר באוזן האיפסילטרלית ליד (ככה שהקורטקס האודיטורי יוצא קונטרה ליד)
 
 
 * general notes
@@ -27,8 +30,5 @@ fMRI studies are less equivocal - some show enhancement, some attenuation, some 
  self produce sounds enhanced  auditory cortex activity more than externally produced sounds
 
 * see also (notes, tags/ other papers):
-
-
-
 
 #+print_bibliography:
