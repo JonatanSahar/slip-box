@@ -17,7 +17,7 @@ https://bids.neuroimaging.io/
 
 Batel has a script for that :)
 
-* types of sacns
+* types of scans
 ***** Mprage - anatomical
 ***** cmrr - functional
 ***** each scan name contains the number of volumes, and a name we can choose

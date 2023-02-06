@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       20221120T110240.863230
+:ROAM_REFS: @scottOptimalFeedbackControl2004
+:END:
+#+title: Notes on Scott, Optimal Feedback Control and the Neural Basis of Volitional Motor Control
+
+* general notes
+
+ M1 receives a rich mixture of sensory feedback from the motor periphery, with many neurons responding strongly to passive joint movements or skin contact.
+
+* summary and short reference
+A review paper.
+
+They want to connect what we know about the three levels of motor function:
+- neural control in M1
+- the mechanics of moving the limbs, muscle, skeletone and all
+- the "motor behavior", organizing movement around function.
+
+* see also (notes, tags/ other papers):
+
+
+
+
+
+#+print_bibliography:

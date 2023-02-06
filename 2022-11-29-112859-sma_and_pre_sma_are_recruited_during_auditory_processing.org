@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       20221129T112858.834828
+:END:
+#+title: SMA and pre-SMA are recruited during auditory processing
+- tags :: #[[id:20220929T131701.371065][Thesis]]
+
+From [cite:@limaRolesSupplementaryMotor2016]

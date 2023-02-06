@@ -32,51 +32,15 @@
   - 2 seconds instruction slide
   - 4 runs - divided by ear. 2 x LE, 2 x RE
   - 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
-  - 320 sec (~5.333) minutes per experiment run
-  -
-  - 7 runs, experiment run time (total 2240 sec ~38.5min):
-
-            |                              | *Experiment timing* |                |
-            | *localizers and experiment*    |        *time (sec)* | *time (minuets)* |
-            | instruction_display_duration |                 2 |                |
-            | block_duration               |                 8 |                |
-            | rest_duration (fixation)     |                 8 |                |
-            |                              |                   |                |
-            |                              |                   |                |
-            | num_runs localizers          |                 2 |                |
-            | num_runs experiment          |                 3 |                |
-            | num blocks per run           |                20 |                |
-            |                              |                   |                |
-            |                              |                   |                |
-            | block length                 |                18 |                |
-            | run length                   |               368 |                |
-            | total                        |              1840 |          30.67 |
-            |                              |                   |                |
-            |                              |                   |                |
-            | *familiarity phase*            |                   |                |
-            | instruction_display_duration |                 2 |                |
-            | block_duration               |                 8 |                |
-            | rest_duration (fixation)     |                 3 |                |
-            |                              |                   |                |
-            | num_runs                     |                 1 |                |
-            | num blocks per run           |                 4 |                |
-            |                              |                   |                |
-            | block length                 |                13 |                |
-            | run length                   |                55 |                |
-            | total familiarity part       |                55 |           0.92 |
-            |                              |                   |                |
-            | *total experiment*             |              *1895* |          *31.58* |
+  - *368 sec (~6 minutes)* per experiment run
+  - 8 runs, experiment run time (*total 25602944 sec = 49 min*):
 
   - anatomical scan etc. (total 7.5 min):
       - localizer 0:25
       - spin echo field map: 0:49
       - T2 1:42
       - T1 4:26
-  - total time in scanner: 46min (without spare time for talking and rest between runs)
-
-
-
-
+  - *total time in scanner: 57 min* (without spare time for talking and rest between runs)
 
 * Conditions
     - subjects will be playing the keyboard inside the MRI scanner
@@ -85,17 +49,27 @@
         + limited to 8 seconds
 
 * Analysis
+Basically, it's an exploratory analysis. We're looking for differences between hands in various ROis along the auditory pathway (thalamus, olivary nucleus, A1/2 etc.). We'll continue based on the results that we have.
+
+We'll talk about the functional connectivity analysis after we have the data and some functional analyses done. We don't need to change the experiment to support it.
+
+We need a lot of coverage in the scan (a lot of slices) so we'll have data from subcortical parts as well.
+
+How about the cerebellum?
+
+We can consider DTI based on the length of the pilot - we don't have anyone to analyse it at the moment anyways.
+
 *** GLM
 - Compare the activation in the auditory cortex between ipsi and contra hand playing. Separately for each ear
     - RH-LE > RH-RE
     - LH-RE > LH-LE
-    - *question*: should we look at the reversed contrast as well?
 
 *** MVPA
     - Decode hand from auditory cortex.
-            Do this twice: once for the stimulated ear (cortex), once for the unstimulated ear.
-    - cross-decoding: per each neighborhood train a classifier on the the condiiton where the ear is stimulated and test on the unstimulated ear.
-    - cross-decoding: train on stimulated ear, test on ooppoidte ear wj
+        + once decoding from the stimulated ear (cortex)
+        + once decoding from the unstimulated ear.
+    - cross-decoding: train on stimulated ear, test on oposite ear
+    - we can't "cross decode" betewen hemispheres because the order of the voxels in the neighborhood matters (it's the order of the features in the vector the classifier learns) and the homology betewen the L and R hemispheres is no where near exact enough.
 
 *** functional connectivity (PPI?)
     - Compare (task) functional connectivity between ipsi and contra hands per ear.

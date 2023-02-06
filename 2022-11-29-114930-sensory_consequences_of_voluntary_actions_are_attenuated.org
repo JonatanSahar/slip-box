@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       20221129T114930.734628
+:END:
+#+title: Sensory consequences of voluntary actions are attenuated
+- tags ::  
+
+  See:
+- [cite:@hughesPredictingFacesHouses2014]
+- [[id:20211031T104116.298685][Notes on "Voluntary Actions Modulate Perception and Neural Representation of Action-Consequences in a Hand-Dependent Manner"]]
+- [[id:20211031T151453.991478][Notes on "Predicted Sensory Consequences of Voluntary Actions Modulate Amplitude of Preceding Readiness Potentials"]]
