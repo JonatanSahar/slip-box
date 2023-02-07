@@ -1,16 +1,20 @@
 :PROPERTIES:
 :ID:       20230108T153250.314336
 :END:
-#+title: fMRI checklist
+#+title: fMRI experiment checklist
 - tags ::  [[id:20220929T131701.371065][tag: thesis]]
 
-1. Sound check
-2. keyboard check
+- Sound check
+- keyboard check
 
-3. Subject lies in the scanner
+- Subject lies in the scanner
 
-4. Sound check with dummy scan
+- Sound check during the MPRAGE scan
 
-5. Motor locoalizer
-6. Auditory localizer
-7. 4 x experiment run
+- Motor locoalizer x 2
+- Auditory localizer x 2
+- Experimental run x 4
+
+- run length: 368 TRs = 6.1 minutes
+- total length: 8*6.1 = 48.8 minutes
+- total length with 1 run of each localizer: 6*6.1 = 36.6 minutes

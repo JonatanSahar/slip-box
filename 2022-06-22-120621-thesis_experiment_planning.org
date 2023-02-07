@@ -18,7 +18,7 @@
          a. *better learning* in left hand contralateral condition
          b. *better cross education* for left hand contralateral condition  (right hand learning from left)
 
-* Design
+** Design
 
 ***  Localizers:
     - Two localizers:
@@ -60,7 +60,7 @@ How about the cerebellum?
 We can consider DTI based on the length of the pilot - we don't have anyone to analyse it at the moment anyways.
 
 *** GLM
-- Compare the activation in the auditory cortex between ipsi and contra hand  playing. Separately for each ear
+- Compare the activation in the auditory cortex between ipsi and contra hand playing. Separately for each ear
     - RH-LE > RH-RE
     - LH-RE > LH-LE
 
@@ -77,12 +77,7 @@ We can consider DTI based on the length of the pilot - we don't have anyone to a
 
 
 
-* Notes from barazani
-
-לשים לב לאיך ממקמים את הידיים - הם לא יראו את הידיים ואת המקלדת בכלל.
-הטכנאי יעשה להם את ההקדמה על המקלדת
-להביא כרית להניח עליה את הידיים? לוודא שזה נוח לנגן בשכיבה
-לסנן החוצה אנשים עם נסיון *כל נסיון שהוא* בנגינה
-לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם
-
-* Note from pilot run
+* Special notes
+- *arm length* must be *at least* 55cm shoulder to wrist, and 75cm eye-line to wrist height along the thigh.
+- we don't want subjects with any experience playig the pian (so they won't have expectation about the order of the notes)
+- לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם
