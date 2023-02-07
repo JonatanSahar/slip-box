@@ -44,27 +44,34 @@ Can open individual tools from command line - for GUI, call tool with capital le
             Keep defaults, and add slice time correction = interleaved
 
 ***** registration
-            Select anatomical_brain image (from BET)
-            for the standard space use full search & 12 DOF
+            For main functional image - select anatomical_brain image (from BET)
+            For the standard space -  use full search & 12 DOF
 
 ***** Stats
-            Need to create an EVs (events) files for every kind of event that happend in the scan:
-            [[/mnt/g/My Drive/notes/slip-box/2022-04-27-121446-how_to_analyze_fmri.org_20220427_130611_bCeBCg.png]]
-            onset  duration weight
+            Need to create an EVs (events) files for every kind of event that happend in the scan, with fields:
+            - onset
+            - duration
+            - weight
 
-            The GLM: "Full model  setup"
+            Setting up the GLM: choose "Full model  setup"
             create a page for each EV
+            custom 3 column format
             HRF: double gamma
+            define contrasts in 2nd tab
 
 ***** post-stats = multi comparisons correction
-            Don't need for first-
+            Don't need for first-level - set to "none"
 
 ***** save!  before hitting go
             Creates a "batch" file : .fsf
 
 ***** go
-            Creates a FEAT report html that updates in real time
-            shows the quailty of registration, motion correction, the details of the statistical model etc.
+            Creates a folder with a .feat suffix
+            Creates a FEAT report html that updates in real time:
+            - registration: shows the quailty of registration
+            - pre-stats: motion correction data
+            - stats: the details of the statistical model etc.
+            - Post-stats: multiple comparisons info, if we chose to let it run that for us (we don't it doesn't have FDR correction)
 
             Can run from command line as "feat path/to/design.fsf"
 
@@ -79,10 +86,12 @@ Can open individual tools from command line - for GUI, call tool with capital le
             cope files: the different contrasts we computed: we can use them later for the higher order analysis.
 
             in stat directory:
-            - peNUM: the beta value for each eventNUM in EVs: also NIFTI files, the beta for each voxel
-            - tfiles - the t-values for each voxel
+            - pe*.nii: the beta value for each event* in EVs: NIFTI files with the beta value for each voxel
+            - tstat*.nii.gz - the t-values for each voxel
 
+            In reg directory:
             Feat doen't apply the transformation to MNI - the coomputations for doing so are in reg dir.
+
             Also in reg - hires_head - the anatomical head
 
 *** FEAT - higher level
