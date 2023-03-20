@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20230320T114852.464113
+:ROAM_REFS: @buaronVoluntaryActionsModulate2020a
+:END:
+#+title: Buaron, Reznik, Gilron, Mukamel :: Voluntary Actions Modulate Perception and Neural Representation of Action-Consequences in a Hand-Dependent Manner
+
+The authors found that the behavioral and neural modulations of this process exhibit a bias depending on the effector triggering the stimulus (right or left hand), and that stronger perceptual modulations occur when the triggering hand is ipsilateral to the stimulated visual field. These findings support the idea that voluntary actions induce sensory modulations that follow the anatomical-functional bias of the motor system (Buaron, Reznik, Gilron, & Mukamel, 2020).
+
+    • Voluntary actions can influence sensory perception and neural activity in a way that follows the anatomical-functional bias of the motor system.
+    • This was tested by presenting identical visual stimuli to participants, either self-triggered (using right/left hand button presses) or triggered by a computer program, and measuring their perceptual responses as well as fMRI brain activity in relevant regions.
+    •  Results showed stronger perceptual modulations when triggering hands were ipsi-(rather than contra-) lateral to stimulated visual field, indicating an effect of laterality on perception and associated neural activities.

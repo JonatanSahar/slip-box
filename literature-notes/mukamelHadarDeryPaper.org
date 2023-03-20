@@ -6,8 +6,6 @@
 
 * general notes
 
-  %?
-
 * summary and short reference
 
 * see also (notes, tags/ other papers):
