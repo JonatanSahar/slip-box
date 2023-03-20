@@ -13,10 +13,14 @@
 - How is this question related to laterality in the AC?
 
 * specific questions
-- *my research question* is there a differece in AC  processing between ipsilateral and contralateral hand-ear cases?
+- my research question: is there a differece in AC  processing between ipsilateral and contralateral hand-ear cases?
 - what is the effect of *action on perception* shown here?
+- is there a difference in modulation between sides? Based on laterality?
 
 * what do I want to know?
+- differences in perception between self generated and external stimuli
+- differences in perception between stimuli generated with R vs L hands
+
 - laterality dominance:
     - in which parts of the pathway?
     - for what kinds of information? Is it different for e.g. Voice and music, or environmental sounds etc.

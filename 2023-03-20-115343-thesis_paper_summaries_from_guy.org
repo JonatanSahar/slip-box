@@ -1,0 +1,256 @@
+:PROPERTIES:
+:ID:       20230320T115343.933531
+:END:
+#+title: Thesis paper summaries from Guy
+- [[id:20220929T131701.371065][tag: thesis]]
+
+* Cardoso-Leite, P., Mamassian, P., Schütz-Bosbach, S., & Waszak, F. (2010). A new look at sensory attenuation: Action-effect anticipation affects sensitivity, not response bias. Psychological science, 21(12), 1740-1745.
+Cardoso-Leite et al. (2010) found that the perception of visual action effects was impaired when the effects were triggered by an action that habitually produced them.
+    • The experiment presented in this article aimed to determine whether learned sensorimotor contingencies truly affect perception, rather than just inducing a response bias.
+    • During the association phase of the experiment, specific actions (left-key and right-key presses) were associated with specific visual effects (tilted Gabor patches).
+    • In the test phase, participants' left-key presses and right-key presses triggered an onset of low contrast tilted Gabor patch on 50% trials while no stimulus was present for remaining 50%.
+    • Results showed that sensitivity(d') to these gabors decreased by 10%, indicating that action does not induce any response bias but changes perception instead.
+
+* Hughes, G., & Waszak, F. (2011). ERP correlates of action effect prediction and visual sensory attenuation in voluntary action. Neuroimage, 56(3), 1632-1640.
+The study by Hughes and Waszak (2011) found that visual stimuli that were triggered by an action were associated with a reduction in the frontoparietal network of ERP components around 150ms after stimulus onset.
+    • The study aimed to explore the physiological measures of sensory attenuation and action effect prediction in visual domain.
+    • The task used in the study was a paradigm where voluntary actions were either associated with a visual action effect or to no effect. This allowed for exploration of both sensory attenuation (by comparing ERPs to action-triggered versus externally triggered stimuli) and action effect prediction (by comparing actions that triggered a stimulus with those that did not)
+    • It was found that cortical responses to visual action effects were reduced, manifesting as a decreased activation of frontoparietal network from 150 ms after stimulus.
+    • Differences between actions with an effect and those without one were observed in lateralized motor potentials which may reflect the cortical correlates for predicting action effects.
+    • Re-activation of lateralized motor activity following onset of the action effect suggests common representation across both visual & motor cortices.
+
+
+* READ Yon, D., Gilbert, S. J., de Lange, F. P., & Press, C. (2018). Action sharpens sensory representations of expected outcomes. Nature communications, 9(1), 4288.
+ [cite:@yonActionSharpensSensory2018]
+In the study by Yon, Gilbert, de Lange, & Press (2018), the authors investigated the relationship between actions and sensory representations of expected outcomes. The results showed that when participants executed hand movements, visual representations of hand movements could be decoded more accurately when they were congruent with the action, leading to enhanced visual processing. The authors found that these decoding enhancements were accompanied by suppressed activity in voxels tuned away from the expected stimulus, consistent with the idea that prediction during action sharpens sensory representations. These results suggest that sensory processing during action is optimized in line with normative models of Bayesian perceptual inference. (Yon, Gilbert, de Lange, & Press, 2018).
+    • The research paper discusses two models of action control: one that suggests expected sensory signals are cancelled, and another which proposes they are represented with greater fidelity (sharpened).
+        ◦ “Sharpening’ models are thought to explain a range of perceptual phenomena whereby observers are biased towards perceiving stimuli that they expect, for instance, perceiving greyscale bananas to be yellow. Under these accounts it is hypothesised that activity in sensory brain areas may in principle be suppressed for expected inputs, but the suppression would not resemble that predicted by the can- cellation account. Specifically, activity should be suppressed only in units tuned away from expected inputs, rather than in units tuned towards these inputs as hypothesised by the cancellation account.”
+        ◦ T”his sharpening is con- sidered to arise through competitive interactions between neural populations tuned towards and away from the expected stimulus, such that activity in unpredicted units is attenuated relative to that in predicted units (e.g., through lateral inhibition)13,17. Predictive signals thereby stop ‘gossiping’ among sensory units21 (for further discussion see ref.22)”
+    • An fMRI experiment was conducted to distinguish between these models. It involved participants executing hand actions while observing movements of an avatar hand.
+    •  Results showed that visual representations were classified more accurately when congruent with the action being executed, indicating sharpening rather than cancellation of expected sensory signals.
+    • This supports a Bayesian model for sensorimotor prediction in which veridical perception is facilitated by sharper representation of anticipated outcomes.
+
+* READ Buaron, B., Reznik, D., Gilron, R. E., & Mukamel, R. (2020). Voluntary actions modulate perception and neural representation of action-consequences in a hand-dependent manner. Cerebral Cortex, 30(12), 6097-6107.
+[cite:@buaronVoluntaryActionsModulate2020a]
+The authors found that the behavioral and neural modulations of this process exhibit a bias depending on the effector triggering the stimulus (right or left hand), and that stronger perceptual modulations occur when the triggering hand is ipsilateral to the stimulated visual field. These findings support the idea that voluntary actions induce sensory modulations that follow the anatomical-functional bias of the motor system (Buaron, Reznik, Gilron, & Mukamel, 2020).
+    • Voluntary actions can influence sensory perception and neural activity in a way that follows the anatomical-functional bias of the motor system.
+    • This was tested by presenting identical visual stimuli to participants, either self-triggered (using right/left hand button presses) or triggered by a computer program, and measuring their perceptual responses as well as fMRI brain activity in relevant regions.
+    •  Results showed stronger perceptual modulations when triggering hands were ipsi-(rather than contra-) lateral to stimulated visual field, indicating an effect of laterality on perception and associated neural activities.
+
+* Kavroulakis, E., van Kemenade, B. M., Arikan, B. E., Kircher, T., & Straube, B. (2022). The effect of self‐generated versus externally generated actions on timing, duration, and amplitude of blood oxygen level dependent response for visual feedback processing. Human Brain Mapping, 43(16), 4954-4969.
+The study investigated the effect of self-generated versus externally generated actions on the timing, duration, and amplitude of the blood oxygen level dependent (BOLD) response for visual feedback processing (Kavroulakis et al., 2022). The authors found that self-generated movements resulted in earlier and shorter BOLD responses in multiple brain structures, including visual and somatosensory cortical areas, the cerebellum, basal ganglia, and thalamus. This indicates that the efference copy-based predictive mechanisms enabled earlier processing of action feedback in self-generated movements. The results also showed that the BOLD duration was shorter in cortical and subcortical brain regions in self-generated movements, which was correlated with reduced delay detection performance. The authors concluded that the timing and duration of BOLD responses are important to predict and understand human behavior, and that their results shed new light on the cortico-cerebellar-striatal loops involved in predictive perception of the visual feedback of one's own hand movements.
+
+    •  The study tested the hypothesis that predictive mechanisms for self-generated actions lead to early and shorter neural processing compared with externally generated movements. • We investigated active and passive movements using a custom-made fMRI-compatible movement device. Visual video feedback of the active and passive movements was presented in real-time or with variable delays. •
+    •  The reanalysis confirmed previous findings that reduced BOLD response for active compared to passive movements, indicating earlier activation in areas such as supplementary motor area, cerebellum, visual cortices, etc., when performing an action than observing it passively from outside sources.
+    • This suggests that efference copy-based predictions enable quicker processing times between action & its sensory consequences leading to better understanding of how humans perceive their own actions differently from those performed by others
+
+* Schwarz, Pfister, Kluge, Weller, & Kunde, 2018, Do We See It or Not? Sensory Attenuation in the Visual Domain
+In the study "Do We See It or Not? Sensory Attenuation in the Visual Domain" (Schwarz, Pfister, Kluge, Weller, & Kunde, 2018), the authors attempted to replicate previous findings of sensory attenuation in the visual domain (Cardoso-Leite et al., 2010) and found no evidence of sensory attenuation for learned visual action effects in either stimulus detection or stimulus identification tasks. The authors concluded that sensory attenuation is not a universal process and that evidence for its occurrence in the visual domain is limited.
+
+* Blakemore, S. J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. Nature neuroscience, 1(7), 635–640. https://doi.org/10.1038/2870
+The study by Blakemore, Wolpert, and Frith (1998) found that self-produced tactile stimuli cause less activation in the somatosensory cortex compared to identical stimuli when produced externally. The researchers propose that the decrease in activity in the somatosensory cortex is due to the match between the predicted sensory feedback of the movement and the actual self-produced stimuli. The study suggests that this prediction occurs in the anterior cerebellar cortex, instead of the somatosensory cortex. (Blakemore, Wolpert, & Frith, 1998).
+    • The research paper suggests that a tactile stimulus produced by oneself is perceived as less ticklish than the same stimulus generated externally.
+    • fMRI was used to examine neural responses when subjects experienced either self-produced or externally produced stimuli.
+    • Results showed more activity in somatosensory cortex for an external stimulation and lesser activity in cerebellum with movement generating a tactile sensation compared to one without it, indicating its involvement in predicting sensory consequences of movements and cancelling out response from self-generated stimulations.
+
+* Dewey, J. A., & Carr, T. H. (2013). Predictable and self-initiated visual motion is judged to be slower than computer generated motion. Consciousness and cognition, 22(3), 987–995. https://doi.org/10.1016/j.concog.2013.06.007
+The study by Dewey and Carr (2013) found that self-initiated motion is perceived as slower than equivalent but externally generated motion, but only when the motion is produced in a predictable context. This may be due to internally generated predictions produced during action. The study also found that perceived speed was influenced by an interaction between congruence and predictability, with spatially congruent motions influencing speed judgments only when action effect contingencies were unpredictable. The results support the hypothesis that self-initiated action effects are perceived differently from effects with an external origin, suggesting that anticipating the consequences of one's actions has a particular functional significance. (Dewey & Carr, 2013).
+
+* Mifsud, N. G., Oestreich, L. K., Jack, B. N., Ford, J. M., Roach, B. J., Mathalon, D. H., & Whitford, T. J. (2016). Self-initiated actions result in suppressed auditory but amplified visual evoked components in healthy participants. Psychophysiology, 53(5), 723–732. https://doi.org/10.1111/psyp.12605
+The study by Mifsud et al. (2016) investigated self-suppression, the phenomenon where sensations initiated by our own movements are less salient and elicit a reduced neural response compared to sensations resulting from changes in the external world, across auditory and visual domains. Using EEG, the study found that self-suppression occurred in the auditory domain, as indicated by reduced N1 amplitudes for self-initiated compared to externally initiated tones. However, in the visual domain, the study found that the N145 component was amplified for self-initiated compared to externally initiated pattern reversals. The findings highlight the difference in sensory processing of self-initiated stimuli across modalities and have implications for clinical disorders associated with abnormal self-suppression.
+
+* Schafer, E. W., & Marcus, M. M. (1973). Self-stimulation alters human sensory brain responses. Science (New York, N.Y.), 181(4095), 175–177. https://doi.org/10.1126/science.181.4095.175
+In the study by Schafer and Marcus (1973), the authors investigated the effect of self-administered auditory and visual stimuli on human brain responses as measured by electrocortical potentials. The results showed that self-administered auditory and visual stimuli evoked smaller amplitude and faster post-stimulus timing compared to machine-delivered stimuli. The self-stimulation effect was found to be greater for auditory than visual responses, and greater at the vertex association area than over the occipital cortex for visual responses. These findings suggest that self-stimulation alters human sensory brain responses.
+
+* Haggard, P., & Whitford, B. (2004). Supplementary motor area provides an efferent signal for sensory suppression. Brain research. Cognitive brain research, 19(1), 52–58. https://doi.org/10.1016/j.cogbrainres.2003.10.018
+:PROPERTIES:
+:ID:       20230320T123839.112828
+:END:
+Haggard and Whiteford (2003), found evidence that the SMA may provide an efferent signal which is used by other brain areas to modulate somatosensory activity during self-generated movement. This suggests that sensory suppression in voluntary actions can be explained through motor prediction, where a signal from motor areas cancels out any predicted reafferences as a consequence of movement.
+
+    • Voluntary actions produce suppression of neural activity in sensory areas, resulting in reduced levels of conscious sensation. This phenomenon has been linked to motor prediction: an efferent signal from motor areas may cancel out the predicted reafferences as a consequence of movement.
+    • The experiments conducted with eight normal subjects showed that when they made voluntary actions, they perceived the first test MEP to be smaller than on trials where no action was taken - demonstrating sensory suppression. Additionally, delivering prepulses over SMA 10 ms before producing the test pulse almost abolished any observed effects - suggesting that an efferent signal from motor areas is used by other brain regions to modulate somatosensory activity during self-generated movements.
+
+* READ Roussel, C., Hughes, G., & Waszak, F. (2013). A preactivation account of sensory attenuation. Neuropsychologia, 51(5), 922-929.
+[cite:@rousselPreactivationAccountSensory2013]
+The article by Roussel, Hughes, and Waszak (2013) presents a new model for sensory attenuation, the phenomenon in which the intensity of action-effects is reduced when they are predictable. The authors propose that voluntary action selection involves the pre-activation of learned action-effects, and they test their predictions in a contrast discrimination task where participants learn action-effect associations between button presses and letter stimuli. The results show a reduction in contrast discrimination sensitivity for stimuli that are congruent with the learned action-effects, and this reduction is driven by an increase in the internal response for lower contrast stimuli. This provides a novel account of how motor prediction drives sensory attenuation of action-effects. The model successfully generated testable predictions and explained the reduction in stimulus discrimination previously observed for accurately predicted action-effects.
+    • Motor prediction can drive sensory attenuation of action-effects.
+    • This was demonstrated through a contrast discrimination task in which participants were trained to learn associations between left and right-hand button presses and letter stimuli with different contrast levels.
+    • Results showed reduced sensitivity for lower contrast stimuli congruent with these learned associations, suggesting that sensory attenuation results from the preactivation of learned actions-effects as predicted by the proposed model.
+
+* READ Reznik, D., Guttman, N., Buaron, B., Zion-Golumbic, E., & Mukamel, R. (2021). Action-locked neural responses in auditory cortex to self-generated sounds. Cerebral Cortex, 31(12), 5560-5569.
+In the study by Reznik et al. (2021), the authors recorded neurophysiological and behavioral responses from 16 participants in an auditory detection task of faint tones. The tones were either generated by the participants' voluntary button presses or occurred predictably following a visual cue. The results showed that there were action-locked evoked responses in the auditory cortex following sound-triggering actions and preceding sound onset, but not for button presses not coupled with sounds or sounds delivered after a predictive visual cue. These results provide evidence for efferent signals in the human auditory cortex that are locked to voluntary actions coupled with future auditory consequences and contribute to understanding the neural mechanisms of top-down modulations during the perception of self-generated action consequences.
+    • Sensory perception in humans can be modulated depending on whether or not the stimulus is a consequence of voluntary actions.
+    • Neurophysiological and behavioral responses were recorded to different stimuli, including button presses generated by subjects as well as predictable sounds following visual cues.
+    • Results showed action-locked evoked responses in the auditory cortex, indicating efferent signals locked to voluntary actions associated with future sensory consequences.
+
+* Stenner, M. P., Bauer, M., Haggard, P., Heinze, H. J., & Dolan, R. (2014). Enhanced alpha-oscillations in visual cortex during anticipation of self-generated visual stimulation. Journal of cognitive neuroscience, 26(11), 2540-2551.
+The study found that the amplitude of alpha-oscillations in the visual cortex increased before the onset of a visual stimulus when the identity and onset of the stimulus were controlled by participants' motor actions. This prestimulus enhancement of alpha amplitude was paralleled by psychophysical judgments of reduced contrast for the stimulus. The findings suggest that alpha-oscillations in the visual cortex preceding self-generated visual stimulation are a likely neurophysiological signature of motor-induced sensory anticipation and mediate sensory attenuation. This is the first study to establish links between a psychophysical measure of sensory attenuation and physiological evidence of anticipatory sensory modulation during an action. (Stenner et al, 2014).
+    • Participants were asked to identify the difference in brightness between two images, and their motor actions were determined when each image was presented.
+    • The intensity of sensory stimuli is reduced when the observer causes them, and this phenomenon can be explained by forward models arising from motor processing.
+    • Alpha oscillations in the visual cortex are enhanced before a stimulus if it was caused by participants' actions, which corresponds to judgments showing lower contrast for these stimuli.
+    • Alpha oscillations likely mediate anticipatory modulation that reduces perceived intensity, potentially related to top down control mechanisms used for prioritizing or gating information.
+
+* Reznik, D., Simon, S., & Mukamel, R. (2018). Predicted sensory consequences of voluntary actions modulate amplitude of preceding readiness potentials. Neuropsychologia, 119, 302-307.
+The findings of Reznik et al. (2018) suggest that the amplitude of the readiness potential (RP) preceding a voluntary action is influenced by the expected sensory consequences of that action. The study recorded EEG data from 14 participants performing button presses with either one finger (motor+sound condition) that triggered a sound, or with another finger (motor-only condition) that did not trigger a sound. The results showed that the RP amplitude was significantly more negative in the motor+sound condition compared to the motor-only condition. The authors concluded that the RP amplitude reflects not only the preparation for a voluntary action, but also the expected sensory consequences of that action, suggesting that motor areas are involved in encoding such sensory expectations.
+    • EEG signal recorded was from frontal regions, known as 'readiness potential' or RP. •
+        ◦  This neural signature has been mainly associated with preparatory motor activity related to a forthcoming voluntary action.
+        ◦ However, it was not clear whether this signal also represented expectation of its sensory consequences or both.
+    • EEG data were collected while subjects performed self-paced button presses and listened to externally generated sounds in expected timings.
+    • Results showed that the amplitude of readiness potentials was significantly more negative when there were sound stimuli present compared to those without any auditory stimulus - suggesting information regarding expected auditory consequences are encoded within these signals preceding voluntary actions execution
+
+Verhagen, J. V., Wesson, D. W., Netoff, T. I., White, J. A., & Wachowiak, M. (2007). Sniffing controls an adaptive filter of sensory input to the olfactory bulb. Nature Neuroscience, 10(5), 631-639.
+The authors found that sniffing behavior shapes the neural code for odors in the olfactory bulb of rats. High-frequency sniffing of odorant attenuated inputs encoding that odorant, while lower-frequency sniffing caused little attenuation. The authors suggest that sniffing controls an adaptive filter for detecting changes in the odor landscape, highlighting an unexpected functional role for sniffing and demonstrating that sensory codes can be transformed by sampling behavior alone.
+    • The research paper is about understanding the role of sampling behavior in shaping sensory codes.
+    • It focuses on sniffing as a complex behavior that controls odorant access to receptor neurons and how it shapes neural code for odors.
+    • Imaging techniques were used to study olfactory bulb input while rats performed different tasks involving smell discrimination, which elicited varying levels of sniffing behaviors.
+    • Results showed that high-frequency sniffing attenuated inputs encoding an odorant, whereas lower frequencies caused little or no change in this regard.
+    • Sniff frequency also affected how later encountered odors were encoded - either as a combination with background scent during low-frequency sniffs or the difference between two scents when there were higher-frequency sniffs involved.
+    • This suggests an unexpected functional role for sniffing and shows us that sensory codes can be transformed by sampling behavior alone
+
+Vallortigara G. (2021). The Efference Copy Signal as a Key Mechanism for Consciousness. Frontiers in systems neuroscience, 15, 765646. https://doi.org/10.3389/fnsys.2021.765646
+    • The research paper discusses the efference copy mechanism, which is a carbon copy of movement command that helps animals distinguish sensory input caused by their own movements from external stimuli.
+    •  It also links this idea to Thomas Reid's concept of the double province - where senses make us feel and perceive at the same time.
+    • Nicholas Humphrey proposed an internalized evaluative response for phenomenal consciousness in relation to signals from bodily sense organs.
+    • It suggests a possible departure from the classical implementation of the efference copy mechanism as a way forward toward understanding the nature of consciousness better.
+
+Jékely, G., Godfrey-Smith, P., & Keijzer, F. (2021). Reafference and the origin of the self in early nervous system evolution. Philosophical Transactions of the Royal Society B, 376(1821), 20190764.
+The article claims that early nervous systems focused more on reafference, or the response to the consequences of an animal's own actions, rather than the traditional causal flow from sensors to effectors in coordinating actions with external changes. It highlights the widespread presence of reafference in various forms of sensing and argues for its significance in the evolution of body-self organization. The article also suggests that corollary discharge, a mechanism for tracking one's own actions and their consequences, evolved later and is not a necessary aspect of reafferent sensing.
+    • The article proposes that early sensing was largely responsive to the consequences of an animal's own actions, rather than exogenous changes in its environment.
+    • Two general categories of reafference are identified: translocational and deformational. These can be used to survey several forms of neglected sensory input, such as gravity sensing, flow sensing, and proprioception.
+    • Reafferent senses are ubiquitous across a range of species, from sponges to bilaterians (animals with bilateral symmetry).
+    • Corollary discharge is not necessary for this type of sense but may have evolved later on; it enables animals to track their actions more effectively by creating pathways or circuits between them and their environmental effects.
+    • These types of senses were important for developing body-self organization which allows animals to act as single units when responding to stimuli in their surroundings
+
+Reznik, D., Henkin, Y., Levy, O., & Mukamel, R. (2015). Perceived loudness of self-generated sounds is differentially modified by expected sound intensity. PloS one, 10(5), e0127651.
+The article discusses the effect of performing actions with sensory consequences on physiological and behavioral responses. The authors found that the perceived loudness of self-generated sounds is either enhanced or attenuated, depending on the intensity of the sound. The results suggest that an efference copy from the motor cortex can adapt perception in response to different sensory contexts, supporting the notion that it carries information about the expected sound intensity and modifies behavioral sensitivity accordingly.
+    • The research paper discusses how performing actions with sensory consequences can modify physiological and behavioral responses.
+    • It is assumed that these modifications occur through an efference copy sent from the motor cortex to sensory regions during the performance of voluntary actions.
+    • Most studies report attenuated perceived loudness when self-generated auditory action consequences are involved, but some recent studies have reported enhanced responses instead.
+    • This study found that low-intensity sounds were associated with an enhancement in perception, while high-intensity sounds resulted in attenuation of the same sound's perceived loudness by healthy human subjects.
+    • These results suggest that efference copies may be able to adapt our perceptions according to different contexts involving voluntary actions
+
+Feng, J., Mak, H. Y., Wang, J., & Cai, Q. (2022). How characters are learned leaves its mark on the neural substrates of Chinese reading. Eneuro.
+The article claims that the ability to read in Chinese logographic writing system may not be solely dependent on writing skills, but also on the learning-related alteration of neural responses. The study found that after a week of learning, typical logographic-specific regions in the brain of adult alphabetic readers increased their responses to characters, regardless of whether the learning strategy involved writing practice. The results showed that learning strategy modulated the response magnitude or multivoxel patterns in different brain regions, suggesting a heterogeneous nature of the logographic reading network.
+    • The study investigated whether the emergence of typical logographic-specific regions relied on learning by writing.
+    • It was found that two left hemispheric areas for logographic reading showed increased responses to characters in the brains of proficient alphabetic readers after learning, regardless of whether the learning strategy involved writing practice or not.
+    • Learning strategies modulated response magnitude and multivoxel patterns in certain brain regions which were task dependent.
+    • This suggests a limited role played by writing skills during acquisition as well as heterogeneous nature among different brain regions related to this network
+        ◦ Writing did help the learnings to some extent. Two left hemispheric areas for logographic reading showed increased responses to characters in the brains of proficient alphabetic readers after learning when they used a strategy involving writing practice. Moreover, it was also observed that different brain regions related to this network responded differently depending on which learning strategies were employed during acquisition.
+
+Ackerley, R., Hassan, E., Curran, A., Wessberg, J., Olausson, H., & McGlone, F. (2012). An fMRI study on cortical responses during active self-touch and passive touch from others. Frontiers in behavioral neuroscience, 6, 51.
+The study found that active stroking gave significantly higher BOLD signals than passive stroking in the right sensorimotor cortex, particularly for touch to the palm. In contrast, during passive touch, a significant negative BOLD signal was observed in the left SI compared to the baseline.
+    • Active, self-touch elicited a positive BOLD signal in the left sensorimotor cortex compared to the resting baseline.
+    • Passive touch resulted in significant negative BOLD signals observed in the left SI.
+    •  There were higher activity levels for active stroking than passive stroking when touching both glabrous (palm) and hairy (arm) skin sites on participants' bodies
+
+
+Straube, B., van Kemenade, B. M., Arikan, B. E., Fiehler, K., Leube, D. T., Harris, L. R., & Kircher, T. (2017). Predicting the multisensory consequences of one’s own action: BOLD suppression in auditory and visual cortices. PLoS One, 12(1), e0169131.
+The findings of the research paper suggest that when participants actively initiated a button press, they experienced suppression in their blood oxygen level-dependent (BOLD) response across multiple sensory brain regions. This effect was independent of task modality or stimulus modality and strongest for trials where no delay was detected between action and outcome. • In comparison to passive conditions, active stimuli showed activation differences in the left cerebellum for detected vs undetected trials as well as an increased connectivity between cerebellar-sensory cortex areas.
+
+Crapse, T. B., & Sommer, M. A. (2008). Corollary discharge across the animal kingdom. Nature Reviews Neuroscience, 9(8), 587-600.
+The research paper's authors have proposed a functional taxonomic classification for corollary discharge (CD) across different animal species. This includes categories such as excitatory CD, inhibitory CD, and modulatory CD signals, which can influence sensory processing in various ways.
+
+Benedetto, A., Ho, H. T., & Morrone, M. C. (2022). The Readiness Potential Correlates with Action-Linked Modulation of Visual Accuracy. eNeuro, 9(6), ENEURO.0085-22.2022. https://doi.org/10.1523/ENEURO.0085-22.2022
+    • The magnitude of visual modulation following a voluntary button press was found to correlate with the readiness potential amplitude measured during visual discrimination.
+    • Participants' amplitude of the readiness potential in a purely motor task was also found to correlate with the extent of the motor-induced modulation of visual perception in the visuomotor task.
+
+Bays, P. M., Wolpert, D. M., & Flanagan, J. R. (2005). Perception of the consequences of self-action is temporally tuned and event driven. Current Biology, 15, 1125–1128.
+    • This paper demonstrated that self-generated forces are perceived as considerably weaker than externally generated ones of the same magnitude.
+    • This was demonstrated by comparing perceptual equality between test and comparison taps in two conditions: control (where both taps were delivered while hands at rest) and test (with minimal delay)
+    •  In contrast, to the control condition, perceptual equality was achieved when the comparison tap was substantially smaller than the test tap (71% of it), implying substantial attenuation of self-generated force compared with the external one.
+
+Cullen, K. E. (2004). Sensory signals during active versus passive movement. Current opinion in neurobiology, 14(6), 698-706.
+    • Review article discussing how our sensory systems are able to distinguish between self-generated and externally generated events.
+    • This distinction is essential for perceptual stability and accurate motor control, which has implications for the sensory-motor transformations needed to guide behavior.
+    • Evidence in support of an internal prediction model has been found at the early stages of processing in vestibular, visual, and somatosensory systems.
+Lubinus, C., Einhäuser, W., Schiller, F., Kircher, T., Straube, B., & van Kemenade, B. M. (2022). Action-based predictions affect visual perception, neural processing, and pupil size, regardless of temporal predictability. NeuroImage, 263, 119601.
+    • This paper attempted to disentangle the effects of motor and temporal predictability-based mechanisms on sensory attenuation.
+    • To do so, participants were asked to judge which of two visual stimuli was brighter while undergoing fMRI data acquisition.
+    • Eye tracking was also performed simultaneously for further analysis regarding pupil size changes and ensuring proper fixation during the experiment.
+    • Sensory attenuation in the visual system is driven by action-based predictive mechanisms rather than temporal predictability.
+    • This effect may be related to changes in pupil diameter, which was observed to correlate negatively with the neural response (BOLD) amplitude in visual areas.
+
+Kok, P., Jehee, J. F., & De Lange, F. P. (2012). Less is more: expectation sharpens representations in the primary visual cortex. Neuron, 75(2), 265-270.
+    • The task used in this experiment was a perceptual expectation task. Subjects were presented with two gratings of different orientations and asked to identify the orientation that matched their prior expectations about what they would see. The orientation and contrast differences between the two gratings were determined by an adaptive staircase procedure, separately for trials containing expected and unexpected orientations, so as to yield comparable task difficulty across conditions.
+    • Results showed that while perceptual expectation reduces response amplitudes in primary visual cortex areas, it improves stimulus representation (sharpened the neural representation) as revealed by MVPA; furthermore, these informational improvements correlated with subjects' behavioral improvement when expected features were relevant.
+
+Isaacson, J. S., & Scanziani, M. (2011). How inhibition shapes cortical activity. Neuron, 72(2), 231-243.
+    • A review paper discussing how inhibition plays a crucial role in shaping cortical activity and understanding inhibitory circuits is necessary for our understanding of the function of cortical neurons.
+    • Inhibition helps to sharpen cortical activity by reducing the amount of information that can be processed at any given time. This is done through processes such as synaptic inhibition, which reduces or stops neuronal signals from being transmitted between neurons in the brain. By limiting how much information can be processed simultaneously, it allows for more precise and focused processing of relevant stimuli while filtering out irrelevant ones.
+    • Sir John C. Eccles famously wrote, ‘‘I always think that inhibition is a sculpturing process. The inhibition, as it were, chisels away at the (.) mass of excitatory action and gives a more specific form to the neuronal performance at every stage of synaptic relay’’ (Eccles, 1977). Eccles, J.C. (1977). The Understanding of the Brain, Second Edition (New York: McGraw-Hill).
+
+Alink, A., Schwiedrzik, C. M., Kohler, A., Singer, W., & Muckli, L. (2010). Stimulus predictability reduces responses in primary visual cortex. Journal of Neuroscience, 30(8), 2960-2966.
+    • This study used fMRi and presented participants with visual stimuli whose onset or motion direction could either be predicted or not predicted from their spatiotemporal context. Subjects were instructed to maintain fixation on a cross while viewing these apparent-motion stimuli, which had varying levels of contrast and target position.
+    • The main findings of this study were that visual stimuli evoke smaller responses in the primary visual cortex (V1) when their onset or motion direction can be predicted from the dynamics of surrounding illusory motion. This finding provides supporting evidence for predictive-coding models, which suggest that our brains anticipate forthcoming sensory input and process predictable stimuli with less neural activation at the early stages of cortical processing.
+
+Sperry, R. W. (1950). Neural basis of the spontaneous optokinetic response produced by visual inversion. Journal of comparative and physiological psychology, 43(6), 482.
+    • The author suggests that the corollary discharge may play an important role in the visual perception of movement, along with non-retinal kinesthetic and postural influences from the periphery. This implies that there is a central adjuster factor that helps maintain the stability of vision during sudden movements such as head or body rotation.
+    •  The evidence for this comes from experiments conducted on fish where it was observed that when normal fish swims backward, they experience the same retinal stimulus as a rotated eye moving forward would have experienced - suggesting the presence of anticipatory adjustment within visual centers specific to each movement direction and speed.
+
+Von Holst, E. (1954). Relations between the central nervous system and the peripheral organs. British Journal of Animal Behaviour.
+    • The author postulates that the efference copy is an "image" in the CNS, produced by a command and matched with re-afference.
+    • This image helps to compare the real and apparent motion of objects as well as limit or maintain constancy during movement.
+    • He provides direct proof for its existence through two human examples - eye movements and afferent reflection caused by motor impulses
+
+Summerfield, C., & De Lange, F. P. (2014). Expectation in perceptual decision making: neural and computational mechanisms. Nature Reviews Neuroscience, 15(11), 745-756.
+    • A review paper aiming to discuss how expectation modulates neural signals and behavior in humans and other primates.
+    • When a stimulus is expected, neural signals tend to be dampened, and the amplitude of cortical potentials (electrical activity in the brain) decreases. This phenomenon is known as 'expectation suppression'.
+    • On the other hand, when an unexpected stimulus occurs, stronger BOLD signals are observed - this suggests that expectation suppresses neural responses
+
+Reznik, D., Henkin, Y., Schadel, N., & Mukamel, R. (2014). Lateralized enhancement of auditory cortex activity and increased sensitivity to self-generated sounds. Nature communications, 5(1), 4059.
+    • Subjects were asked to play or hear short unimanual piano melodies while fMRI scans were performed on them. Under the active condition, subjects played a 7-note melody with either their right or left hand on an MR-compatible digital piano keyboard, and online auditory feedback was provided through earphones which were then replayed back during the passive condition, thus maintaining identical sensory stimulation across both conditions.
+    • The main findings of this study were that performing actions with auditory consequences modulates the response in the auditory cortex to otherwise identical stimuli passively heard.
+        ◦ This modulation is suggested to occur through a corollary discharge sent from the motor cortex during voluntary actions.
+    • fMRI showed bilateral enhancement in the auditory cortex when self-generated sounds versus externally generated sounds were played or heard.
+    • Furthermore, it was found that this enhancement was stronger when the sound-producing hand was contralateral to the stimulated ear i.e., opposite side of the body as compared to the same side of the body
+    • At the behavioral level, binaural hearing thresholds are lower for self-generated sounds, and monaural thresholds are lower for those triggered by hand, which is ipsilateral to the stimulated ear than contralateral.
+
+Gritsenko, V., Krouchev, N. I., & Kalaska, J. F. (2007). Afferent input, efference copy, signal noise, and biases in perception of joint angle during active versus passive elbow movements. Journal of Neurophysiology, 98(3), 1140-1154.
+    • The task in this experiment was to remember and report the perceived angle of their elbow joint at different times during active and passive movements. Subjects were asked to perform two types of tasks: SF (active) and SP-C (passive). In both these tasks, subjects had to move their arm between two angles with either self-generated or imposed velocity profiles respectively.
+    • “Proprioceptive sensation has been shown to be enhanced during self-generated movements, with fewer errors made regarding spatial hand position when hand displacement is self-generated compared with passive displacement”
+    • The main findings of this study with regard to self-generated vs externally generated movements were that subjects showed a highly velocity-dependent overestimation of the elbow joint angle near the beginning of both active and passive trials.
+    • Contrary to what was predicted by the efference copy hypothesis, amplitude and velocity-dependent slope for position overestimation during the early part of the passive movement was greater than those observed in active movements.
+    • This indicates that psychophysical evidence alone is insufficient proof for forward prediction based on an efference copy under these conditions.
+    • Decreased errors during active movements suggest that an efference copy can improve accuracy while estimating state during such motions
+
+Laufer, Y., Hocherman, S., & Dickstein, R. (2001). Accuracy of reproducing hand position when using active compared with passive movement. Physiotherapy research international, 6(2), 65-75.
+    • Subjects were asked to locate five predetermined targets on a digitizer tablet with either an active or passive upper extremity movement. They were then reproduced by reaching out for it with their unseen hands or using a laser beam. Distance from the target and angular deviations were calculated both absolutely (in terms of mm) and relatively (as angles).
+    • This study found that accurately reproducing hand position was enhanced when proprioceptive input was obtained via an active upper extremity movement compared with passive movements.
+    • Comparison between the active and passive conditions showed significant differences in absolute distance, range, and angular deviation for both kinaesthetic as well as visual guidance
+
+Wong, J. D., Kistemaker, D. A., Chin, A., & Gribble, P. L. (2012). Can proprioceptive training improve motor learning?. Journal of neurophysiology, 108(12), 3313-3321.
+    • The main task in this experiment was to reproduce a specific hand trajectory, either a circle at constant velocity or cursive writing. The experimental apparatus used in this experiment was a robotic manipulandum, which guided the hand of participants through the desired trajectory. Visual information for all demonstration trials remained consistent across subject groups.
+    • Passive presentation of desired movement benefits learning, as evidenced by improved performance on day 1 relative to baseline in PASS subjects compared to CTRL and REV groups.
+    •  Active motor training (ACT) was found to be more beneficial than passive displacement alone, resulting in lower positional errors and greater force variability during movements when compared against other subject groups.
+
+Witt, J. K., & Dorsch, T. E. (2009). Kicking to bigger uprights: Field goal kicking performance influences perceived size. Perception, 38(9), 1328-1340.
+    • The main task of the experiment was to investigate how field goal-kicking performance influences the perceived size of the field goal posts.
+    • Participants were asked to predict their success rate in making kicks and then estimate the size of uprights and crossbars before they attempted any kick.
+    • After attempting several kicks, participants again estimated sizes for uprights and crossbars, allowing researchers to compare pre-kicking estimates with post-performance judgments.
+    • The main findings of the experiment were that kicking performance had an influence on the perceived size of American-football field goalposts.
+    • Participants who made more successful kicks perceived the goal to be larger than those who made fewer successful kicks.
+    • Furthermore, there was no significant correlation between predicted success and pre kicking aspect ratio or separate dimensions (height and width). This suggests that any effect is perceptual rather than one based on memory or existing differences in participants.
+
+Gibson, J. J. (1977). The theory of affordances. Hilldale, USA, 1(2), 67-82.
+Gibson (1977) proposed that perceiving the environment in terms of its affordances, which are the possibilities for action, is a fundamental, and even primary, part of perception.
+
+Massaro, D. W., & Anderson, N. H. (1971). Judgmental model of the Ebbinghaus illusion. Journal of experimental psychology, 89(1), 147.
+
+    • The main aim of this study was to test a judgmental model that considers the Ebbinghaus illusion to be comparative in nature. This means that the context circles serve as standards or yardsticks, and the center circle is judged partly relative to them
+    • Results showed that this model provided a reasonably good description for magnitude variation depending on these stimuli variables.
+
+Wolpert, D. M., & Flanagan, J. R. (2001). Motor prediction. Current biology, 11(18), R729-R732.
+
+Desantis, A., Roussel, C., & Waszak, F. (2014). The temporal dynamics of the perceptual consequences of action-effect prediction. Cognition, 132(3), 243-250.
+    • This study investigated when action-effect prediction is generated by the brain and how it modulates perception at different stages of motor preparation.
+    • The research question was investigated by tracing the time course of perceptual consequences related to action-effect anticipation. Participants completed an acquisition phase where specific actions were associated with specific visual effects, and in the test phase they performed a 2 AFC identification task indicating whether dots moved upward or downward. Congruent and incongruent dot motion stimuli were presented at different intervals before or after action execution to isolate any effects of action-effect prediction on perception.
+    • The main findings were that action-effect prediction modulates perception at later stages of motor preparation, as higher sensitivity (d0) to motion discrimination in congruent vs. incongruent trials was observed only when stimuli were presented from about 220 ms before the action until 280 ms after it. he results suggest that there is a bidirectional association between an action's motor code and the sensory effects produced by that action, supporting ideomotor theory.
+
+Kühn, S., Seurinck, R., Fias, W., & Waszak, F. (2010). The internal anticipation of sensory action effects: when action induces FFA and PPA activity. Frontiers in Human Neuroscience, 54.
+    • This paper investigated the ideomotor account of action control, focusing on how knowledge about action-effect relationships helps individuals achieve their goals. The study investigated whether participants could learn arbitrary associations between key presses and specific stimuli categories (e.g., right → face, left → house) during an acquisition phase without a subsequent reaction time test phase assessing learning outcomes.
+    • The behavioral task involved an acquisition phase where participants learned arbitrary associations between key presses and specific auditory stimuli. In the subsequent test phase, they were presented with these same tones as target stimuli for a speeded-choice response.
+        ◦ The findings of the behavioral task were that participants acquired bidirectional associations between key presses and specific auditory stimuli during an acquisition phase. This was demonstrated by faster choice responses to tones previously associated with certain actions compared to those produced by alternative actions.
+    •  The MRI task was conducted after this behavioral experiment to investigate neural activity patterns associated with action-effect learning. Participants underwent fMRI scanning while listening to previously acquired effect sounds (tones) or control sounds that had not been paired with any actions during the previous session. The researchers then compared brain activation levels in different regions of interest across experimental phases using repeated measures ANOVA analysis techniques.
+        ◦ In the MRI task, researchers found activation in neural motor structures upon perception of auditory stimuli that had been presented as effect tones for certain actions. These results support previous research on the ideomotor theory, which suggests knowledge about action-effect relationships is necessary for purposefully achieving goals through our movements.
+    • Overall, this research supports the ideomotor account of action control, which suggests that knowledge about action-effect relationships is necessary for purposefully achieving goals through our movements.
