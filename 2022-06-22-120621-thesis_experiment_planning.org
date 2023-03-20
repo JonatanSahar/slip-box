@@ -27,13 +27,13 @@
 
     - One run each. (*question:* is it enough trials?)
 
-***  Block design and timings
+*  Block design and timings
   - An 8 seconds fixation break between blocks for signal washout
   - 2 seconds instruction slide
   - 4 runs - divided by ear. 2 x LE, 2 x RE
   - 20 blocks each =  5 of each ear/hand combo, 10 ipsi 10 contra per run.
-  - *368 sec (~6 minutes)* per experiment run
-  - 8 runs, experiment run time (*total 25602944 sec = 49 min*):
+  - *357 sec (~6 minutes)* per experiment run
+  - 8 runs, experiment run time (*total 2856 sec = 47.6 min*):
 
   - anatomical scan etc. (total 7.5 min):
       - localizer 0:25
@@ -78,6 +78,10 @@ We can consider DTI based on the length of the pilot - we don't have anyone to a
 
 
 * Special notes
-- *arm length* must be *at least* 55cm shoulder to wrist, and 75cm eye-line to wrist height along the thigh.
-- we don't want subjects with any experience playig the pian (so they won't have expectation about the order of the notes)
-- לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם
+*** *arm length* must be *at least* 55cm shoulder to wrist, and 75cm eye-line to wrist height along the thigh.
+*** we don't want subjects with any experience playig the pian (so they won't have expectation about the order of the notes)
+*** לוודא שהם לא במהלך ניסוי אחר, ולא 3 חודשים מניסוי קודם
+*** TODO ask the Maya to change the names of the scans in the protocol to:
+  - audiomotor_runNum
+  - motorLoc_runNum
+  - auditoryLoc_runNum

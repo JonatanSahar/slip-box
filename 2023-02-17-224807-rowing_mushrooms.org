@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       20230217T224806.064504
+:END:
+#+title: Growing mushrooms
+- tags ::
+
+* supplies
+Spore syringe
+agar petri dishes
+mason jar with nutrients
+clean syringe
+rye berries/brown rice
+mycobags
+coco peat
+gypsum
+tub like this: https://www.sterilite.com/product-page.html?product=19344304
+size: 47x33x30
+
+* Making spwan grains:
+Brown rice: 1 kg, add to boiling water, cook for 23-15 minutes
+
+* Making substrate
+about 5 quarts of water for each brick (650g) of coir
+
+* Teks
+BOD's monotub tek: https://www.shroomery.org/forums/showflat.php/Number/24420178
+comments on BODs monotub tek + simplification + no pressure cooker with brown rice:  https://www.reddit.com/r/shrooms/comments/8e7g6n/how_to_grow_bulk_without_a_pc_or_brf_cakes_broke/
+bucket tek: https://www.shroomery.org/forums/showflat.php/Number/24077162#24077162
+
+* Some numbers:
+650g of coir in your grow and 220g of dry oats *per quart*
+say you use *5q of spawn to one brick 650g of coir for a a tub*
+that's a dry weight of ingredients of 1750 grams.
+
+yield *1-2 oz per quart* using MS cultures. more with clones
+*140gr dry per 5qrt (=1100gr rice)*
+
+
+650g coir, 650x3.5 = 2275 water for substrate for field capacity,  5x220g = 1.1 kg brown rice
+
+1 quart = 0.95 liter
+1 lb = 453 gr
+1oz = 28 gr
+
+* timetables
+Fastest possible way if you already have mycelium. Add the time it takes to get clean mycelium on agar or a clean grain jar fully colonized from a spore syringe if you have no inoculum ready
+
+MS syringe to agar 3-5 days
+Agar wedge to grain water LC takes 3-5 days before you can use. Agitated once a day with glass in the bottom.
+LC to quart of spawn takes 3-4 days to colonize if you use the right amount
+g2g is 3-4 days to colonize using 1:10
+
+spawn run is 8-10 days. pins in 10-14 days. harvest in 15-21 days.(best case)
+
+yield 1-2 oz per quart using MS cultures. more with clones.
